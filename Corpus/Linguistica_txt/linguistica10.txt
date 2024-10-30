@@ -1,0 +1,980 @@
+A não ratificação de pessoas autistas para 
+a manutenção do capitalismo: um estudo 
+discursivo-crítico
+
+The non-ratification of autistic people to maintain the 
+capitalism: a critical-discourse study
+
+La no ratificación de personas autistas para 
+la manutención del capitalismo: un estudio 
+discursivo-crítico
+
+Alex Bezerra Leitão
+Filiação do autor: Universidade de Brasília (UnB), Brasília, DF, Brasil
+E-mail: alexb.leitao@gmail.com)
+
+Resumo: Este artigo tem como objetivo analisar o modo como o capaci-
+tismo tem sido usado como estratégia linguístico-discursiva de não-rati-
+ficação de pessoas autistas, favorecendo a manutenção do capitalismo. 
+Para tanto, orientado por Fairclough (2003; 2001[1992]), em relação à 
+Análise de Discurso Crítica, e por Halliday e Matthiessen (2014), à luz da 
+Linguística Sistêmico-Funcional, investigo a interrelação entre a análise 
+linguística e a crítica social, no âmbito da pesquisa qualitativa interpre-
+tativista  (DENZIN;  LINCOLN,  2006  [2003]).  Os  resultados  apontam  que 
+há uma ordem de discurso que relaciona identidades, que promove a 
+troca interpessoal e que organiza o capacitismo para legitimar projetos 
+neoliberais.
+
+Palavras-chave: Capacitismo. Autismo. Capitalismo. Análise de Discurso 
+Crítica. Linguística Sistêmico-Funcional.
+
+Abstract: This article aims to analyze the way in which the capacitism has 
+been used as a linguistic-discursive strategy for the non-ratification of 
+autistic people, in order to maintain the capitalism. Therefore, oriented 
+
+by Fairclough (2003; 2001 [1992]), in relation to Critical Discourse Analysis, 
+and by Halliday and Matthiessen (2014), in the light of Systemic-Functional 
+Linguistics, I investigate the interrelationship between linguistic analysis 
+and  social  criticism,  in  the  scope  of  a  qualitative  and  a  interpretative 
+research (DENZIN; LINCOLN, 2006 [2003]). The results show that there is 
+an order of discourse that relates identities, that promotes interpersonal 
+exchange  and  that  organizes  the  capacitism  to  legitimize  neoliberal 
+projects.
+
+Keywords:  Capacitism.  Autism.  Capitalism.  Critical  Discourse  Analysis. 
+Systemic-Functional Linguistics.
+
+Resumen: Este artículo tiene como objetivo analizar el modo como se 
+ha  utilizado  el  capacitismo  como  estrategia  lingüístico-discursiva  para 
+la no ratificación de personas autistas, favoreciendo el mantenimiento 
+del  capitalismo.  Pora  eso,  guiado  por  Fairclough  (2003;  2001  [1992]), 
+en relación al Análisis Crítico del Discurso, y por Halliday y Matthiessen 
+(2014),  a  la  luz  de  la  Lingüística  Sistémico-Funcional,  investigo  la 
+interrelación entre el análisis lingüístico y la crítica social, en el ámbito 
+de  la  investigación  interpretativa  cualitativa  (DENZIN;  LINCOLN,  2006 
+[2003]). Los resultados muestran que existe un orden de discurso que 
+relaciona identidades, que promueve el intercambio interpersonal y que 
+organiza el capacitismo para legitimar proyectos neoliberales.
+
+Palabras clave: Capacitismo. Autismo. Capitalismo. Análisis crítico del 
+discurso. Lingüística Sistémico-Funcional.
+
+Submetido em 26 de agosto de 2021.
+Aceito em 26 de novembro de 2021.
+Publicado em 16 de março de 2022.
+
+Introdução
+
+“Quando os haters vão atrás de sua aparência e diferenças, isso 
+significa que eles não têm para onde ir. E então você sabe que está 
+ganhando!1” É nesse tom que Greta Thunberg – ativista ambiental 
+sueca e autista de 16 anos – rebateu, em 31 de agosto de 2019, por 
+meio da sua conta no Twitter, às críticas que lhe foram impostas 
+pelo fato de ela ser uma pessoa autista que lidera jovens de todo 
+o mundo contra as alterações climáticas. Sentindo-se ameaçados/
+as pela repercussão do discurso de Greta que ocorreria no dia 23 
+de setembro de 2019 na Cúpula do Clima na sede da Organização 
+das Nações Unidas (ONU), em Nova York, empresários/as, haters, 
+políticos  e,  consequentemente,  empresas  midiáticas  destinaram 
+diversos ataques ao empreendimento da ativista Thunberg.
+
+No Brasil, os ataques a Greta Thunberg foram intensos duran-
+te o calor da Cúpula do Clima na ONU. Para citar algumas dessas 
+ofensivas, destaco: i) o deputado federal Eduardo Bolsonaro publi-
+cou uma foto da ativista fazendo refeição dentro de um trem, em 
+sua conta no Twitter, no dia 25 de setembro, enquanto crianças 
+africanas olhavam de fora, o que foi prontamente desvelado como 
+fakenews; ii) o radialista Rodrigo Constantino chamou Thunberg de 
+“mascote da esquerda-caviar e uma retardada que tem síndrome 
+do autismo”, no dia 25 de setembro, durante o programa “3 em 1” 
+da rádio Jovem Pan; iii) o músico Roger Rocha Moreira, do grupo 
+Ultraje a Rigor, compartilhou em sua conta do Twitter, no dia 25 de 
+setembro, imagem que sexualiza Greta e que debocha do engaja-
+mento da ativista; iv) o jornalista e advogado Gustavo Negreiros 
+disse, no dia 23 de setembro, pela rádio 96 FM, que Greta estava 
+“precisando de sexo por ser mal-amada”, v) o jornal Estadão, em 
+31 de agosto, publicou um artigo de opinião da jornalista Sheila 
+Leiner, cujo título é “As trancinhas teleguiadas do ‘produto’ Greta 
+Thunberg”, em que tece críticas ao protagonismo de Thunberg.
+
+1 Tradução de: “When haters go after your looks and diferences, it means they have nowhere left to go. And then you know 
+you’re winning!”.
+
+Os poucos exemplos citados fazem parte da conjuntura, en-
+tendida por Chouliaraki e Fairclough (1999, p. 22) como “conjunto 
+relativamente estável de pessoas, materiais, tecnologias e práticas 
+– em seu aspecto de permanência relativa – em torno de projetos 
+sociais específicos”, que mobiliza discursos ideológicos que, além 
+de visarem ao atendimento de projetos político-econômicos a fa-
+vor da manutenção do capitalismo, utilizam do capacitismo como 
+estratégia para a não-ratificação de pessoas autistas. Por capacitis-
+mo, cabe destacar que compartilho da ideia de Mello (2014, p. 56), 
+uma vez que o termo se refere à “capacidade de ser e fazer o que 
+é reiteradamente negada às pessoas com deficiência em diversas 
+esferas sociais” (itálico da autora). Isto é, os ataques direcionados 
+a Greta fazem parte de um projeto que está disposto a utilizar da 
+deficiência da ativista, do fato de ela ser adolescente menor de 18 
+anos, além de ser do sexo feminino, para a manutenção de inte-
+resses do lucro, ainda que para isso seja necessário deslegitimar 
+seu lugar de fala que, no entendimento de Ribeiro (2017, p. 64), 
+“não se restringe ao ato de emitir palavras, mas de poder existir”.
+Tendo  em  vista  esse  panorama,  este  artigo  tem  como  obje-
+tivo analisar o modo como o capacitismo tem sido usado como 
+estratégia linguístico-discursiva de não-ratificação de pessoas au-
+tistas, a fim de atender a projetos político-econômicos a favor da 
+manutenção do capital (lucro). Para tanto, por meio do artigo de 
+opinião publicado em 31 de agosto de 2019 pelo jornal Estadão, 
+cujo título é “As trancinhas teleguiadas do ‘produto’ Greta Thun-
+berg”, investigo como esse texto se aproveita de uma deficiência e 
+de uma condição neurodiversa para tentar silenciar a liderança de 
+uma pessoa autista (Thunberg), dando continuidade à exploração 
+geopolítica do meio ambiente.
+
+Este  artigo,  comprometido  com  o  debate  de  relações  entre 
+discurso e abuso de poder, inscreve-se nos estudos da Análise de 
+Discurso Crítica (ADC) que, segundo Resende (2000, p. 571), “não 
+constitui uma teoria ou um método para o estudo crítico da lingua-
+gem na sociedade, mas um corpo heterogêneo de abordagens”. 
+Para tanto, este estudo ancora-se em pressupostos da Linguística 
+
+Sistêmico-Funcional  (LSF)  e  da  ADC  com  o  intuito  de  apresentar 
+análise por meio da relação dialética entre a linguística e o social. 
+Assim, na seção 1 deste estudo, reflito sobre tensões textuais em 
+ADC, coadunando-as com o texto em análise. Na seção 2, discuto 
+dimensões  semióticas  do  texto,  permeadas  por  contextos  e  por 
+metafunções  da  linguagem,  à  luz  da  LSF.  Na  seção  3,  exponho 
+encaminhamentos metodológicos deste estudo qualitativo inter-
+pretativista (DENZIN; LINCOLN, 2006 [2003]). Por fim, na seção 4, 
+apresento princípios e projeções analíticas por meio da descrição 
+dos sistemas da Transitividade, de MODO e de Tema, orientado 
+pela Gramática Sistêmico-Funcional (GSF) revisitada por Halliday 
+e Matthiessen (2014), com o intuito de analisar o discurso como 
+momento da prática social (FAIRCLOUGH, 2003).
+
+Tensões textuais em ADC: o caso do ativismo de Greta 
+Thunberg 
+
+A  ADC,  como  explicam  Batista  Júnior,  Sato  e  Melo  (2018,  p. 
+8), está relacionada ao estudo da linguagem em uso, “entendido 
+como as ações que produzimos com os textos no interior das ativi-
+dades sociais”. Tendo como objetivo investigar tensões que carac-
+terizam processos de produção, de circulação e de distribuição de 
+textos que impõem assimetrias legitimadas, naturalizadas e man-
+tidas pelo discurso, o texto torna-se, portanto, a unidade mínima 
+de análise em ADC.
+
+A unidade mínima de análise deste artigo é o texto publicado 
+em 31 de agosto de 2019 pelo jornal Estadão, cujo título é “As tran-
+cinhas  teleguiadas  do  ‘produto’  Greta  Thunberg”.  Cabe  salientar 
+que esse texto, apesar de ter sido produzido pela jornalista Sheila 
+Leirner, foi aceito e publicado pelo jornal Estadão, o que significa 
+que foi aprovado pela equipe editorial do periódico. Desse modo, 
+o evento social, entendido por Fairclough (2003, p. 16) “como ele-
+mentos concretos do texto”, passa por uma rede de governança 
+
+institucional  (o  jornal  Estadão),  que  regula  e  organiza  a  entrada 
+de elementos concretos no periódico, coincidindo com a ideia de 
+Foucault (1996 [1971], p. 8) de que “a produção do discurso é ao 
+mesmo tempo controlada, selecionada, organizada e redistribuída 
+por certo número de procedimentos que têm por função conjurar 
+seus poderes e perigos, dominar seu acontecimento aleatório, es-
+quivar sua pesada e temível materialidade”.
+
+Cabe  destacar  que  a  materialidade  do  evento  social  (FAIR-
+CLOUGH, 2003), publicado pelo jornal Estadão, teve circulação em 
+todo  o  Brasil,  uma  vez  que  o  periódico  é  um  veículo  de  grande 
+abrangência em todo o território nacional. De forma impressa e 
+eletrônica,  o  artigo  de  opinião  foi  (re)distribuído  e,  no  calor  das 
+discussões sobre o possível discurso de Greta Thunberg na ONU, 
+que seria realizado no mês seguinte, fez um paralelo entre ações 
+do ativismo de Greta e o fato de ela ser autista. Isso posto, são de-
+senvolvidas atividades de circulação midiática em dois sentidos: i) 
+distribuição desse evento social, a fim de consolidar a ideia de que 
+não devemos levar a sério o que pessoas autistas falam e ii) reco-
+nhecimento de que o autismo tem sido colocado a serviço do an-
+ticapitalismo e da esquerda. Por meio do desenvolvimento dessas 
+atividades, o texto torna-se, portanto, parte do campo social que 
+entende que pessoas autistas são incapazes, podendo ser usadas 
+como  peças  de  manobra  para  atender  a  grupos  não  favoráveis 
+com o desenvolvimento econômico.
+
+A  circulação  desse  evento  social  envolve  grupos  que  enten-
+dem  que  a  energia  do  meio  ambiente  é  renovável  e  que  pode-
+mos nos beneficiar dela para manter o sistema capitalista, além 
+de  enquadrar  o  ativismo  de  Greta  Thunberg  como  incentivo  ao 
+desperdício  de  dinheiro  público  e  à  imposição  de  uma  espécie 
+de “ditadura verde”. Com o propósito discursivo de enfraquecer 
+ações da ativista em prol de benefícios de nações capitalistas, o 
+texto é produzido em torno de interesses geopolíticos que visam 
+ao lucro. Esses interesses nos apresentam, no que tange a conjun-
+turas (CHOULIARAKI; FAIRCLOUGH, 1999), um caráter hegemônico 
+
+em relação a práticas sociais que buscam silenciar o lugar de fala 
+de uma pessoa autista, que também é jovem e do sexo feminino.
+Essas  práticas  sociais,  que  segundo  Fairclough  (2003,  p.  24) 
+são entidades organizacionais (discursos, gêneros e estilos) de um 
+ordenamento linguístico específico (ordens do discurso), estão as-
+sociadas a uma rede de eventos sociais que entendem que o ca-
+pital financeiro deve ditar a forma como agimos e interagimos no 
+mundo, de modo a exercer “uma espécie de pressão e de poder 
+de coerção” (FOUCAULT, 1996 [1971, p. 18)] sobre aquelas pessoas 
+que se posicionem de forma contrária. Cabe ressaltar que a tenta-
+tiva desse poder de silenciar Greta Thunberg tem como alicerce a 
+projeção do fascismo, tendo em vista que há a intenção de cercear 
+a liberdade de expressão da ativista que advoga contra alterações 
+climáticas, contra o desmatamento e contra o poder hegemônico 
+capitalista. Na esteira dessas práticas sociais, destaca-se o gênero 
+discursivo, entendido por Bakhtin (2010 [1992]) como enunciado 
+relativamente estável, que no evento social mencionado é classi-
+ficado como artigo de opinião, apresentando, consequentemente, 
+tecnologias discursivas de persuasão.
+
+Como já mencionado, o evento social ao qual esse texto se ins-
+creve associa o campo social a práticas neoliberais de exploração 
+geopolítica do meio ambiente. Para tanto, a ordem de discurso, 
+que de acordo com Fairclough (2001, p. 183) refere-se a “um parti-
+cular ordenamento social das relações entre as diferentes formas 
+de gerar significado, ou seja, de produzir discursos e variedades 
+discursivas”,  estabelece  uma  relação  de  aproximação,  por  meio 
+desse texto, com práticas sociais que entendem que é necessário 
+cultivar, produzir e distribuir discursos que estejam em conformi-
+dade com projetos político-econômicos a favor do empresariado 
+capitalista, ainda que, para isso, seja necessário deslegitimar vozes 
+de pessoas autistas, como é o caso da ativista Greta Thunberg. 
+
+Assim,  como  a  ordem  do  discurso  da  prática  social  mencio-
+nada ancora-se no gênero discursivo artigo de opinião, cabe-nos 
+tecer algumas considerações sobre escolhas que o sistema linguís-
+tico  disponibiliza,  levando  em  consideração  os  significados  que 
+
+advêm do modo relativamente estável de representar, de inter(a-
+gir) e de ser (FAIRCLOUGH, 2003, p. 29). Isso posto, ancorado no 
+encaminhamento de Halliday e Matthiessen (2014, p. 603) de que 
+“a lexicogramática se aproxima de forma natural, não arbitrária e 
+não  convencional  da  semântica”,  tendo  em  vista  que  textos  são 
+constituídos por escolhas de elementos que se materializam em 
+orações, há dimensões semióticas do texto e do contexto que se 
+projetam para a análise do campo social.
+
+De acordo com Halliday e Matthiessen (2014, p. 20), as dimen-
+sões semióticas do texto falado ou escrito podem ser estudadas a 
+partir de “sistemas que compartilham certos recursos com a lin-
+guagem”, sendo influenciados pelos contextos de cultura e situa-
+cional. Sobre o contexto de cultura, Butt et al. (2000, p. 3) explicam 
+que está relacionado ao contexto externo ao texto, sendo conside-
+rado como a soma de todos os significados sociais possíveis. Já o 
+contexto situado refere-se a lugares específicos onde textos escri-
+tos e falados se materializam. Butt et al. (2000, p. 5) explicam que 
+os parâmetros de campo (o que supostamente deve ser falado ou 
+escrito), de tenor (a relação entre o/a ouvinte e o/a falante ou entre 
+o/a  escritor/a  e  o/a  leitor/a)  e  de  modo  (gênero  textual)  afetam 
+escolhas na língua, estando relacionados a três (meta)funções da 
+linguagem (ideacional, interpessoal e textual).
+
+Essas metafunções advindas dos estudos da GSF coincidem, 
+de acordo com Fairclough (2003, p. 27), com a ordem de discur-
+so  instanciada  em  práticas  sociais.  Nesse  sentido,  para  a  com-
+preensão do discurso como momento da prática social, Fairclough 
+(2003, p, 29) propõe que três significados dialético-relacionais se-
+jam analisados: o representacional, o acional e o identificacional. 
+Esses significados coincidem, respectivamente, com as metafun-
+ções ideacional, interpessoal e textual hallidayanas, de modo que 
+o estudo separado dessas metafunções cumpre protocolo didáti-
+co para a “análise da linguagem como algo configurado (inclusive 
+em sua gramática) pelas funções sociais às quais acabou servindo” 
+(FAIRCLOUGH,  2001,  p.  186).  Antes  de  apresentar  pressupostos 
+dessas metafunções, seguidos de exemplos e de projeções analíti-
+
+co-discursivas do evento social (FAIRCLOUGH, 2003) mencionado, 
+na próxima seção teço algumas considerações metodológicas. 
+
+Encaminhamentos metodológicos
+
+Para a geração de dados deste artigo, amparado no paradig-
+ma da pesquisa qualitativa interpretativista, que segundo Denzin 
+e Lincoln (2006 [2003], p. 291) supõe que “o significado da expe-
+riência humana nunca possa ser plenamente revelado”, também 
+adoto a perspectiva crítica, que, ainda segundo os autores (2006 
+[2003],  p.  291),  “oferece  uma  metodologia  para  despertar  uma 
+consciência crítica através da análise de temas gerativos da atua-
+lidade”. Como já explicitado, a análise interpretativa e crítica têm 
+como corpus um artigo de opinião publicado em 31 de agosto de 
+2019 pelo jornal Estadão, cujo título é “As trancinhas teleguiadas 
+do ‘produto’ Greta Thunberg”. 
+
+Como este artigo se inscreve na perspectiva teórico-metolodo-
+lógica entre a ADC e a LSF, cuja “análise linguística e crítica social 
+devem,  necessariamente,  estar  interrelacionadas:  a  análise  lin-
+guística alimenta a crítica social, e a crítica social justifica a análise 
+linguística”  (RAMALHO,  RESENDE,  2011,  p.  21),  adoto  a  proposta 
+de Fairclough (2001 [1992], p. 82) em relação à ADTO, tendo em 
+vista que instâncias concretas do discurso estão “sujeitas não ape-
+nas às formas linguísticas de análise textual, mas à análise em três 
+dimensões: análise do texto, análise dos processos discursivos de 
+produção e interpretação textual”. Cabe ressaltar que, ao assumir 
+a  ADTO,  há  impactos  metodológicos,  uma  vez  que  ela,  segundo 
+Fairclough  (2001  [1992,  p.  48])  “difere  de  outras  abordagens  na 
+atenção que dedica à gramática e ao vocabulário do texto”. 
+
+Nesse sentido, para a análise das práticas sociais, o método 
+em ADC, tomando como base a LSF, ao compreender o discurso 
+como momento da prática social, tem como objetivo investigar a 
+relação dialética entre os significados acional, representacional e 
+
+identificacional, de acordo com Fairclough (2003, p. 29). Ainda se-
+gundo o autor (2003), esses significados estão relacionados, res-
+pectivamente, aos modos relativamente estáveis de inter(agir) (gê-
+neros), de representar (discursos) e de ser (estilos, identidades). 
+Lira e Alves (2018, p. 115) apontam que esses significados da práti-
+ca social convergem com “a articulação lógica entre as orações no 
+significado acional; os processos de transitividade no significado 
+representacional; e a modalidade no significado identificacional”, 
+em conformidade com pressupostos da GSF revisitada por Halli-
+day e Matthiessen (2014). 
+
+Para extrair significados acional, representacional e identifica-
+cional, realizei a descrição dos constituintes do corpus mencionado 
+dos sistemas da Transitividade, de MODO e de Tema de orações 
+simples e complexas (orações coordenadas e oração principal dos 
+complexos de subordinação), orientado por Halliday e Matthiessen 
+(2014), por Fuzer e Cabral (2014), por Eggins (2004), por Butt et al. 
+(2000) e por Thompson (2014). Isso posto, na próxima seção, aden-
+tro em pressupostos do referencial teórico proposto pela GSF, além 
+de exemplos do corpus em análise, a fim de encaminhar discussões 
+gramaticais que se projetam para a análise crítica e social.
+
+Entre pontos: da análise linguística à projeção analítico-
+-discursiva 
+
+A metafunção ideacional em significados representacionais
+
+A representação da experiência e a lógica de significados, se-
+gundo Eggins (2004, p. 206), está relacionada à metafunção idea-
+cional da linguagem, cujos aspectos léxico-gramaticais da transiti-
+vidade se instanciam por meio da linguagem, coincidindo com o 
+modo como significados relativamente estáveis representam dis-
+cursos, na ótica de Fairclough (2003, p. 135), que são apresentados 
+por meio de “três tipos de elementos: Processos, Participantes e 
+Circunstâncias”. No sistema da Transitividade, Participantes e Cir-
+
+cunstâncias se relacionam com seis tipos de processos: Materiais, 
+Mentais, Relacionais, Verbais, Comportamentais e Existenciais. A 
+seguir, são apresentadas configurações léxico-gramaticais apenas 
+de quatro desses processos, já que foram os únicos que aparece-
+ram no artigo de opinião em análise.
+
+De acordo com Butt et al. (2000, p. 53), “Processos Materiais 
+constroem o [domínio do] fazer”, sendo definidos por Fuzer e Ca-
+bral (2014, p. 46) como “orações de ‘fazer e acontecer’, porque es-
+tabelecem uma quantidade de mudança no fluxo de eventos”. Os 
+participantes potenciais dos Processos Materiais são: Ator (parti-
+cipante que investe energia e provoca o desenrolar do processo), 
+Meta (participante que tem alguma de suas características criada 
+ou alterada pelo processo) e Beneficiário (participante que se be-
+neficia de um processo). Vamos a um exemplo a partir do texto em 
+análise, a fim de identificarmos essas configurações léxico-grama-
+ticais: Essa esquerda, e paradoxalmente a extrema direita, os anar-
+quistas [...] (Ator) querem impor (Processo Material criativo) agora 
+uma agenda liberticida (Meta) em nove dos “bons sentimentos” (Be-
+neficiário). 
+
+Antes de passarmos ao próximo processo do sistema da Tran-
+sitividade, destaco, ainda, que as circunstâncias, entendidas por 
+Butt et al. (2000, p. 64) como constituintes (informações circuns-
+tanciais) que auxiliam e que iluminam o processo da transitividade, 
+costumam fazer parte de orações. Essas circunstâncias, de acordo 
+com Halliday e Matthiessen (2014, p. 313), podem indicar modo, 
+localização, causa, extensão, contingência, acompanhamento, pa-
+pel, assunto ou ângulo. Segue exemplo a partir do texto em análi-
+se: Como veremos abaixo (Circunstância de localização – lugar). 
+
+Os Processos Mentais, segundo Eggins (2004, p. 225), deco-
+dificam significados do pensar e do fazer em relação a pensamen-
+tos,  sentimentos  e  percepções.  Halliday  e  Matthiessen  (2014,  p. 
+355) dividem o Processo Mental em quatro tipos: cognitivo, emo-
+tivo (afetivo), perceptivo e desiderativo. Os participantes dos Pro-
+cessos  Mentais  são  aqueles  que  sentem,  pensam,  percebem  e 
+desejam, sendo denominados Experienciador, e o complemento 
+
+desse processo, Fenômeno, como podemos observar no exemplo 
+que segue: A menina Greta Thunberg (Fenômeno) sempre me (Ex-
+perienciador) irritou (Processo Mental emotivo) além da conta (Cir-
+cunstância de acompanhamento – adição).  Fuzer e Cabral (2014, 
+p. 55) explicam que os Processos Mentais podem projetar orações, 
+como podemos observar em: (eu) Experienciador concluí (Proces-
+so Mental cognitivo) que Greta Thunberg é uma vítima vergonhosa e 
+covardemente manipulada (Oração projetada).
+
+Os Processos Relacionais, como explicam Butt et al. (2000, p. 
+58), “relacionam um participante à sua identidade ou à sua descri-
+ção”. De acordo com Fuzer e Cabral (2014), as orações relacionais 
+podem  ser:  atributivas  ou  identificativas.  Halliday  e  Matthiessen 
+(2014, p. 673) classificam as orações relacionais em: i) intensivas, 
+que caracterizam uma entidade; ii) possessivas, cuja posse relacio-
+na as entidades; e iii) circunstanciais, em que há relação de tempo, 
+modo,  lugar,  causa,  acompanhamento,  papel,  ângulo  e  assunto. 
+Seguem  exemplos  a  partir  do  texto  em  análise:  Greta  Thunberg 
+(Portador) é (Processo Relacional intensivo) manipulável (Atributo); 
+Tudo (Possuidor) tem (Processo Relacional possessivo) limite (Pos-
+suído); (eu) (Experienciador) Levei (Processo Relacional circunstan-
+cial) algum tempo (Atributo Circunstancial – tempo) observando.
+
+Sobre os Processos Verbais, Eggins (2004, p. 225) explica que 
+são  ações  do  dizer  e  de  seus  sinônimos,  como  questionar,  res-
+ponder,  relatar  etc.  Os  participantes  das  Processos  Verbais  são: 
+Dizente (falante ou escritor/a), Verbiagem (o que é dito), Receptor 
+(a quem é dirigida a mensagem) e Alvo (atingida pelo processo do 
+dizer). Alguns desses participantes constam no exemplo a seguir: 
+Os filósofos Pascal Bruckner e Michel Onfray, entre outros, (Dizente) 
+apontam (Processo Verbal) as contradições deste fenômeno (Verbia-
+gem). 
+
+Projeção analítico-discursiva do significado representacional
+
+A partir da descrição dos constituintes do sistema da Transiti-
+vidade, das 48 orações do artigo de opinião do jornal Estadão em 
+
+análise, 47% são de Processos Relacionais (23 ocorrências), 25% 
+são de Processos Mentais (12 ocorrências), 18% são de Processos 
+Verbais (9 ocorrências) e 10% são de Processos Materiais (5 ocor-
+rências). Como podemos observar, o número de ocorrências do 
+Processo Relacional é consideravelmente superior às ocorrências 
+dos outros processos. Por conseguinte, tendo em vista a relativa 
+estabilidade do gênero discursivo artigo de opinião, a produtora 
+(a jornalista Sheila Leirner, tendo o crivo institucional do veículo 
+midiático jornal Estadão) do evento social (FAIRCLOUGH, 2003) em 
+análise, dá preferência a Processos Relacionais que decodificam 
+significados do ser (significado identificacional), com o intuito de 
+relacionar “um participante à sua identidade ou à sua descrição” 
+(BUTT et al., 200, p. 58).
+
+Essa prevalência de Processos Relacionais no gênero discur-
+sivo  situado  ratifica  práticas  discursivas  que,  preferencialmente, 
+identificam e descrevem quem é a ativista autista Greta Thunberg, 
+como podemos observar, para citar alguns exemplos, nas orações 
+Relacionais  a  seguir:  Greta  Thunberg  é  manipulável;  [Greta]  virou 
+um estandarte da extrema esquerda anticapitalista e outros radicais. 
+Cabe ainda destacar que dos 23 Processos Relacionais que apare-
+cem no texto, 16 são Processos Relacionais atributivos, sendo que 
+há 11 participantes como Atributos que expressam qualidades/ca-
+racterísticas e 5 que exercem a função de Atributo como entidade, 
+o que nos revela a inscrição subjetiva da escritora em um gênero 
+discursivo (artigo de opinião) que lhe permite escolher, atribuir e 
+relacionar,  preferencialmente,  características  e  qualidades  capa-
+citistas a participantes tidos como Portadores desse processo da 
+Transitividade. 
+
+Sobre  os  Processos  Verbais,  cabe  ainda  destacar  que,  das  9 
+ocorrências no texto, 6 nos trazem Citações, nas quais há a inclu-
+são  de  vozes  que  comungam  com  o  projeto  político-econômico 
+neoliberal que visa à exploração do meio ambiente e com a ideia 
+de que Greta Thunberg é incapaz de ser protagonista e líder devi-
+do à sua condição neurodiversa, entre as quais destaco os seguin-
+tes Dizentes: ‘Os filósofos Pascal Bruckner e Michel Onfray, entre 
+
+outros’, ‘Laurent Alexandre, brilhante médico, cirurgião e dentista, 
+cientista político’ e a ‘imprensa francesa’. Ao escolher essas vozes 
+hegemônicas, por meio da intertextualidade, que corresponde à 
+“presença de elementos de outros textos dentro de um texto – ci-
+tações” (FAIRCLOUGH, 2003), a produtora exclui, respectivamente, 
+vozes do ativismo meio ambiental e do protagonismo autista, dis-
+tribuindo significados representacionais de uma ordem de discur-
+so que, além de colaborar com a manutenção de projetos neolibe-
+rais, favorece a reificação de estruturas sociais capacitistas. 
+
+A metafunção interpessoal em significados acionais
+
+O  significado  da  troca  interpessoal,  de  acordo  com  Halliday 
+e Matthiessen (2014, p. 134), ocorre no sistema léxico-gramatical 
+do MODO, envolvendo o/a falante (entendido também como escri-
+tor/a) e a audiência. Os autores (2014, p. 134) entendem que ‘dar’ 
+e ‘solicitar’ são os principais tipos de funções da fala, que atuam de 
+forma dialética, uma vez que “dar implica receber e pedir implica 
+dar em resposta”. Esses significados de funções de fala, segundo 
+Fairclough (2003, p. 105), estão relacionados à troca de conheci-
+mento e de atividades que, de modo relativamente estável, atuam 
+por meio de atos de fala, ou seja, por meio de gêneros textuais. 
+Como explicam Fuzer e Cabral (2014, p. 104), há dois tipos de va-
+lores que podem ser trocados na interação do sistema do MODO: 
+i) informações, em que a oração assume a forma de uma proposi-
+ção ou ii) bens e serviços, quando a oração não pode ser negada 
+ou afirmada, sendo chamada de proposta. No texto em análise, 
+aparecem  apenas  trocas  de  informações,  ou  seja,  é  solicitado  à 
+audiência que conheça o que é enunciado. 
+
+Como é no sistema de MODO que é desempenhada a metafun-
+ção interpessoal, no estudo dos componentes léxico-gramaticais 
+deste artigo destacam-se: os modos oracionais, os componentes 
+interpessoais da oração, a polaridade, a modalidade (modalização 
+
+e modulação) e os recursos linguísticos da interpessoalidade, ex-
+plicitados com exemplos a partir do artigo de opinião em análise. 
+Segundo Thompson (2014, p. 48), existem três modos oracionais 
+básicos de fala: o interrogativo, o declarativo e o imperativo. As-
+sim, no modo oracional interrogativo, costuma haver perguntas 
+e ofertas (Como poderia ficar incomodada por uma criança atingida 
+pela síndrome de Asperger, uma perturbação do espectro autista?); no 
+modo declarativo, declarações (Faço o que posso.) e no imperativo, 
+comandos e solicitações, que não aparecem no texto em análise. 
+No sistema do MODO, como explica Thompson (2014, p. 61), 
+destacam-se dois componentes: Modo e Resíduo. O Modo é com-
+posto por Sujeito e Finito. O Sujeito “é a entidade em que alguma 
+coisa é predicada no resto da oração” (THOMPSON, p. 54). Já o Fi-
+nito, de acordo com Thompson (p. 55) é usado para “orientar o ou-
+vinte em relação ao tipo de validade reivindicada, relacionando-a 
+à realidade do aqui e agora do evento discursivo ou para a atitude 
+do orador em relação à proposição ou à proposta”. O Resíduo, se-
+gundo Eggins (2004, p. 155), “é a parte da oração que é, de alguma 
+maneira, menos essencial para a arguição”. Como neste artigo não 
+me detenho à análise do Resíduo, indico Halliday e Matthiessen 
+(2014, p. 153) para detalhes dessa parte da oração. 
+
+Halliday e Matthiessen (2014, p. 144) explicam que a polarida-
+de “é a escolha entre positivo e negativo”, atuando no Finito oracio-
+nal. Refere-se a sentenças afirmativas ou negativas no âmbito da 
+forma verbal. Como exemplo do texto em análise, podemos citar: 
+faria ainda mais para contribuir com o planeta (polaridade positiva) 
+e  o  seu  rosto  não  revela  nenhuma  empatia  (polaridade  negativa). 
+Ainda em relação à polaridade, há certa gradação (níveis interme-
+diários), desde o mais positivo até o mais negativo, constituindo a 
+modalidade, discutida e exemplificada a seguir.
+
+A modalidade, de acordo com Halliday e Matthiessen (2014, 
+p. 176), é composta por “graus intermediários, entre os polos posi-
+tivos e negativos”. O que o sistema da modalidade faz é construir 
+a  região  da  incerteza  que  fica  entre  o  “sim”  e  o  “não”,  atuando, 
+por tanto, no Finito oracional. Fuzer e Cabral (2014, p. 176) ainda 
+
+explicam que “as escolhas das modalidades nos textos podem ser 
+vistas como parte do processo de textualização da identidade do 
+falante/escritor”. A noção de modalidade, ainda segundo as auto-
+ras (2014, p. 114), “está relacionada à distinção entre proposições 
+(informações) e propostas (bens e serviços), denominadas, respec-
+tivamente, modalização e modulação”.
+
+A modalização, de acordo com Halliday e Matthiessen (2014, 
+p. 177), ocorre em proposições – quando há troca de informações 
+e de conhecimentos – nas quais há dois tipos de possibilidades in-
+termediárias: graus de probabilidade e graus de usualidade. Esses 
+significados epistêmicos, chamados de “modalidade epistêmica”, 
+de acordo com Fuzer e Cabral (2014, p. 114), são expressos, no ar-
+tigo em análise, por meio de verbos modais (“pode”, “deve”) e por 
+adjuntos modais (“sempre”, “nunca”, “às vezes”). Já a modulação, 
+segundo Halliday e Matthiessen (2014, p. 178), “refere-se a escalas 
+de obrigação e de inclinação”, ocorrendo em propostas (ofertas e 
+comandos). No texto em análise, aparecem apenas modalizações, 
+como podemos observar em: Energias podem ser renováveis e A me-
+nina Greta Thunberg sempre me irritou além da conta.
+
+Por fim, segundo Fuzer e Cabral (2014, p. 116), “os recursos 
+linguísticos que contribuem para explicitar a metafunção interpes-
+soal da linguagem são: vocativos, expletivos, verbos modais, adjun-
+tos modais, adjuntos de comentário e expressões modalizadoras”. 
+No texto em análise, aparecem apenas adjuntos de comentário, 
+que expressam o ponto de vista do/a falante (escritor/a), como em 
+na minha opinião, é de uma grande irresponsabilidade.
+
+Projeção analítico-discursiva do significado acional
+
+Com base no sistema lexicogramatical do MODO, o artigo de 
+opinião em análise apresenta apenas informações como valores 
+trocados. A escritora, que neste caso é uma jornalista, lança propo-
+sições ao longo do seu texto, afirmando, negando ou fornecendo 
+informações, com o intuito de convencer e de influenciar a audiên-
+cia sobre os riscos de a juventude assumir o posicionamento de 
+
+Greta Thunberg em relação ao meio ambiente, tendo em vista sua 
+condição neurodiversa (autista), o que a tornaria incapaz de argu-
+mentar por si mesma. Como função primária de fala, o/a falante 
+(escritor/a) apresenta apenas orações como declaração (A menina 
+Greta Thunberg sempre me irritou além da conta...; E concluí que Greta 
+Thunberg é uma vítima vergonhosa e covardemente manipulada) 
+e apenas uma oração como pergunta (Como eu poderia ficar inco-
+modada por uma criança atingida pela síndrome de Asperger, uma 
+perturbação do espectro autista?), o que nos indica sua inscrição no 
+significado acional de uma prática social (FAIRCLOUGH, 2003) que 
+encaminha o gênero artigo de opinião em direção a proposições 
+textuais assertivas, não duvidosas, declarativas.
+
+Como a arguição costuma se realizar no Modo, cabe destacar 
+que o texto em análise coloca em primeiro plano os agentes sobre 
+os quais a oração é predicada, ora identificando Greta Thunberg, 
+ora a pessoa eu do discurso (escritora), ora os pais e as autorida-
+des  (médicos,  filósofos).  Esses  agentes  e  o  Finito  são  marcados, 
+principalmente, no Presente do Indicativo (61%, 29 das 48 orações 
+descritas), orientando o/a leitor/a à realidade do aqui e do agora, 
+do que está acontecendo devido a fatos do presente, o “que con-
+fere  uma  permanência”  (MAGALHÃES,  2019)  ao  significado  acio-
+nal  como  momento  da  prática  social  (FAIRCLOUGH,  2003),  uma 
+vez que relacionam e identificam os agentes e o tempo sobre as 
+informações  que  são  declaradas.  Desse  modo,  na  oração  Greta 
+Thunberg é manipulável, por exemplo, o Complemento “manipulá-
+vel” recai sobre o Sujeito Greta Thunberg por meio de um Finito no 
+Presente do Indicativo, cujo predicador é o verbo “ser”, ao passo 
+que na oração De maneira sintética destaco apenas algumas frases 
+na imprensa francesa, o Complemento “algumas frases” e o Adjun-
+to de lugar “na imprensa francesa” estão relacionados ao Sujeito 
+elíptico  eu,  acompanhado  de  um  Finito  no  Pretérito  Perfeito  do 
+Indicativo, por meio do predicador “destacar”.
+
+Em relação à polaridade, há a prevalência de sentenças afir-
+mativas no âmbito da forma verbal. Das 48 orações analisadas, 40 
+possuem polaridade positiva, representando 83% das orações, ao 
+
+passo que 8 apresentam polaridade negativa, o que corresponde 
+a 17% das orações. A prevalência de orações positivas, como po-
+demos observar em Os filósofos Pascal Bruckner e Michel Onfray, en-
+tre outros, apontam as contradições deste fenômeno e em Os adultos 
+são  ainda  mais  responsáveis  por  ele,  explicitadas,  principalmente, 
+em um Finito com o Presente e o com Pretérito Perfeito do Indi-
+cativo, respectivamente, em consonância com a declaração como 
+função de fala, apresenta escolhas da escritora (jornalista) de ma-
+neira mais decisiva e resoluta.
+
+Por fim, sobre a modalidade, que de acordo com Halliday e 
+Matthiessen (2014, p. 176) é composta por “graus intermediários, 
+entre os polos positivos e negativos”, atuando, por tanto, no Finito 
+oracional,  suas escolhas no texto “podem ser vistas como parte 
+do  processo  de  textualização  da  identidade  do  falante/escritor” 
+(FUZER; CABRAL, 2014, p. 116). Como já mencionado, no texto em 
+análise há apenas proposições, quando há troca de informações 
+e de conhecimentos, no qual aparecem 10 orações com graus de 
+usualidade (“sempre”, “às vezes”, “nunca”) e verbos modais (“po-
+der” e “dever”). Com a descrição do sistema de MODO, foi possí-
+vel observar que o grau de usualidade “sempre” apresenta 20% (2 
+ocorrências) do total da prevalência da modalização, ao passo que 
+“nunca”, 10% (1 ocorrência) e, “às vezes”, 10% (1 ocorrência). Em 
+contrapartida, os verbos modais aparecem na proporção de 40% 
+(4 ocorrências) em relação ao verbo “poder”, e 20% (2 ocorrências) 
+com o verbo “dever”. São exemplos de modalizações apresentadas 
+no texto: A menina Greta Thunberg sempre me irritou além da conta 
+e nunca soube porquê; Como eu poderia ficar incomodada por uma 
+criança atingida pela síndrome de Asperger, uma perturbação do es-
+pectro autista?
+
+Ao escolher graus de usualidade e verbos modais para a tro-
+ca de informações e de conhecimento, são utilizados significados 
+relacionados à identidade da escritora para expressar tanto fre-
+quência  quanto  probabilidade,  permeando,  consequentemente, 
+significados acionais e identificacionais (FAIRCLOUGH, 2003), dado 
+o caráter dialético do discurso como momento da prática social, o 
+
+A metafunção textual em significados identificacionais
+
+que influencia a troca interpessoal do capacitismo estrutural com 
+a audiência. Por conseguinte, a irritação que Greta Thunberg pro-
+vocou na escritora (A menina Greta Thunberg sempre me irritou além 
+da conta e nunca soube porquê) está relacionada ao alto grau de 
+usualidade que advém do termo “sempre”, ao passo que “nunca” 
+carrega o significado de um contínuo mais próximo da polaridade 
+negativa,  revelando  “o  comprometimento  do(a)  falante  ou  do(a) 
+escritor(a)  com  suas  proposições”  (FAIRCLOUGH,  2001  [1992],  p. 
+200). Cabe ainda destacar que, com os verbos modais “poder” e 
+“dever”,  significados  interpessoais  relacionados  à  possibilidade, 
+marcados em Finitos no Futuro do Pretérito (“poderia” e “ficaria”), 
+há a intensificação da textualização da identidade e do comprome-
+timento da escritora com a probabilidade.
+
+A metafunção textual, segundo Thompson (2014, p. 145), con-
+siste em identificar como “falantes [escritores/as] constroem suas 
+mensagens de forma a ajustá-las no desenrolar do evento comu-
+nicativo (que pode ser uma conversa ou um artigo de jornal, por 
+exemplo)”, organizando, de forma coerente, os significados expe-
+rienciais e interpessoais. Essa organização refere-se ao significa-
+do identificacional, que apresenta modos relativamente estáveis 
+do ser por meio de estilos que, de acordo com Fairclough (2003, 
+p. 159), são “aspectos discursivos de formas do ser”, constituindo 
+identidades. Para que haja essa organização coerente, Halliday e 
+Matthiessen (2014, p. 89) explicam que o Tema “é o elemento que 
+serve de ponte de partida da mensagem; localizando e orientan-
+do a oração dentre de seu contexto”, ao passo que o Rema é “o 
+restante da mensagem, a parte na qual o Tema é desenvolvido”. 
+Como explicam Halliday e Matthiessen (2014, p. 97), o Tema pode 
+ser não marcado ou marcado. O Tema não marcado refere-se ao 
+posicionamento do sujeito em uma oração declarativa, já o Tema 
+marcado não se refere ao sujeito da oração declarativa. 
+
+O  Tema  pode  ser  classificado  em  três  tipos  (tópico,  inter-
+pessoal e textual), uma vez que, como apontam Fuzer e Cabral 
+(2014,  p.  137),  “podem  estar  em  posição  de  temática  na  oração 
+elementos das três metafunções da linguagem: experiencial, inter-
+pessoal e textual”. Como explica Eggins (2004, p. 301), “quando um 
+elemento da sentença ao qual uma função de transitividade pode 
+ser atribuída ocorre em primeira posição em uma oração, nós a 
+descrevemos como um Tema tópico”. No entanto, Eggins (2004, p. 
+302) pontua, “quando um constituinte ao qual atribuiríamos um 
+rótulo de Modo [...] ocorre no início de uma oração, chamamos 
+de Tema interpessoal”, podendo aparecer como elementos inter-
+rogativos e com as quatro categorias de Adjuntos Modais: Modo, 
+Vocativo, Polaridade e Comentário. Por fim, em relação à posição 
+temática da metafunção textual, Eggins (2004, p. 305) explica que 
+sua ocorrência se dedica “ao importante trabalho de coesão ao re-
+lacionar a oração ao seu contexto”. Podemos observar a descrição 
+desses tipos de Tema na oração a seguir: Porém, (Tema textual) 
+principalmente, (Tema interpessoal) virou um estandarte da extrema 
+esquerda anticapitalista e outros radicais (Rema). 
+
+Fuzer  e  Cabral  (2014,  p.  142)  ainda  explicam  que  o  “uso  de 
+um ou outro padrão [temático] revela se uma sequência de ora-
+ções  descreve,  narra  ou  argumenta”,  podendo  revelar  também 
+propósitos e atitudes do/a falante (escritor/a). Esses padrões ou 
+sequências de Temas ideacionais não marcados, segundo as au-
+toras (2014), referem-se à progressão temática que, no texto em 
+análise, destaca-se em dois tipos: Padrão com Tema constante e 
+Padrão  linear.  No  Padrão  com  Tema  constante,  “o  Tema  tópi-
+co se mantém o mesmo ao longo de uma sequência de orações” 
+(FUZER; CABRAL, 2014, p. 142), podendo ser retomado por prono-
+mes, sinônimos, repetição ou por elipse. Já no Padrão linear, as 
+autoras (2014, p. 143) explicam que “um elemento introduzido no 
+Rema de uma oração torna-se o Tema da oração seguinte, e assim 
+por diante”.
+
+Projeção analítico-discursiva do significado identificacional
+
+O  artigo  de  opinião  em  análise  apresenta  os  três  tipos  de 
+Tema  (tópico,  interpessoal  e  textual),  com  base  no  sistema  léxi-
+co-gramatical de Tema, com o intuito de construir mensagens e 
+de  organizar,  de  forma  coerente,  os  significados  experienciais  e 
+interpessoais. De acordo com a descrição do sistema de Tema, há 
+maior prevalência do Tema tópico (64%, em 47 ocorrências), se-
+guida do Tema textual (32%, em 23 ocorrências) e do Tema inter-
+pessoal (4%, em 3 ocorrências). Essa prevalência do Tema tópico 
+coincide com um dos participantes do sistema da Transitividade 
+e com o Sujeito do sistema de MODO, como em: A menina Greta 
+Thunberg sempre me irritou além da conta, cujo Tema tópico (Greta 
+Thunberg)  corresponde  ao  participante  Fenômeno,  do  Processo 
+Mental emotivo no sistema da Transitividade, e ao Sujeito no sis-
+tema de MODO. 
+
+Essa relação entre o Tema tópico e um participante do sistema 
+da Transitividade e o Sujeito do sistema MODO ocorre na maioria 
+das orações (87%, ou seja, em 42 ocorrências das 48 orações des-
+critas), revelando-nos forte incidência do Tema não marcado. Ou 
+seja, apenas em 13% (6 ocorrências) das orações o Tema tópico 
+marcado não coincide com o Sujeito do sistema de MODO, como 
+em: antes de nós acharmos que tudo é maravilhoso, cuja Circuns-
+tância de tempo do sistema da Transitividade (antes de) é descri-
+ta como Adjunto de tempo no sistema de MODO. Dessa forma, a 
+proeminência informacional do Tema tópico marcado revela que 
+o evento social (FAIRCLOUGH, 2003) em análise dá preferência a 
+participantes que coincidem com o Sujeito do sistema de MODO, 
+o que “geralmente corresponde ao que pode ser considerado (o 
+que não significa que realmente seja) ‘informação dada’, isto é, in-
+formação já conhecida ou estabelecida para os produtores e intér-
+pretes do texto” (FAIRCLOUGH, 2001 [1992]).
+
+Cabe  ainda  destacar  que  das  48  orações  descritas,  apenas 
+uma  não  apresenta  o  Tema  tópico:  Porém,  principalmente,  virou 
+um estandarte da extrema esquerda anticapitalista e outros radicais. 
+
+Nessa oração, “Porém” assume a posição de Tema textual, estabe-
+lecendo coesão ao contexto situado, e o Adjunto de comentário 
+(admissão) do sistema lexicogramatical do MODO “principalmen-
+te” refere-se ao Tema interpessoal, expressando o ponto de vista 
+da escritora. Esse posicionamento temático é usado como estraté-
+gia de colocar em primeiro plano o que a escritora (a jornalista) ha-
+via relatado antes, por meio do Tema textual “Porém”, ao escrever 
+que Thunberg tornou-se um caso (inatacável) de trancinhas teleguia-
+das, marketing climático de muito dinheiro e interesse por trás, além 
+de marcar a racionalidade do comentário de admissão da escrito-
+ra, ilustração de sua inscrição ideológica capacitista que entende 
+pessoas autistas como “teleguiadas”, não tendo o direito de liderar 
+outras pessoas e, inclusive, de serem protagonistas de suas ações. 
+Em  relação  à  progressão  temática,  o  texto  em  análise  apre-
+senta Tema constante, sendo retomado por elipse (Não que eu seja 
+contra questões climáticas. Muito ao contrário, defendo a sua impor-
+tância), por pronome (Descobri, na verdade, não é ela que me irrita) 
+ou por sinônimo (Greta é manipulável [...] Sem ter consciência dis-
+to, esta menina, sacrificada, perde irremediavelmente os seus). Além 
+desse tipo de progressão, também aparece o Padrão linear, uma 
+vez que o Tema da oração seguinte foi introduzido pelo Rema da 
+oração anterior, como em: os próprios pais tornaram pública a sua 
+perturbação neurológica – o que, na minha opinião é de uma grande 
+irresponsabilidade.  Cabe  destacar  que  essas  progressões  temáti-
+cas, além de facilitar a coesão do texto (Greta = esta menina), per-
+mitem que a escritora do artigo de opinião em análise avalie (é de 
+uma  grande  irresponsabilidade)  o  Tema  proveniente  do  Rema  da 
+oração anterior (tornaram pública a sua perturbação neurológica). 
+Em outras palavras, no Padrão linear exemplificado anteriormente, 
+a escritora migra de um Rema capacitista (tornaram pública a sua 
+perturbação neurológica) para um Tema (o que) que projeta informa-
+ção nova também capacitista (é de uma grande irresponsabilidade), 
+colaborando com uma ordem de discurso agenciadora de estrutu-
+ras sociais (FAIRCLOUGH, 2003) excludentes.
+
+Considerações Finais
+
+Neste artigo, foram apresentados encaminhamentos em ADC 
+e em LSF para a análise linguística, social e crítica do modo como o 
+capacitismo tem sido usado como estratégia de não-ratificação de 
+pessoas autistas, com o intuito de atender a projetos de poder a 
+favor da manutenção do capitalismo. Após explicitar uma conjun-
+tura social de ofensas à ativista Greta Thunberg, pelo fato de ela 
+ser autista, líder, adolescente e mulher, neste artigo dediquei-me a 
+realizar descrição lexicogramatical dos sistemas da Transitividade, 
+de MODO e de Tema, à luz da LSF, de um artigo de opinião publi-
+cado em 31 de agosto de 2019 pelo jornal Estadão, cujo título é “As 
+trancinhas teleguiadas do ‘produto’ Greta Thunberg”, a fim de in-
+vestigar significados representacionais, acionais e identificacionais 
+como momento de uma prática social que se aproveita de uma 
+deficiência (autismo) para empreender projeto de silenciamento 
+da liderança de uma pessoa autista, dando continuidade à manu-
+tenção de estruturas sociais capacitistas e opressoras.
+
+Portanto, por meio da metafunção ideacional em significados 
+representacionais, foi possível observar a prevalência de Proces-
+sos Relacionais, que decodificam significados do ser, com o obje-
+tivo de relacionar a identidade de Greta Thunberg a participantes 
+desse sistema (Atributos) que expressam qualidades e caracterís-
+ticas, tais como “manipulável”, “estandarte da extrema esquerda”. 
+A  escolha  desses  participantes  (Atributos)  nos  revela  a  inscrição 
+subjetiva da escritora em um gênero discursivo (artigo de opinião) 
+que, ratificado pela de rede de governança institucional (o jornal 
+Estadão),  atribui  e  relaciona,  preferencialmente,  características  e 
+qualidades capacitistas a Portadores/as desse processo da Transi-
+tividade. Esse tipo de relação promove uma configuração capaci-
+tista que, além de consolidar a ideia de que não devemos levar a 
+sério o que pessoas autistas falam, reconhece que o autismo tem 
+sido colocado a serviço do anticapitalismo pela extrema esquerda. 
+Por conseguinte, por meio da escolha de Processos Relacionais, o 
+
+evento social analisado torna-se parte do campo social que enten-
+de que pessoas autistas são incapazes, podendo ser usadas como 
+peças de manobra para atender a grupos não favoráveis com o 
+desenvolvimento econômico.
+
+Sobre a metafunção interpessoal em significados acionais, o 
+artigo de opinião orienta o/a leitor/a à realidade do aqui e do agora, 
+do que está acontecendo devido a fatos do presente, conferindo 
+um tom de permanência ao momento da prática social analisada, 
+relacionando  e  identificando  os  agentes  e  o  tempo  sobre  infor-
+mações como valores trocados em declarações. Apesar de que a 
+polaridade com maior incidência no texto analisado é a positiva 
+que, utilizando de declarações como função de fala, apresenta es-
+colhas da escritora (jornalista) de maneira mais decisiva e resoluta, 
+aparecem orações com polaridade negativa, que tem como obje-
+tivo o controle interacional e a defesa da face da escritora. Cabe 
+ainda destacar que no evento social analisado, há modalizações 
+com graus de usualidade (“sempre”, “às vezes” e “nunca”) e com 
+verbos modais (“poder” e “dever”), relacionando a identidade da 
+escritora para expressar frequência e seu comprometimento com 
+proposições, o que influencia a troca interpessoal do capacitismo 
+estrutural com a audiência.
+
+Em  relação  à  metafunção  textual  em  significados  identifica-
+cionais,  que  organizam  de  forma  coerente  os  significados  expe-
+rienciais  e  interpessoais,  há  prevalência  do  Tema  tópico,  que  é 
+representado pelo primeiro elemento ideacional na oração. Além 
+disso, há maior incidência do Tema não marcado, que se refere ao 
+sujeito da oração declarativa, o que corresponde ao que pode ser 
+considerado como informação já conhecida pelo/a leitor/a do tex-
+to, auxiliando no processo de consolidação de que pessoas autis-
+tas são “teleguiadas”, não tendo o direito de serem protagonistas 
+de  suas  próprias  ações.  O  texto  analisado  ainda  apresenta  pro-
+gressão temática com Tema constante, retomado por elipses, por 
+pronomes ou por sinônimos, e com Padrão linear, quando o Tema 
+da oração seguinte é introduzido pelo Rema da oração anterior. 
+
+Essas progressões temáticas colaboram com o desencadeamento 
+de uma ordem de discurso preconceituosa e capacitista.
+
+Isso posto, a dominância, entendida por Van Dijk (2008, p. 88) 
+“como uma forma de abuso de poder social, isto é, como o exercí-
+cio moral e legalmente ilegítimo de controle sobre outros em be-
+nefício ou interesse próprio de alguns”, resulta em desigualdade 
+social, uma vez que o evento social analisado não convoca nenhu-
+ma pessoa autista ou ambientalista para o debate. Muito pelo con-
+trário, a modalidade de interação desse texto situado é restrita à 
+citação – intertextualidade – de filósofos (Pascal Bruckner, Michel 
+Onfray e Laurent Alexandre) que estão a serviço do progresso e da 
+manutenção do capitalismo em nome da felicidade humana. Por 
+conseguinte,  a  jornalista  (produtora)  distribui  um  texto,  inscrito 
+em um gênero discursivo formador de opinião, que aumenta a as-
+simetria social e a continuidade do silenciamento de pessoas au-
+tistas, consideradas como não legítimas para representarem a luta 
+discursiva e contra hegemônica a favor da climática planetária.
+
+Referências
+
+BAKHTIN, M. Estética da Criação Verbal. Tradução: Paulo Bezerra. 5. 
+ed. São Paulo: Martins Fontes, 2010 [1992].
+
+BATISTA JR.; SATO; MELO. Introdução. In: Análise de discurso crítica: 
+para linguistas e não linguistas. Org.: J. R. L. BATISTA JR.; D. T. B. SATO; I. 
+F. MELO. São Paulo: Parábola, 2018.
+
+BUTT, D.; FAHEY, R.; FEEZ, S; SPINKS, S.; YALLOP, C. Using functio-
+nal grammar: an explorer’s guide. 2nd edition. Sydney: Macquarie 
+University, 2000. 
+
+CHOULIARAKI, L.; FAIRCLOUGH, N. Discourse in late modernity: 
+rethinking critical discourse analysis. Edinburgh: Edinburgh University 
+Press,1999.
+
+DENZIN, N. K.; LINCOLN, Y. O planejamento da pesquisa qualitativa: 
+teorias e abordagens. 2. ed. Tradução: S. R. Netz. Porto Alegre: Artmed, 
+2006 [2003].
+
+EGGINS, S. An Introduction to Systemic Functional Linguistics. 2nd 
+edition.London: Continuum International Publishing Group, 2004.
+
+ELIAS, N.; SCOTSON, J. L. Os estabelecidos e os outsiders. Tradução: V. 
+Ribeiro. Rio de Janeiro: Jorge Zahar, 2000 [1994].
+
+FAIRCLOUGH, N. Analysing Discourse: Textual Analysis for Social 
+Research. London/New York: Routledge, 2003.
+
+FAIRCLOUGH, N. Discurso e Mudança Social. Org. Tradução: I. 
+Magalhães. Brasília: Editora UnB, 2001 [1992].
+
+FAIRCLOUGH, N. El análisis crítico del discurso como método para la 
+investigación en ciencias sociales. In: Métodos de análisis crítico del 
+discurso. Org.: MEYER, M; WODAK, R. Tradução: T. F. Aúz e B. Eguibar. 
+Barcelona: Editorial Gedisa, 2001.
+
+FOUCAULT, M. A ordem do discurso. Tradução: L. F. A. Sampaio. São 
+Paulo: Loyola, 1996 [1971].
+
+FUZER, C.; CABRAL, S. R. S. Introdução à Gramática Sistêmico-
+Funcional em Língua Portuguesa. Coleção As Faces da Linguística 
+Aplicada. Campinas: Mercado de Letras, 2014.
+
+HALLIDAY, M. A. K.; MATTHIESSEN, C. M. I. M. Halliday’s introduction 
+to functional grammar. Revised by Christian M.I.M. Matthiessen. 4th 
+edition, London and New York: Routledge, 2014.
+
+LIRA, L. C. E.; ALVES, R. B. C. Teoria social do discurso e evolução da aná-
+lise de discurso crítica. In: Análise de discurso crítica: para linguistas e 
+não linguistas. Org.: J. R. L. Batista Júnior; D. T. B. SATO; I. F. MELO. São 
+Paulo: Parábola, 2018.
+
+MAGALHÃES, I. Ideologias linguísticas no estudo do discurso: educação 
+inclusiva e questões contemporâneas. Discurso & Sociedad, v. 13, n. 1, 
+Barcelona, p. 04-28, 2019.
+
+MELO, A. G. Gênero, deficiência, cuidado e capacitismo: uma análi-
+se antropológica de experiências, narrativas e observações sobre 
+
+violências contra mulheres com deficiência. 2014, 262f. Dissertação 
+(Mestrado em Antropologia Social) – Programa de Pós-graduação em 
+Antropologia Social, Universidade Federal de Santa Catarina, 2014.
+
+RAMALHO, V.; RESENDE, V. Análise de Discurso (para a) crítica: o tex-
+to como material de pesquisa. Campinas, SP: Pontes, 2011.
+
+RESENDE, V. M. Deslocamento forçado e permanência vigiada, território 
+e fronteira: metáforas de espaço na representação de rua na Folha de 
+São Paulo. Revista de Estudos da Linguagem, v. 28, p. 565-596, 2020.
+
+RIBEIRO, D. O que é: lugar de fala? Belo Horizonte: Letramento, 2017.
+
+THOMPSON, G. Introducing functional grammar. 3th edition, London 
+and New York: Routledge, 2014.
+
+TILIO, R. “A querela dos direitos”: loucos, doentes mentais e portadores 
+de transtornos e sofrimentos mentais. Paldeia, v. 17, p. 195-206, 2007.
+
+VAN DIJK. Discurso e poder. Orgs.: J. Hoffnagel, K. Folcone. São Paulo, 
+Contexto, 2008.
+
+

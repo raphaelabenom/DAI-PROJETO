@@ -1,0 +1,1725 @@
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+ 
+https://doi.org/10.51359/2238-6211.2023.258488   
+
+Licença  Creative  Commons  Atribuição  4.0 
+Internacional.  CC  BY -  permite  que  outros 
+distribuam,  remixem,  adaptem  e  criem  a  partir  do  seu  trabalho, 
+mesmo para fins comerciais, desde que lhe atribuam o devido crédito 
+pela criação original. 
+ 
+
+ ECONOMIC FEASIBILITY OF CATALYTIC CRACKING OF 
+
+POLYMER WASTE FOR FUEL PRODUCTION 
+
+Luís Roberto Cavalcanti da Silva1, http://orcid.org/0000-0001-9842-8264 
+
+Thibério Pinho Costa Souza2, http://orcid.org/0000-0001-9452-948X 
+
+1Universidade Federal Rural de Pernambuco - UFRPE, Garanhuns, Pernambuco, Brasil*
+2Universidade Federal Rural de Pernambuco - UFRPE, Garanhuns, Pernambuco, Brasil**
+
+ 
+
+Artigo recebido em 03/05/2023 e aceito em 30/07/2023 
+
+Publicado: Out/2023 
+
+ABSTRACT 
+Plastic  waste  represents  a  major  environmental  concern,  as  it  does  not  degrade  in  the  environment  and  is 
+constantly  discarded.  The  types  of  polymers  most  used  in  the  world  are  polyethylene  and  polypropylene, 
+mainly for the production of packaging and, therefore, are the most discarded plastic waste in the environment. 
+Some efforts are being applied to mitigate this situation, such as mechanical recycling, which transforms plastic 
+waste into other products. But polymer cracking processes are promising alternatives, converting waste into 
+lightweight materials that can be turned into commercial fuels. However, to be viable, these processes must 
+consume as little resources as possible and, for this, feasibility experiments must be carried out to prove their 
+application  on  a  large  scale  and  in  small  transformation  units.  This  work  presents  a  methodology  for 
+assembling a low-cost pyrolysis reactor to carry out the cracking of polymeric residues, and experiments were 
+carried  out  with  it,  whose  results  showed  the  technical  and  economic  viability  of  the  described  process, 
+obtaining a rate of conversion of plastic into fuels of up to 96%, so it can be widely applied to reduce impacts 
+caused by plastic disposal. 
+ 
+Keywords: Pyrolysis; Polymers; Fuel; Environment; Renewable Energy. 
+ 
+ 
+
+VIABILIDADE ECONÔMICA DO CRAQUEAMENTO CATALÍTICO DE 
+
+RESÍDUOS DE POLÍMEROS PARA PRODUÇÃO DE COMBUSTÍVEL 
+
+ 
+RESUMO 
+Os resíduos plásticos representam uma grande preocupação ambiental, pois não se degradam no meio ambiente 
+e  são  constantemente  descartados.  Os  tipos  de  polímeros  mais  utilizados  no  mundo  são  o  polietileno  e  o 
+polipropileno,  principalmente  para  a  produção  de  embalagens  e,  por  isso,  são  os  resíduos  plásticos  mais 
+descartados  no  meio  ambiente.  Alguns  esforços  estão  sendo  aplicados  para  mitigar  essa  situação,  como  a 
+reciclagem  mecânica,  que  transforma  resíduos  plásticos  em  outros  produtos.  Mas  os  processos  de 
+craqueamento de polímeros são alternativas promissoras, convertendo resíduos em materiais leves que podem 
+ser transformados em combustíveis comerciais. Porém, para serem viáveis, esses processos devem consumir 
+
+*  Mestre em Ciências Ambientais, Universidade Federal Rural de Pernambuco, E-mail: luisrcsilva@gmail.com 
+**  Doutor em Engenharia Química, Universidade Federal Rural de Pernambuco, E-mail: thiberio.souza@ufape.edu.br 
+
+ 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+268 
+
+PKS 
+
+PUBLIC 
+KNOWLEDGE 
+PROJECT 
+
+https://periodicos.ufpe.br/revistas/revistageografia 
+
+ 
+
+OJS 
+
+OPEN  
+JOURNAL 
+SYSTEMS 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+o mínimo de recursos possível e, para isso, devem ser realizados experimentos de viabilidade que comprovem 
+sua  aplicação  em  larga  escala  e  em  pequenas  unidades  de  transformação.  Este  trabalho  apresenta  uma 
+metodologia para montagem de um reator de pirólise de baixo custo para realizar o craqueamento de resíduos 
+poliméricos,  e  nele  foram  realizados  experimentos,  cujos  resultados  mostraram  a  viabilidade  técnica  e 
+econômica do processo descrito, obtendo taxa de conversão de plástico em combustíveis de até 96%, podendo 
+assim ser amplamente aplicado para reduzir os impactos causados pelo descarte de plástico. 
+ 
+Palavras-chave: Pirólise; Polímeros; Combustível; Meio Ambiente; Energia Renovável. 
+ 
+ 
+VIABILIDAD ECONÓMICA DEL CRAQUEO CATALÍTICO DE RESIDUOS 
+
+DE POLÍMEROS PARA LA PRODUCCIÓN DE COMBUSTIBLE 
+
+ 
+RESUMEN 
+Los desechos plásticos representan una preocupación ambiental importante, ya que no se degradan en el medio 
+ambiente  y  son  desechados  constantemente.  Los  tipos  de  polímeros  más  utilizados  en  el  mundo  son  el 
+polietileno  y  el  polipropileno,  principalmente  para  la  producción  de  envases  y,  por  tanto,  son  los  residuos 
+plásticos  más  desechados  en  el  medio  ambiente.  Se  están  aplicando  algunos  esfuerzos  para  mitigar  esta 
+situación,  como  el  reciclaje  mecánico,  que  transforma  los  residuos  plásticos  en  otros  productos.  Pero  los 
+procesos de craqueo de polímeros son alternativas prometedoras, ya que convierten los desechos en materiales 
+livianos que pueden convertirse en combustibles comerciales. Sin embargo, para ser viables, estos procesos 
+deben  consumir  la  menor  cantidad  de  recursos  posible  y,  para  ello,  se  deben  realizar  experimentos  de 
+factibilidad para probar su aplicación a gran escala y en pequeñas unidades de transformación. Este trabajo 
+presenta una metodología para el montaje de un reactor de pirólisis de bajo costo para realizar el craqueo de 
+residuos poliméricos, y en él se realizaron experimentos, cuyos resultados demostraron la viabilidad técnica y 
+económica del proceso descrito, obteniendo una tasa de conversión de plástico en combustibles hasta un 96%, 
+por lo que puede aplicarse ampliamente para reducir los impactos causados por la eliminación de plásticos. 
+ 
+Palabras clave: Pirólisis; Polímeros; Combustible; Medio Ambiente; Energía Renovable. 
+
+INTRODUCTION 
+
+Plastic is increasingly present in homes and in the world economy, facilitating people's daily 
+
+lives in various aspects, such as transporting groceries, storing food or manufacturing the most diverse 
+
+products,  such  as  bags,  cups  or  straws.  These  polymeric  wastes  represent  serious  environmental 
+
+problems,  as about  79% of plastic waste accumulates in  dumps, landfills, rivers and seas, causing 
+
+various environmental, economic and social damages over time (GEYER, 2020; KAWAI; TASAKI, 
+
+2015). 
+
+In  addition,  polymers  represent  serious  problems  for  marine  fauna  through  microplastics, 
+
+which originate from the slow decomposition of plastic waste. These materials are consumed by these 
+
+animals  precisely  because  they  do  not  distinguish  them  from  their  natural  foods,  usually 
+
+phytoplankton  and  zooplankton,  also  affecting  humans  (LESLIE  et  al.,  2022;  SARKER,  2011; 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+269 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+SRININGSIH et al., 2015). However, microplastics also affect the terrestrial environment, as they 
+
+are used by industry for the production of cosmetics, paints, detergents, tires, etc. As a result, they 
+
+affect  the  soil,  water  and  atmosphere,  while  contaminating  the  food  and  feed  production  chain 
+
+(ALEXY et al., 2020; TOUSSAINT et al., 2019; ROY et al., 2022; WATT et al., 2021). 
+
+The annual production of synthetic polymers has been increasing, with indications of almost 
+
+doubling in just over 30 years (Fig. 1). As a result, the environmental problems caused by them will 
+
+intensify more and more, reflecting the inappropriate disposal  of plastic  waste, the increase in  the 
+
+world population and, consequently, the growing demand for plastic packaging. 
+
+Fig. 1: Evolution in world plastic production (2008-2050). 
+
+Source: adapted from Leski and Berkowicz-Płatek, 2021 and Pal et al., 2022. 
+
+ 
+
+These problems, caused by the inadequate disposal of plastic waste, mainly in countries that 
+
+adopt consumerist practices, such as the United States and China (Fig. 2), lead to an increase in the 
+
+need to promote recycling as an important practice inserted in the production chain of this material 
+
+(LESKI; BERKOWICZ-PŁATEK, 2021). 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+270 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+Fig. 2: Average annual production of plastics between 1950 and 2017 by countries. 
+
+ 
+ 
+
+ 
+
+Source: Atlas do plástico (2020), p. 16. 
+
+ 
+
+In  this  context,  some  actions  are  planned  and  executed  to  try  to  mitigate  the  problem  of 
+
+pollution caused by plastic waste, such as energy recovery, but it is very polluting, because during 
+
+burning, many greenhouse gases are emitted into the atmosphere. Alternatively, there is mechanical 
+
+recycling, which reuses thermoplastics to produce new products, however, the plastic loses strength 
+
+due to the constant repetition of the process, in addition, the types of polymers must be separated, 
+
+increasing costs (EZE et al., 2021). 
+
+ 
+
+With  the  emerging  need  for  the  development  of  alternative  energy  resources,  pyrolysis  or 
+
+thermal cracking of polymers is being widely studied as a viable solution to reduce or minimize the 
+
+environmental problems caused by the disposal of plastics (BAJUS; HÁJEKOVÁ, 2010; JIA, 2021). 
+
+This  technique can be defined as a process  that, through heating and in  the absence or scarcity of 
+
+oxygen, 
+
+leads 
+
+to 
+
+the  decomposition  of  chemical  products,  whether  natural  or  organic 
+
+(NOFENDRI, 2021). Thus, Sharuddin et al. (2016), explain this method as “the process of thermal 
+
+degradation of long-chain polymer molecules into smaller and less complex molecules through heat 
+
+and pressure”, whereas  Qureshi et al. (2020) state that “pyrolysis is  the thermal  decomposition or 
+
+catalytic process of a material in an oxygen-free or oxygen-limited environment”, and describe the 
+
+process as follows: “Polymer feedstock is introduced into a reactor at 450 – 600℃ to produce a steam. 
+
+Vapors consist of condensable (liquid and wax) and non-condensable (gas) fractions”. 
+
+For Barbarias (2019) and  Bezerra (2016) cracking has received a lot of attention and is  an 
+
+excellent alternative to reuse discarded plastic waste. In this process, polymeric waste is converted 
+
+into fuels or lighter chemicals that can be used as raw materials for the chemical and petrochemical 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+271 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+industries (ZHOU et al., 2021). In addition to generating products with greater added value, cracking 
+
+has the advantage of being able to be carried out by mixing different types of plastics (SUNDARRAJ; 
+
+MEIKANDAN, 2021). 
+
+ 
+
+The polymeric cracking process can be carried out in two ways, thermal cracking, with high 
+
+temperatures,  and  thermal  catalysis  cracking,  with  the  aid  of  catalyst  materials  to  accelerate  and 
+
+improve the process and, therefore, improve the yield of the products obtained (VARGAS et al., 2021). 
+
+Usually, catalyst materials are solid substances with acidic properties, such as zeolites, which when 
+
+dehydrated,  develop  a  mesoporous  structure  with  ion  exchange  capacity  (VARGAS  et  al.,  2021; 
+
+HERNÁNDEZ et al., 2005). However, other materials can be used, such as sodium carbonate, clays 
+
+and silica, low-cost substances that can reduce the costs of the procedure  (BEZERRA et al., 2016; 
+
+LESKI; BERKOWICZ-PŁATEK, 2021). As a result, plastic waste is basically converted into solid, 
+
+liquid and gaseous fuels, thus obtaining products such as coal or coke, gases (mainly CO, CO2, CH4 
+
+and H2) of high calorific value (between 15 and 30 MJ/m3) and oils that can be separated by other 
+
+processes,  such  as  distillation,  in  order  to  obtain  diesel,  gasoline  or  other  types  of  residual  oils 
+
+(RAJCA et al., 2020; THI et al., 2021; ZAJEMSKA et al., 2022). 
+
+ 
+
+However, feasibility studies are needed that can develop methodologies and techniques for 
+
+carrying  out  polymeric  cracking  at  viable  costs,  whether  for  small  or  large  transformation  plants, 
+
+since large industrial pyrolysis reactors have a very high cost, around 300 to 500 thousand dollars per 
+
+unit (ROGERS; BRAMMER, 2012; WOOLF et al., 2017). Therefore, this work aims to assemble a 
+
+low-cost pyrolysis reactor for cracking mixed polyethylene and polypropylene polymers and, thus, 
+
+evaluate  the  economic  viability  of  producing  fuels  compatible  with  gasoline  from  this  waste 
+
+conversion system. 
+
+With  the  use  of  low-cost  materials,  such  as  a  pressure  cooker,  camping  stove  and  other 
+
+improvised materials, the pyrolysis reactor was assembled and tests were carried out in it that proved 
+
+the effectiveness of the polymer catalytic pyrolysis procedure, when converting waste into fuel, with 
+
+a rate of up to 96%, and a favorable energy expenditure ratio of 2.46:1. 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+272 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+MATERIAL AND METHODS 
+
+The selection of the necessary plastic waste of polyethylene (PE) and polypropylene (PP) was 
+
+carried  out  with  the  accumulation  of  materials  that  would  be  discarded.  To  identify  the  types  of 
+
+polymers collected, the indicative symbols were used, printed on the plastic materials, according to 
+
+the  standardization  of  recyclable  polymers  of  ABNT  NBR  13230  (Fig.  3).  Thus,  materials  that 
+
+presented the corresponding symbols with numbers 2, 4 and 5 were collected. 
+
+Fig. 3: Symbols of the main recyclable polymers. 
+
+Source: Associação Brasileira de Norma Técnicas, 2008. 
+
+The  polymeric  cracking  tests  were  performed  in  a  pyrolysis  reactor,  defined  by Ali  et  al. 
+
+(2022), as “a sealed  chamber where a  chemical  reaction takes place [...]  in  which plastic waste is 
+
+burned in the absence of oxygen”. The reactor was assembled following the model shown in Fig. 4a, 
+
+with  low-cost  materials,  acquired  with  the  author's  own  resources,  in  order  to  prioritize  economic 
+
+viability. The assembled equipment is shown in Fig. 4b. 
+
+Fig. 4a: Model of the assembled polymer pyrolysis reactor. 
+
+ 
+
+ 
+
+Source: by authors (2022). 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+273 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+Fig. 4b: Pyrolysis reactor assembled. 
+
+01 - Stove; 02 - Cracking unit; 03 - Thermal insulation; 04 - Thermocouple sensor; 05 - Piping; 06 - Coil (inside the 
+condenser); 07 - Condenser; 08 - Glass pot A; 09 - Glass pot B; 10 - Hose for energy reintegration; 11 - Arduino Uno 
+
+ 
+
+board. 
+
+Source: by authors (2022). 
+
+The experiments were carried out with 200 g of mixed polymers, consisting of PE and PP, due 
+
+to the volumetric capacity of the cracking unit, and the stove was lit for 45 minutes, adjusted to the 
+
+intermediate position of the flame to avoid excessive energy consumption and to reach the highest 
+
+temperature possible under these conditions. Thus, a test was carried out without a catalyst, while the 
+
+pyrolysis tests by thermal catalysis were carried out with the addition of black clay powder, a type 
+
+that is richer in aluminosilicates (LESKI; BERKOWICZ-PŁATEK, 2021), in the proportions of 5, 10, 
+
+15 and 20% in relation to the mass of the raw material used. The best condition observed with the 
+
+tests  was  repeated,  but  with  manual  control  of  the  flame  to  stabilize  the  temperature  around  250-
+
+260 °C (Table 1), the temperature at which the beginning of the reactions in the cracking unit was 
+
+observed in all the tests performed. 
+
+Table 1: Experiments carried out with pyrolysis of polymers. 
+
+Polymer 
+
+Catalyst 
+
+Condition 
+
+Pyrolysis Type 
+
+Thermal 
+
+Thermo-catalytic 
+
+Thermo-catalytic 
+
+Thermo-catalytic 
+
+Thermo-catalytic 
+
+Thermo-catalytic 
+
+mass 
+
+200 g 
+
+200 g 
+
+200 g 
+
+200 g 
+
+200 g 
+
+200 g 
+
+mass 
+
+10 g 
+
+20 g 
+
+30 g 
+
+40 g 
+
+20 g 
+
+- 
+
+Stove with intermediate flame. 
+
+Stove with intermediate flame. 
+
+Stove with intermediate flame. 
+
+Stove with intermediate flame. 
+
+Stove with intermediate flame. 
+
+Stove with controlled flame around 250 - 260 °C. 
+
+Source: by authors (2022). 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+274 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+After  each  procedure  performed,  the  resulting  masses  of  liquid  and  solid  compounds  were 
+
+measured on a precision scale of 1 g (Fig. 10), and the mass of gases was estimated, subtracting the 
+
+liquid and solid masses from the total mass of polymers used, according to the formula: 
+
+mG = mP - (mL+ mR) 
+
+Where, 
+
+mP = mass of polymers (raw material) 
+
+mL = mass of liquid obtained 
+
+mG = mass of gases obtained 
+
+mR = mass of solid waste 
+
+The compounds obtained from liquid fuel were properly transferred to suitable  flasks, with 
+
+this,  the  tabulated  data  were  analyzed  to  verify  the  best  condition  in  which  the  cracking  of  the 
+
+polymers occurred. This analysis was performed observing and evaluating the following criteria: 
+
+01. 
+
+Greater amount of liquid fuel collected; 
+
+02. 
+
+Lower energy expenditure, measured by comparing the mass of the LPG (liquefied petroleum 
+
+gas) gas refill before and after the conclusion of each experiment; 
+
+03. 
+
+Greater amount of fuel, liquid and gas, generated; 
+
+04.   Greater relationship between fuels produced and energy expenditure with LPG gas. 
+
+A sample of the liquid compound obtained in the 3rd experiment, with the best results, was 
+
+washed with distilled water to remove impurities and then passed through a simple distillation process 
+
+to separate water residues and, mainly, other residual impurities. 
+
+After  completing  the  purification  procedures,  a  sample  of  the  compound  was  submitted  to 
+
+absorption  spectrophotometry  analysis,  using  the  WUV-M51  Web  Labor  spectrophotometer,  also 
+
+performed on a commercial sample of pure common gasoline, obtained by adding and mixing 200 ml 
+
+of  distilled  water  in  600  ml  of  regular  gasoline,  with  subsequent  decanting  and  draining  of  the 
+
+aqueous/ethanol mixture, as according to Brazilian legislation, regular gasoline must contain  up to 
+
+27.5% of anhydrous ethanol (BRASIL, 2014), thus obtaining 435 ml of pure gasoline. 
+
+To  certify  the  results  obtained  by  the  analysis  by  spectrophotometry,  a  visible  light 
+
+spectrometer was built (Fig. 5), by which it generates curves of the continuous spectrum of the fluid 
+
+under analysis. Through it, it was possible to obtain the visible irradiation spectra of both commercial 
+
+gasoline and pyrolysis oil and, thus, make a comparison between the two results, verifying similarities 
+
+or discrepancies. For the construction of this equipment, the works of Feng et al. (2021) and Silva et 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+275 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+al. (2021) were used as a basis, which prove the effectiveness and precision of their respective projects 
+
+comparing their results with those of commercial spectrometers. The optimization of the constructed 
+
+device  was  carried  out  by  calibrating  the  position  and  distance  of  the  camera  in  relation  to  the 
+
+spectrum generated by the diffraction grating, as well as adjusting the spectral curve in the Theremino 
+
+Spectrometer  version  3.1  software.  These  procedures  were  performed  according  to  the  notes  of 
+
+Gatkine et al. (2018), using green (532 nm) and red (645 nm) lasers. 
+
+Fig. 5: Built-in visible light spectrometer. 
+
+1 – USB cables, connected to the PC/notebook; 2 – Light source compartment (high brightness LED); 3 – Cuvette for 
+
+spectroscopy; 4 – Light outlet hole; 5 – Fixing supports for camera; 6 – Diffraction grating; 7 – Laptop camera. 
+
+ 
+
+Source: by authors (2022). 
+
+RESULTS AND DISCUSSION 
+
+The  results  obtained  through  the  first  five  polymer  cracking  experiments  carried  out  were 
+
+tabulated  and,  with  this,  it  was  possible  to  analyze  and  verify  the  most  favorable  conditions  for 
+
+carrying out polymeric pyrolysis under the conditions described in this research. After identifying the 
+
+best scenario among the pyrolysis experiments carried out, the conditions in which it occurred were 
+
+repeated in the sixth test, with flame control to maintain temperatures around 250 °C, reaffirming the 
+
+best results obtained in the third procedure (Table 2). However, to confirm the best scenario, six tests 
+
+were carried out with different polymeric raw materials, which obtained different proportions of fuel 
+
+and waste. 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+276 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+Table 2: Final synthesis of the six cracking experiments of mixed PP and PE polymers. 
+
+Tests 
+
+Maximum 
+temp. (°C) 
+
+Catalyst 
+
+Byproduct (g) 
+
+Residue 
+
+LPG 
+
+Conversion 
+
+Energy 
+
+Oils  Gases 
+
+Total 
+
+consumption (g) 
+
+rate 
+
+1.º 
+
+2.º 
+
+3.º 
+
+4.º 
+
+5.º 
+
+6.º 
+
+318,5 
+
+331,8 
+
+293,3 
+
+321,6 
+
+310,0 
+
+254,0 
+
+(g) 
+
+0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+20 
+
+23 
+
+30 
+
+39 
+
+56 
+
+58 
+
+60 
+
+121 
+
+192 
+
+152 
+
+122 
+
+37 
+
+91 
+
+153 
+
+96 
+
+64 
+
+70 
+
+(g) 
+
+140 
+
+79 
+
+8 
+
+48 
+
+78 
+
+107 
+
+37 
+Source: by authors (2022). 
+
+93 
+
+72 
+
+79 
+
+78 
+
+76 
+
+74 
+
+65 
+
+30,0% 
+
+60,5% 
+
+96,0% 
+
+76,0% 
+
+61,0% 
+
+53,5% 
+
+ratio 
+
+0,83:1 
+
+1,53:1 
+
+2,46:1 
+
+2,00:1 
+
+1,64:1 
+
+1,64:1 
+
+The analysis of the results allowed us to point out the third test, which received black clay as 
+
+a  catalyst  at  a  rate  of  10%,  as  the  one  that  presented  the  best  fuel  production  and  high  polymer 
+
+conversion rate, 96% of the polymeric mass, with the lowest relative energy expenditure, exceeding 
+
+two parts of fuel obtained for each part of fuel consumed, thus presenting a ratio of 2.46:1 (byproduct: 
+
+consumption). 
+
+Using the data in this table, it was possible to build a comparative graph (Fig. 6), relating the 
+
+production of fuel oil and gases, and the total amount of fuel produced in each of the experiments 
+
+carried out,  according to the percentage of catalyst added. However, the sixth experiment  was not 
+
+included, as it took place in different temperature conditions than the others. 
+
+Fig. 6: Comparison in the production of fuels between the experiments carried out. 
+
+Source: by authors (2022). 
+
+ 
+
+From the graph it is possible to notice the increase in the production of liquid and gaseous 
+
+fuels, as the catalyst material is added in up to 10% of the polymeric mass, at which time there is a 
+
+reduction in the production of oils, in case of an increase in this percentage, however, gas production 
+
+does  not  decrease.  It  is  also  verified  that  the  gaseous  production  becomes  more  intense  to  the 
+
+detriment of the oil production, as the amount of the catalyst is increased. 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+277 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+To analyze the pyrolysis oil obtained in the third experiment, a 50 g sample of it was subjected 
+
+to two purification procedures, washing and distillation. The first procedure, washing, was carried 
+
+out with distilled water to avoid unwanted reactions between the fuel and the salts present in drinking 
+
+and tap water. The process was repeated three times in the same sample, aiming at more efficiency. 
+
+The water, with absorbed impurities, was separated from the oil by decanting (Fig. 7a), thus obtaining 
+
+a lighter fuel than the original oil (Fig. 7b). 
+
+Fig. 7a: Washing the pyrolysis oil. 
+
+Fig. 7b: Difference between washed oil and original oil. 
+
+Source: by authors (2022). 
+
+ 
+
+Source: by authors (2022). 
+
+ 
+
+ 
+
+The distillation procedure was carried out by simple distillation, using the infrastructure of the 
+
+pyrolysis reactor assembled, at temperatures below 100 °C, to separate the lighter compounds from 
+
+the pyrolysis oil, in the gasoline condensation range. In this way, the washed oil was accommodated 
+
+in  a glass  container (distillation  flask) and its lid was sealed and perforated for the  allocation and 
+
+fixation of a copper tube, also sealed, and connected to a hose, with the same diameter as the pipe 
+
+(¼ inch), also used as a coil for the condenser (Fig. 8a-8b). 
+
+Fig. 8a: Distiller mounted. 
+
+Fig. 8b: Pyrolysis oil being distilled. 
+
+Source: by authors (2022). 
+
+ 
+
+ 
+Source: by authors (2022). 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+278 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+Through the distillation process, two compounds were obtained, 30 g of a clean and clear fuel 
+
+(Fig. 9a), resulting from the condensation of lighter gases; and 18 g of residue, with the consistency 
+
+of dense and dark grease (Fig. 9b), remaining in the flask. The remainder of the prepared sample, 2 g 
+
+of material, represents the removed impurities and non-condensable gases. 
+
+Fig. 9a: Oil obtained by distillation. 
+
+Fig. 9b: Distillation residues. 
+
+Source: by authors (2022). 
+
+ 
+
+Source: by authors (2022). 
+
+ 
+
+The analysis of the obtained compound was performed by comparing the spectrophotometry 
+
+results of a sample of purified commercial gasoline, as a reference. The measurements took place in 
+
+the visible light spectrum range, from 400 to 700 nm of electromagnetic wavelength, between 50 nm 
+
+spaces,  with  three  repetitions  for  each  measurement.  From  the  data  of  these  measurements,  it  is 
+
+possible to  observe the total absorbance of the radiation  up to  500 nm,  at which time it begins  to 
+
+decrease, in a sinuous way, until it stabilizes in the range of 650 nm, with lower energy absorbance at 
+
+700 nm (Fig. 10). 
+
+ 
+
+The spectrophotometry analysis of the pyrolysis oil followed the same conditions and steps as 
+
+those  performed  with  commercial  gasoline.  Thus,  from  the  information  acquired  through  the 
+
+measurements, the behavior of the curve similar to that of commercial gasoline can be observed, with 
+
+initial total absorbance, up to 450 nm, and then a drop in this aspect, until reaching 700 nm, the lowest 
+
+absorbance point presented in the fuel (Fig. 11). However, in the electromagnetic range between 550 
+
+and 600 nm, there is a slight deceleration in the drop-in absorbance, and then it returns to the rate of 
+
+reduction, tending to reduce even more in the infrared spectrum. 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+279 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+Fig. 10: Visible absorption spectrum of pure 
+
+Fig. 11: Visible absorption spectrum of the pyrolysis 
+
+commercial gasoline. 
+
+oil obtained. 
+
+Source: by authors (2022). 
+
+Source: by authors (2022). 
+
+ 
+
+ 
+
+By superimposing the curves of these two graphs (Fig. 12) it is possible to better verify the 
+
+spectrophotometry similarity between analyzed compounds. It is observed, then, that the components 
+
+presented in the electromagnetic range between 400 and 450 nm are the same for both the standard 
+
+fuel, commercial gasoline, and the fuel obtained with polymeric cracking. Likewise, this occurs in 
+
+the range of 585 nm, when the curves of the compounds intersect, indicating a common composition, 
+
+as well as the tendency of the curves to meet again in the infrared spectrum, above 700 nm of  the 
+
+spectrum of this radiation. In the segment between 450 and approximately 585 nm, the pyrolysis oil 
+
+has lower energy absorption than the same range of standard gasoline, thus indicating the obtaining 
+
+of lighter and less energetic fractions of fuels in this range of the spectrum. However, in the segment 
+
+between  585  and  700  nm,  the  pyrolysis  compound  absorbs  more  energy  than  the  reference  fuel, 
+
+obtaining, in this range, fractions of heavier components and, therefore, more energetic components 
+
+of this fuel. 
+
+Fig. 12: Superimposed visible absorption spectra of pure commercial gasoline and obtained pyrolysis oil. 
+
+Source: by authors (2022). 
+
+ 
+
+In order to validate the results obtained with the spectrophotometry analysis, a spectrometry 
+
+study was also carried out, using the device set  up for this purpose, on samples of distilled water, 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+280 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+purified commercial gasoline and pyrolysis oil obtained (Fig. 13). Thus, aiming at a more consistent 
+
+analysis, the visible light spectrum of the distilled water sample was initially obtained (Fig. 14), which 
+
+served as a parameter to generate the spectra of the fuel compounds to be compared. 
+
+Fig. 13: Samples analyzed by spectrometry. 
+
+Source: by authors (2022). 
+
+ 
+
+Fig. 14: Spectrum of visible light emission of distilled water. 
+
+Source: by authors (2022). 
+
+ 
+
+ 
+
+After calibrating the spectrometer, using distilled water, the spectra of the fuels under analysis 
+
+were obtained. Thus, it can be observed in the spectrum of purified commercial gasoline (Fig. 15) a 
+
+greater intensity in the ranges between 650 and 700 nm, corresponding to red light, and between 400 
+
+and 415 nm, consistent with violet light. In the other parts of the spectrum, greater absorption of green 
+
+light  is  observed, between 500 and 540 nm.  Compared to  the gasoline spectrum, the pyrolysis oil 
+
+spectrum  (Fig.  16)  presents  very  similar  behavior  and  characteristics,  with  bands  close  to  higher 
+
+intensities and higher radiation absorptions in relation to the analyzed gasoline spectrum. 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+281 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+Fig. 15: Visible light spectrum of purified commercial gasoline. 
+
+ 
+ 
+
+ 
+
+Source: by authors (2022). 
+
+Fig. 16: Visible light spectrum of pyrolysis oil. 
+
+ 
+
+ 
+
+ 
+
+Source: by authors (2022). 
+
+With the superposition of the spectra of gasoline and pyrolysis oil (Fig. 17), the similarities 
+
+between the visible radiation spectra of the two compounds can be seen more clearly, especially in 
+
+the  range  from  460  to  540  nm.  In  this  interval,  a  profound  similarity  between  the  spectra  can  be 
+
+verified,  indicating  compatible  compounds  in  the  two  analyzed  fuels.  However,  there  are  small 
+
+differences in the other parts of the spectra, with pyrolysis oil showing a little more energy absorption, 
+
+thus  indicating  that  it  is  a  slightly  heavier  and  more  energetic  compound,  compared  to  gasoline. 
+
+However,  even  with  these  discrepancies,  the  overlay  of  the  graphs  presents  similar  behaviors, 
+
+indicating similar compositions, even in the divergent bands. 
+
+Fig. 17: Superposition of visible light spectra of purified gasoline and pyrolysis oil. 
+
+ Source: by authors (2022). 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+282 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+CONCLUSION 
+
+In view of the results presented, it was found that the objectives of this research were fully 
+
+met, however, some reservations must be pointed out. In this sense, it was observed that the prototype 
+
+of  the  assembled  pyrolysis  reactor,  despite  being  efficient  and  suitable  for  the  proposal  presented 
+
+here,  can  be  improved  and  have  its  costs  even  lower,  replacing  the  aluminum  pressure  cooker,  a 
+
+relatively  fragile  material  at  high  temperatures,  by  a  paint  can,  made  of  steel  and  more  resistant, 
+
+without the need for sealing with a rubber ring. It was also observed that the condenser coil did not 
+
+necessarily need to be made of a copper tube, and could be assembled with a plastic or rubber hose, 
+
+since the high temperatures occur only inside the cracking unit and the condenser must be immersed 
+
+in water at low temperatures. 
+
+Both the thermal variation and the variation of proportions added of black clay as catalyzed 
+
+in the catalytic cracking process of polymers exerted influences on the quantities and characteristics 
+
+of the by-products obtained in the experiments carried out, however, the process without the use of 
+
+the catalyst did not obtain satisfactory results. Thus, even with the efficiency verified in the thermal 
+
+insulation system, temperatures below 300 °C are not indicated for carrying out polymeric pyrolysis, 
+
+at the cost of sacrificing the efficiency of the system and the return on fuels obtained. 
+
+After  the  spectroscopic  analysis  of  the  sample  of  the  liquid  compounds  obtained,  in 
+
+comparison with the same analysis performed on commercial gasoline, similarities were verified in 
+
+the spectral curves and, therefore, in their respective compositions, thus pointing to gasoline as one 
+
+of the compounds acquired with the catalytic cracking process. However, more definitive analyzes 
+
+and  tests  can  be  performed  for  a  more  accurate  identification  of  the  polymeric  pyrolysis  fuel 
+
+composition. 
+
+Thus, it is concluded that the thermal catalysis cracking procedure presented in this study is 
+
+feasible  for  its  implementation  on  any  scale,  from  a  small  reactor,  as  presented  here,  to  a  large 
+
+commercial reactor. This feasibility was observed in relation to the economic aspect, since the model 
+
+of the reactor suggested and assembled aims at the low cost of its construction and the materials used 
+
+in it. In addition, the energy consumption observed in the best scenario among the tests carried out, 
+
+confirms the aforementioned economic feasibility, since the relationship between the amount of fuels 
+
+acquired with the pyrolysis process and the fuels consumed is very favorable for the pyrolysis oil, 
+
+thus indicating that the energy expenditure is compensated by the procedure performed. 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+283 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+REFERENCES 
+
+ABNT.  NBR  13230:  Embalagens  e  acondicionamentos  plásticos  recicláveis  –  identificação  e 
+simbologia. Rio de Janeiro: ABNT, Rio de Janeiro, 2008. 
+
+ALEXY, P.; ANKLAM, E.; EMANS, T.; FURFARI, A.; GALGANI, F.; HANKE, G.; KOELMANS, 
+A.;  PANT,  R.;  SAVEYN,  H.;  KLUETTGEN,  B.  S.  Managing  the  analytical  challenges  related  to 
+micro and nanoplastics in the environment and food: filling the knowledge gaps. Food Additives & 
+Contaminants: Part A, v. 37, n. 1, p. 1-10, 2020. http://doi.org/10.1080/19440049.2019.1673905. 
+
+ALI, Z.; RATHNAKUMAR, P.; HUSSAIN, M. A.; ROMA, E.; NAGARAL, M.; UMAR, Md. Jet 
+fuel produced from waste plastic with graphite as a catalyst. Materials Today: Proceedings, v. 52, 
+p. 716-732, 2022. http://doi.org/10.1016/j.matpr.2021.10.131. 
+
+BAJUS, M.; HÁJEKOVÁ, E. Thermal cracking of the model seven components mixed plastics into 
+oils/waxes. Petroleum & Coal, v. 52, p.164-172, 2010. 
+
+BARBARIAS,  I.; ARTETXE,  M.;  LOPEZ,  G.; ARREGI, A.;  SANTAMARIA,  L.;  BILBAO,  J.; 
+OLAZAR, M. Catalyst performance in the HDPE pyrolysis-reforming under reaction-regeneration 
+cycles. Catalysts, v. 9, n. 5, p. 414-428, 2019. http://doi.org/10.3390/catal9050414. 
+
+BEZERRA, F. A.; FIGUEIREDO, A. L.; ARAUJO, A. S.; GUEDES, A. P. M. A. Catalytic pyrolysis 
+of  LDPE  using  modified  vermiculite  as  catalyst.  Polímeros,  v.  26,  p.  55-59,  2016. 
+http://doi.org/10.1590/0104-1428.1761. 
+
+BRASIL. Lei n. 13.033, de 24 de setembro de 2014. Dispõe sobre a adição obrigatória de biodiesel 
+ao óleo diesel comercializado com o consumidor final. Diário Oficial da União, Brasília, DF, ano 151, 
+n. 185, 25 set. 2014. Seção 1, p. 3. 
+
+EZE, W. U.; UMUNAKWE, R.; OBASI, H. C.; UGBAJA, M. I.; UCHE, C. C.; MADUFOR, I. C. 
+Plastics waste management: a review of pyrolysis technology. Clean Technologies and Recycling, 
+v. 1, n. 1, p. 50-69, 2021. http://doi.org/10.3934/ctr.2021003. 
+
+FENG,  J.;  KHAKIPOOR,  B.;  MAY,  J.;  MULFORD,  M.;  DAVIS,  J.;  SIMAN,  K.;  RUSSELL,  G.; 
+SMITH, A. W.;  KING,  H. An open-source dual-beam  spectrophotometer for citizen-science-based 
+water 
+2021. 
+http://doi.org/10.1016/j.ohx.2021.e00241. 
+
+Hardwarex, 
+
+monitoring. 
+
+e00241, 
+
+quality 
+
+10 
+
+p. 
+
+v. 
+
+GATKINE, P. R.; ZIMERMAN, G.; WARNER, E. A do-it-yourself spectrograph kit for educational 
+outreach  in  optics  and  photonics.  Optics  Education  and  Outreach  V,  v.  10741,  p.185-91,  2018. 
+http://doi.org/10.1117/12.2321640. 
+
+GEYER, R. Production, use, and fate of synthetic polymers. Plastic Waste and Recycling, v. 14, p. 
+13-32, 2020. https://doi.org/10.1016/B978-0-12-817880-5.00002-5. 
+
+HERNÁNDEZ, M. R.; GARCÍA, A. N.; MARCILLA, A. Study of the gases obtained in thermal and 
+catalytic  flash  pyrolysis  of  HDPE  in  a  fluidized  bed  reactor.  Journal  of Analytical  and Applied 
+Pyrolysis, v. 73, n. 2, p. 314-322, 2005. http://doi.org/10.1016/j.jaap.2005.03.001. 
+
+JIA,  C.;  XIE,  S.;  ZHANG,  W.;  INTAN,  N.  N.;  SAMPATH,  J.;  PFAENDTNER,  J.;  LIN,  H. 
+Deconstruction  of  high-density  polyethylene  into  liquid  hydrocarbon  fuels  and  lubricants  by 
+hydrogenolysis  over  Ru  catalyst.  Chem  Catalysis,  v.  1,  n.  2,  p.  437-455,  2021. 
+http://doi.org/10.1016/j.checat.2021.04.002. 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+284 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+KAWAI, K.; TASAKI, T. Revisiting estimates of municipal solid waste generation per capita and their 
+reliability.  Journal  of  Material  Cycles  and  Waste  Management,  v.  18,  n.  1,  p.  1-13,  2015. 
+http://doi.org/10.1007/s10163-015-0355-1. 
+
+LESIE,  H.  A.;  VAN  VELZEN,  M.  J.  M.;  BRANDSMA,  S.  H.;  VETHAAK,  A.  D.;  GARCIA-
+VALLEJO,  J.  J.;  LAMOREE,  M.  H.  Discovery  and  quantification  of  plastic  particle  pollution  in 
+human 
+2022. 
+https://doi.org/10.1016/j.envint.2022.107199. 
+
+International, 
+
+Environment 
+
+107199, 
+
+blood. 
+
+163, 
+
+p. 
+
+v. 
+
+LESKI, K.; BERKOWICZ-PŁATEK, G. Pyrolysis of plastic wastes as a way of obtaining valuable 
+chemical  raw  materials.  Chemical  Review  and  Letters,  v.  4,  n.  2,  p.  92-97,  2021. 
+http://doi.org/10.22034/crl.2021.272418.1101. 
+
+MONTENEGRO, M.; VIANNA, M.; TELES, D. B. (org.). Atlas do Plástico: fatos e números sobre 
+o  mundo  dos  polímeros  sintéticos.  Fundação  Heirich  Böll.  Rio  de  Janeiro,  2020. 
+<https://www.br.boell.org/pt-br/2020/11/29/atlas-do-plastico>. Accessed 13 August 2022. 
+
+NOFENDRI, Y. Perbandingan prestasi reaktor pirolisis dengan menggunakan sampah PET dan HDPE. 
+Jurnal Kajian Teknik Mesin, v. 6, n. 2, p. 24-30, 2021. http://doi.org/10.52447/jktm.v6i2.4985. 
+
+PAL, S.; KUMAR, A.; SHARMA, A. K.; GHODKE, P. K.; PANDEY, S.; PATEL, A. Recent advances 
+in catalytic pyrolysis of municipal plastic waste for the production of hydrocarbon fuels. Processes, 
+v. 10, n. 8, p. 1497-1520, 2022. http://doi.org/10.3390/pr10081497. 
+
+QURESHI, M. S.; OASMAA, A.; PIHKOLA, H.; DEVIATKIN, I.; TENHUNEN, A.; MANNILA, 
+J.;  MINKKINEN,  H.;  POHJAKALLIO,  M.;  LAINE-YLIJOKI,  J.  Pyrolysis  of  plastic  waste: 
+opportunities and challenges. Journal of Analytical and Applied Pyrolysis, v. 152, p. 104804, 2020. 
+http://doi.org/10.1016/j.jaap.2020.104804. 
+
+RAJCA,  P.;  POSKART, A.;  CHRUBASIK,  M.;  SAJDAK,  M.;  ZAJEMSKA,  M.;  SKIBIńSKI, A.; 
+KOROMBEL, A. Technological and economic aspect of Refuse Derived Fuel pyrolysis. Renewable 
+Energy, v. 161, p. 482-494, 2020. http://doi.org/10.1016/j.renene.2020.07.104. 
+
+ROGERS,  J.  G.;  BRAMMER,  J.  G.  Estimation  of  the  production  cost  of  fast  pyrolysis  bio-oil. 
+Biomass and Bioenergy, v. 36, p. 208-217, 2012. http://doi.org/10.1016/j.biombioe.2011.10.028. 
+
+ROY,  P.;  MOHANTY, A.  K.;  MISRA,  M.  Microplastics  in  the  ecosystems:  their  implications  and 
+mitigation  pathway.  Environmental  Science:  Advances,  v.  1,  n.  1,  p.  9-29,  2022. 
+http://doi.org/10.1039/d1va00012h. 
+
+SARKER, M. Converting waste plastic to hydrocarbon fuel materials. Energy Engineering, v. 108, 
+n. 2, p. 35-43, 2011. http://doi.org/10.1080/01998595.2011.10389018. 
+
+SHARUDDIN, S. D. A.; ABNISA, F.; DAUD, W. M. A. W.; AROUA, M. K. A review on pyrolysis 
+of  plastic  wastes.  Energy  Conversion  and  Management,  v.  115,  p.  308-326,  2016. 
+http://doi.org/10.1016/j.enconman.2016.02.037. 
+
+SILVA, W.  R.  F.;  SUAREZ, W. T.;  REIS,  C.;  SANTOS,  V.  B.;  CARVALHO,  F. A.;  REIS,  E.  L.; 
+VICENTINI,  F.  C.  Multifunctional  Webcam  Spectrophotometer  for  Performing  Analytical 
+Determination  and  Measurements  of  Emission, Absorption,  and  Fluorescence  Spectra.  Journal  of 
+Chemical Education, v. 98, n. 4, p. 1442-1447, 2021. http://doi.org/10.1021/acs.jchemed.0c01085. 
+
+SRININGSIH,  W.;  SAERODJI,  M.  G.;  TRISUNARYANTI,  W.;  TRIYONO; ARMUNANTO,  R.; 
+FALAH, I. I. Fuel Production from LDPE Plastic Waste over Natural Zeolite Supported Ni, Ni-Mo, 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+285 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+
+ 
+ 
+
+ 
+
+Co  and  Co-Mo  Metals.  Procedia  Environmental  Sciences,  v.  20,  p.  215-224,  2014. 
+http://doi.org/10.1016/j.proenv.2014.03.028. 
+
+SUNDARRAJ,  M.;  MEIKANDAN,  M.  Liquefied  fuel  from  plastic  wastes  using  nitro-cracking 
+method  with  refinery  distillation  bubble  cap  plate  column.  Chemical  Industry  and  Chemical 
+Engineering Quarterly, v. 28, n. 1, p. 39-46, 2021. http://doi.org/10.2298/ciceq200907014s. 
+
+THI, H. D.; DJOKIC, M. R.; VAN GEEM, K. M. Detailed group-type characterization of plastic-
+waste  pyrolysis  oils:  by  comprehensive  two-dimensional  gas  chromatography  including  linear, 
+branched, 
+2021. 
+http://doi.org/10.3390/separations8070103. 
+
+Separations, 
+
+di-olefins. 
+
+103-120, 
+
+and 
+
+p. 
+
+8, 
+
+n. 
+
+7, 
+
+v. 
+
+TOUSSAINT,  B.;  RAFFAEL,  B.;  ANGERS-LOUSTAU,  A.;  GILLILAND,  D.;  KESTENS,  V.; 
+PETRILLO,  M.;  RIO-ECHEVARRIA,  I.  M.;  EEDE,  G.  D.  Review  of  micro  and  nanoplastic 
+contamination in the food chain. Food Additives & Contaminants: Part A, v. 36, n. 5, p. 639-673, 
+2019. http://doi.org/10.1080/19440049.2019.1583381. 
+
+VARGAS, M.; TUPAYACHY-QUISPE, D.; ROUDET, F.; DUQUESNE, S.; ALMIRÓN, J. Catalytic 
+pyrolysis  of  plastic  materials  using  natural  zeolite  catalysts  synthesized  from  volcanic  ash.  Iop 
+Conference  Series:  Materials  Science  and  Engineering,  v.  1150,  n.  1,  p.  012018,  2021. 
+http://doi.org/10.1088/1757-899x/1150/1/012018. 
+
+WATT,  E.;  PICARD,  M.;  MALDONADO,  B.;  ABDELWAHAB,  M.  A.;  MIELEWSKI,  D.  F.; 
+DRZAL,  L.  T.;  MISRA,  M.;  MOHANTY, A.  K.  Ocean  plastics:  environmental  implications  and 
+potential routes for mitigation  - a perspective.  Rsc Advances, v. 11, n. 35, p. 21447-21462, 2021. 
+http://doi.org/10.1039/d1ra00353d. 
+
+WOOLF, D.; LEHMANN, J.; JOSEPH, S.; CAMPBELL, C.; CHRISTO, F. C.; ANGENENT, L. T. 
+An open-source biomass pyrolysis reactor.  Biofuels,  Bioproducts and Biorefining, v. 11, n. 6, p. 
+945-954, 2017. http://doi.org/10.1002/bbb.1814. 
+
+ZAJEMSKA, M.; MAGDZIARZ, A.; IWASZKO, J.; SKRZYNIARZ, M.; POSKART, A. Numerical 
+and experimental analysis of pyrolysis process of RDF containing a high percentage of plastic waste. 
+Fuel, v. 320, p. 123981, 2022. http://doi.org/10.1016/j.fuel.2022.123981. 
+
+ZHOU, N.; DAI, L.; LV, Y.; LI, H.; DENG, W.; GUO, F.; CHEN, P.; LEI, H.; RUAN, R. Catalytic 
+pyrolysis of plastic wastes in a continuous microwave assisted pyrolysis system for fuel production. 
+Chemical Engineering Journal, v. 418, p. 129412, 2021. http://doi.org/10.1016/j.cej.2021.129412. 
+
+Silva; Souza, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+286 
+
+ 
+
+ 
+
+

@@ -1,0 +1,1049 @@
+Racismo reverso: a construção de uma 
+narrativa de esquiva
+
+Racismo inverso: la construcción de una narrativa 
+deslizante
+
+Reverse racism: the construction of a slip narrative
+
+André Ricardo Nunes Martins
+Universidade de Brasília (UnB), Núcleo de Estudos de Linguagem e Sociedade (Nelis), 
+Brasília, DF, Brasil. E-mail: andre33@uol.com.br;
+
+ 
+
+Resumo: Este artigo examina uma estratégia que caracteriza o discurso 
+racista na esfera pública no Brasil. Acusação lançada por defensores do 
+status quo ou por pessoas que criticam políticas de ação afirmativa vol-
+tadas para negros de que tais políticas são um tipo de racismo reverso 
+é considerada à luz dos estudos sobre raça e racismo. Por meio da Aná-
+lise de Discurso Crítica, investiga-se o racismo, formas de enfrentá-lo, a 
+relação racismo e democracia, as implicações do combate ao racismo 
+e a relação racismo e discurso. Nota-se como aspectos discursivos são 
+usados distintamente para defender a própria perspectiva, seja racista 
+ou antirracista.
+
+Palavras-chave: Racismo e antirracismo. Ação afirmativa. Racismo re-
+verso. Discurso. Imprensa.
+
+Resumen:  Este  artículo  examina  una  estrategia  que  caracteriza  el 
+discurso racista en la esfera pública en Brasil. Una acusación lanzada por 
+defensores del status quo o por personas que critican la acción afirmativa 
+dirigida a los negros de que tales políticas son un tipo de racismo inverso 
+é considerada. Basado em la Análisis Crítica del Discurso, investigamos 
+el racismo, las formas de afrontarlo, la relación racismo y democracia, 
+racismo y discurso y las implicaciones de la lucha contra el racismo. Se 
+
+nota cómo los aspectos discursivos son utilizados de manera distinta por 
+ambos discursos antagónicos.
+
+Palabras  clave:  Racismo  y  antirracismo.  Acción  afirmativa.  Racismo 
+inverso. Discurso. Prensa.
+
+Abstract: This article examines a strategy in the racist discourse in the 
+Brazilian  public  sphere.  The  accusation  launched  by  advocates  of  the 
+status quo or by people who criticize affirmative action policies which 
+benefit black people that such policies are a type of reverse racismo is 
+examined. Based on Critical Discourse Analysis, it focuses on racismo, 
+anti-racism,  the  link  between  racism  and  democracy,  the  implications 
+of  the  fight  against  racism  and  the  relationship  between  racism  and 
+discourse. It investigates how discursive aspects are used in diferent ways 
+by both antagonistic discourses in order to defend one’s perspective.
+
+Key words: Racism and anti-racism. Affirmative action. Reverse racism. 
+Discourse. Press.
+
+Submetido em 05 de maio de 2021.
+Aceito em 04 de novembro de 2021.
+Publicado em 18 de março de 2022.
+
+Introdução
+
+Recentemente, ao revisitar fichas e anotações antigas, do tem-
+po em que empreendi uma revisão bibliográfica para a pesquisa 
+que resultaria na minha tese no Doutorado em Linguística na Uni-
+versidade de Brasília, deparei-me com um equívoco na tradução 
+de uma expressão em inglês que cheguei a usar na tese e num 
+artigo subsequente. Em setembro de 2020, fui procurado por um 
+jornalista de um portal de notícias interessado na questão do que 
+vem sendo chamado na mídia e nas redes sociais de “racismo re-
+verso”.
+
+Ele localizara em artigo de minha autoria de 2012, publicado 
+no periódico Discurso & Sociedad, a expressão atribuída ao pesqui-
+sador J. Kovel, e citada por Gaertner e Govidio. A discussão a res-
+peito eu a encontrei no livro de P. Essed – Understanding everyday 
+racismo; an interdisciplinar theory (Compreendendo o racismo diário; 
+uma  teoria  interdisciplinar),  Newbury  Park:  Sage,  1991  –  quando 
+a autora investiga a persistência do racismo contra os negros na 
+sociedade americana e recupera estudos realizados nos idos de 
+1970 e 80. 
+
+Foi então que me dei conta da tradução inapropriada. Kovel 
+fala em “aversive racism” para descrever um tipo de abordagem 
+ou atitude racista comum entre pessoas brancas vistas como libe-
+rais em que prevalece certa ambiguidade, ou seja, crenças liberais 
+de igualdade convivem com ideias e concepções negativas, não-
+-admitidas, a respeito de pessoas negras. Isso nada tem a ver com 
+o alegado “racismo reverso” em que certas reações de pessoas ne-
+gras ao racismo são vistas como práticas racistas. Considero que 
+a melhor tradução então seria mesmo “racismo aversivo” uma vez 
+que o termo aversivo significa “desviado” ou “afastado”, o que de 
+fato guarda relação com o conceito explorado por Kovel e outros.
+Outra pesquisadora do tema, L. H. Newton faz uso da expres-
+são “reverse discrimination” (agora sim, “discriminação reversa”), 
+mas no contexto da discussão das políticas de ação afirmativa vol-
+
+tadas tanto para negros quanto para mulheres. Contrária ao expe-
+diente, Newton desenvolve o argumento, apelando a Aristóteles, 
+de que esse tipo de política não se justifica, sendo sim um tipo de 
+injustiça pois viola o princípio da igualdade. Na mesma linha, W. A. 
+Nunn III deplora esse tipo de política porque entende que a mes-
+ma tende a perpetuar injustiças. Por sua vez, P. W. Taylor também 
+usa a expressão, mas faz uma análise diferente desses dois pes-
+quisadores. Segundo ele, a discriminação reversa justifica-se pelo 
+princípio da “justiça compensatória”. Em perspectiva aproximada, 
+J. W. Nickel argumenta que a ação afirmativa como tratamento di-
+ferenciado  justifica-se  não  exatamente  pela  característica  racial 
+dos beneficiários mas porque quase todos os membros daquele 
+grupo específico têm sofrido prejuízos em função do racismo.
+
+Vê-se  portanto  que  o  uso  da  expressão  “reverse  discrimina-
+tion”  (diferente  de  “reverse  racism”)  no  contexto  acadêmico  dos 
+EUA é feito tanto pelos contrários como pelos defensores da ação 
+afirmativa. Outra expressão equivalente, “inverse discrimination” 
+(Cowan, J. L., Shiner, Roger A., T. E. Hill Jr.) também é usada por 
+esses pesquisadores ao tratar de moralidade, justiça, proporcio-
+nalidade e conveniência das políticas de ação afirmativa.
+
+Feita  a  correção  e  esclarecido  o  episódio,  discuto  aqui  de 
+modo mais abrangente expectativas na sociedade brasileira sobre 
+a questão racial e o combate ao racismo. Questionado pelo jorna-
+lista na entrevista a que debitar a emergência desse debate sobre 
+“racismo reverso” no Brasil de hoje, considerei o quanto a discus-
+são soa retrógrada e que a mesma deriva de um recrudescimento 
+de posições conservadoras na sociedade contrárias às políticas de 
+inclusão social, de combate ao racismo e de promoção da igualda-
+de racial.
+
+Racismo e como enfrentá-lo: discurso e prática
+
+Com  a  colonização  do  continente  americano  por  europeus 
+desde fins do século XV, a instituição da escravatura – já extinta na 
+
+Europa – ganha versão moderna que atingiu povos nativos e po-
+vos africanos para cá transplantados, vítimas de guerras intertri-
+bais e da captura com vistas ao lucrativo tráfico, que logo se firma 
+e torna-se rendoso comércio que perdura até meados do século 
+XIX. David Theo Goldberg (2002) considera que o conceito de raça 
+aparece na consciência social europeia de modo mais ou menos 
+explícito no século XV. Segundo ele, entre os gregos não havia o 
+conceito de identificação racial ou mesmo concepção de raça. Em-
+bora houvesse discriminação etnocêntrica e xenofóbica e mesmo 
+reivindicação de uma superioridade cultural, há pouca evidência 
+de que tais diferenças fossem determinadas biologicamente. 
+
+A opressão de indígenas e africanos via escravidão teve ante-
+paro institucional a legitimá-la. Poder público e sociedade forne-
+cem infraestrutura e arcabouço legal para justificá-la. O primeiro, 
+com leis e aparato repressor; a sociedade, com o consenso firma-
+do e reproduzido sistematicamente. De justificativas com apelo a 
+teorias científicas então nascentes e mesmo à Bíblia, tudo era usa-
+do em favor da legitimação das estruturas escravocratas. Esgota-
+do o modelo econômico baseado na escravidão, e com o fim des-
+ta, libertos e descendentes são mantidos à margem da sociedade, 
+nos estratos sociais mais baixos, mesmo em países como o Brasil, 
+em que não vigorou um tipo de segregação como o dos Estados 
+Unidos e do apartheid sul-africano.
+
+O  racismo  portanto  sobrevive  à  escravidão.  Ganha  novos 
+contornos  com  a  evolução  da  sociedade:  mudanças  culturais  e 
+de costumes, desdobramentos no campo científico que levaram 
+ao abandono da noção de raça como categoria biológica e con-
+sequentemente da noção de hierarquia entre elas, a emergência 
+dos afrodescendentes e indígenas na esfera pública e políticas de 
+promoção de igualdade racial. Em meados do século XX, o nazis-
+mo e sua ideologia eugenista, as ondas de nacionalismo e reações 
+conservadoras atrasaram e atrapalharam a compreensão da ne-
+cessidade de se buscar a igualdade racial. Já na segunda metade 
+do século, a ação afirmativa vai possibilitar avanços significativos 
+nessa área. O racismo tornou-se aspecto presente e determinante 
+
+nas relações sociais na contemporaneidade no continente ameri-
+cano.
+
+Como o racismo se reinventou nos últimos cinquenta anos? 
+Como  podemos  caracterizá-lo?  S.  Hall  (2002)  propõe  observar  a 
+questão no contexto do capitalismo e suas lutas de classes, sen-
+do a raça “uma modalidade pela qual a classe é “vivida”, o meio 
+pelo qual relações de classe são experienciadas, a forma em que 
+isso é apropriado e por meio do que se luta (...)O capital repro-
+duz a classe, incluindo suas contradições internas, como um todo 
+– estruturada pela raça” (id.: 62). T. A. van Dijk (1991) observa um 
+vínculo  entre  racismo  contemporâneo  e  eurocentrismo  em  vá-
+rios países do mundo. Isso se nota pela dominação que pessoas 
+brancas exercem sobre pessoas não-brancas em áreas como eco-
+nomia, relações sociais, cultura e hegemonia política. Para tanto, 
+cultivam-se e são reproduzidas visões distorcidas, negativas sobre 
+essas minorias.
+
+P. Essed (2002) pondera:
+
+ 
+
+De uma perspectiva macro, racismo é um sistema de desigual-
+dades estruturais e um processo histórico, ambos criados e re-
+criados  mediante  práticas  rotineiras.  (...)  De  uma  perspectiva 
+micro, práticas específicas, sendo suas consequências intencio-
+nais ou não, podem ser avaliadas em termos de racismo apenas 
+quando são consistentes com (nosso conhecimento de) macro 
+estruturas existentes de desigualdade racial no sistema (id., p. 
+180).
+
+O racismo, segundo ela, configura-se como poder, sendo defi-
+nido em termos de cognições, ações e procedimentos que contri-
+buem para o desenvolvimento e perpetuação de um sistema em 
+que  brancos  dominam  não-brancos.  O  exemplo  dos  EUA  ilustra 
+como  a  tomada  de  consciência  do  racismo  como  um  problema 
+da  sociedade  e  a  necessidade  de  enfrentá-lo  suscitaram  desdo-
+bramentos diversos: a questão político-econômica relacionada à 
+
+proibição  da  escravidão  –  a  dividir  o  país  e  que,  por  fim,  leva  à 
+guerra de secessão; o fim da escravidão com o reconhecimento de 
+direitos iguais na Constituição, substituída na prática pela adoção 
+do  sistema  de  segregação  racial,  em  especial  nos  estados  sulis-
+tas; o recrudescimento do racismo com os linchamentos, ataques, 
+perseguições  e  violências  de  toda  sorte  de  grupos  supremacis-
+tas; a resistência negra, a luta pelos direitos civis nas décadas de 
+1950/60; a solidariedade e o engajamento de brancos nesse pro-
+cesso; a legislação anti-apartheid, a abertura forçada de espaços e 
+instituições exclusivas para brancos e a promoção de políticas de 
+igualdade racial.
+
+O  racismo,  porém,  sobreviveu.  Entre  avanços  e  revezes  re-
+centes dos últimos quinze anos naquele país, pode-se apontar a 
+eleição e reeleição de Barack Obama, primeiro presidente negro, 
+as execuções de pessoas negras desarmadas perpetradas por po-
+liciais brancos, a dificuldade de punir os agentes da lei exemplar-
+mente, os protestos e mobilizações como o Black LivesMatter e o 
+engajamento e solidariedade de jovens não-negros nessa luta em 
+fortes, recorrentes e generalizadas manifestações de rua, em es-
+pecial no ano de 2020, e uma reação supremacista vigorosa con-
+tando com a passividade, indiferença e ambiguidade do presiden-
+te Donald Trump.
+
+O  estudioso  E.  Bonilla-Silva  disseca  o  estágio  atual  das  rela-
+ções raciais nos EUA (2020). Segundo ele, o racismo evoluiu de um 
+tipo odioso, segregacionista, ancorado no sistema legal conhecido 
+como Jim Crow e em inúmeras práticas explícitas de separação e 
+de discriminação, vigentes do fim da escravidão até a década de 
+1960, para um tipo sutil, “leve”(quando comparado ao anterior) o 
+qual ele chama de racismo da cegueira de cor. 
+
+Assim, práticas prejudiciais às minorias raciais, negros em es-
+pecial, são justificadas em termos não raciais. Assim, os brancos 
+em sua grande maioria já nem se dizem racistas. Isso deixou de 
+ser conveniente. Daí porque, numa tirada irônica e elucidativa, ele 
+diz tratar-se de um racismo sem racistas. “Protegidos pelo escudo 
+da cegueira de cor, eles podem expressar ressentimentos em re-
+
+lação às minorias; criticar sua moralidade, seus valores e sua ética 
+de trabalho; e até alegar que são vítimas de um ‘racismo reverso” 
+(id., p.25).  Em vez de focar o racismo pelo prisma da ação discri-
+minatória individualizada, caso a caso, ele destaca o fato de que 
+o racismo é uma estrutura. Ele conceitua: “uma rede de relações 
+sociais nos níveis social, político, econômico e ideológico, que con-
+figura as oportunidades de vida das várias raças” (idem, p. 48). 
+
+Tal  conjuntura  corresponde,  portanto,  a  uma  ideologia  ra-
+cial  que  nessa  nova  configuração  caracteriza-se  pelos  seguintes 
+elementos: natureza velada do discurso e das práticas raciais, a 
+esquiva  da  terminologia  racial,  a  crescente  alegação  de  pessoas 
+brancas de que estão vivenciando um racismo reverso, uma agen-
+da racial que evita referências raciais diretas; a invisibilidades de 
+mecanismos que reproduzem a desigualdade racial e a rearticula-
+ção de algumas práticas raciais características do período anterior 
+(id., p.49).
+
+Nota-se portanto que o passado racista nos EUA renova-se de 
+forma criativa em nome da tradição e de uma cultural local, embo-
+ra não conte com arcabouço legal nem com um consenso social, 
+como havia até meados do século passado. A presença afro-ame-
+ricana cresce inclusive nos espaços de poder e prestígio da socie-
+dade, aportes acadêmicos antirracistas multiplicam-se, a política 
+partidária faz-se mais diversa e inclusiva, mas o combate ao ra-
+cismo ainda é questão séria, a demandar avanços em inúmeras 
+frentes e uma vigilância constante pelo respeito à aplicação justa 
+e equânime das leis.
+
+Nessa  área,  há  muito  por  acordar  e  fazer  avançar  na  socie-
+dade brasileira, como veremos abaixo. R. Santos (2020) cunhou a 
+expressão Maioria Minorizada para dar conta do 
+
+grupo social majoritariamente formado por pretos e pardos (ne-
+gros) conforme categorização do IBGE que, conquanto confor-
+mem a maioria demográfica da população brasileira, é minoria 
+em termos de acesso a direitos, serviços públicos, representa-
+ção  política,  e,  que  racializados  como  seres  inferiores,  sofrem 
+
+apagamento  identitário,  são  desidentificados(as),  tornando-se 
+portanto,  “minorias”  no  acesso  à  cidadania,  e  “maiorias”  em 
+todo o processo de espoliação econômica, social e cultural , por 
+fim, as maiores vítimas de todas as formas de violência (p.23).
+
+Passados  mais  de  cento  e  trinta  anos  da  abolição  no  Brasil, 
+afrodescendentes têm, como diz Santos, uma “cidadania incom-
+pleta”.  Acessar  cargos  públicos,  postos  de  trabalho  e  ambientes 
+de prestígio social, bem como bens materiais e outros bens sim-
+bólicos,  ainda  é  uma  realidade  para  a  qual  não  bastam  méritos 
+individuais. Barreiras interditam esse acesso a pessoas negras. E 
+o consenso social em torno da realidade profunda e abrangente 
+do racismo na dinâmica social brasileira ainda é um processo em 
+construção com avanços e revezes a dar a tônica nessa trajetória 
+nos últimos quinze anos.
+
+Avanços nas políticas de igualdade racial e emergência de epi-
+sódios  racistas  têm  sido  frequentes  nesses  últimos  anos.  Assim 
+podemos apontar: o sucesso da política de cotas para negros nas 
+universidades – julgada constitucional pelo Supremo Tribunal Fe-
+deral(STF) em 2012, pelo voto unânime do plenário; a emergência 
+e fortalecimento de entidades do movimento negro com um tra-
+balho qualificado e diversificado, a denúncia do racismo e a de-
+manda por mais inclusão com destaque para os artistas de rua, ra-
+ppers e ativistas nas redes sociais; iniciativas como rolezinhos nos 
+shoppings centers, em que dezenas de jovens “invadem” recinto de 
+quase exclusividade branca, fazendo barulho e deixando seguran-
+ças em polvorosa; inúmeros e recorrentes episódios de ofensas 
+raciais e xingamentos contra pessoas negras nas redes sociais e 
+em  espaço  público;  um  crescimento  lento  e  tímido  da  presença 
+negra na teledramaturgia; a baixa representatividade de afrodes-
+cendentes nos três poderes da República e a decisão do Tribunal 
+Superior Eleitoral(TSE) de garantir presença e competitividade de 
+candidaturas de pessoas negras nas eleições municipais de 2020.
+Mas, como veremos a seguir, a implementação da igualdade 
+racial é uma das fragilidades do processo democrático brasileiro. A 
+
+falta de correspondência entre presença majoritária de não-bran-
+cos na população brasileira e o número de políticos e de autorida-
+des advindas desse segmento aponta para um racismo estrutural 
+e a necessidade de combatê-lo, aperfeiçoando o regime democrá-
+ticos e suas instituições. 
+
+Combate ao racismo e democracia
+
+Inclusão sempre foi o calcanhar de Aquiles da democracia des-
+de quando ela surge na Grécia antiga (século V a.C.) e também em 
+sua versão contemporânea, nos Estados Unidos (século XVIII). En-
+tre os gregos, o exercício dos direitos políticos, de votar e ser vota-
+do, restringia-se a homens livres. Nos EUA, a democracia também 
+começa assim, restrito seu exercício a homens livres. O direito das 
+mulheres ao voto é coisa do século XX, bem como o reconhecimen-
+to e proteção desse direito aos negros – um longo processo que 
+começa após a Guerra de Secessão para se encerrar na segunda 
+metade do século XX, embora desestímulos1 oficiais e extraoficiais 
+sejam detectados e denunciados em alguns condados ainda hoje.
+No Brasil, historicamente o exercício da política implicou muito 
+mais restrições. Não bastava ser homem livre, era preciso possuir 
+um mínimo de renda tanto para ser representante político como 
+simples eleitor. A exclusão de quem não sabia ler e escrever, que 
+vigorou como norma legal durante muito tempo, só foi afastada 
+em definitivo, pelo menos legalmente, com a Constituição de 1988.
+Seja no Império, seja na República Velha, o poder político foi 
+exercido por uma minoria de privilegiados, tanto no restrito clu-
+be dos habilitados à casta de representantes políticos como entre 
+os chamados a participar do processo eleitoral nada democráti-
+co, marcado por fraudes, vícios, acordos de cúpula e violências de 
+toda sorte. É com a Revolução de 1930 que o exercício do voto no 
+Brasil aproxima-se de bases democráticas, deixando para trás as 
+
+1 Artigo publicado no dia da eleição nos EUA (3/11/20) pelo site Brasil Amazônia Agora aponta isso. https://brasilamazoniaago-
+ra.com.br/eleicoes-americanas-sao-mais-que-biden-e-trump/
+
+chamadas eleições a bico de pena, embora outros vícios e fragili-
+dades tenham perdurado, em especial nas áreas de maior vulne-
+rabilidade social, sujeitas a controle político, resquícios patriarcais 
+e sociedade civil desarticulada. A Constituição de 1988, com a ga-
+rantia do voto do analfabeto, e a introdução da urna eletrônica, a 
+partir da década de 1990, representaram avanços, mas a realidade 
+social ainda carece de mudanças efetivas que fortaleçam a cidada-
+nia e o livre exercício da política.
+
+As eleições municipais de 2020 trouxeram uma novidade que 
+reforçam a inclusão racial no processo eleitoral. O TSE, em sintonia 
+com a luta antirracista, determinou em fins de agosto de 2020 que 
+os partidos fossem obrigados a destinar verbas do Fundo Parti-
+dário e do Fundo Eleitoral de modo proporcional às campanhas 
+de candidatas e candidatos negros a partir das eleições gerais de 
+2022. O que era bom ficou melhor quando, semanas mais tarde, 
+o plenário do STF pronunciou-se pelo acatamento de medida cau-
+telar do ministro Ricardo Lewandoski que entendeu que a decisão 
+do TSE deveria ser aplicada já para as eleições municipais daque-
+le  ano  a  ocorrer  no  mês  seguinte,  adiadas  que  foram  em  razão 
+da pandemia do novo Coronavírus. O relator da medida cautelar 
+havia apontado o racismo estrutural na sociedade brasileira que 
+se refletia na subrepresentatividade de pessoas negras em cargos 
+eletivos, argumentando que tal situação caracteriza um estado de 
+coisas inconstitucional.
+
+Segundo reportagem publicada pela Agência Senado2, do total 
+de candidatos a prefeito e vereador em todo o país em 2020, pra-
+ticamente a metade foi de pessoas negras, 49,9%. Dos prefeitos 
+eleitos já em primeiro turno, 1.700 declaram-se pretos ou pardos 
+– 32% do total, enquanto em 2016, esse percentual foi de 29% – ao 
+passo que em termos de assentos nas câmaras municipais das ca-
+pitais, 44% dos vereadores eleitos são negros e pardos. Em 2016, 
+o percentual de vereadores de todos os municípios foi de 42%. São 
+números e percentuais ainda não consolidados, divulgados logo 
+nos primeiros dias após o primeiro turno das eleições. 
+
+2  https://www12.senado.leg.br/noticias/materias/2020/11/18/brasil-tem-mais-negros-eleitos-mas-sub-representacao-perma-
+nece  
+
+Enquanto a desigualdade racial no campo da representação 
+política tem provocado inquietações e levado à adoção de medi-
+das para corrigir essas distorções, por outro lado o Brasil passou 
+a  conviver,  a  partir  do  Governo  Bolsonaro,  com  uma  política  de 
+não-reconhecimento do racismo e de desvalorização de medidas 
+de promoção da igualdade racial. O governo tem suscitado uma 
+contranarrativa que atenta contra os avanços da luta antirracista e 
+alinha-se com uma estratégia negacionista que também se mani-
+festa em outras frentes, como no que diz respeito à abordagem da 
+pandemia do novo coronavírus, à situação dos direitos humanos e 
+ao reconhecimento de crimes e abusos da ditadura militar.
+
+Mas a promoção da competitividade das candidaturas negras 
+e um maior equilíbrio na representação política entre brancos e 
+não-brancos é apenas uma das frentes de enfrentamento do ra-
+cismo. A política de cotas para negros nas universidades, as ações 
+afirmativas no mercado de trabalho – ingresso, acesso a postos de 
+maior prestígio e igualdade na percepção de remunerações – co-
+meçaram a se efetivar nesses últimos vinte anos, mobilizando tan-
+to o setor público quanto o privado. No geral, são medidas resul-
+tantes de uma tomada de consciência da comunidade acadêmica, 
+da abertura na legislação, propiciada pelo Estatuto da Igualdade 
+Racial, por outras leis aprovadas e pelo engajamento de gestores 
+e empresários.
+
+O avanço da luta antirracista pode ser percebida também pela 
+popularização na sociedade do conceito de racismo estrutural – em 
+que o crime é visto em seu recorte histórico e social mais amplo, a 
+demandar intervenções consistentes e permanentes por parte do 
+poder público e da sociedade, ou seja, mais que meros episódios 
+de discriminação racial, de ofensas e xingamentos ou situações de 
+prejuízos para uma ou outra pessoa. Mais e mais a mídia tem dado 
+destaque à expressão. 
+
+Não obstante, o consenso social a esse respeito está em dis-
+puta  na  sociedade  brasileira,  haja  vista  o  tratamento  dado  pelo 
+governo federal à questão e em razão da pesada herança e inércia 
+que a naturalização do racismo tem provocado em gerações de 
+
+brasileiros, em especial de suas elites. Como mostramos a seguir, 
+o combate ao racismo gera reações adversas de parte de muitos 
+que estão a se beneficiar do status quo da branquitude.
+
+Combate ao racismo, custos e entraves
+
+Combate  ao  racismo  implica  uma  articulação  e  intervenção 
+nas  estruturas  de  poder.  Seria  ingênuo  pensar  que  trata-se  de 
+conjuntura a ser enfrentada tão somente com base em projetos 
+de reeducação ou de conscientização. Há necessidade de medidas 
+como alteração curricular da educação básica e superior, política 
+cultural e mesmo programas de ação afirmativa. Ainda que o movi-
+mento negro e pessoas e organizações antirracistas reivindiquem 
+e pautem essas medidas como políticas públicas necessárias no 
+combate ao racismo e à discriminação, a luta é mais abrangente e 
+transcende esse pontos específicos.
+
+Diferentemente  daquela  visão  que  aponta  o  racismo  como 
+uma conjuntura arcaica, remanescente do passado que se preten-
+de cada vez mais distanciado da contemporaneidade, estudiosos 
+insistem em mostrar que o racismo tem se atualizado e que sua 
+versão mais recente – tomando os EUA como referência – aposta 
+numa dissimulação desse estado de coisas. Bonilla-Silva (2020) de-
+nuncia: “Os elementos centrais do liberalismo têm sido rearticula-
+dos na América pós-movimento dos direitos civis, a fim de raciona-
+lizar situações racistas injustas” (id.: 109). Segundo o pesquisador, 
+pessoas brancas têm se valido de estratégias para se dissociar da 
+acusação de serem racistas ou de que se beneficiam de um reali-
+dade racista que promove a branquitude. São elas: a naturalização 
+de fenômenos racistas, o enquadramento cultural e a minimização 
+do racismo.
+
+Como parte dessa rearticulação do liberalismo para se com-
+bater políticas de ação afirmativa, por exemplo, explora-se o ideal 
+da igualdade de oportunidades e a meritocracia, alegando supos-
+tos prejuízos a pessoas brancas preteridas em processos seletivos 
+
+que  levam  em  conta  a  promoção  da  igualdade  racial,  e  ainda  o 
+pensamento de que “a mudança social deve ser resultado de um 
+processo racional e democrático e não da capacidade coercitiva do 
+governo” (BONILLA-SILVA, 2020, p. 119).
+
+Uma questão relevante que se impõe quando analisamos po-
+líticas de ação afirmativa é a dos custos que isso implica para seg-
+mentos  não  discriminados  ou  para  a  sociedade  como  um  todo, 
+que são, afinal, aqueles que efetivamente pagam pela adoção de 
+tais  políticas  e  podem  sofrer  efetivamente  alguma  restrição  no 
+usufruto daquilo que sempre obtiveram em função dos efeitos de 
+perpetuação das desigualdades.
+
+Robert  Amdur  (1995),  ao  discutir  a  questão  da  justiça  com-
+pensatória,  tratou  especificamente  dos  custos  de  medidas  rela-
+cionadas à ação afirmativa. Duas perguntas devem ser respondi-
+das, segundo ele: a primeira é quem deve receber compensação e 
+quanto deve-se receber? A segunda é quem deve pagar os custos 
+da compensação e quanto deve ser pago? Quando trata de quem 
+deve  pagar  os  custos,  ele  defende  dois  princípios:  (1º)  “A  com-
+pensação deve ser paga pelos autores da injustiça, aqueles cujas 
+ações injustas deram origem à necessidade de compensação”; (2º) 
+“A compensação deve ser paga por aqueles que se beneficiaram 
+da injustiça, seja direta ou indiretamente (por exemplo, herança 
+originalmente adquirida por meios injustos)” (id., p. 92).
+
+Baseado na argumentação de Amdur, vemos que não proce-
+de a postura de pessoas não pertencentes a grupos minoritários 
+na sociedade que alegam sua não-vinculação com a discriminação 
+histórica contra afrodescendentes, por não terem sido elas mes-
+mas autoras dos eventos que lhe deram origem e às vezes nem 
+mesmos descendentes de pessoas que se encaixam nesse perfil, a 
+exemplo de fazendeiros, comerciantes ou proprietários de escra-
+vos. Amdur vai adiante ao propor outro princípio: “Quando não for 
+possível atribuir os custos da indenização aos perpetradores ou 
+aos beneficiários da injustiça, esses custos devem ser distribuídos 
+igualmente por toda a comunidade” (id., p. 96). 
+
+Segue-se então toda uma discussão sobre que tipos de me-
+didas seriam mais adequadas e de menor impacto em termos de 
+custos a serem aplicados em determinado contexto. Não é o caso 
+de trazermos os pormenores dessa discussão para o contexto bra-
+sileiro. Basta entendermos que efetivamente políticas de ação afir-
+mativa têm impacto e custos, e esses devem ser assumidos tanto 
+pela sociedade como um todo quanto por aqueles que sempre se 
+beneficiaram do racismo estrutural dada sua vinculação à bran-
+quitude. 
+
+A opção por essas políticas parte do reconhecimento de que 
+o racismo estrutural é conjuntura resultante de eventos históricos 
+e reproduzida ainda hoje, que combater o racismo e seus meios 
+de reprodução é uma política ancorada na Constituição e aspira-
+ção das mais nobres e relevantes da sociedade nacional. Eventuais 
+prejuízos individuais ou tentativas de burlar a medida não devem 
+ser alegados à guisa de desestimular essa política, devem ser en-
+carados como efeitos colaterais não desejados, talvez impossíveis 
+de evitar, como, aliás, ocorrem em qualquer intervenção do poder 
+público de caráter obrigatório.
+
+Em seu livro Racismo estrutural, S. Almeida (2020) discutiu a es-
+tratégia de se alegar racismo reverso quando sujeitos insatisfeitos 
+ou que se sentem prejudicados pelo avanço das políticas de ação 
+afirmativa travam esse debate na esfera pública. Na abordagem 
+sobre racismo como processo político, Almeida mostra que a ideia 
+de  um  racismo  reverso  simplesmente  não  faz  sentido.  Segundo 
+ele, trata-se de “um grande equívoco nessa ideia porque membros 
+de grupos raciais minoritários podem até ser preconceituosos ou 
+praticar discriminação, mas não podem impor desvantagens so-
+ciais a membros de outros grupos majoritários, seja direta, seja 
+indiretamente” (id., p. 53). 
+
+Ele mostra  a sutileza do termo  “reverso”  nessa alegação:  “O 
+termo “reverso” já indica que há uma inversão, algo fora do lugar, 
+como se houvesse um jeito “certo” ou “normal”de expressão do ra-
+cismo. Racismo é algo “normal” contra minorias – negros, latinos, 
+judeus, árabes, persas, ciganos etc. – porém, fora destes grupos, 
+
+Discurso e racismo
+
+é  “atípico”,  “reverso”(idem).  Ele  entende  que  se  trata  de  artifício 
+para deslegitimar demandas por igualdade racial. Ou seja, tira-se 
+o foco da injustiça para se pôr em eventual prejuízo de quem se 
+sente prejudicado com a obrigatoriedade de reconhecer o que é 
+devido ao outro. E arremata: “Racismo reverso nada mais é do que 
+um discurso racista, só que pelo “avesso”, em que a vitimização é a 
+tônica daqueles que se sentem prejudicados pela perda de alguns 
+privilégios” (idem). 
+
+Nas seções seguintes, examinamos aspectos teóricos da Aná-
+lise de Discurso Crítica (doravante ADC) e a usamos como referen-
+cial teórica para analisar o discurso racista, em especial a manipu-
+lação da estratégia do racismo reverso.
+
+Na perspectiva teórica da ADC, discurso é visto como lingua-
+gem na prática social. Busca-se examinar como a linguagem é ins-
+trumentalizada para sustentar relações de poder, bem como para 
+contestar dominações e promover mudança social. A linguagem 
+atravessada pela ideologia – sentido a serviço do poder, como a de-
+finiu J. B. Thompson (1998) – não se manifesta neutra e imparcial 
+em textos e práticas discursivas. Ao contrário, promove sentidos e 
+interesses e, em seu próprio campo, coopera para a manutenção e 
+reprodução das estruturas e mecanismos de poder, o que por sua 
+vez gera desigualdades.
+
+Com os desdobramentos no capitalismo e mudanças na polí-
+tica e na cultura, a conquista do poder, sua manutenção e repro-
+dução dependem cada vez mais de consenso social e hegemonia, 
+e não apenas de poder militar e do monopólio do recurso da vio-
+lência física. Daí porque não cabe o desdém de muitos – “É só dis-
+curso” – para desqualificar manifestações políticas de toda sorte. 
+Chouliaraki e Fairclough (1999), tendo em vista aquela conjuntura 
+de mudanças econômicas, sociais e culturais na virada do segun-
+do  milênio,  pontuaram  que  tais  mudanças  “existem  tanto  como 
+
+discursos tanto como processos que estão ocorrendo fora do dis-
+curso” (id., p. 4). E mais: “Os processos que estão ocorrendo fora 
+do discurso são substantivamente formados por esses discursos” 
+(idem).  
+
+Os autores rejeitam a noção idealista que resume vida social a 
+discurso e recuperam o que propôs D. Harvey ao discorrer sobre 
+rearticulação  de  discursos  e  intertextualidade.  Segundo  Harvey, 
+“o discurso seria um momento da realidade social dentre outros, 
+quais  sejam,  relações  sociais,  poder  práticas  sociais,  crenças/va-
+lores/desejos  e  instituições  rituais”  (MARTINS,  2011,  p.  81).  Para 
+Chouliaraki e Fairclough, entre o discurso e outros elementos das 
+práticas sociais haveria um relacionamento dialético – “o discurso 
+interioriza  e  é  interiorizado  por  outros  elementos,  sem  que  uns 
+sejam reduzidos ao outro” (MARTINS, idem).
+
+Nos últimos anos, o empoderamento de pessoas negras e do 
+próprio movimento negro no Brasil e intervenções havidas nessa 
+área,  como  mostramos  acima,  levaram  a  mudanças  notáveis  na 
+sociedade. Nessa perspectiva, manifestações explícitas de precon-
+ceito e discriminação racial vêm se tornando cada vez mais intole-
+ráveis e a demandar reações frequentes de negros e não-negros. 
+Assim, também a ação afirmativa de tipo étnico-racial como políti-
+ca pública – nos âmbitos federal, estadual e municipal e nos Três 
+Poderes, e ainda como política de empresas privadas vêm se tor-
+nando comuns.
+
+Em  pesquisa  de  doutoramento,  Martins  (2011)  examinou  o 
+discurso  da  imprensa  sobre  a  política  de  cotas  para  negros  nas 
+universidades – um dos mais conhecidos tipos de ação afirmati-
+va. Ele mostra ali como três dimensões sociais interagiram nesse 
+processo discursivo. São elas: o racismo, o discurso e a imprensa. 
+Cada qual impactando as outras duas. Assim:
+
+O racismo intervém sobre o discurso, produzindo, por um lado, 
+limites e interdições na manifestação do mesmo e propiciando, 
+por outro lado, possibilidades de abertura. Por sua vez, o discur-
+so age sobre o racismo, influenciando-o com sentidos, imagens 
+
+e perspectivas de enquadramento dessa realidade. Do discur-
+so para a imprensa, o movimento segue no sentido de permitir 
+uma abertura para as práticas sociais. Sua intervenção alimenta 
+a instituição de forma recorrente, com um tipo específico de luta 
+por hegemonia na formação do consenso social. Já a imprensa 
+age sobre o discurso, seja restringindo-o ou ampliando os sen-
+tidos,  favorecendo  enquadramentos  e  promovendo  algumas 
+perspectivas – imagens e sentidos. 
+
+(...) a relação da imprensa frente ao racismo implica uma influ-
+ência específica em sua constituição, reprodução e, em contra-
+partida,  possibilidades  de  transformação  dessa  realidade.  Por 
+sua  vez,  o  racismo  age  sobre  a  imprensa,  influenciando-a  em 
+questões como o acesso ao poder simbólico, seja mediante a 
+garantia de participação efetiva dos afro-brasileiros como fonte 
+de notícias, seja por meio da presença/ausência de representan-
+tes da comunidade negra nas redações, e os limites que impõem 
+sobre a política editorial de cada jornal (MARTINS, 2011, p. 104).
+
+O combate ao racismo via políticas de ação afirmativa e meca-
+nismos de promoção da igualdade racial, além da intervenção nas 
+esferas governamental, parlamentar e judicial, requer a busca do 
+consenso social por meio da imprensa, pela promoção de sentidos 
+e imagens em favor da mudança social e de rejeição do precon-
+ceito e da discriminação. Trata-se de uma luta política que possui 
+dimensão  discursiva  e  um  espaço  privilegiado  na  instituição  im-
+prensa, ainda que não se restrinja a ela.
+
+O caso do Magazine Luiza e seu programa de trainee
+
+Em setembro de 2020, a rede varejista de eletrônicos e mó-
+veis Magazine Luiza, mais conhecida como Magalu, com mais de 
+sessenta anos de atuação no mercado, surpreendeu ao anunciar 
+um programa de trainee voltado exclusivamente para afro-brasi-
+
+leiros. O programa pretende ser uma contribuição da empresa à 
+diversidade racial após os donos constatarem que muito embora 
+essa diversidade já seja um fato no corpo funcional da empresa, 
+a presença negra diminuía à medida que se focava os cargos de 
+maior relevância dentro da estrutura hierárquica da organização. 
+Por  essa  época,  outra  empresa,  a  Bayer,  também  anunciou 
+processo de seleção com esse foco na diversidade racial, mas foi o 
+programa de trainee da Magalu que gerou maior polêmica, talvez 
+pelo caráter de empresa nacional e mesmo pelo tipo específico de 
+medida, que vamos explicar abaixo. O fato é que a iniciativa provo-
+cou: contestação da Defensoria Pública do Trabalho, DPT, repúdio 
+de parlamentares, reações de pessoas e entidades do movimento 
+negro e articulação entre apoiadores da medida na própria DPT e 
+em outras instâncias.
+
+Aqui, vamos examinar duas matérias jornalísticas veiculadas 
+pela internet que trataram da polêmica em outubro de 2020. As 
+reportagens foram publicadas pelos portais do jornal O Estado de 
+S. Paulo (Estadão) e da revista Exame. 
+
+1) A reportagem do Estadão3 é assinada pelos repórteres Pepi-
+ta Ortega, Paulo Roberto Netto e Fausto Macedo, aparece na edi-
+toria de Economia e tem como título Ao tentar enquadrar trainee 
+do Magalu como racismo, defensor cita Sérgio Camargo. A matéria 
+traz uma fotografia da presidente da Magalu, Luiza Trajano, com 
+a legenda A empresária Luiza Trajano, dona da rede Magazine Luiza, 
+durante entrevista ao Roda Viva (TV Cultura). O texto explora a ação 
+do defensor público Jovino Bento Júnior e as reações que a mesma 
+suscitou. 
+
+Como um típico exemplar do discurso midiático, a matéria em 
+questão valoriza a polêmica em detrimento mesmo da novidade 
+que é o programa de seleção para cargos de chefia e direção volta-
+do com exclusividade para afro-brasileiros. A opção é dada já no tí-
+tulo em que se destaca o fato de o defensor ter citado o presidente 
+da Fundação Palmares. A entidade pública criada para promoção 
+
+3 Disponível em 12/1/21, no link Ao tentar enquadrar trainee do Magalu como racismo, defensor cita Sérgio Camargo (uol.com.
+br)
+
+e preservação dos valores culturais, históricos, sociais e econômicos 
+decorrentes da influência negra na formação da sociedade brasileira 
+(conforme  texto  em  seu  portal)  tem  à  frente  um  presidente  ne-
+gro,  Sérgio  Camargo,  que  tem  criticado  pessoas  e  entidades  do 
+movimento negro com xingamentos e ofensas, gerando inúmeras 
+polêmicas em menos de um ano de mandato.
+
+A reportagem traz o argumento do defensor: o programa de 
+trainee4 pode configurar racismo ao “excluir deliberadamente tra-
+balhadores em função da pele ou de sua etnia”. E informa que, 
+para sustentar a tese, o defensor citou um tuíte do presidente da 
+Palmares com críticas ao movimento negro e sua agenda. Somos 
+informados ainda que a ação do defensor cobra indenização por 
+danos  morais  da  Magalu  no  valor  de  dez  milhões  de  reais  e  de 
+que a mesma baseia-se em três razões: (i) a possibilidade de ci-
+dadãos  negros  poderem  se  sentir  ofendidos  e  diminuídos  dado 
+o pressuposto da incapacidade; (ii) o fato de haver miscigenação 
+na sociedade brasileiras em que a  exclusão de uma pessoa bran-
+ca do programa pode levar indiretamente a prejudicar membros 
+não-brancos dessa família; e (iii) a ausência de necessidade para a 
+medida, já que haveria outras medidas para se atender tal objeti-
+vo, bem como a desproporcionalidade entre ônus e bônus, sendo 
+que o ônus recairia sobre “milhões de trabalhadores”.
+
+Segundo  o  autor  da  ação,  a  inclusão  social  das  populações 
+afrodescendentes seria “algo salutar e desejável”, mas que “deve 
+se dar dentro dos parâmetros legais”. A matéria informa em se-
+guida que o Ministério Público do Trabalho em São Paulo já havia 
+indeferido onze denúncias contra a Magalu. Um denunciante che-
+gou a alegar “racismo reverso”. A Procuradoria, no entanto, a vê 
+como “medida de reparação histórica da exclusão da população 
+negra do mercado de trabalho digno”.
+
+O defensor chega a alegar racismo reverso no programa da 
+Magalu,  mas  limita-se  a  dizer  que  a  ação  não  tem  como  objetivo 
+
+4 O programa de trainee, previsto na legislação trabalhista, envolve o recrutamento de candidatos recém-formados ou em 
+término de curso de graduação para um período de trabalho em cargos de chefia ou de gerência de determinada empresa, sob 
+a tutoria de um supervisor, com a realização de cursos de aperfeiçoamento com possibilidade de efetivação no cargo ao final 
+do programa.
+
+“querer  debater  a  tese  da  existência  ou  não”do  mesmo,  sua  alega-
+ção não é explorada na matéria. No contraponto, a matéria cita 
+um  juiz  de  Goiânia  para  quem  o  conceito  de  racismo  reverso  é 
+“equívoco interpretativo”. Segundo o magistrado, não há quadro 
+de discriminação reversa contra brancos, tampouco necessidade 
+de medidas reparatórias para esse segmento.
+
+Por fim, temos a manifestação de defensores públicos que in-
+tegram o Grupo de Trabalho de Políticas Etnorraciais da Defenso-
+ria Pública da União que classificaram a ação do colega defensor 
+como “medida péssima” e “muito constrangedora” e uma nota de 
+esclarecimento  da  Defensoria  Pública  da  União.  Nela,  a  institui-
+ção esclarece o papel e o funcionamento da instituição e de seus 
+membros, considera em tese positivas e consentâneas com os pa-
+râmetros legais e constitucionais políticas de ação afirmativa para 
+grupos discriminados e defende as prerrogativas dos membros da 
+instituição de proporem as ações que julgam cabíveis.
+
+Na matéria jornalística, nota-se o embate de dois processos 
+discursivos, um, racista; e outro, antirracista. No primeiro, denun-
+cia-se a medida da Magalu relacionada a recrutamento de funcio-
+nários para cargos de chefia e direção como inconstitucional, em 
+desacordo com as leis do país, por discriminar pessoas com certo 
+perfil racial ou de cor; busca-se assim desestimular ação afirmativa 
+que possa provocar eventuais prejuízos a pessoas fora do grupo-
+-alvo da medida anunciada. Por essa perspectiva, não se contesta 
+a existência do racismo, mas condena-se medidas de combate ao 
+mesmo sempre que ferirem interesses de pessoas de fora do gru-
+po discriminado. Ação afirmativa, nesse caso, pode ser comparado 
+a racismo reverso.
+
+Já no discurso antirracista, o racismo é visto sob a conjuntura 
+histórica e estrutural da sociedade, e o desmantelamento dele, de-
+fendido como um propósito constitucional. Políticas de ação afir-
+mativa para combatê-lo devem ser estimuladas e o programa da 
+Magalu faz sentido para se atingir níveis de igualdade entre bran-
+cos e não-brancos na empresa. A ação do defensor contrária ao 
+programa vai na contramão do papel constitucional da Defensoria 
+
+Pública que é o de garantir e promover a efetivação de direitos 
+constitucionais, sendo o fim das desigualdades raciais um desses 
+objetivos constitucionais.
+
+Quadro I – Sentidos mobilizados em cada discurso
+
+Discurso racista
+Programa discrimina, exclui
+Empresa deve ser punida e recuar
+Programa admite incapacidade de negros em 
+ocupar certos cargos
+
+Programa prejudica candidatos não-negros
+
+Trata-se de racismo reverso
+Inclusão de afrodescendentes só é salutar e 
+desejável se houver previsão legal
+
+Discurso antirracista
+Programa discrimina positivamente, inclui
+Empresa deve ser apoiada e imitada
+Programa reconhece efeitos do racismo 
+estrutural na desigualdade entre brancos e 
+negros no ambiente de trabalho
+Programa promove igualdade entre brancos e 
+não-brancos na empresa
+Racismo reverso é erro de interpretação
+Inclusão de afrodescendentes tem previsão 
+constitucional e jurisprudência
+
+Fonte: dados da pesquisa.
+
+Vemos assim, pelo Quadro I, de que forma o combate ao racis-
+mo e a seus efeitos na sociedade brasileira é disputado na esfera 
+pública, no campo específico do discurso. A reportagem explicita 
+a polêmica ao veicular os sentidos de ambos os processos discur-
+sivos. É mais uma batalha em curso dessa guerra em andamento 
+na sociedade brasileira. E ao tempo em que se vê uma instituição 
+como  a  Defensoria  Pública  ser  mobilizada  de  modo  inusitado  e 
+inédito em favor da manutenção do status quo, vê-se também a 
+articulação de pessoas e instituições sociais em defesa de políticas 
+de ação afirmativa. 
+
+Note-se ainda nessa matéria a ausência de negros e represen-
+tantes do movimento negro na defesa do programa. O único ne-
+gro que aparece, e ainda assim indiretamente, citado por uma das 
+fontes, é alguém já conhecido por suas teses contrárias ao movi-
+mento negro e mesmo à luta pela erradicação do racismo. Ao prio-
+rizar a polêmica, a reportagem não ouve nem representantes da 
+empresa nem do movimento negro. Eles não falam. São falados. 
+
+2) A matéria da Exame5, assinada pela repórter Luísa Granato, 
+é uma entrevista feita com o vice-presidente da Associação Nacio-
+nal dos Defensores Públicos Federais, ANADEF, Vladimir Ferreira 
+Correia. Antes dela, há uma introdução com explicações sobre a 
+polêmica e uma antecipação de tópicos da entrevista. A matéria 
+aparece sob a retranca6 Carreira. Logo abaixo, vem o título: Ação 
+contra Magalu por racismo reverso é constrangedora, fala defensor, 
+e  o  subtítulo:  Vice-presidente  da  Associação  Nacional  dos  Defenso-
+res Públicos Federais repudia ação que categoriza o programa como 
+“Marketing de Lacração”7. Abaixo do título, aparece uma fotografia 
+de uma personagem do marketing da empresa, em pose sorriden-
+te no enquadramento a privilegiar seu rosto e sorriso com a legen-
+da embaixo: Lu, personagem do Magazine Luiza estará em show na 
+Globo (Magalu/Divulgação). Na introdução, a agência da ação pro-
+posta pelo defensor Jovino Bento Júnior é atribuída à Defensoria 
+como instituição, o que vai ser desmontado no teor da entrevista 
+a seguir. Em seguida, apresenta-se o argumento do autor e alguns 
+aspectos do contraponto do entrevistado à tal ação. Na entrevista, 
+notam-se oito perguntas, agrupadas em seis tópicos distintos, cujo 
+resumo apresento aqui: (i) Sobre o papel da DPU e a previsão legal 
+de uma ação como aquela em apreço, o entrevistado reconhece 
+a prerrogativa do defensor, mas diz que a ação é fruto de enten-
+dimento isolado, que vai na contramão do que é o entendimento 
+em geral da instituição, já que as cotas estão ancoradas na juris-
+prudência; (ii) Quanto a valer a pena questionar um programa de 
+recrutamento de empresa privada, o vice-presidente da ANADEF 
+demonstra que não há problema porque os entes privados não 
+podem tudo, há que se respeitar o que determina a Constituição. 
+Ele esclarece: O que a gente discorda não é a possibilidade de a justi-
+ça questionar ou julgar, mas o teor da ação. É contrário aos princípios. 
+(iii) Sobre o argumento usado pelo defensor na ação e a possibi-
+lidade de estar em jogo o “marketing de lacração”, o entrevistado 
+pondera que o argumento usado é infeliz no todo, por alegar ra-
+
+5 Disponível em 12/1/21 no link Ação contra Magalu por racismo reverso é constrangedora, fala defensor | Exame
+6 Retranca é termo do jargão do jornalismo e refere-se a  uma ou duas palavras usadas para definir o assunto da matéria, sendo 
+usado sobre o título do texto, no cabeçalho da pauta.
+7 A expressão vem sendo usada para designar ações de propaganda ligadas a pautas globalistas como equidade de gênero, 
+feminismo ou abortismo. A expressão deriva-se da gíria “lacrar“, muito usada por jovens e feministas.
+
+cismo reverso e “marketing de lacração” e destoar do “processo de 
+evolução dos direitos humanos”. Considera ainda que se é marke-
+ting ou não da empresa, isso “não vem ao caso”; (iv) Ao ser ques-
+tionado se já houve ação semelhante na justiça por programas an-
+teriores semelhantes ao da Magalu, o entrevistado lembrou que 
+houve um diferencial nesse caso que foi o caso de o programa se 
+destinar cem por cento para negros, disse desconhecer se houve 
+outras ações na justiça contra esse tipo de política de empresa e 
+assegurou que no âmbito da Defensoria Pública, essa foi “a pri-
+meira ação” contra as cotas. E isso soa absurdo, avalia; (v) Sobre a 
+previsão legal e a possibilidade de sucesso de ações como essa, 
+o vice-presidente da ANADEF explica porque o alegado “racismo 
+reverso”  não  faz  sentido  e  aponta  o  entendimento  do  Supremo 
+Tribunal Federal a esse respeito. Contextualiza a questão fazen-
+do  referência  a  outras  minorias,  como  homossexuais,  mulheres 
+e pessoas com deficiência. Aponta o caráter ideológico da ação. 
+E considera: Em 2020, é constrangedor, dá até vergonha para a ins-
+tituição. (vi) Questionado se não seria absurdo apelar à igualdade 
+de oportunidades para inibir uma ação afirmativa, o entrevistado 
+analisa:  É absurdo utilizar a lei contra a própria finalidade dela de 
+proteger grupos excluídos, no caso, a população negra. Você vai usar 
+a lei que visa beneficiar essa comunidade contra ela mesma? Por isso 
+mesmo que reforço o fundamento da impossibilidade de racismo re-
+verso. 
+
+Na matéria, o discurso de combate ao racismo e mesmo a vi-
+são positiva do programa são favorecidos dada a opção editorial 
+de se realizar uma entrevista com um membro da Defensoria Pú-
+blica e dirigente de uma entidade associativa dos defensores que 
+é francamente apoiador de políticas de ação afirmativa.
+
+Trata-se  portanto  de  uma  refutação  à  iniciativa  do  autor  da 
+ação que pede a punição da empresa Magazine Luiza, sendo que 
+para isso há referências a sentidos explorados pelo propositor da 
+ação. Em sua fala, o entrevistado mostra-se preocupado em de-
+fender políticas de ação afirmativa de um modo geral, evidenciar 
+
+a realidade do racismo, rejeitar a hipótese de racismo reverso e 
+apoiar, em tese, o programa em apreço. 
+
+Vejamos os sentidos mobilizados nessa entrevista: (I) Progra-
+mas de ação afirmativa como o da Magalu já têm jurisprudência 
+favorável; (II) A ação do defensor contestando o programa da em-
+presa  contraria  princípios  da  Defensoria;  (III)  Programas  desse 
+tipo  estão  de  acordo  com  o  “processo  de  evolução  dos  direitos 
+humanos”; (IV) racismo reverso não faz sentido algum e o próprio 
+STF tem esse entendimento; (V) é um absurdo tentar valer-se da 
+própria  lei  “contra  a  própria  finalidade  dela  de  proteger  grupos 
+excluídos”.
+
+Afora isso, nota-se, em mais uma matéria da imprensa, a au-
+sência de representantes da empresa e mesmo de negros e repre-
+sentantes do movimento negro. Eles não são ouvidos ou referidos 
+como fontes, nem pela repórter, nem pelo entrevistado. Mais uma 
+vez, não falam, são falados.
+
+Nesse processo discursivo, nota-se a estratégia de se rejeitar 
+medidas e ações contra o racismo, em favor de mudança social, 
+(I) não se assumindo como racista; (II) desqualificando a ação afir-
+mativa de cunho racial, taxando-a de racista e (III) promovendo a 
+própria autoimagem de cidadãos e servidores públicos em defe-
+sa da democracia e dos princípios constitucionais, atribuindo aos 
+oponentes a iniciativa contrária.
+
+Considerações finais
+
+Neste artigo, vimos um pouco do quadro atual do debate pú-
+blico sobre o combate ao racismo e à discriminação racial na es-
+fera pública no Brasil, pela perspectiva do processo discursivo na 
+imprensa. A narrativa do racismo reverso vem sendo frequente-
+mente  utilizada  e  desenvolvida  com  base  no  quadro  referencial 
+do liberalismo, pretextando, assim, uma postura pretensamente 
+distante dos ódios raciais, supostamente ancorada em valores uni-
+versais.
+
+O racismo reverso mostra como pessoas brancas, que sempre 
+foram beneficiadas em razão de sua branquitude, lançam mão da 
+acusação de racismo para que medidas de promoção da igualdade 
+racial que eventualmente poderiam prejudicá-las não sejam apli-
+cadas ou sejam rejeitadas na sociedade. Com a postura, rejeitam a 
+mudança do status quo e mobilizam-se pela manutenção de seus 
+privilégios de raça. É preciso combater essa estratégia em prol do 
+avanço da democratização e da luta antirracista. 
+
+Avanços  e  recuos  podem  ser  notados  e  nós  os  apontamos 
+aqui. Frente à compreensão de que o racismo é fenômeno estru-
+tural e estruturante, insiste-se de modo retrógrado na narrativa 
+do racismo reverso para descaracterizar e enfraquecer políticas de 
+ação afirmativa, sejam estas desenvolvidas pelo poder público ou 
+pela iniciativa privada.
+
+Pessoas em defesa do status quo racista e de manutenção e 
+reprodução  das  desigualdades  raciais  têm  recorrido  a  imagens 
+e  sentidos  historicamente  vinculados  ao  discurso  de  combate  a 
+essa conjuntura para barrar conquistas e frear iniciativas que ob-
+jetivam  inclusão  e  igualdade  racial  na  sociedade  e,  em  especial, 
+no mercado de trabalho. É um movimento no processo discursivo 
+que se distingue de outro – o da simples negação do racismo, bem 
+como da naturalização das desigualdades raciais. Este movimento 
+não chega a substituir o anterior, mas convive com ele e, como 
+demonstramos  aqui,  aponta  e  condena  a  luta  antirracista  como 
+sendo ela mesma uma reação racista, o tal racismo reverso.
+
+Ora, mas se racismo tem raízes em fenômeno histórico-social 
+de submissão, exploração e perseguição de povos em situação vul-
+nerável por outros com mais poder e que, para tanto, aqueles são 
+minorizados e oprimidos por estes, como acreditar que a situação 
+se inverteu como num passe de mágica? Ou seja, querem fazer 
+crer que os tais grupos minoritários passaram a ser dominantes 
+ou pelo menos que já estariam em pé de igualdade na sociedade 
+quando em verdade as desigualdades permanecem, sendo que é 
+por isso que a luta por ação afirmativa se justifica. O estratagema 
+do racismo reverso e iniciativas correlatas só aumentam as expec-
+
+tativas da cidadania e tornam mais relevantes os próximos lances 
+dessa luta.
+
+Referências
+
+ALMEIDA, S. L. de. 2020. Racismo estrutural. São Paulo: Jandaíra.
+
+AMDUR, R. 1995. Compensatory justice; the question of costs. In S. M. 
+Cahn (org.) The affirmative action debate. Nova Iorque: Routledge, 
+pp. 91-104.
+
+BONILLA-SILVA, E. 2020.Racismo sem racistas: o racismo da ceguei-
+ra de cor e a persistência da desigualdade na América. São Paulo: 
+Perspectiva.
+
+CHOULIARAKI, L. e FAIRCLOUGH, N. 1999. Discourse in late moder-
+nity: rethinking critical discourse analysis. Edimburgo: Edinburgh 
+University Press.
+
+COWAN, J. L. 1985. Inverse discrimination. In: S. M. Cahn (org) The affir-
+mative action debate. Nova Iorque: Routledge, pp.5-7. 
+
+ESSED, P. 1991. Understanding racism: an interdisciplinary theory. 
+Newbury Park: Sage.
+
+ESSED, P.  2002. Everyday racismo; a new approach to the study of 
+racism. In: P. Essed e D. T Goldberg (org). Race critical theories, text 
+and context. Malden e Oxford: Blackwell Publishers, pp. 176-194.
+
+GOLDBERG, D. T. 2002. Modernity, race and morality.In: P. Essed e D. 
+T Goldberg (org). Race critical theories, text and context. Malden e 
+Oxford: Blackwell Publishers, pp. 283-306.
+
+HALL, S. 2002. Race, articulation, and societies structured in dominance. 
+In: P.Essed e D. T Goldberg (org). Race critical theories, text and con-
+text. Malden e Oxford: Blackwell Publishers, pp.38-68.
+
+HILL Jr., T. E. 1995. The message of affirmative action. In: S. M. Cahn 
+(org) The affirmative action debate. Nova Iorque: Routledge, pp. 169-
+191.
+
+MARTINS, A. R. N. 2011. A polêmica construída: racismo e discurso 
+da imprensa sobre a política de cotas para negros. Brasília: Senado 
+Federal.
+
+SANTOS, R. 2020. Maioria minorizada: um dispositivo analítico de ra-
+cialidade. Rio de Janeiro: Telha. 
+
+SHINER, R. A. 1995. Individuals, groups, and inverse discrimination. In: S. 
+M. Cahn (org) The affirmative action debate. Nova Iorque: Routledge, 
+pp.19-22.
+
+THOMPSON, J. B. 1998. Ideologia e cultura moderna: teoria social crí-
+tica na era dos meios de comunicação de massa. Trad. P. A. Guareschi 
+et al. Petrópolis: Vozes.
+
+VAN DIJK, T. A. 1991. Racism and the press. Londres: Routledge.
+
+

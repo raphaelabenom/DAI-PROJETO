@@ -1,0 +1,936 @@
+Girls in the house: gêneros e práticas 
+semióticas
+Girls in the house: genres and semiotics practices
+
+Girls in the house: géneros y prácticas semióticas
+
+Arnaldo Cortina
+Professor adjunto da Faculdade de Ciências e Letras da Universidade Estadual Paulista 
+“Júlio de Mesquita Filho” (Unesp), câmpus de Araraquara, SP, Brasil. 
+E-mail: arnaldo.cortina@unesp.br. 
+
+Jéssica de Amorim Barbosa
+Doutoranda em Linguística e Língua Portuguesa pela Faculdade de Ciências e Letras 
+da Universidade Estadual Paulista “Júlio de Mesquita Filho” (Unesp), câmpus de 
+Araraquara, SP, Brasil.
+E-mail: já.barbosa@unesp.br. 
+
+Resumo: O presente artigo analisa a websérie Girls in the House. 
+Investigamos que efeitos de sentido o processo de interação pro-
+duz e que estratégias discursivas se configuram no percurso gera-
+tivo da expressão, proposto por Fontanille (2008, 2014), por meio 
+dos níveis de pertinência semióticos. Partimos da identificação dos 
+gêneros por meio da teoria semiótica e, em seguida, abordamos 
+a constituição genérica da websérie e como ela configura práticas 
+no processo de criação e entrega do conteúdo pelo suporte digital. 
+Este artigo, entretanto, não pretende fazer um estudo historiográ-
+fico do gênero, mas utilizar discussões já propostas para aplicar 
+em uma análise.
+Palavras-chave: gênero; práticas; semiótica; audiovisual; discurso.
+
+Abstract: This article analyzes the webseries Girls in the House. 
+We investigated what effects of meaning the interaction process 
+produces  and  what  discursive  strategies  are  configured  in  the 
+generative  path  of  expression,  proposed  by  Fontanille  (2008; 
+
+2014),  through  the  levels  of  semiotic  pertinence.  We  start  from 
+the  identification  of  genres  through  semiotic  theory  and  then 
+we approach the generic constitution of the webseries and how 
+it configures practices in the process of creation and delivery of 
+content  through  digital  support.  This  article,  however,  does  not 
+intend to make a historiographical study of the genre, but to use 
+discussions already proposed to apply in an analysis.
+Keywords: genre; practices; semiotic; audiovisual; discourse.
+
+Resumen:  Este  artículo  analiza  la  webserie  Girls  in  the  House. 
+Investigamos  qué  efectos  de  sentido  produce  el  proceso  de 
+interacción y qué estrategias discursivas se configuran en el camino 
+generativo de la expresión, propuesto por Fontanille (2008; 2014), 
+a  través  de  los  niveles  de  pertinencia  semiótica.  Partimos  de  la 
+identificación de géneros a través de la teoría semiótica para luego 
+abordar la constitución genérica de la webserie y cómo configura 
+prácticas en el proceso de creación y entrega de contenidos a través 
+de soporte digital. Este artículo, sin embargo, no pretende hacer 
+un estudio historiográfico del género, sino utilizar discusiones ya 
+propuestas para aplicarlas en un análisis.
+Palabras llave: género; prácticas; semiótica; audiovisual; discurso.
+
+Submetido em 19 de setembro de 2022.
+Aceito em 24 de janeiro de 2023.
+Publicado em 05 de abril de 2023.
+
+Introdução
+
+Sabemos que muitos são os estudiosos que, ao longo dos anos, 
+procuraram estabelecer o conceito de gênero enquanto categoria 
+textual. O objetivo deste artigo, entretanto, não é estabelecer um 
+conceito de gênero, tampouco fazer um percurso historiográfico 
+sobre ele.  Não  estabeleceremos, por  outro  lado,  uma  discussão 
+teórica que ignore tudo que já foi dito sobre esse tema. Na verda-
+de, utilizaremos aqui o que já foi amplamente pesquisado e divul-
+gado sobre gêneros, com enfoque em seu percurso pela semiótica 
+francesa. Nosso intuito consiste em usar dados historiográficos e 
+conceituais de gênero para mostrar sua aplicabilidade na análise 
+de um texto sincrético e digital. Acreditamos que iniciar um per-
+curso de análise por meio dos gêneros estabelece uma base sólida 
+para adentrarmos a questão das práticas semióticas na constitui-
+ção de textos digitais complexos, como é o caso de nosso corpus, 
+que será claramente detalhado mais adiante. 
+
+Os estudos sobre gênero textual datam de muitos anos, mais 
+de 300 a.C. para sermos mais exatos. Antes de encontrarem res-
+paldo nas teorizações na semiótica francesa, os gêneros já esta-
+vam presentes nos escritos de Aristóteles. Pioneiro em esmiuçar 
+a categorização genérica em manifestações textuais, o autor rea-
+lizou distinções claras de padrões textuais ao classificar textos líri-
+cos, poéticos, comédias e tragédias. 
+
+No primeiro capítulo de A arte poética, Aristóteles (2007, p. 23) 
+explica brevemente que os meios das concepções genéricas não 
+são os mesmos, tampouco seus objetivos, por isso cada gênero 
+carrega em seu gene particularidades que os diferenciam uns dos 
+outros. Para acentuar as diferenças, ele detalha as características e 
+os aspectos conceituais de cada gênero em cada capítulo do livro. 
+Aristóteles (2007) foi o primeiro estudioso de que se tem regis-
+tro a iniciar essa discussão, embora não tenha sido o único. Mais 
+recentemente, estudos linguísticos sobre o gênero ganharam re-
+forços  com  o  olhar  apurado  de  Mikhail  Bakhtin.  Ao  desenvolver 
+suas propostas, e ao trabalhar com esmero os conceitos de enun-
+
+ciação,  criou  a  terminologia  “gênero  do  discurso  [considerada 
+como parte da atividade humana que manifesta] tipos estáveis de 
+enunciados” (BAKHTIN, 1997, p. 279) que contêm três elementos: 
+conteúdo temático, estilo e construção composicional.
+
+O autor também divide os gêneros em simples e complexos, 
+sendo o gênero do discurso primário (simples) aquele que traz ma-
+nifestações de comunicação oral, e o gênero do discurso secun-
+dário (complexo) aquele que traz manifestações de comunicação 
+escrita  (romance,  épicos,  cartas,  documentos,  etc).  Para  Bakhtin 
+(1997, p. 288), a inter-relação entre esses dois gêneros é que espe-
+cifica a natureza do enunciado: “O estudo da natureza do enuncia-
+do e dos gêneros do discurso tem uma importância fundamental 
+para superar as noções simplificadas acerca da vida verbal”.
+
+Logicamente, esses estudos decorrem do contexto da época 
+em que são realizados, razão pela qual nem sempre vamos utili-
+zar, em nossas análises, essa divisão estanque e fechada. Sabe-
+mos, por exemplo, que novas práticas discursivas da contempora-
+neidade configuram novos olhares para a tipificação dos gêneros. 
+Um exemplo bem claro são as reuniões por videoconferência. Tra-
+ta-se de uma comunicação oral, porém, mediada pelo suporte da 
+tela, da internet, do aplicativo digital, que acontece em ambientes 
+distintos,  muito  diferente  do  tipo  de  comunicação  oral,  linear  e 
+presencial examinada por Bakhtin (1997). Por mais que a comuni-
+cação oral esteja no âmbito do discurso primário, apresenta, hoje, 
+uma complexidade característica do discurso secundário. Por esse 
+motivo,  consideramos  esses  conceitos  a  base  para  uma  análise 
+genérica, mas sempre é preciso aprofundar essas questões com 
+conceitos da semiótica francesa, pois esses estão mais próximos 
+de uma análise baseada em práticas. 
+
+Para que nossa análise tenha maior aprofundamento na ques-
+tão do gênero segundo a semiótica, vamos entender os conceitos 
+propostos por Fontanille (1999, 2008) e sua aplicabilidade em uma 
+cena prática da websérie Girls in the House.
+
+O gênero para a semiótica francesa
+
+Uma  das  primeiras  conceituações  de  gênero  em  semiótica 
+aparece  no  Dicionário  de  Semiótica  de  Greimas  e  Courtés  (1979) 
+que, anos mais tarde, é desenvolvida por Fontanille (1999, 2008, 
+2014). No dicionário citado, encontramos a seguinte definição:
+
+O gênero designa uma classe de discurso, reconhecível gra-
+ças  a  critérios  de  natureza  socioletal.  Estes  podem  provir 
+quer de uma classificação implícita que repousa, nas socie-
+dades de tradição oral, sobre a categorização particular do 
+mundo, quer de uma “teoria dos gêneros” que, para muitas 
+sociedades, se apresenta sob a forma de uma taxionomia 
+explícita, de caráter não-científico. Dependente de um re-
+lativismo  cultural  evidente  e  fundada  em  postulados  ide-
+ológicos  implícitos,  tal  teoria  nada  tem  de  comum  com  a 
+tipologia dos discursos que procura constituir-se a partir do 
+reconhecimento de suas propriedades formais específicas. 
+(GREIMAS; COURTÉS, 1979, p. 202, grifo do autor).
+
+Portela e Schwartzmann (2012, p. 73) alegam que, na ótica de 
+Greimas,  os  gêneros  são  definidos  por  dados  extrínsecos  e  flu-
+tuantes, “[...] flutuantes porque, a cada época, as variáveis socio-
+culturais podem mudar, mudando a classificação do gênero”. Po-
+demos, então, afirmar que, apesar de sua função classificatória, os 
+gêneros são estruturas orgânicas e adaptáveis, que evoluem com 
+o passar dos anos.
+
+Com base nas noções de texto e de discurso, orientamo-nos 
+pelas  proposições  de  Fontanille  (1999)  quando  define  tipos  tex-
+tuais e discursivos, que são a base para o entendimento de gênero 
+em  semiótica,  já  que  os  gêneros  possuem  propriedades  discur-
+sivas e textuais. Texto e discurso caminham juntos na semiótica, 
+tendo em vista que os discursos usam os textos para manifestar 
+sua essência e fazer sentido.
+
+Entendemos, assim, o gênero como um todo de sentido que 
+traz  em  sua  essência  um  conjunto  de  informações  caracterís-
+ticas  e  identificáveis  por  sua  recorrência.  Segundo  Fontanille 
+(1999, p. 159, tradução nossa, grifo do autor), “[...] o gênero é 
+um conjunto de convenções que define a forma, a  extensão, o 
+referente e as modalidades de sua representação [...]”1. Essa defi-
+nição é genérica, mas não estanque, pois carrega em si o pres-
+suposto de que o gênero sempre pode mudar, tendo em vista 
+suas características variáveis.
+
+Para estruturar uma teoria dos gêneros, Fontanille (1999) lan-
+ça mão de conceitos que ajudam a compreender e a analisar obje-
+tos semióticos. Um desses conceitos é o de práxis enunciativa, que 
+se  baseia  em  quatro  propriedades:  estabilidade  das  categorias, 
+esquematização do discurso, mudanças culturais e congruências 
+locais e provisórias. Por apresentar essas propriedades, o gênero 
+qualifica-se como uma forma de categorização bem estruturada, 
+porém, com certa maleabilidade.
+
+Por  ser  constituído  de  texto  e  de  discurso,  há  princípios  de 
+organização a que o gênero obedece. Um conjunto de categorias 
+gerais determina a constituição do gênero, segundo o autor, e o 
+valor do gênero muda de acordo com o ambiente cultural em que 
+está inserido. Segundo Fontanille (2008, p. 209), um gênero regula 
+“o encontro entre um tipo textual e um tipo discursivo”.
+
+Os tipos se articulam por meio das isotopias que criam, não 
+apenas isotopias no sentido de recorrência, mas, como o texto é 
+a manifestação do discurso, essa manifestação e essas isotopias 
+devem ser coerentes e configurar sentido. Para buscar a organiza-
+ção, Fontanille (2008) classifica os tipos textuais da seguinte forma: 
+o tipo discursivo é caracterizado pela coerência, o tipo textual é 
+caracterizado pela coesão e a congruência é formada pelos dois 
+tipos  sob  o  controle  da  enunciação  (FONTANILLE,  2008,  p.  209). 
+Essa organização de coerência, coesão e congruência é o que de-
+termina o gênero.
+
+1 Texto original em francês com grifos do autor: “[...] le genre est um ensemble de conventions qui définissent la forme, la lon-
+gueur, le référent et les modalités de sa représentation, […]”. (FONTANILLE, 1999, p. 159). 
+
+Um “tipo discursivo” será, pois, definido por seu “tipo” de 
+coerência,  um  “tipo  textual”  o  será  por  seu  “tipo”  de  co-
+esão;  e  a  congruência,  que  garante  a  superposição  dos 
+elementos da coerência discursiva e coesão textual, não 
+serão consideradas agora como próprio de uma enuncia-
+ção individual. (FONTANILLE, 1999, p. 162, grifo do autor, 
+tradução nossa).
+
+Os tipos textuais possuem dois critérios de classificação, lon-
+go vs breve ou aberto vs fechado. A oposição “longo vs breve”, por 
+exemplo, indica uma norma sociocultural em uma escala de avali-
+ção externa, com seu ritmo interno de enunciação em relação à du-
+ração da história. Já a oposição “fechado vs aberto” indica a relação 
+entre a unidade de leitura (plano da expressão) e a unidade de edi-
+ção (recorte da expressão). Quando não estão ligados, o texto está 
+aberto e, nesse caso, é possível fazer a leitura por partes (os recor-
+tes), como uma narrativa seriada, por exemplo, em que os recortes 
+lidos/assistidos separadamente podem fazer sentido ao final.
+
+A  partir  desses  critérios,  Fontanille  (1999)  apresenta  quatro 
+propriedades de tipos textuais: recursividade, tipo longo e aberto; 
+desdobramento, tipo longo e fechado; fragmentação, tipo breve e 
+aberto; concentração, tipo breve e fechado.
+
+Portela e Schwartzmann (2012) consideram o seguinte sobre 
+
+cada propriedade: 
+
+Segundo tal modelo, o tipo textual da recursividade (longo 
+e aberto) seria aquele cujos procedimentos permitem a re-
+ativação e o encaixe indefinidos das estruturas textuais, dos 
+quais seriam exemplos o romance em diversos volumes, a 
+telenovela e o poema épico. Já o tipo do desdobramento 
+(longo e fechado), mesmo explorando muitas possibilidades 
+de expansão textual, permanece ainda sob o controle de 
+um esquema global, que acaba por “fechar” o texto. Os ro-
+
+mances em geral, especialmente o policial (cujo enredo gira 
+em torno, normalmente, de um único fato marcante), as pe-
+ças teatrais, o filme e o conto seriam exemplares quanto a 
+esse tipo. A fragmentação (breve e aberto) permite apenas 
+uma leitura sob um único ponto de vista (normalmente de 
+um único sujeito enunciador), por vezes limitado e lacunar, 
+da história, cena ou pensamento que nele são veiculados, 
+como no caso da carta, se tomada fora de uma correspon-
+dência, das memórias ou do diário. Por fim, temos o tipo 
+da concentração (breve e fechado), que nos apresenta um 
+espaço textual reduzido, fornecendo, no entanto, o máximo 
+de sua significação, como se passa na piada, no soneto e na 
+máxima ou aforismo. (PORTELA; SCHWARTZMANN, 2012, p. 
+78, grifo do autor).
+
+Enquanto os tipos textuais focam o plano de expressão, os 
+tipos  discursivos  voltam-se  para  o  plano  de  conteúdo.  Tendo 
+em vista que o discurso é uma enunciação, os tipos discursivos 
+caracterizam-se por dois critérios: a modalidade de enunciação 
+e as axiologias. 
+
+O  primeiro  leva  em  conta  os  contratos  entre  os  sujeitos 
+da enunciação, os tipos de atos de linguagem e as moda-
+lizações dominantes do ponto de vista pragmático. O se-
+gundo lança luz sobre os tipos de valores propostos e as 
+condições de sua atualização e conhecimento no discurso. 
+(PORTELA; SCHWARTZMANN, 2012, p. 79).
+
+No quadro a seguir, vemos primeiro as modalidades dominan-
+
+tes e, depois, os atos de linguagem.
+
+Figura 1 - Quadro de atos de linguagem e modalizações
+
+Fonte: (PORTELA; SCHWARTZMANN, 2012, p. 79).
+
+Os atos de linguagem dominantes possuem quatro tipos de 
+discursos: incitativo (querer e dever); persuasivo (assumir e ade-
+rir); de habilitação (saber e poder) e de realização (ser e fazer). No 
+discurso  incitativo,  quando  o  dever  for  predominante,  ocorre  o 
+discurso prescritivo (o médico, por exemplo). Já nos discursos de 
+habilitação, quando o saber for dominante, caracteriza-se como os 
+discursos de ensino e de aprendizagem, por exemplo. Nos discur-
+sos de realização, o fazer denota o discurso performativo.
+
+Fontanille (2008) também faz uma classificação temática dos 
+discursos, da seguinte forma: o bom (valores hedônicos), o bem 
+(valores éticos), o belo (valores estéticos) e o verdadeiro (valores 
+veredictórios). Os discursos são extremamente flexíveis, pois um 
+mesmo discurso pode manifestar-se por meio de tipos textuais di-
+ferentes.
+
+Se um tipo textual está em harmonia com o tipo discursivo, 
+entramos no nível da congruência do discurso. Para atestar a con-
+gruência no nosso objeto de estudo, focaremos nossa análise, na 
+sequência, nos níveis do texto-enunciado e do objeto-suporte. 
+
+Conceitos dos níveis de pertinência do texto-enunciado 
+e do objeto-suporte
+
+Toda  a  estruturação  e  a  classificação  genérica  proposta  por 
+Fontanille  (1999,  2008)  ocorre  no  nível  de  pertinência  do  texto-
+-enunciado,  o  nível  que  traz  a  carga  de  significação  configurada 
+pelo  plano  de  expressão  e  pelo  plano  de  conteúdo.  Os  planos 
+da imanência para a configuração do gênero, segundo Fontanil-
+le (2014), encontram-se resumidos no seguinte quadro dado por 
+Portela e Schwartzmann (2012):
+
+Figura 2 - Planos da imanência
+
+Fonte: (PORTELA; SCHWARTZMANN, 2012, p. 85).
+
+Para as semióticas-objetos temos os níveis iniciais em sig-
+nos,  textos-enunciados  e  objetos;  para  a  semiótica  da  cultura 
+temos os níveis finais de estratégias e de formas de vida. O es-
+tudo e a identificação desses níveis, juntamente com o percur-
+so gerativo do plano de conteúdo, ajudam na compreensão do 
+processo de significação e, consequentemente, na investigação 
+das práticas semióticas.
+
+Esse percurso permite que analisemos o texto por outras ver-
+tentes, estrutura sua existência semiótica e dá mais opções para o 
+entendermos como um todo. É possível analisar seu objeto-suporte, 
+o texto-enunciado, suas estratégias, suas práticas e suas formas de 
+vida, a fim de encontrarmos coerência em seu sentido. Para aplicar 
+
+o conceito de gênero, este artigo procura elucidar os fundamentos 
+das práticas semióticas e do texto-enunciado. Uma prática semióti-
+ca é um conjunto de atos que se constrói em tempo real.
+
+[...] uma prática pode comportar um ou vários processos 
+(um ou vários predicados) atos de enunciação que impli-
+cam papéis actanciais desempenhados, entre outros, pe-
+los próprios textos ou imagens, por seus objetos-suporte, 
+por elementos do ambiente, pelo transeunte, pelo usuário 
+ou pelo observador, tudo o que forma a “cena” típica de 
+uma prática. (FONTANILLE, 2008, p. 23, grifo do autor).
+
+Para o semioticista francês, o nível das práticas só faz senti-
+do quando se relaciona com o princípio da integração entre os 
+planos de imanência. A integração é o que configura o sentido e 
+a experiência semiótica. Afinal, uma prática só acontece quando 
+esses planos integram-se, uma vez que cada nível precisa do ou-
+tro para coexistir.
+
+O conceito de integração utilizado por Fontanille (2014) parte 
+das considerações de Benveniste (1995, p. 128), realizadas no capí-
+tulo “Os níveis de análise linguística”, quando afirma que é preciso 
+segmentar o texto a ser estudado em porções cada vez mais re-
+duzidas. Ao reduzir as porções, afirma Benveniste (1995), torna-se 
+mais fácil analisar cada nível. Exemplifica, em seu texto, como o 
+signo se torna palavra, e como palavras juntas evoluem para a fra-
+se. Além disso, explica como os níveis se integram.
+
+Pelo fato de serem discretas, identidades linguísticas admi-
+tem duas espécies de relação: entre elementos de mesmo 
+nível  ou  entre  elementos  de  níveis  diferentes.  Essas  rela-
+ções devem ser bem distinguidas. Entre os elementos de 
+mesmo nível, as relações são distribucionais; elementos de 
+nível diferente, são integrativas. (BENVENISTE, 1995, p. 133).
+
+As práticas apoiam-se, também, em suportes materiais e em 
+suportes  formais  para  se  manifestarem.  Elas  estão  ligadas  à  di-
+mensão predicativa, em que se estabelecem as situações semióti-
+cas. Essas situações, compreendidas como as cenas predicativas, 
+como práticas formais que configuram cenas de ação prática na 
+enunciação, são descritas por Fontanille (2005, p. 25) como uma 
+pequena cena “[...] que pode ser obtida graças à conversão de uma 
+experiência prática em dispositivo de expressão semiótica”. 
+
+A sintaxe figurativa do texto-enunciado organiza a enunciação 
+em práticas, que são estruturadas nas cenas predicativas. As ce-
+nas configuram a ação no texto-enunciado, e trazem, atrelados a 
+elas,  os  elementos  do  percurso  gerativo  do  plano  de  conteúdo, 
+como a sintaxe narrativa (programa, percurso e esquema narrati-
+vo), a semântica narrativa (modalização do ser e do fazer) e a sinta-
+xe discursiva (relações entre enunciador e enunciatário). Por meio 
+da narrativa ou da ação, as práticas compreendem as estratégias 
+para a apreensão do sentido por meio das cenas.
+
+Já  o  nível  do  objeto-suporte  do  texto-enunciado  é  o  supor-
+te material, o local onde o texto está inscrito. Em uma carta, por 
+exemplo, o texto é o texto-enunciado e o papel é o objeto-suporte. 
+Por meio do suporte, temos acesso ao conteúdo do texto-enuncia-
+do. Fontanille (2005, p. 19) afirma que o objeto, além de estar no 
+nível da semiótica-objeto e ser um elemento essencial de distribui-
+ção e afixagem, também oferece dimensão estratégica na situação 
+semiótica. 
+
+Os objetos, em sua ocorrência, são estruturas materiais, 
+dotadas de uma morfologia, de uma funcionalidade e de 
+uma forma exterior identificável, cujo conjunto é destina-
+do a um uso ou a uma prática mais ou menos especializa-
+da. (FONTANILLE, 2005, p. 19).
+
+O objeto pertence ao nível da experiência corpórea. Ele atua 
+em uma relação de integração com o texto-enunciado, tendo em 
+
+vista que um precisa do outro para coexistir. Como afirma Fonta-
+nille (2014, p. 35, tradução nossa): “O objeto da escritura cumpre 
+[...] dois papéis: por um lado, é o suporte do texto (superfície de 
+inscrição) e, por outro, é um dos atores nas práticas semióticas”2. 
+O objeto-suporte está sempre condicionado às práticas e é o res-
+ponsável pela integração entre os níveis do texto-enunciado e das 
+cenas predicativas.
+
+As cenas práticas são situações semióticas que possuem di-
+
+versos elementos construtores de sentido.
+
+Uma situação semiótica é uma configuração heterogênea 
+que reúne todos os elementos necessários para a produ-
+ção e para a interpretação do significado de uma interação 
+comunicativa.  Por  exemplo,  para  entender  o  significado 
+das inscrições hieróglifos monumentais do Egito, não bas-
+ta decifrar o texto ou até apreciar o tamanho e o layout 
+(vertical):  é  necessário  levar  em  conta  em  tal  situação  o 
+elemento específico de uma comunicação com os deuses, 
+que se manifesta em particular para a altura e proporções 
+das inscrições. (FONTANILLE, 2014, p. 37, tradução nossa).3
+
+Além da dimensão das cenas práticas, do texto-enunciado e 
+do objeto-suporte, há os níveis das estratégias que correspondem 
+às formas de vida, mas que não serão abordados aqui ainda.
+
+Gêneros em Girls in the House 
+
+A websérie Girls in the House foi criada por Raony Phillips e es-
+treou em 2014.  Apesar do título em inglês, o criador da série é 
+um carioca que possui um canal no YouTube (o RAO TV), onde vei-
+cula a série e outros vídeos produzidos por ele. Até o momento, a 
+série possui quatro temporadas completas e a quinta temporada 
+
+2 Texto original em espanhol: “El objeto de escritura cumple a ese respecto dos roles: por un lado, es el soporte dei texto (superficie 
+de inscripción), y por otro, es uno de los actores de las prácticas semióticas; [...]”. (FONTANILLE, 2014, p. 35).
+3 Texto original em espanhol: “Una situation semiótica es una configuración heterogénea que reúne todos los elementos necesarios 
+para la producción y para la interprétation de la signification de una interaction comunicativa. Por ejemplo, para comprender la sig-
+nification de las inscripciones jeroglificas monumentales de Egipto, no basta con descifrar el texto, ni siquiera con apreciar el tamano 
+y la disposition (vertical): es necesario adernas tomar en cuenta en tal situation los elemento específicos de una comunicación con los 
+dioses, la cual se manifiesta en particular por la altura y las proporciones de las inscripciones7”. (FONTANILLE, 2014, p. 37).
+
+ainda está em andamento. Os episódios não seguem um padrão 
+de lançamento com um calendário regular. Eles são divulgados na 
+plataforma conforme a edição é finalizada. A periodicidade entre 
+os lançamentos pode variar de semanas a meses, dependendo da 
+disponibilidade do produtor. 
+
+O humor é um dos elementos marcantes na série Girls in the 
+House e ela consiste, na verdade, em uma narrativa sobre a vida 
+cotidiana das histórias de três amigas (Honey, Duny e Alex) que 
+vivem e trabalham na pensão de uma senhora misteriosa: a Tia 
+Ruiva. Até a publicação deste artigo, não se sabe quem é essa per-
+sonagem. As jovens vivem situações corriqueiras, com drama, sus-
+pense e momentos engraçados, já que o humor sustenta a maior 
+parte da narrativa.
+
+A constituição plástica da série é bem interessante. Trata-se 
+de uma animação produzida por meio de um jogo eletrônico de 
+simulação da vida real chamado The Sims 4. Esse jogo funciona 
+como uma plataforma de simulação, em que é possível criar um 
+perfil, que pode ser totalmente alterado, com características hu-
+manas, bem similares à vida real para, dessa forma, encenar si-
+tuações  da  vida  cotidiana  das  personagens  dentro  de  um  jogo 
+digital. Ao utilizar uma plataforma para criar personagens e nar-
+rativas com elementos já existentes, o produtor realiza uma prá-
+tica que não é nova, porém, só agora está se tornando mais co-
+nhecida: a machinima. 
+
+Resultado das junções das palavras machine e animation, a 
+machinima é uma prática comum entre os fãs de jogos digitais. A 
+prática consiste em capturar cenas de jogos digitais no PC e criar 
+uma  nova  narrativa  com  essas  cenas  e  com  esses  elementos 
+preexistentes por meio de uma montagem. Para construir outra 
+narrativa,  são  utilizados  dublagens,  legendas,  trilhas  e  efeitos 
+sonoros, por exemplo. Almeida (2014, p. 13, grifo do autor), que 
+estuda a machinima, conceitua-a “[...] como um meio de reali-
+zação  audiovisual  acessível,  cujas  obras  são  influenciadas  por 
+características dos games, da animação computadorizada e da 
+narrativa cinematográfica”.
+
+Hoje, não é mais necessário fazer essa captura de forma ru-
+dimentar, pois existem plataformas que possibilitam a criação de 
+narrativas, como o The Sims, por exemplo. Com o jogo, é possível 
+criar personagens e histórias do zero, usando elementos da pró-
+pria plataforma.
+
+O texto-enunciado e o discurso de Girls in The House
+
+Por  meio  da  experiência  textual,  podemos  observar  o  
+texto-enunciado para entender as escolhas do enunciador e 
+seus efeitos de sentido. Segundo Fontanille (2005):
+
+Um texto-enunciado é um conjunto de figuras semióticas 
+organizadas em um todo homogêneo graças à sua disposi-
+ção sobre o mesmo suporte ou veículo (uni, bi ou tridimen-
+sional): o discurso oral é unidimensional, os textos escritos 
+as imagens são bi-direcionais; e a língua dos sinais é tri-di-
+mensional. (FONTANILLE, 2005, p. 18).
+
+Como Girls in the House é uma websérie (com diversos episó-
+dios) que apresenta uma prática narrativa, para identificar e para 
+compreender as questões de gênero, vamos analisar o discurso do 
+episódio 1 da série, intitulado Date Night. Geralmente, o primeiro 
+episódio de cada série apresenta as personagens e contextualiza 
+a narrativa. Neste caso, o texto-enunciado é, também, visto como 
+um dispositivo de inscrição das situações semióticas. Por meio do 
+texto-enunciado e das cenas práticas, conseguimos determinar o 
+gênero da narrativa, que se compõe da seguinte forma: um texto 
+audiovisual, complexo e sincrético construído por meio do gêne-
+ro cinematográfico de animação e composto por elementos, nas 
+cenas práticas, que o classificam como uma série de humor. Na 
+perspectiva bakhtiniana, por possuir conteúdo temático, estilo e 
+construção composicional (BAKHTIN, 1997, p. 279) pode ser consi-
+derado como um gênero do discurso. 
+
+É possível identificar, já nos primeiros minutos das cenas prá-
+ticas, os estereótipos e a forma de vida de cada personagem. Ao 
+fazer  as  apresentações  (aos  26  segundos  iniciais),  o  narrador  já 
+traz, em seu texto, dados e características que vão marcar as ce-
+nas  práticas  do  texto-enunciado  no  decorrer  da  série.  Quando 
+apresenta, por exemplo, as personagens, ele mostra Honey como 
+uma pessoa mais organizada, pois ela é a gerente da pensão. No 
+primeiro episódio, essa personagem – modalizada pelo /querer-fa-
+zer/ – será a mais centrada e a que apresentará menor carga cômi-
+ca nos episódios posteriores. Para criar esse efeito de sentido em 
+relação à personagem, a cena foi construída da seguinte maneira: 
+a personagem veste roupas de cores em tons de azul (passando 
+o efeito de sentido de sobriedade), usa óculos e aparece falando 
+ao celular; em outra cena, trabalha no computador. Dessa forma, 
+entendemos que o sujeito tem a competência do /querer/ e do /sa-
+ber-fazer/, portanto, é uma pessoa responsável. Seu objeto-valor é 
+cuidar da administração da pensão.
+
+A  segunda  personagem  apresentada  é  Duny,  a  responsável 
+pelo marketing da pensão que, segundo o narrador, “[...] também 
+aproveita para fazer propaganda de si mesma” (GIRLS..., 2014, n. 
+p.). Ela usa roupas curtas, coladas ao corpo, sua constituição física 
+foi construída na plataforma para ter corpo curvilíneo e sua voz é 
+alta, rouca e esganiçada. Essa constituição plástica da personagem 
+nos faz entender aspectos que já ficam evidentes no primeiro epi-
+sódio: ela é modalizada pelo /poder-fazer/, é engraçada, é debo-
+chada e seu objeto-valor consiste em realizar seu sonho: o de se 
+tornar uma estrela da música e do cinema. 
+
+A terceira personagem é Alex, que é responsável pela alimen-
+tação da pensão, embora, segundo conta o narrador, não tenha 
+sido  capaz  de  impedir  casos  recentes  de  intoxicação  alimentar 
+na própria pensão. Alex é modalizada pelo /dever-fazer/, deixa-
+-se  manipular  por  suas  colegas  de  pensão.  Sua  personagem  é 
+caracterizada como atrapalhada, tímida e sua constituição plás-
+tica mostra uma jovem comum, sem muitos atrativos que mere-
+çam destaque. Na apresentação das duas últimas personagens, é 
+possível notar um tom jocoso que direciona nossa atenção para 
+o aspecto cômico da série.
+
+O texto de Girls in the House possui um humor peculiar e atinge 
+diretamente seu público-alvo, que hoje é formado por jovens da 
+geração millennials (nascidos entre 1980 e 1997) e geração Z (nas-
+cidos após 1997), que gostam do universo de cultura pop, LGBT-
+QIA+, entendem esse universo e estão familiarizados com a ma-
+neira como a série figurativiza suas personagens.
+
+A  comicidade  na  série,  por  exemplo,  apresenta-se  no  texto-
+-enunciado  por  meio  do  roteiro  manifestado  nas  falas  das  per-
+sonagens e do narrador, que trazem os diálogos, as expressões 
+idiomáticas e as falas engraçadas. Como a construção gráfica das 
+personagens  tem  pouca  mobilidade,  expressão  facial  limitada  e 
+poucos  recursos  para  a  criação  de  situações  mais  espontâneas, 
+o humor concentra-se no texto. Essa falta de mobilidade das per-
+sonagens – por serem produzidas em plataforma digital – porém, 
+também contribui para potencializar as situações cômicas.
+
+No episódio em questão, há duas cenas práticas que marcam o 
+humor. Uma delas acontece aos 8 minutos e 22 segundos, quando 
+Alex sai para jantar com seu vizinho James Roberto. Nesse instan-
+te, já se nota, no nome da personagem masculina, uma referência 
+às novelas mexicanas em que as personagens usualmente têm no-
+mes compostos. Quando Alex pensa que James Roberto vai se de-
+clarar para ela, a cena tem um ponto de virada e ele a convida para 
+fazer o buffet do seu casamento com Matilde. Usando o recurso do 
+humor e do inesperado, essa cena marca como a enunciação vai 
+mostrar situações com a personagem Alex no decorrer da série. 
+
+Quase ao final do episódio, perto do décimo minuto, há uma 
+sequência  cômica  que  chama  a  atenção.  Duny  inscreve-se  para 
+participar  do  American  Idol.  Quando  o  programa  começa,  Duny 
+conta como sua infância havia sido “difícil”, sem receber mesadas, 
+e sobre o fato de, muitas vezes, suas amigas terem saído sem ela. 
+Na sala de espera do programa, ela se indispõe com uma partici-
+pante concorrente e diz: “tomara que você perca!” (GIRLS..., 2014, 
+n. p.). Ao participar do programa, Duny canta, muito desafinada, 
+uma música da Britney Spears e é desclassificada. O apresentador 
+do programa sugere que ela se suicide e ela responde: “Ah, vai se 
+
+foder, seu filha da puta do caralho” (GIRLS..., 2014, n. p.). Palavras 
+de baixo calão dão aspecto cômico e estarão presentes em todos 
+os outros episódios por meio dessa personagem.
+
+As  cenas  práticas  trazem,  em  sua  enunciação  enunciada,  as 
+marcas enunciativas que mostram como o texto-enunciado repre-
+senta o discurso dos jovens, principalmente os que compõem o 
+grupo LGBTQIA+, em seu próprio discurso. Paródias com progra-
+mas musicais de sucesso, como o American Idol, ilustram bem isso. 
+A entrada de uma personagem transexual nos episódios posterio-
+res também é um exemplo, pois dá voz a esse público. Além dis-
+so, as cenas procuram fazer simulacros de situações que pessoas 
+reais poderiam vivenciar em seu cotidiano. 
+
+Partindo  do  princípio  semiótico  de  que  todo  discurso  quer 
+persuadir ou trazer para o enunciatário o efeito de sentido de ver-
+dade, a série Girls in The House usa como mecanismo de projeção 
+da  enunciação  o  efeito  de  proximidade  para  ter  a  aderência  ao 
+discurso. Mesmo que a série seja composta por um texto em ter-
+ceira pessoa, a debreagem actancial enunciva, o narrador conta a 
+história de uma forma (uso de uma linguagem informal) que cria, 
+no enunciatário, a sensação de proximidade com as personagens. 
+Outro elemento que traz essa sensação é o momento de referên-
+cia no presente, que produz o efeito de uma narrativa que aconte-
+ce no presente do enunciatário. 
+
+Segundo Barros (1994), estudar projeções na enunciação cor-
+responde  a  “[...]  verificar  quais  são  os  procedimentos  utilizados 
+para constituir o discurso e quais os efeitos de sentido fabricados 
+pelos  mecanismos  escolhidos”  (BARROS,  1994,  p.  54).  O  interes-
+sante,  nesse  mecanismo  de  projeção,  é  que  o  discurso  traz  um 
+efeito de sentido tão forte de proximidade e de identificação que é 
+possível ao enunciatário esquecer, por um momento, que as per-
+sonagens são animações feitas por uma plataforma digital. Todos 
+os  elementos  de  estranhamento  e  de  distanciamento  que  uma 
+animação pode trazer ficam apagadas com o discurso de proximi-
+dade do narrador. Além disso, as formas da língua que são usadas 
+na série, como gírias próprias do público que ela quer atingir; a in-
+
+tertextualidade com outros textos audiovisuais; a inserção de ele-
+mentos midiáticos de reconhecimento imediato, como o American 
+Idol, também provocam esse efeito de proximidade. Dessa forma, 
+o texto cômico das cenas práticas, expresso por meio de um rotei-
+ro, é reconhecível como um gênero do discurso.
+
+YouTube e o objeto-suporte
+
+O  YouTube,  ao  contrário  do  que  se  pensa,  não  é  uma  rede 
+social. Trata-se de uma plataforma e de um agregador de textos-
+-enunciados, embora não seja uma produtora de conteúdo em si. 
+Cada  pessoa,  ou  cada  empresa,  pode  fazer  a  produção  de  seus 
+vídeos  de  forma  independente,  usando  os  recursos  que  tiver  à 
+mão, e veiculá-los por meio da plataforma YouTube. Essa platafor-
+ma proporcionou uma nova maneira de consumir e de produzir 
+conteúdos audiovisuais. 
+
+Sem  entrar  em  mais  detalhes  sobre  produção  e  divulgação, 
+vamos entender como o YouTube pode ser classificado generica-
+mente. A plataforma de vídeos mais famosa do mundo, o YouTube, 
+foi criada por Chad Hurley, então com 29 anos, e Steven Chen, com 
+27 anos, em 2005. 
+
+O YouTube não estabeleceu limites para o número de vídeos 
+que cada usuário poderia colocar on-line via upload, ofere-
+ceu funções básicas de comunidade, tais como a possibi-
+lidade de se conectar a outros usuários como amigos, e 
+gerava URLS e códigos HTML que permitiam que os vídeos 
+pudessem  ser  facilmente  incorporados  em  outros  sites, 
+um diferencial que se aproveitava da recente introdução 
+de  tecnologias  de  blogging  acessíveis  ao  grande  público. 
+Exceto pelo limite de duração dos vídeos que podiam ser 
+transferidos  para  o  servidor,  o  que  o  YouTube  oferecia 
+era similar a outras iniciativas de vídeos on-line da época. 
+(BURGESS; GREEN, 2009, p. 17, grifo nosso).
+
+Em 2019, o YouTube atingiu a marca de 4,5 bilhões de visua-
+lizações por mês em todo o mundo. Assim, consolidou-se como 
+um novo espaço alternativo que atende às massas, que distribui 
+conteúdo audiovisual de qualquer espécie, como documentários, 
+reportagens,  vídeos  antigos,  paródias,  ficção,  videoaulas,  propa-
+gandas, micronarrativas, tutoriais, entrevistas, DIY (Do It Yourself), 
+entre outros.
+
+Além dos gêneros, podemos notar no YouTube papéis sintá-
+ticos diferentes para o enunciatário da plataforma: ora podemos 
+atuar como narrador (produtor de conteúdo), ora como narratá-
+rio  (consumidor  de  conteúdo)  e  até  como  interlocutor  (quando 
+interagimos por meio dos comentários). Instaura-se, nessa troca 
+de papéis, um modo de regulação do /poder-fazer/ por parte dos 
+usuários da rede, o que Fontanille (2008) denomina práxis. A plata-
+forma também estabelece uma convergência de práticas de veicu-
+lação, que podem ser (i) coletivas, pois o vídeo pode ser produzido 
+e inserido por uma equipe; (ii) de consumo, que é individual, pois 
+cada um acessa o conteúdo de forma individual a seu tempo, e (iii) 
+de compartilhamento em redes sociais.
+
+O  YouTube,  por  suas  características,  exemplifica  a  individua-
+lidade  da  forma  de  vida  de  diferentes  sujeitos  ao  consumirem 
+determinadas  mídias  audiovisuais.  Por  outro  lado,  a  plataforma 
+também tem uma prática televisiva, que apresenta uma forma de 
+vida da coletividade, que assiste a programas de TV e acompanha 
+narrativas seriadas.
+
+Uma prática de ver TV implica uma forma de vida coletiva. 
+Poderíamos dizer que a instantaneidade, o ineditismo do 
+conteúdo e a transmissão ao vivo caracterizam a prática 
+televisiva,  que  não  pode  ser  substituída  pela  prática  da 
+internet, caracterizada por conteúdos acumulados, intera-
+ção e atividade. O fazer diante da internet é mais indivi-
+dual, e ele se traduz em ações como: “eu assisto quando 
+quiser”, “eu posto o que eu quiser”! (SOUSA et al., 2012, p. 
+221-222). 
+
+Como  a  rede  possibilita  a  veiculação  de  vídeos  de  qualquer 
+natureza, há alguns gêneros que predominam sobre os demais e 
+que se estabeleceram como os principais tipos de vídeos que fun-
+cionam na plataforma. Vale lembrar que esses gêneros não foram 
+criados  pelo  YouTube,  muitos  já  existiam  e,  nesse  contexto,  eles 
+apenas se ressignificaram. 
+
+Com o intuito de caracterizar alguns deles, podemos dizer que 
+o gameplay, ou tutorial de games, é um dos gêneros mais difun-
+didos entre os jovens que gostam de jogar videogame. Nesse tipo 
+de vídeo, o dono do canal mostra um jogo que está jogando e dá 
+dicas sobre ele, geralmente com a imagem do jogo na tela e a voz 
+over (voz de fundo) do dono do canal. O vlog é um termo que se 
+origina da palavra videolog ou diário de rede. No YouTube, os vlogs 
+são como se fossem diários audiovisuais. Os tutoriais são vídeos 
+que ensinam a fazer algo específico. O intuito do review consis-
+te em fazer com que o apresentador do canal faça uma revisão 
+crítica de produtos, geralmente ligados à tecnologia. Já a paródia 
+consiste num dos gêneros mais comuns em que o dono do canal 
+faz releituras cômicas de outras obras audiovisuais ou de aconte-
+cimentos do cotidiano. Por fim, as webséries correspondem a nar-
+rativas seriadas produzidas para o YouTube. Essas últimas podem 
+usar os procedimentos padrões de produção audiovisual, mas po-
+dem também usar recursos tecnológicos, como o caso do nosso 
+objeto de estudo, Girls in the House, uma série produzida em uma 
+plataforma digital de games.
+
+Como vimos, a identificação de diversos tipos de gêneros pode 
+ser feita em diversos aspectos de uma semiótica-objeto. Mostra-
+mos, portanto, como o nosso corpus pode apresentar uma diver-
+sidade  de  marcações  genéricas,  como  em  seu  texto-enunciado, 
+cenas práticas e objeto-suporte, por exemplo. 
+
+Além de todas essas categorizações genéricas que pontuamos 
+até agora, o que determina o gênero, segundo Fontanille (1999, p. 
+162), é a coesão, a coerência e a congruência. Do ponto de vista do 
+tipo textual (coesão – plano da expressão), a websérie Girls in the 
+
+Categorização genérica
+
+House caracteriza-se pela recursividade, já que é uma narrativa se-
+riada dividida em episódios, manifestada por seu tipo textual lon-
+go e aberto. Do ponto de vista do tipo discursivo (coerência – plano 
+de conteúdo), ela se caracteriza pelo tipo discursivo da realização 
+(ser e fazer), já que se pauta pela performance (que se manifesta 
+na prática narrativa por meio das cenas práticas). Com base nos 
+níveis de pertinência semiótico e na teoria da constituição genéri-
+ca por tipos textuais e discursivos, construímos esse esquema de 
+análise (ver Figura 3) para o episódio 1 da primeira temporada de 
+Girls in the House:
+
+Figura 3 - Análise esquemática de gênero Girls in the House
+
+Texto-
+
+enunciado
+
+Episódio 1 de Girls in 
+the House
+
+* Tipo textual aberto e longo = 
+recursividade (plano da expressão)
+
+Objeto
+
+* Internet (inscrição)
+* YouTube (circulação)
+
+Cenas Práticas * Prática de produção, 
+
+veiculação e 
+compartilhamento
+
+* Tipo discursivo de realização (ser e 
+fazer - plano de conteúdo)
+A rede mundial de computadores, a 
+plataforma digital YouTube, a tela do 
+celular e do PC
+Produzir e publicar a série: roteiro e 
+discurso cômico
+
+* Prática de consumo
+
+Assistir à série
+
+* Prática narrativa
+
+Análise das cenas práticas para 
+pontuar aspectos cômicos.
+
+Fonte: Elaborado pelos autores.
+
+O quadro traz um resumo do que foi pontuado até aqui. Em 
+texto-enunciado, usamos o episódio 1 da série para apontar qual 
+o tipo texto textual e identificamos como longo e aberto, o que 
+resulta no tipo recursividade; e o tipo discursivo como o de reali-
+
+Considerações finais
+
+zação. Identificamos dois objetos-suporte: a Internet como objeto 
+de inscrição de diversos textos-enunciados e, também, o YouTube 
+como um objeto que promove a circulação on-line desses textos. 
+Já por meio das cenas práticas, conseguimos pontuar práticas de 
+produção, de consumo e a prática narrativa em si, onde consegui-
+mos identificar todos os elementos inscritos no texto.
+
+O  interesse  no  estudo dos gêneros sempre esteve presente 
+na pauta dos linguistas através dos tempos. Por mais que a semió-
+tica não objetive se ater a esse ponto em particular, mesmo sem 
+um modelo semiótico que priorize a investigação do gênero, pu-
+demos atestar que é possível resolver essa questão genérica por 
+meio  do  exame  dos  elementos  da  práxis  enunciativa.  Para  isso, 
+foi importante compreender a categorização de gênero feita por 
+estudos pioneiros e sólidos, como os de Aristóteles e de Bakhtin. 
+Para aprofundar a discussão, à luz dos teóricos da semiótica do 
+discurso, o que buscamos realizar, neste artigo, foi a mobilização 
+dos conceitos de gênero da metodologia de análise de Fontanille 
+(1999, 2008, 2014). Dessa forma, pontuamos aspectos genéricos 
+em  um  texto  audiovisual,  tais  como  a  convergência  congruente 
+entre tipos textuais (coesão) – caracterizado pela recursividade; e 
+os discursivos (coerência) – caracterizados pela realização (ser e 
+fazer), que configuram aspectos determinantes no gênero da web-
+série Girls in the House.
+
+Nosso estudo pretendeu evidenciar que a série Girls in the Hou-
+se é um texto audiovisual digital sincrético que traz, em sua consti-
+tuição enunciativa, elementos de uma narrativa híbrida, complexa 
+e plural. Identificamos o gênero do discurso ao qual a série está 
+vinculada por meio do exame do episódio 1, ressaltando aspec-
+tos marcados no próprio texto. Além disso, por meio dos níveis 
+de pertinência do objeto-suporte e do texto-enunciado, pudemos 
+compreender o sentido da enunciação. Notamos que a comicida-
+de e os aspectos plásticos também funcionam como recurso de 
+sentido do texto e podem ser categorizados na análise do gênero.
+
+Com algumas questões de gêneros marcadas e resolvidas, te-
+mos  um  texto  com  uma  definição  que  facilita  níveis  de  análises 
+mais profundos, como a questão das práticas semióticas. O enten-
+dimento dessas questões é importante para nossa pesquisa, que 
+objetiva compreender estratégias enunciativas de uma narrativa 
+audiovisual. A proposta deste artigo, porém, consiste apenas em 
+apresentar o início de uma investigação que sugere novos traba-
+lhos com análises sobre o gênero. Como estamos falando de uma 
+semiótica-objeto que tem seu processo de criação narrativa por 
+meio da machinima, continuaremos nossas pesquisas, buscando 
+observar mais profundamente a constituição genérica dessa téc-
+nica de criação textual. 
+
+A machinima pode ser considerada uma nova técnica de pro-
+dução audiovisual que usa os gráficos dos jogos digitais na cons-
+trução  de  narrativas  ficcionais  com  a  linguagem  do  cinema.  Por 
+meio desse sistema, é possível criar narrativas inéditas com ele-
+mentos pré-existentes. O mais interessante, porém, é a capacida-
+de  de  liberdade  criativa  e  prática  que  a  machinima  proporciona 
+para qualquer pessoa que demonstre interesse em continuar de-
+senvolvendo a narrativa.
+
+A partir dessas explanações, deixamos a seguinte questão em 
+aberto para estudos futuros: o modo de construção do texto afeta 
+sua categorização genérica? Como um texto construído no proces-
+so de machinima pode ajudar a determinar gêneros do texto e do 
+discurso? 
+
+Referências
+
+ALMEIDA, Fernanda Albuquerque de. Machinima: entre a narrativa e a 
+experimentação. 2014. Dissertação (Mestrado em Estética e História da 
+Arte) – Interunidades em Estética e História da Arte, Universidade de 
+São Paulo, São Paulo, 2014. Disponível em: https://teses.usp.br/teses/
+disponiveis/93/93131/tde-24042015-164451/pt-br.php. Acesso em: 25 
+abr. 2022.
+
+ARISTÓTELES. A arte poética. São Paulo: Martin Claret, 2007.
+
+BAHKTIN, Mikhail. Estética da criação verbal. São Paulo: Martins Fontes, 
+1997.
+
+BARROS, Diana Luz Pessoa de. Teoria Semiótica do Texto. São Paulo: 
+Ática, 1994.
+
+BENVENISTE, Émile. Problemas de Linguística Geral I. 4ª edição. 
+Campinas, SP: Pontes, 1995.
+
+BURGESS, Jean; GREEN, Joshua. YouTube e a revolução digital. São Paulo: 
+Aleph, 2009.
+
+FONTANILLE, Jacques. Prácticas semióticas. Tradução de Desiderio 
+Blanco. Primera edición. Lima: Universidad de Lima, Fondo Editorial, 
+2014.
+
+FONTANILLE, Jacques. Práticas semióticas: imanência e pertinência, 
+eficiência e otimização. In: DINIZ, Maria Lúcia Vissotto Paiva; PORTELA, 
+Jean Cristtus (org.) Semiótica e mídia. Textos, práticas, estratégias. São 
+Paulo: Unesp/Faac, 2008. p. 15-74.
+
+FONTANILLE, Jacques. Significação e visualidade: exercícios práticos. 
+Porto Alegre: Sulina, 2005.
+
+FONTANILLE, Jacques. Sémiotique et littérature. Essais de méthode. Paris: 
+PUF, 1999.
+
+GIRLS in the house. Rao TV - YouTube. Série. [S. l.], 2014. Disponível em: 
+https://www.youtube.com/watch?v=DueqHtupyNI&list=PLLzL0mq1mPy-
+WPWA7KfAVfpP7kZkVDidiW&index=1. Acesso em: 3 fev. 2023.
+
+GREIMAS, Algirdas Julien; COURTÉS, Joseph. Dicionário de semiótica. São 
+Paulo: Cultrix, 1979. 
+
+PORTELA, Jean Cristtus; SCHWARTZMANN, Matheus Nogueira. A no-
+ção de gênero em semiótica. In: PORTELA, Jean Cristtus; BEIVIDAS, 
+
+Waldir; LOPES, Ivã Carlos; SCHWARTZMANN, Matheus Nogueira (orgs.). 
+Semiótica: identidades e diálogos. São Paulo: Cultura Acadêmica, 2012. 
+p. 69-98.
+
+SOUSA, Silvia Maria de et al. Linguagens na cibercultura. In: PORTELA, 
+Jean Cristtus, et al. Semiótica: identidade e diálogos. São Paulo: Cultura 
+Acadêmica, 2012. p. 209-227.
+
+

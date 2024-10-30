@@ -1,0 +1,1342 @@
+Processos fonológicos do guineense 
+moderno
+
+Phonological processes of modern Guinean 
+
+Procesos fonológicos del guineano moderno
+
+Natali da Anunciação Santos
+Universidade Federal de Santa Catarina (UFSC), Florianópolis, Santa Catarina, Brasil.
+Email: natalisantos167@gmail.com
+
+Shirley Freitas
+Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB), São 
+Francisco do Conde, Bahia, Brasil.
+Email: shirleyfreitas@unilab.edu.br
+
+Amanda Macedo Balduino
+Universidade de São Paulo (USP), Butantã, São Paulo, Brasil. 
+Email: amanda.m_b@hotmail.com
+
+Manuele Bandeira
+Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB), São 
+Francisco do Conde, Bahia, Brasil.
+Email: manuelebandeira@unilab.edu.br
+
+Resumo:  Este  artigo  analisa  três  fenômenos  fonológicos  do 
+guineense moderno: palatalização do /s/ em coda e estatuto do 
+[ʃ]  em  onsets  complexos,  nasalização  vocálica  engatilhada  por 
+coda e onset, e variação do /r/. Os itens lexicais analisados foram 
+retirados  de  Scantamburlo  (2002),  inseridos  em  frases,  com  a 
+realização sonora confirmada com falantes nativos. Para o contexto 
+de  análise,  consideramos:  qualidade  vocálica,  posição  silábica  e 
+acento lexical. Os resultados indicam que a palatalização atinge a 
+coda e o onset complexo. Atestamos a nasalização tautossilábica, 
+diferentemente da heterossilábica. Por fim, a variação do /r/ atinge 
+as fronteiras de palavras: codas finais e onsets iniciais.
+
+Palavras-chave:  Guineense.  Palatalização  do  /s/  em  coda  e  o 
+estatuto do [ʃ] em onsets complexos. Nasalização engatilhada por 
+coda e onset. Variação do /r/.
+
+Abstract: This article analyzes three phonological phenomena of 
+modern Guinean: the palatalization of /s/ in coda and the status of 
+[ʃ] in complex onsets, nasalization by coda and onset, and variation 
+of /r/. The lexical items analyzed were taken from Scantamburlo 
+(2002), inserted in phrases, with phonetics realization confirmed 
+with native speakers. For the context of analysis, we considered: 
+vowel quality, syllabic position and lexical stress. The results indicate 
+that palatalization reaches the coda and complex onset. We attest 
+to  tautosyllabic  nasalization,  unlike  heterosyllabic  nasalization. 
+Finally,  the  variation  of  /r/  reaches  the  word  boundaries:  final 
+codas and initial onsets.
+Keywords: Guinean. Palatalization of /s/ in coda and the status of 
+[ʃ] in complex onsets. Nasalization by coda and by onset. Variation 
+of /r/.
+
+Resumen:  Este  artículo  analiza  tres  fenómenos  fonológicos  del 
+guineano moderno: palatalización de la /s/ en coda y el estatus de 
+la [ʃ] en ataques complejos, nasalización por coda por ataque, y 
+variación de /r/. Los ítems léxicos analizados fueron tomados de 
+Scantamburlo (2002), insertados en frases, con realización sonora 
+comprobada  con  hablantes  nativos.  Para  el  contexto  de  análisis 
+se  consideró:  calidad  vocálica,  posición  silábica  y  acentuación 
+léxica. Los resultados indican que la palatalización alcanza la coda 
+y  el  ataque  complejo.  Damos  fe  de  la  nasalización  tautosilábica, 
+a  diferencia  de  la  nasalización  heterosilábica.  Finalmente,  la 
+variación de /r/ alcanza los límites de las palabras: codas finales y 
+ataques iniciales.
+Palabras-clave:  Guineano.  Palatalización  de  la  /s/  en  coda  y  el 
+estatus  de  la  [ʃ]  en  ataques  complejos.  Nasalización  por  coda  y 
+ataque. Variación de la /r/.
+
+Submetido em 03 de maio de 2022
+Aceito em 02 de agosto de 2022
+Publicado em Publicado em 19 de dezembro de 2022
+
+Introdução
+
+Neste artigo analisamos fenômenos fonológicos do guineense 
+(ISO 639-3 pov)1, uma língua falada na Guiné-Bissau. Cristófaro Silva 
+(2011, p. 182) define processo fonológico como uma operação que 
+expressa um fenômeno em forma de regra fonológica. Uma regra 
+fonológica se aplica a uma representação subjacente processando 
+alterações representacionais ao longo da derivação. Em geral, os 
+processos  fonológicos  segmentais  correspondem  à  alteração  de 
+um segmento sonoro, engatilhada por contextos segmentais, su-
+prassegmentais ou por uma restrição da língua, e, que como resul-
+tado, geram realizações variáveis de um fonema. Assim, de modo 
+a investigar algumas regras sonoras que regem a combinação de 
+segmentos no guineense, avaliaremos três processos distintos: a 
+palatalização do /s/ em coda, discutindo, além disso, o estatuto do 
+[ʃ] como primeiro elemento de um onset complexo, a nasalização 
+engatilhada por coda e onset e, por fim, a variação do /r/.
+
+Poucos são os estudos fonológicos sobre o guineense, e, en-
+tre a literatura produzida, não são raros os trabalhos realizados 
+sob o viés do português. Logo, quando o guineense traz alguma 
+característica diferente da língua portuguesa, mesmo configuran-
+do línguas distintas, comentários sobre a “carência” ou a “falta” de 
+algum  aspecto  no  guineense  não  são  incomuns,  resultando  em 
+concepções equivocadas sobre a língua. Pretendemos, com a aná-
+lise dos processos aqui elencados, descrever algumas regras sono-
+ras que caracterizam o guineense como língua natural, rompendo 
+com  uma  abordagem lusitanizante  da  língua  que  tome  o  portu-
+guês como “padrão” e o guineense como uma versão desta língua.
+O artigo está organizado em quatro seções. Na seção 1, des-
+crevemos  o  contexto  sócio-histórico  e  linguístico  da  Guiné-Bis-
+sau.  Em  seguida,  na  seção  2,  apresentamos  os  procedimentos 
+metodológicos utilizados na coleta e na análise dos dados e, na 
+seção 3 e subseções, apresentamos a análise dos dados junto à 
+descrição dos fenômenos abordados. Por fim, trazemos as con-
+siderações finais.
+
+1 O ISO 639-3 pov faz parte do conjunto de códigos utilizados para a representação de nomes de idiomas com padrão interna-
+cional (série ISO 639). O código, em geral, define-se a partir de três letras para indicar a língua – nesse caso, pov.
+
+A Guiné-Bissau e o guineense
+
+A Guiné-Bissau apresenta um território de 36.125 km², situa-
+do na Costa Ocidental Africana, banhado pelo Oceano Atlântico 
+ao oeste, e fazendo fronteira ao norte com o Senegal, ao sul e a 
+leste com a república da Guiné (CHAPOUTO, 2014). A população 
+da Guiné-Bissau, conforme o Instituto Nacional de Estatística e 
+o Censo de 2009, é estimada em cerca de 1.442.227 indivíduos 
+(INE, 2009). Nesse país, se manifesta uma heterogeneidade lin-
+guística que, de acordo com Costa (2014), abarca cerca de 22 lín-
+guas, incluindo as línguas autóctones, a língua nacional e a língua 
+oficial do país.
+
+Na Guiné-Bissau, o guineense (chamado por seus falantes de 
+kriol)  é  a  língua  de  comunicação,  permanecendo,  sobretudo,  na 
+oralidade, possui o estatuto político de língua nacional, e é a língua 
+materna (L1) da maioria dos falantes da capital. Já a língua oficial 
+é somente o português, porém, no país, são faladas diversas ou-
+tras línguas autóctones, destacando-se, pelo número de falantes, 
+o balanta (ISSO 639-3 ble) (397.000 falantes), o fula (ISO 639-3 fuf) 
+(261.000 falantes), o manjaco (ISO 639-3 mfv) (184.000 falantes), 
+entre outras – conforme números de Costa (2014).
+
+Em  virtude  do  contexto  linguístico  da  Guiné-Bissau,  é  possí-
+vel observar uma situação de diglossia entre o português e o gui-
+neense. Por um lado, temos em ambientes formais e no ensino, 
+o  português,  que  corresponde à  segunda  língua  (L2)  da  maioria 
+da população. Por outro lado, o guineense é utilizado na comuni-
+cação cotidiana do país com o título de língua nacional, estimado 
+com cerca de 206.000 falantes como L1 e 6.000 falantes como L2 
+(COSTA, 2014). Ademais, há também as línguas étnicas, que, como 
+o guineense, permanecem sobretudo na oralidade2.
+
+Metodologia
+
+Com o intuito de coletarmos dados para análise, realizamos 
+entrevistas com 5 (cinco) informantes, todos estudantes guineen-
+
+2 Conforme Costa (2014), já há uma literatura no guineense, como também textos bíblicos produzidos por missionários. Exis-
+tem ainda poucos textos escritos em algumas línguas autóctones. 
+
+ses da Universidade da Integração Internacional da Lusofonia Afro-
+-brasileira (UNILAB), campus dos Malês (São Francisco do Conde, 
+Bahia, Brasil). Todos os participantes são nativos da Guiné-Bissau, 
+têm idade entre 21 e 27 anos, e falam o guineense, o português, 
+entre outras línguas.
+
+ Para construção do corpus, foram selecionadas 74 palavras 
+retiradas de um dicionário do guineense (SCANTAMBURLO, 2002) 
+que contivessem os contextos para a realização dos fenômenos 
+fonológicos  alvos  deste  estudo,  totalizando  290  ocorrências.  De 
+modo a evitar que os informantes dessem entonação de lista de 
+palavras e pudessem, ao contrário, produzir os itens lexicais num 
+contexto real de uso, os itens lexicais foram inseridos em frases, 
+como em “vamos jogar bola no campo”, e a coleta de dados foi 
+realizada através de gravações.
+
+Ainda, no que se refere à coleta de dados, compreendemos 
+que a utilização de frase-veículo permite o controle dos contextos 
+analisados (como as consoantes precedentes e seguintes); contu-
+do, o objetivo desta pesquisa consistia em verificar esses fenôme-
+nos em frases de uso real, semelhantemente a frases utilizadas 
+cotidianamente no discurso dos informantes e, portanto, em um 
+contexto menos controlado do que em frases-veículo.
+
+Apesar de almejarmos uma produção mais natural das frases 
+investigadas, para construção do corpus, consideramos contextos 
+como (i) a posição silábica; (ii) a qualidade vocálica e (iii) o acento 
+lexical, conforme demonstrado, para cada fenômeno em evidên-
+cia, no Quadro 1.
+
+Quadro 1 – Contexto de análise dos fenômenos
+
+Palatalização do /s/ em 
+
+coda e o estatuto de [ʃ] em 
+
+onsets complexos
+
+− 
+− 
+
+Posição silábica
+Qualidade vocálica
+
+Nasalização engatilhada por 
+
+coda e por onset
+
+Variação do /r/
+
+− 
+
+Posição silábica
+
+− 
+− 
+− 
+
+Posição silábica
+Qualidade vocálica
+Acento lexical
+
+Fonte: Elaboração das autoras.
+
+No  momento  das  gravações,  inicialmente,  havia  uma  expli-
+cação para cada informante sobre a realização da pesquisa. Essa 
+conversa preliminar visava deixar o participante mais confortável 
+sobre o fornecimento e a gravação dos dados, assim como expla-
+nar e coletar as assinaturas do termo de consentimento, dando 
+permissão para utilização dos dados coletados para análise. Pos-
+teriormente, utilizamos o método de distribuição das frases em or-
+dem aleatória, ou seja, não houve um agrupamento das palavras 
+que  coincidiam  com  o  mesmo  fenômeno  fonológico  para  evitar 
+qualquer possibilidade de o informante perceber um padrão nas 
+sentenças e o foco do nosso estudo. Essa abordagem foi emprega-
+da, uma vez que não utilizamos frases distratoras nesta pesquisa. 
+Para a gravação dos dados, as frases eram fornecidas na língua 
+portuguesa com a palavra-alvo inserida dentro da sentença e os 
+participantes, por sua vez, a traduziam para o guineense. A partir 
+desse método, foram verificadas divergências nas traduções de al-
+gumas sentenças. Essa variação aponta para fatores sociolinguís-
+ticos, principalmente, levando em consideração o perfil heterogê-
+neo dos informantes e a diferença entre as regiões em que viviam 
+na Guiné-Bissau.
+
+A gravação teve duração de 15 a 19 minutos para cada infor-
+mante, perfazendo um total de 1 hora e 20 minutos. Ademais, em 
+casos nos quais o informante não pronunciava a palavra-alvo es-
+perada, perguntávamos quais palavras em guineense eram utiliza-
+das para designar o que estava sendo dito em português. Assim, 
+as  frases  eram  pronunciadas  uma  vez,  e  nos  casos  em  que  era 
+preciso a repetição, pedíamos que pronunciasse novamente a pa-
+lavra depois da frase. Quando as palavras não eram reconhecidas 
+pelos falantes, que preferiam utilizar outros itens para designar o 
+mesmo significado, havia o descarte completo do dado.
+
+Após a coleta de dados, avançamos para análise, através da 
+investigação oitiva dos dados, em conjunto com a análise acústica 
+dos segmentos por meio do software Praat (BOERSMA; WEENICK, 
+2020). O programa permitiu uma inspeção espectral dos dados a 
+serem analisados na pesquisa. Além disso, apresentaremos os re-
+
+sultados com relação a descrições prévias feitas sobre os proces-
+sos e autores que já apresentaram uma descrição do guineense, 
+como Costa (2014). Assim, partimos desses dados para comparar-
+mos com nossa pesquisa e apresentar as considerações.
+
+Análise dos dados
+
+Nesta seção, examinamos a palatalização do /s/ em coda e o 
+estatuto do /ʃ/ em onsets complexos; a nasalidade engatilhada 
+por coda e por onset; e a variação do /r/. Para tanto, propomos 
+uma descrição fonética mediante o exame de espectrogramas, 
+além  de  considerarmos  análises  prévias  sobre  a  língua,  como 
+em Costa (2014).
+
+Palatalização do /s/ em coda e o estatuto de [ʃ] em onsets 
+complexos
+
+A palatalização é um processo fonológico caracterizado pela 
+alteração  da  articulação  consonantal  ou  vocálica  em  direção  ou 
+em proximidade à região palatal. No guineense, notamos que a 
+fricativa alveolar /s/ pode ser realizada como [s], ou mesmo como 
+uma pós-alveolar [ʃ], demarcando, esse último exemplo, um caso 
+de palatalização consonantal da fricativa. Para esse fenômeno, fo-
+ram analisadas 17 (dezessete) palavras que podiam conter a frica-
+tiva [s] ou [ʃ] em coda medial ou final, ou mesmo possuir [ʃ] como 
+primeira consoante de um onset complexo, como será discutido 
+no decorrer da seção.
+
+Analisando as produções de fricativa em coda, notamos que, 
+foneticamente, essa pode ser realizada como [s], ou de maneira 
+mais frequente, ser palatalizada e, portanto, produzida como [ʃ]. 
+Nos espectrogramas das Figuras 1 e 2, por exemplo, observamos a 
+produção de [s] em tris [ˈtɾes] “três”, ao passo que [ʃ] é demons-
+trado em festa [ˈfɛʃ.tɐ] “festa”.
+
+Figura 1 – Espectrograma de tris [ˈtɾes]
+
+Fonte: Elaboração das autoras.
+
+Figura 2 – Espectrograma de festa [ˈfɛʃ.tɐ]
+
+Fonte: Elaboração das autoras.
+
+As fricativas são sons produzidos pela aproximação dos articu-
+ladores e consequente fricção durante a passagem do ar egresso 
+dos pulmões pela cavidade oral. Nos espectrogramas das Figuras 
+1 e 2, a fricção do ar é assinalada mediante uma turbulência es-
+pectral, bem como uma onda sonora não periódica, sendo tais ca-
+racterísticas verificadas tanto na produção de [s] quanto na de [ʃ]. 
+Notamos, dessa forma, que as fricativas puderam ser identificadas 
+na análise acústica, principalmente, pelo desenvolvimento de flu-
+xo de ar turbulento e por altas faixas de frequência.
+
+Todavia, para diferenciarmos o ponto de articulação das fri-
+cativas, nos valemos, além da inspeção de oitiva, da observação 
+de alguns critérios espectrais. Trabalhos como o de Kent e Read 
+(1992) indicam que a medida mais relevante para a distinção das 
+fricativas é a frequência, visto que [s] possui uma frequência mé-
+dia superior à frequência de [ʃ]. Nas Figuras 1 e 2, isso é percep-
+tível na concentração de energia espectral, visto que ela é maior 
+na porção superior do espectro para [s], e, no caso de [ʃ], está em 
+porções mais baixas.
+
+Apresentados os critérios fonéticos de distinção entre [s] e [ʃ], 
+e tendo como foco os dados cuja fricativa alvo estava em posição 
+de coda medial, atestamos a presença de [s] e [ʃ] como indicado 
+nos dados a seguir.
+
+1. 
+2. 
+3. 
+4. 
+
+[ˈfɛʃ.tɐ] - festa “festa”
+[ˈgɔs.tɐ] - gosta “gosta”
+[ˈkaʃ.kɐ] - kaska “casca”
+[mes.ˈkĩ.ɲɐ] - miskinha “reclamar”
+
+Se considerarmos, a exemplo de Costa (2014), a presença de 
+/s/ como única fricativa licenciada em coda, os itens demonstrados 
+em 1 e 3 foram produzidos mediante a palatalização de /s/ em coda 
+medial. De outro modo, os dados 2 e 4 apresentaram variação, in-
+dicando que a fricativa pode ser realizada como [s]; o processo de 
+palatalização, assim, não tem ocorrência categórica em posição de 
+coda medial. Somando-se a isso, verificamos, ainda, que a palatali-
+zação não pode ser relacionada à consoante subsequente do item 
+lexical alvo. Como evidenciado nos dados 1 e 2, a alternância entre 
+[ʃ] ~ [s], em coda medial, é concretizada de forma independente 
+à articulação da oclusiva seguinte, como exemplificado pelos itens 
+[ˈfɛʃ.tɐ] “festa” e [ˈgɔs.tɐ] “gosta”, nos quais [t] sucede a produção 
+de [ʃ] e de [s]3.
+
+3 Foi observado nos dados que os informantes utilizaram tanto a alveolar quanto a alveopalatal, ou seja, não houve produção 
+de um único segmento por informante.
+
+De acordo com Costa (2014), o processo fonológico de palata-
+lização do /s/ ocorre em decorrência do contato com o português. 
+Esse fenômeno, segundo a autora, pode acontecer em coda silá-
+bica, medial ou final de palavra, diante de uma pausa ou segmen-
+to surdo, conforme a regra fonológica e os exemplos retirados de 
+Costa (2014, p. 180):
+
+5. 
+
+[ˈgaʃ.tɐ]4 ~ [ˈgas.tɐ] - /gastɐ/ “gastar”
+
+Podemos  observar  no  exemplo  5  a  palatalização  do  /s/5  em 
+coda medial. Em coda final, a autora atesta esse mesmo fenôme-
+no, porém não apresenta exemplos que atestem a palatalização. 
+Na  transcrição  fonética  5,  verificamos  que  a  fricativa  /s/,  diante 
+do segmento surdo /t/, foi realizada como [ʃ]. Não obstante, caso 
+o segmento seguinte fosse uma consoante sonora, /s/ seria pro-
+duzido como [ʒ]. Costa (2014, p. 180) considera, portanto, que os 
+segmentos [ʃ, ʒ] são realizações do fonema /s/, e sua produção 
+dependerá do segmento seguinte, surdo ou sonoro, conforme a 
+regra fonológica e o exemplo da autora em 6:
+
+/s/ → [ʒ] / __ [+ vozeados]
+
+6. 
+
+[ˈo.miʒ.ga.ran.dɪ]  ~  [o.mis.ga.ˈran.dɪ]  -  /omis  garandi/ 
+
+“homens altos”
+
+4 Costa (2014) não utiliza a separação silábica nos exemplos transcritos do seu trabalho. Todas as separações aqui apresenta-
+das foram realizadas pelas autoras do artigo. Além disso, o acento dos itens verbais ainda gera controvérsias, havendo tanto 
+descrições que defendem o acento oxítono quanto aquelas que defendem o padrão paroxítono, sendo esse um aspecto a ser 
+investigado em estudos futuros.
+5 Costa (2014) não indica um motivo para utilização dessa forma fonológica.
+
+Como observado no exemplo 6, o fonema /s/ é seguido pela 
+consoante sonora /g/, sendo, por isso, realizado como [ʒ]. Além 
+disso, a autora pontua, também, que o fonema /s/ pode se rea-
+lizar como [z] em posição de coda silábica quando a palavra se-
+guinte  for  iniciada  com  vogal,  como  evidenciado  em  7  (COSTA, 
+2014, p. 181):
+
+/s/ → [z] /__ [+ vocoide]
+
+7. 
+
+[ˈe.li.zɛ.ˈtʃi.ga.di.biˈas] ~ [ˈe.li.sɛ.ˈtʃi.ga.di.biˈas] -  /elis 
+
+ɛ tʃiga di bias/ “eles chegaram de viagem”
+
+Costa  (2014)  pontua  que  todos  os  exemplos  apresentados 
+coexistem com a forma [s], sendo esta, inclusive, a realização mais 
+comum. Por essa razão, nos dados [o.mis.ga.ˈran.dɪ] e [ˈe.li.sɛ.
+ˈtʃi.ga.di.biˈas], a produção de [s], como alofone de /s/, é identifi-
+cada em coda, mesmo diante de [g], consoante [+ sonora].
+
+Assim  sendo,  de  acordo  com  Costa  (2014),  no  guineense,  o 
+processo de palatalização, embora seja produtivo, não resulta na 
+forma mais comum para /s/ em coda. Isso é evidenciado, inclusi-
+ve, na descrição fonética das consoantes do guineense construída 
+pela  autora,  na  qual  [ʃ]  é  caracterizada,  apenas,  como  um  fone 
+que ocupa o ataque silábico em começo, meio e final de palavra; 
+porém a coda não é mencionada (COSTA, 2014, p. 114). Tal afir-
+mação se distancia dos achados deste artigo, uma vez que [ʃ] foi 
+produzido em 75% dos dados avaliados, sendo a variante mais fre-
+quente em coda.
+
+Em  relação  à  relevância  do  vozeamento  da  consoante  hete-
+rossilábica subsequente a /s/ para a produção de [ʃ, ʒ], não foram 
+avaliados dados. Por uma questão decorrente à formação de nos-
+so corpus, composto exclusivamente por itens em que /s/ era se-
+guido por uma consoante surda, não identificamos a possibilidade 
+de vozeamento da fricativa em coda medial.
+
+Concentrando-se, agora, na posição de coda final, detectamos, 
+sobretudo, a ocorrência de [s], ainda que [ʃ] seja também possível, 
+como evidenciado nos exemplos 8 a 11.
+
+8. 
+9. 
+10. 
+11. 
+
+[ˈtɾejs] ~ [ˈtɾes] - tris “três”
+[ˈelis] ~ [ˈeliʃ] - elis “eles”
+[ˈpis] - pis “peixe”
+[ˈlapis] ~ [ˈlapiʃ] - lapis “lápis”
+
+Com exceção dos itens lapis “lápis” e elis “eles”, em que /s/ 
+foi produzido ora como [ʃ], ora como [s], as demais palavras fo-
+ram realizadas com [s] em coda final. Dessa forma, corroboran-
+do os achados de Costa (2014), a análise dos dados indica que a 
+produção de [ʃ], em coda, é mais frequente em meio de palavra, 
+enquanto  sua  fronteira  privilegia  [s].  É  preciso,  no  entanto,  ava-
+liar essa hipótese, em estudos futuros, considerando não somen-
+te a posição de palavra, mas também outras variáveis estruturais, 
+como acento e contexto fonológico precedente. Embora neste ar-
+tigo tenhamos verificado tanto a produção de [ʃ] quanto de [s], em 
+sílabas átonas e tônicas, assim como diante de vogais coronais [ɛ, 
+e, a] e dorsais [a, ɔ, u], em nossa análise, não há uma quantidade 
+robusta de dados para exame de cada um desses fatores, justa-
+mente por este ser um trabalho preliminar que visa à descrição 
+fonética-fonológica geral de alguns processos do guineense. É pre-
+ciso, todavia, que tais questionamentos possam ser aprofundados 
+de modo a avaliarmos a relevância de variáveis como estas para a 
+implementação da palatalização em coda.
+
+Ademais, em relação ao dado lapis “lápis”, verificamos, ainda, 
+que, além de haver a possibilidade de palatalização de /s/, a vogal 
+átona final [i] foi apagada em alguns casos, modificando, à vista 
+disso, a estrutura silábica da palavra. Isso é evidenciado na Figura 
+3, em que apresentamos o espectrograma de lapis “lápis” [ˈlaps].
+
+Figura 3 – Espectrograma de lapis [ˈlaps]
+
+Fonte: Elaboração das autoras.
+
+Como consequência fonética desse apagamento, há, como ou-
+tput, a formação de uma sílaba composta por uma coda complexa, 
+em que temos a sequência [ps] em coda, na medida em que há 
+reestruturação silábica, e a produção de uma sílaba CVCC.
+
+A emergência de padrões silábicos com codas complexas, no 
+guineense,  é  atestada  já  em  trabalhos  como  Chapouto  (2014)  e 
+Matos (2021), os quais apontam a possibilidade de codas ramifica-
+das tais como [ns] e [bs]. A ocorrência desse tipo de dado, porém, 
+não  é  mencionada  em  Costa  (2014),  que,  por  sua  vez,  concebe, 
+apenas, sílabas do tipo CVC, VC, CCVC, CVVC, VVC, e não discorre 
+sobre estruturas (C)VCC. Sendo assim, a coda ramificada, identifi-
+cada neste trabalho, parece ser não somente um reflexo de uma 
+possibilidade estrutural do guineense como também uma revela-
+ção da importância de [s] na formação de codas ramificadas foné-
+ticas, uma vez que todas as codas reportadas contêm tal fricativa 
+em  sua  composição.  Ademais,  há  indícios  de  que  a  emergência 
+de codas complexas seja recente, justamente porque tal possibi-
+lidade não é explorada em trabalhos anteriores dedicados ao gui-
+neense (COUTO, 1994; KIHM, 1986; MBODJ, 1979; ROUGÉ, 1988; 
+SCANTAMBURLO, 1981). Discutida a possibilidade de palatalização 
+de /s/ em coda, é preciso analisarmos, ainda, a realização de [ʃ] 
+em onsets complexos. Nesse domínio, distintamente do que ocor-
+
+re na coda, observamos, em todas as palavras examinadas, a pro-
+dução de [ʃ], como indicado nos dados 12 a 20.
+
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+
+[ˈʃkɔ.lɐ] - skola “escola” 
+[ˈʃpɛ.ta.ku.lʊ] ~ [ˈiʃ.pɛ.ta.ku.lʊ] - spetakulu “espetáculo” 
+[ˈʃka.dɐ] - skada “escada”
+[ˈʃka.mɐ] - skama “escama”
+[ˈʃkɔ.vɐ] ~ [ˈiʃ.kɔ.vɐ] - skoba “escova”
+[ʃ.ta.bi.li.ˈda.dɪ] - stabilidadi “estabilidade”
+[ˈʃfɔɾ.sɐ] ~ [iʃ.ˈfɔɾ.sɐ] - sforsa “esforça”
+[ˈʃta.djʊ] - stadiu “estádio” 
+[ˈʃpo.zɐ] - spoza “esposa” 
+
+Distintamente da proposta de Costa (2014), não temos dados 
+que sustentem a palatalização ou mesmo a presença fonológica 
+de /s/ subjacente em onset complexo do tipo C1C2(C3)V, em que C1 
+corresponde à fricativa e (C3) é uma consoante opcional. 
+
+Tendo  em  vista  que  nenhuma  das  palavras  foi  produzida 
+como  /s/,  por  nenhum  dos  falantes,  não  temos  evidências  que 
+sustentem  a  implementação  de  um  processo  de  palatalização 
+sincrônica nesses casos – diferentemente do que ocorre na coda. 
+Desse modo, pode ser que a única consoante fricativa licenciada 
+como C1, em uma sequência C1C2(C3)V, seja [ʃ]. Essa possibilidade 
+é atestada em outras línguas crioulas de base lexical portugue-
+sa, como o santome, emergido e falado na ilha de São Tomé, na 
+Costa Oeste Africana. Nessa língua, onsets complexos licenciam 
+apenas /ʃ/ como C1, não sendo observada a produção, nesses ca-
+sos, de [s]: /ʃkɔ.la/[ˈʃkɔ.lɐ] “escola”; /ʃpli.ka/ [ʃpli.ˈka] “explicar” 
+(BANDEIRA, 2017, p. 167).
+
+Costa (2014) não considera [ʃ] como consoante pertencente 
+ao inventário fonológico do guineense justamente por não obser-
+var  pares  mínimos  em  que  tal  fone  pode  ser  contraposto  a  ou-
+tras fricativas da língua, e por atestar somente casos isolados da 
+
+fricativa  pós-alveolar em  variação com  a  alveolar [s].  Ainda  que, 
+em nossos dados, também não haja pares mínimos passíveis de 
+atestar o estatuto fonológico de [ʃ] mediante teste de comutação, 
+é preciso ressaltar que, diferentemente dos apontamentos da au-
+tora, tal fricativa não foi produzida isoladamente, ao contrário: ela 
+compõe a maior parte dos dados investigados, sendo, inclusive, a 
+única realização de fricativa verificada em onset complexo. Assim, 
+parece que, se por um lado, não podemos nos precipitar e incluir 
+[ʃ] no inventário fonológico do guineense, por outro há indícios 
+de que o estatuto de tal consoante deve ser averiguado mais de-
+talhadamente – ainda mais considerando que, em línguas como o 
+santome, /ʃ/ somente ocorre, também, como C1 de C1C2(C3)V.
+
+Isso posto, embora não tenhamos identificado a produção de 
+[s] nesse contexto, atestamos que, paralelamente à realização pa-
+latal [ʃ] em onsets complexos, há a possibilidade de realização da 
+vogal [i], como indicado em 13, 16 e 18. Esse processo fica ainda 
+mais nítido mediante as Figuras 4 e 5, com as quais contrapomos 
+dados em que sua realização não é constatada a dados produzi-
+dos com a inserção de [i]. Na Figura 4, trazemos como exemplo o 
+espectrograma de skada [ˈʃka.dɐ] “escada”, em que a sequência 
+ʃC2(C3)V  pode  ser  evidenciada.  Já  na  Figura  5,  sforsa  [iʃ.ˈfɔɾ.sɐ] 
+“esforça” elucida os dados em que a prótese de [i] é identificada na 
+primeira sílaba, corroborando, nesse aspecto, os dados de Costa 
+(2014).
+
+Figura 4 – Espectrograma de skada [ˈʃka.dɐ]
+
+Fonte: Elaboração das autoras.
+
+Figura 5 – Espectrograma de sforsa [iʃ.ˈfɔɾ.sɐ].
+
+Fonte: Elaboração das autoras.
+
+A esse respeito, Costa (2014, p. 199) assume /s/ como fricativa 
+licenciada como C1 de uma estrutura C1C2(C)3V com base em três 
+fatores: (1) os informantes não consideram a existência de vogais 
+antes do /s/; (2) no corpus analisado pela autora não houve uma 
+variação significativa entre i/s/C2(C3)V e /s/C2(C3)V; e (3) a variação 
+de produção com e sem vogal, no entanto, de acordo com os infor-
+mantes, só ocorre em falantes mais jovens, enquanto em falantes 
+mais idosos essa variação é dificilmente observada.
+
+Semelhantemente à argumentação de Costa (2014), em nosso 
+corpus também não houve uma variação robusta entre as formas 
+i/s/C2(C3)V e ʃC2(C3)V, ou evidências que possam sustentar a pre-
+sença de /i/ enquanto componente da sílaba fonológica em foco, 
+fato que nos leva a adotar, também, a sílaba ʃC2(C3)V no guineen-
+se. Já as assunções (1) e, principalmente, (3) precisam ser investi-
+gadas futuramente, considerando a variação apontada pelos pró-
+prios informantes, em que i/s/C2(C3)V e /s/C2(C3)V apenas ocorre na 
+produção de falantes mais jovens.
+
+ Sendo assim, embora sejam falantes da língua, é necessário, 
+antes de tudo, realizar uma análise linguística com dados mais 
+robustos da produção dos falantes. Diante disso, ressaltamos a 
+relevância, neste estudo, de verificar empiricamente tal hipótese 
+
+antes de utilizá-la como critério para descrever a silabificação no 
+guineense. Assim, sem que seja atestada uma mudança em tem-
+po aparente no guineense, na qual ʃC2(C3)V se encaminhe a i/s/
+C2(C3)V,  concluímos  que  não  podemos  afirmar,  neste  trabalho, 
+que o fenômeno de inserção vocálica seja favorecido por falantes 
+mais jovens.
+
+Diante  desses  resultados,  ao  passo que  objetivamos  a  com-
+paração com os dados de Costa (2014), apresentamos o quadro 
+comparativo a seguir.
+
+Quadro 2 – Palatalização do /s/ em coda e o estatuto do /ʃ/ em 
+
+onsets complexos: comparativo
+
+Costa (2014)
+Palatalização 
+realização com [s] é mais comum;
+
+recorrente,  porém  a 
+
+[ʃ],  em  coda  medial,  é  o  fone  mais 
+frequente; já a coda final privilegia o [s];
+
+Atesta estruturas silábicas do tipo CVC, 
+VC, CCVC, CVVC, VVC;
+
+Na  posição  inicial,  há  produção  do 
+processo  de  palatalização,  com  a 
+presença do [ʃ] em alternância com [s];
+
+É possível uma vogal antecedendo o /s/ 
+em posição inicial.
+
+ Autoras
+Em  coda  medial,  a  produção  do  [ʃ] 
+corresponde à variação mais frequente 
+em coda (75%);
+
+Em  final  de  palavra,  a  produção 
+mais  frequente  foi  [s],  embora  haja 
+alternância entre a produção do [ʃ];
+Há possibilidades de codas ramificadas 
+no guineense, com estruturas CVCC;
+Em  onset  complexo,  não  houve 
+produção  do  /s/,  por  nenhum  dos 
+informantes;
+
+Antes  da  realização  da  [ʃ]  em  onset 
+complexo,  há  a  possibilidade  de 
+realização da vogal [i].
+
+Fonte: Elaboração das autoras.
+
+Nasalização engatilhada por coda e por onset
+
+A nasalização vocálica é um processo caracterizado pela assi-
+milação do traço [nasal] por vogais em decorrência da articulação 
+
+vocálica com uma consoante nasal tautossilábica ou heterossilá-
+bica. Focando, em um primeiro momento, na nasalidade tautossi-
+lábica – isto é, a promovida por uma consoante nasal em coda –, 
+encontramos,  na  literatura,  duas  hipóteses  principais  dedicadas 
+à explanação da natureza desse fenômeno nas línguas naturais, 
+inclusive no português, língua lexificadora do guineense: a hipó-
+tese monofonêmica e a bifonêmica. Tais abordagens, partindo de 
+diversas teorias fonológicas, sustentam ou a existência de vogais 
+intrinsecamente nasais no inventário fonológico (hipótese mono-
+fonêmica), ou a presença de uma estrutura bifonêmica VN (Vogal + 
+NASAL), em que não há nasalidade vocálica inerente à forma sub-
+jacente da língua (hipótese bifonêmica) (BALDUINO, 2018).
+
+No guineense, a nasalização engatilhada por uma coda nasal é 
+reportada no trabalho de Costa (2014), sendo caracterizada como 
+um processo de natureza bifonêmica. Além desse fenômeno, há, 
+conforme  a  autora,  um  processo  de  assimilação  em  que  a  con-
+soante nasal pós-vocálica, em posição de coda, assimila o ponto 
+de articulação da consoante seguinte. Desse modo, Costa (2014) 
+indica que a consoante nasal em coda, representada como /N/ se 
+realiza como as consoantes nasais [m, n, ɲ, ŋ] a depender da con-
+soante coarticulada à direita na sílaba seguinte. Assim, quando /N/ 
+é seguido por consoantes bilabiais [b, p], a nasal é realizada como 
+[m]: /kaNpu/ [ˈkam.pʊ] “campo”, o que é perceptível, de acordo 
+com a autora, no espectrograma de tais itens. De outro modo, caso 
+a consoante nasal seja seguida por consoantes alveolares [t, d, s, 
+z, r]6, esta é produzida como [n]: /poNta/ [ˈpon.tɐ] “fazenda”. No 
+caso da consoante [ɲ], sua realização é verificada caso anteceda 
+os segmentos palatais [tʃ, dʒ], como nos exemplos: /dʒuNdʒuN/ 
+[dʒũɲ.ˈdʒũɲ] “jejum”, /saNtʃu/ [ˈsãɲ.tʃʊ] “macaco”. Já quando se 
+tem a consoante [ŋ], os segmentos seguintes são as consoantes 
+velares /k, g/, como exemplificado em: /braNku/ [ˈbɾaŋ.kʊ] “bran-
+co” (COSTA, 2014, p. 186).
+
+Ainda tendo em vista a análise da autora, as vogais na po-
+sição  de  precedente  da  nasal  /N/  têm  a  realização  opcional  do 
+
+6 Costa (2014) não menciona a presença do [l] na discussão dos segmentos alveolares.
+
+traço de nasalidade; isso resultaria, foneticamente, na combina-
+ção da vogal nasalizada com a consonante nasal ou somente na 
+presença de uma consoante nasal precedida por uma vogal oral: 
+/maNkara/  [mãŋ.ˈka.rɐ]  ~  [maŋ.ˈka.rɐ]  “amendoim”.  De  outro 
+modo, caso a consoante nasal esteja em posição final absoluta, 
+a vogal anterior tende a nasalizar, como em: /boN/ [bõŋ]7 “bom” 
+(COSTA, 2014, p. 187).
+
+Semelhantemente  aos  achados  de  Costa  (2014),  identifica-
+mos o processo de nasalização tautossilábica em nossos dados. 
+Com  base  em  diferentes  ocorrências  dos  itens,  observamos  a 
+ocorrência  da  nasalização  da  vogal  que  antecede  a  consoante 
+nasal. A partir de uma análise de oitiva dos dados, em conjunto 
+com a inspeção espectral das ocorrências investigadas, levanta-
+mos como hipótese que a realização das vogais nasalizadas pode 
+ser menos nasal em relação à nasalização vocálica no português 
+brasileiro  (interpretação  enquanto  falante  do  português  e  que, 
+portanto, está sujeita ao filtro do falante). Outra hipótese possível 
+é que a vogal, especialmente a vogal baixa /a/, embora nasaliza-
+da, pode manter seu F1 alto, fazendo com que a vogal seja mais 
+aberta do que, por exemplo, [ɐ]. No entanto, [ɐ̃], isto é, a vogal 
+baixa  reduzida,  também  foi  observada  em  nossos  dados  como 
+um possível resultado da nasalização. Com relação ao processo, 
+observou-se a ocorrência de pares mínimos das vogais nasaliza-
+das e orais. Por exemplo: mundu “mundo” e mudu “mudo; pon 
+“pão” e po “pó”. Vejamos os dados da vogal seguida por consoan-
+te nasal na coda em 21 a 35.
+
+21. 
+22. 
+23. 
+24. 
+25. 
+
+[bẽ.ˈdʒi.tʊ] ~ [bẽ.ˈdi.tʊ] - benditu “abençoado”
+[ˈbẽ.tʊ] ~ [ˈvẽ.tʊ] - bentu “vento”
+[ˈmũ.dʊ] - mundu “mundo”
+[ˈpõŋ] ~ [ˈpõ] - pon “pão”
+[ˈkã.pʊ] ~ [ˈkãm.pʊ]8 - kampu “campo”
+
+7 O exemplo retirado originalmente dos dados de Costa (2014) não apresenta ditongo nasal.
+8 Em algumas palavras, como kampu “campo”, foi possível encontrar a presença da consoante nasal em coda, bem como o 
+apagamento do /N/ na produção dos informantes. Assim, a variação foi representada nas transcrições dos dados. 
+
+26. 
+27. 
+28. 
+29. 
+30. 
+31. 
+32. 
+33. 
+34. 
+35. 
+
+[lĩ.ˈpe.zɐ] - limpesa “limpeza”
+[kã.toɾ] - kantadur “cantor” 
+[bẽ.ˈsi.tʊ] - bensitu “abençoado”
+[ˈbõn] - bon “bom/boa”
+[ˈkĩ.tɪ] - kinti “quente”
+[ˈkĩ.taɫ] - kintal “quintal”
+[ma.ˈsãɲ] - masan “maçã”
+[ˈõ.sɐ] - onsa “onça”
+[sĩ.ˈtix] - sentir “sentir”
+[ˈkõ.tẽ.tɪ] - kontenti “feliz”
+
+No  dado  25,  mediante  o  espectrograma  da  palavra  kampu 
+[ˈkãm.pʊ] “campo”, na Figura 6, notamos que após a vogal nasali-
+zada, é possível encontrar a presença de uma consoante nasal em 
+coda, atestando, assim, o caráter tautossilábico da nasalidade.
+
+Figura 6 – Espectrograma de kampu [ˈkãm.pʊ]
+
+Fonte: Elaboração das autoras.
+
+Todavia, distintamente do que é apontado em Costa (2014), 
+observamos que há dados nos quais a nasalização vocálica pode 
+ser  acompanhada,  também,  pelo  apagamento  de  /N/,  como 
+
+elucidado  na  Figura  7,  pelo  espectrograma  de  sina  [ẽ.si.ˈna] 
+“ensinar”, mas também observado em itens como sentir [sĩˈ-
+tix] “sentir”, na Figura 8, em que a consoante seguinte à vogal 
+nasalizada é uma consoante oclusiva [t].
+
+Figura 7 – Espectrograma de sina [ẽ.si.ˈna]
+
+Fonte: Elaboração das autoras.
+
+Figura 8– Espectrograma de sinti [sĩˈtix]
+
+Fonte: Elaboração das autoras.
+
+Nas Figuras 7 e 8, distintamente da Figura 6, não há a rea-
+lização de consoante nasal após a vogal nasalizada. O mesmo 
+foi  verificado  na  produção  de  itens  como  bensitu  [bẽ.ˈsi.tʊ] 
+“abençoado”, sugerindo que a fricativa pode ser um fator que 
+
+favoreça o apagamento de /N/. Ademais, como demonstrado na 
+Figura 8, em que visualmente identificamos a duração alongada 
+de  [i],  vogal,  em  geral,  produzida  de  maneira  curta  dada  sua 
+natureza  articulatória,  é  possível  que  esse  apagamento  possa 
+ser  acompanhado  por  um  alongamento  vocálico  compensató-
+rio, como ocorre em diferentes variedades da língua portugue-
+sa (MORAES; WETZELS, 1992; BALDUINO, 2022), bem como em 
+outras línguas crioulas de base lexical portuguesa, tais quais o 
+santome e o lung’Ie (BALDUINO; AGOSTINHO; ARAUJO; CHRIS-
+TOFOLETTI, 2015). Não compõe nosso foco essa discussão, po-
+rém ressaltamos que ela pode trazer pistas a respeito do com-
+portamento acústico da nasalização em guineense.
+
+Sendo assim, nos dedicaremos à análise da nasalização enga-
+tilhada por onset. Nesse caso, o processo ocorre devido à presen-
+ça de uma consoante nasal na posição de onset heterossilábico, 
+isto é, na sílaba seguinte. De acordo com Costa (2014, p. 80-119), 
+esse  fenômeno  não  é  implementado  no  guineense  e,  por  isso, 
+consoantes nasais heterossilábicas não espraiariam seu traço de 
+nasalidade para a vogal à esquerda na sílaba seguinte. Com base 
+nos dados da autora, verificamos que as consoantes nasais [m, n, 
+ɲ] não desencadeiam nasalidade nem em sílaba tônica, como em 
+36 a 38; nem em pretônica, como em 39.
+
+36. 
+37. 
+38. 
+39. 
+
+[ˈka.mɐ] - /kama/ “cama”
+[ˈka.nɐ] - /kana/ “cana, bambu”
+[ˈli.ɲɐ] - /liɲa/ “linha”
+[ku.ˈmɛ] - /kumɛ/ “comer”
+
+Isso  posto  e  tendo  como  objetivo  avaliarmos  se,  de  fato, 
+esse  processo  não  é  observado  no  guineense,  analisamos  14 
+dados que continham uma consoante nasal coarticulada a uma 
+vogal heterossilábica.
+
+Tanto na sílaba tônica quanto na sílaba pré-tônica, os dados 
+indicam que não houve ocorrência da nasalidade da vogal que an-
+tecede consoantes nasais, tais quais [m] e [n]:
+
+40. 
+41. 
+42. 
+43. 
+44. 
+45. 
+46. 
+47. 
+48. 
+
+[ˈʒɛ.mɐ] - djema “gema”
+[ˈfo.mɪ] - fomi “fome”
+[ˈka.mɐ] - kama “cama”
+[iˈza.mɪ] - izami “exame”
+[ˈso.nʊ] - sonu “sono”
+[a.naˈnas] - ananas “abacaxi”
+[ʒa.ˈnɛ.lɐ] - djanela “janela”
+[ka.ˈnɛ.lɐ] - kaneka “caneca”
+[ma.te.ˈma.ti.kɐ] - matimatika “matemática”
+
+Já em relação à [ɲ], atestamos a possibilidade de nasalização 
+vocálica. De acordo com Costa (2014), a consoante nasal palatal 
+[ɲ] ocupa a posição de onset e pode ocorrer em sílabas tônicas e 
+postônicas, sendo que, em sílaba pretônica, não foram encontra-
+dos dados nos quais a nasal palatal seja evidenciada. A autora não 
+discute acerca da nasalidade da vogal que antecede a consoante, 
+mas,  na  representação  fonética  adotada,  essa  vogal  é  realizada 
+como oral (COSTA, 2014, p. 81). Em nossos dados, no entanto, ob-
+servamos a nasalidade, em algumas palavras, da vogal anterior à 
+nasal palatal, como indicado em 49 e 50.
+
+49. 
+50. 
+
+[ɾas.ˈkũ.ɲʊ] - raskunhu “rascunho”
+[me.ˈsĩ.ɲʊ] - mesinhu “remédio”
+
+Embora em linha [ˈli.ɲɐ] “linha” e dinheru [di.ˈɲɛj.ɾʊ] “dinhei-
+ro” não tenhamos identificado nasalização de [i], o fenômeno foi 
+constatado nos exemplos 49 e 50, dando pistas para um fenôme-
+no variável.
+
+Conforme Balduino (2018), a nasalidade vocálica (engatilhada 
+por coda) em línguas como o santome e o lung’Ie tem a represen-
+tação subjacente V+N, em que a vogal fonológica oral adquire o 
+traço  [+nasal]  devido  ao  espraiamento  regressivo  da  nasalidade 
+
+da consoante nasal em coda. O mesmo fenômeno é encontrado 
+nos dados do guineense, uma vez que as vogais, quando sucedi-
+das por uma coda nasal tautossilábica, podem ser nasalizadas. Já 
+quanto à nasalização engatilhada por onset, trabalhos como o de 
+Balduino (2018) indicam que, além do processo de nasalização en-
+gatilhado por uma coda nasal, o lung’Ie apresenta, ainda, nasaliza-
+ção heterossilábica.
+
+Apesar de tal processo ser recorrente em diferentes línguas 
+naturais, no guineense, quando uma vogal é seguida por uma con-
+soante nasal [m, n] licenciada no onset da sílaba seguinte, a nasali-
+zação da vogal da sílaba anterior não é observada, tanto em sílaba 
+tônica  quanto  em sílaba  pré-tônica, com  a  vogal  permanecendo 
+oral. No que concerne à nasalização progressiva e regressiva, no 
+guineense, realizamos uma análise preliminar somente para a na-
+salização regressiva. Pelos dados, é possível formular como hipó-
+tese inicial que apenas a coda nasal pode engatilhar a nasalidade, 
+sendo sempre tautossilábica e regressiva. Essa hipótese poderia 
+ser validada ou refutada após uma análise com um corpus amplia-
+do para investigar a nasalização progressiva no guineense.
+
+Quando se trata da consoante nasal palatal, é possível ob-
+servar, em algumas palavras, o traço nasal da sílaba anteceden-
+te. De acordo com Moraes e Wetzels (1992), a consoante nasal 
+palatal  nasaliza  mais  frequentemente  a  vogal  do  que  as  con-
+soantes não palatais. Wetzels (2000) sugere a hipótese de que 
+a nasal palatal seja uma consoante dupla, geminada fonológica, 
+para abarcar as realizações dessa consoante. Assim, a consoan-
+te nasal palatal seria ambissilábica, ou seja, ocuparia duas síla-
+bas (a coda de uma e o onset da outra). No caso do guineense, o 
+comportamento não foi uniforme: embora a nasalização diante 
+de [ɲ] tenha ocorrido em alguns casos (diferentemente do com-
+portamento diante de [m, n]), o que pode sugerir a possibilida-
+de desse caráter ambissilábico, esse processo não foi categóri-
+co  (encontrado  somente  em  duas  palavras),  sendo  necessária 
+uma análise com mais palavras para atestar o comportamento 
+da realização nasal diante dessa consoante.
+
+Balduino (2022), analisando dados do português santomense, 
+indica que, nessa variedade, [ɲ] apresenta um comportamento se-
+melhante: a nasal palatal pode desencadear nasalização em síla-
+bas tônicas e átonas de maneira opcional, distinguindo-se, assim, 
+de variedades como o português brasileiro e o europeu, nas quais 
+tal  consoante  desencadeia  um  processo  obrigatório.  Apesar  de 
+[ɲ] também engatilhar nasalidade opcional no guineense, similar-
+mente  ao  português  santomense,  naquela  língua  a  opcionalida-
+de do fenômeno parece, todavia, estar relacionada à proeminên-
+cia da sílaba, na medida em que a nasalização, nesses casos, só 
+ocorreu em sílabas tônicas: [ɾas.ˈkũ.ɲʊ] “rascunho” e [me.ˈsĩ.ɲʊ] 
+“remédio”.  Vemos,  portanto,  que  o  processo  desencadeado  por 
+[ɲ] pode não somente trazer pistas acerca de um possível caráter 
+ambissilábico da consoante, justificando os casos de nasalização 
+observados, como pode, ainda, ser sensível ao acento lexical.
+
+Em suma, a análise tecida nesta seção sugere que a nasaliza-
+ção vocálica, ao mesmo tempo que apresenta características seme-
+lhantes a outras línguas, como diferentes variedades do português 
+e outras línguas crioulas, como o santome e o lung’Ie (BALDUINO, 
+2018), também possui traços próprios. Diante dos dados expos-
+tos, o comparativo com os dados de Costa (2014) é evidenciado no 
+Quadro 3, a seguir.
+
+Quadro 3 – Nasalização engatilhada por coda e onset: comparativo
+
+Costa (2014)
+A nasalidade tautossilábica é opcional; A nasalidade tautossilábica ocorreu em 
+
+Autoras
+
+O apagamento de /N/, em coda, não é 
+obrigatório;
+Não há nasalidade heterossilábica;
+
+todos os dados;
+O apagamento de /N/, em coda, não é 
+obrigatório;
+
+Não  há  nasalidade  heterossilábica 
+engatilhada por [m] e [n]. Se a vogal é 
+seguida por um segmento palatal [ɲ], o 
+processo é opcional;
+
+Em  relação  à  vogal  que  antecede  a 
+nasal  palatal,  a  autora  não  discute  a 
+nasalidade;  no  entanto,  através  da 
+representação  fonética  adotada,  essa 
+vogal é realizada como oral.
+
+Foi  atestado  o  traço  nasal  da  vogal 
+que  antecede  a  consoante  palatal;  no 
+entanto, a ocorrência não é obrigatória.
+
+Fonte: Elaboração das autoras.
+
+Variação do /r/
+
+Conforme  Costa  (2014),  no  guineense  é  considerada  a  exis-
+tência  de  um  /r/  fonológico.  Esse  /r/  pode  ser  realizado  como  a 
+vibrante múltipla [r] ou a vibrante simples/tepe [ɾ]. A autora não 
+argumenta muito sobre a realização do /r/ no guineense, traz so-
+mente essa pequena explicação e alguns exemplos que foram ob-
+servados por Costa (2014) em outras análises realizadas. Vejamos 
+alguns dados retirados do texto de Costa (2014, p. 114-117):
+
+51. 
+52. 
+53. 
+54. 
+55. 
+
+[ma.ˈdɛ.ɾɐ] - /madɛra/ “madeira”
+[ˈku.rʊ] - /kurʊ/ “couro”
+[ˈar.vo.rɪ] - /arvorɪ/ “árvore”
+[veɾˈ.du.ɾɐ] - /verdura/ “verdura”
+[ˈra.ɲɐ] - /raɲa/ “arranhar”
+
+A consoante tepe/vibrante simples [ɾ] ocupa tanto a posição 
+de onset quanto a de coda medial, como nos exemplos 51 e 54, 
+respectivamente; já a vibrante múltipla [r] ocupa a posição de coda 
+medial e onset inicial e medial, como nos itens 52, 53 e 55. 
+
+Tendo  em  vista  tais  possibilidades,  examinamos,  em  nosso 
+corpus,  as  realizações  do  /r/,  verificando  se  apenas  [ɾ]  e  [r]  são 
+produzidas, ou se já estamos diante de outros processos que têm 
+o rótico como alvo, como é o caso de lenições, que podem resultar 
+em produções mais posteriorizadas, ou mesmo o seu apagamen-
+to. Focando, inicialmente, nas realizações de /r/ em coda, analisa-
+mos os itens especificados nos exemplos 56 a 65.
+
+56. 
+57. 
+58. 
+59. 
+60. 
+61. 
+62. 
+63. 
+64. 
+65. 
+
+[ˈkaɾ.tɐ] - karta “carta”
+[paɾ.ti.ˈsi.pɐ] - partisipa “participar”
+[a.ni.veɾ.ˈsa.ɾjʊ] - aniversariu “aniversário”
+[a.leɾ.ˈʒja] - alerdjia “alergia”
+[a.ˈleɾ.tɐ] ~ [a.ˈlex.tɐ] - alerta “alerta”
+[va.ˈlu] - valor “valor”
+[mĩn.ˈdʒɛ] - mindjer “mulher”
+[ˈmaɾ] ~ [ˈmax] ~ [ˈma] - mar “mar”
+[ma.ta.ˈdu] ~ [mã.ta.ˈduɾ] ~ [mã.ta.ˈdux] - matadur “matador”
+[ˈbaɾ] - bar “restaurante”
+
+Segundo Costa (2014), há um /r/ fonológico no guineense re-
+presentado pela vibrante simples/tepe [ɾ] ou vibrante múltipla [r]. 
+Em nossos dados, no entanto, observamos não somente realiza-
+ções mais posteriorizadas do rótico, como [h, x, ɣ], como também 
+identificamos  a  possibilidade  de  apagamento.  Alguns  exemplos 
+são demonstrados em 66 a 71.
+
+66. 
+67. 
+68. 
+69. 
+70. 
+71. 
+
+[ˈmax] - mar “mar”
+[aɫˈtah] - altar “altar”
+[sĩˈtix] - sinti “sentir”
+[mĩn.ˈdʒɛ] - mindjer “mulher”
+[ˈma] - mar “mar”
+[ma.ta.ˈdu] - matadur “caçador”
+
+Como podemos observar, tanto o apagamento quanto a pos-
+teriorização estão condicionados à fronteira de palavra, sendo, em 
+coda medial, apenas constatada a produção de [ɾ], como indicado 
+em 72 a 74. A vibrante [r], por sua vez, apenas foi verificada em 
+coda final 75.
+
+72. 
+73. 
+
+[kaɾ.ˈtɐ] - karta “carta”
+[paɾ.ti.ˈsi.pɐ] - partisipa “participa”
+
+74. 
+75. 
+
+[a.ni.vɛɾ.ˈsa.ɾjʊ] - aniversariu “aniversário”
+[ˈmar] ~ [ˈma] - mar “mar” 
+
+Os  processos  de  posteriorização  do  rótico,  assim  como  de 
+apagamento, são elucidados nos espectrogramas da Figura 9 – em 
+que retomamos o espectrograma de sinti [sĩˈtix] “sentir”, da Figu-
+ra 8 – e da Figura 10, no qual apresentamos o espectrograma de 
+mar [ˈma] “mar”.
+
+Figura 9 – Espectrograma de sinti [sĩˈtix]
+
+Fonte: Elaboração das autoras.
+
+Figura 10 – Espectrograma de mar [ˈma]
+
+Fonte: Elaboração das autoras.
+
+Na Figura 9, a produção de [x] é nitidamente observada pela 
+presença  do  ruído  característico  às  fricativas.  Notamos,  assim, 
+que /r/ adquire uma articulação mais posteriorizada, sofrendo, 
+portanto, lenição. Já na Figura 10, o rótico é apagado. Ambos os 
+fenômenos reforçam o caráter variável da coda nas línguas natu-
+rais, ressaltando sua fragilidade, especialmente, na fronteira de 
+palavra (SELKIRK, 1982). Em relação à tonicidade, esse não pare-
+ce ser um fator que desencadeie os processos de posteriorização 
+ou apagamento, visto que ambos são perceptíveis em sílabas tô-
+nicas e átonas.
+
+É preciso considerar, ainda, a possibilidade de o contato com o 
+português ser um fator que contribui para a implementação de ambos 
+os fenômenos, que têm o rótico como alvo e a coda como domínio. 
+A  esse  respeito,  Costa  (2014,  p.  198)  afirma  que  o  apagamento 
+não  é  um  processo  fonológico  encontrado  sincronicamente  na 
+variedade do crioulo guineense, correspondendo, sobretudo, a um 
+fenômeno diacrônico que configura um dos possíveis resultados 
+da formação dessa língua. De fato, tendo em vista que o português 
+é  a  língua  lexificadora  do  guineense,  notamos,  como  apontado 
+por Costa (2014, p. 198), uma série de reduções fonéticas deste 
+em relação àquele ao compararmos ambas as línguas: /studa/ > 
+Guineense e /estudaɾ/ Português, por exemplo. Tais contraposi-
+ções, neste artigo, não pretendem implicar que o guineense des-
+cenda, diretamente, do português.
+
+ Apesar de Costa (2014) circunscrever o apagamento como 
+um processo diacrônico do guineense, a análise de nossos dados 
+atestou  a  presença  sincrônica  tanto  da  posteriorização  quanto 
+do apagamento, sugerindo que, na verdade, tais fenômenos já 
+podem ser observados no guineense. Ora, sendo o apagamen-
+to  e,  principalmente,  a  posteriorização  fenômenos  sincrônicos 
+característicos à coda de diferentes variedades da língua portu-
+guesa e, em alguns casos, ao onset, é possível que a convivência 
+(in)direta  entre  o  português  e  o  guineense  possa  ser  um  fator 
+que colabore com a disseminação desses processos. Ainda que 
+o português não seja empregado cotidianamente na Guiné-Bis-
+
+sau, é preciso considerar que os meios de comunicação de mas-
+sa  possuem  programações  transmitidas  em  língua  portuguesa, 
+as quais podem ser acessadas pela população geral, indicando, 
+desse modo, que a presença de tal língua, na Guiné, não é es-
+cassa. O português é não só a única língua oficial do país como 
+também a língua de instrução nos bancos escolares, com poucas 
+exceções. Em outras palavras, a porção da sociedade guineense 
+que  consegue  ter  acesso  à  escolarização  tem  sido  alfabetizada 
+em português.
+
+Finda a discussão sobre o rótico em coda, analisamos, a se-
+guir, algumas palavras em que /r/ é observado em onset inicial 
+e final.
+
+Em posição de onset inicial, tanto [r] quanto [ɾ] foram reali-
+
+zações possíveis:
+
+76. 
+77. 
+78. 
+
+[ˈɾa.lɐ] ~ [ˈra.lɐ] - rala “ralar”
+[ɾɛs.ta.ˈɾãn.tɪ] - restauranti “restaurante”
+[ɾi.si.bi.ˈdʊ] - risibidu “recebido”
+
+Já em posição de onset medial, todas as ocorrências foram 
+realizadas mediante a produção de vibrante simples/tepe por to-
+dos os informantes:
+
+79. 
+80. 
+81. 
+82. 
+83. 
+84. 
+85. 
+86. 
+
+[ˈka.ɾʊ] - karu “carro”
+[si.ˈga.ɾʊ] - sigaru “cigarro”
+[ˈgɛ.ɾɐ] - guera “guerra” 
+[ko.me.mo.ɾa.ˈson] - komemorason “comemoração”
+[a.ni.vɛɾ.ˈsa.ɾjʊ] - aniversariu “aniversário”
+[ke.ˈɾi.dʊ] - kiridu “querido”
+[e.li.mi.na.ˈtɔ.ɾjɐ] - iliminatoria “eliminatória”
+[a.ˈɾujs] - arus “arroz”
+
+Em suma, a partir da análise do /r/9 em diferentes constituintes 
+silábicos, concluímos que a variação da realização do /r/, em posi-
+ção de coda, é mais ampla. De acordo com Selkirk (1982), a coda 
+corresponde ao constituinte mais fraco da sílaba e, por isso, é mais 
+suscetível à variação e costuma ter mais realizações de processos, 
+como o apagamento. Todos os processos fonológicos neste artigo, 
+quando em posição de coda, demonstraram uma realização variá-
+vel. Na nasalização engatilhada por coda, a consoante nasal, por 
+exemplo,  pôde  ser  elidida,  sugerindo  que,  talvez,  esse  processo 
+não seja exclusivo ao rótico em coda.
+
+Em posição de onset (inicial e medial), a vibrante simples foi a 
+variante preferida, sendo inclusive a forma categórica em posição 
+medial. Poderíamos então argumentar que o fonema do guineen-
+se seria a vibrante simples e que poderia se realizar de maneiras 
+diversas na língua, especialmente na posição de coda. Nesse caso, 
+apenas teríamos processos fonológicos atingindo as fronteiras de 
+palavras: as codas finais e os onsets em posição inicial. Natural-
+mente, é possível que haja outros fatores para realização do ró-
+tico, como qualidade vocálica e acento. No entanto, tais aspectos 
+não foram levados em consideração, por uma questão de recorte 
+e espaço, neste artigo. Objetivando o comparativo dos fenômenos 
+com a abordagem apresentada em Costa (2014), evidenciamos as 
+argumentações no Quadro 4, a seguir.
+
+Quadro 4 – Variação do /r/: comparativo
+
+Costa (2014)
+ Há um /r/ fonológico, realizado como 
+a  vibrante  múltipla  [r]  ou  a  vibrante 
+simples/tepe [ɾ];
+
+Autoras
+Em  coda  final,  o  rótico  é  realizado 
+de  forma  posteriorizada  e  pode  ser 
+apagado.  Já  em  coda  medial  e  onset 
+medial, corroborando com os achados 
+de Costa (2014), atestamos a realização 
+do [ɾ];
+
+9 Diferentemente da representação da nasal /N/, utilizamos /r/ para a representação do rótico, posto que é a forma que deriva 
+melhor as demais realizações em coda (aquelas que não parecem ser condicionadas pelo contexto seguinte). Ademais, no gui-
+neense, até o momento e ao que parece, não haveria, no inventário fonológico, dois róticos distintivos que justificassem uma 
+neutralização nesse contexto (como ocorre no português brasileiro, para fins de ilustração). Tal quadro é diferente no que diz 
+respeito à nasalização: /m/ e /n/ são contrastivos em onset e, na coda, podem ser neutralizados em [m, n, ŋ].
+
+O  apagamento  é  um  processo 
+diacrônico  resultado  da  formação  das 
+línguas.
+
+Os  processos  de  apagamento  e 
+posteriorização  dos  róticos  são  de 
+natureza sincrônica.
+
+Fonte: Elaboração das autoras.
+
+Considerações finais
+
+No guineense são identificados processos fonológicos, como 
+a  palatalização  do  /s/  em  coda;  a  nasalização  engatilhada  por 
+coda  e  onset;  e  a  variação  do  /r/.  Além  disso,  discutimos  aqui 
+o estatuto de [ʃ] em onsets complexos. A análise fonética e fo-
+nológica desses fenômenos, propostas neste artigo, trazem evi-
+dências  acerca  das  regras  sonoras  que  caracterizam  o  sistema 
+fonológico do guineense, contribuindo para a descrição de uma 
+língua ainda pouco documentada.
+
+ Ao compararmos nossos resultados com o trabalho de Costa 
+(2014), compilamos os principais achados dos dois estudos e ob-
+servamos  algumas  diferenças  analíticas.  Distintamente  de  Costa 
+(2014), não somente identificamos processos de nasalização he-
+terossilábica, como atestamos a posteriorização de róticos e seu 
+apagamento sincrônico. A partir da discussão proposta, que foca 
+em três processos fonológicos, visamos contribuir com a descrição 
+fonológica do guineense, língua amplamente falada na Guiné-Bis-
+sau,  porém  ainda  pouco  estudada.  Tendo  em  vista,  no  entanto, 
+que este é um estudo inicial do guineense, algumas questões per-
+maneceram sem respostas, sendo importante um maior aprofun-
+damento da análise dos processos elencados, além da ampliação 
+do corpus, para avaliarmos outras variáveis linguísticas que podem 
+influenciar os fenômenos estudados neste artigo fenômenos.
+
+Referências
+
+BALDUINO, Amanda Macedo; AGOSTINHO, Ana Lívia dos Santos; 
+ARAUJO, Gabriel Araujo; CHRISTOFOLETTI, Alfredo. A nasalidade vocá-
+
+lica em santome e lung’Ie. PAPIA, São Paulo, v. 25, n. 1, p. 7-25, jan./
+jun. 2015.
+
+BALDUINO, Amanda Macedo. A nasalidade no português de STP. 
+2018. Dissertação (Mestrado em Filologia e Língua Portuguesa) – 
+Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São 
+Paulo, São Paulo, 2018.
+
+BALDUINO, Amanda Macedo. Processos Fonológicos no Português 
+de São Tomé e de Santo Antônio do Príncipe. 2022. Tese (Doutorado 
+em Filologia e Língua Portuguesa) – Faculdade de Filosofia, Letras e 
+Ciências Humanas, Universidade de São Paulo, São Paulo, 2022.
+
+BANDEIRA, Manuele. Reconstrução fonológica e lexical do pro-
+tocrioulo do Golfo da Guiné. 2017. Tese (Doutorado em Filologia 
+e Língua Portuguesa) – Faculdade de Filosofia, Letras e Ciências 
+Humanas, Universidade de São Paulo, São Paulo, 2017.
+
+BOERSMA, Paul; WEENINK, David. Praat: doing phonetics by computer. 
+Versão 6.1.35. [Amsterdam: Praat], 2020.
+
+CHAPOUTO, Sandra Marisa da Costa. Contributo para a descrição 
+de aspectos fonológicos e prosódicos do crioulo guineense. 2014. 
+Dissertação (Mestrado em Linguística) – Departamento de Línguas, 
+Literaturas e Culturas da Faculdade de Letras, Universidade de 
+Coimbra, Coimbra, 2014.
+
+COSTA, Paula Mendes. Descrição fonológica do crioulo guineen-
+se. 2014. Dissertação (Mestrado em Linguística) – Centro de Artes e 
+Comunicação, Universidade Federal de Pernambuco, Recife, 2014.
+
+COUTO, Hildo Honório. O Crioulo Português da Guiné Bissau. 
+Hamburg, Deutschland: Buske, 1994.
+
+CRISTÓFARO SILVA, Thaïs. Dicionário de Fonética e Fonologia. São 
+Paulo: Editora Contexto, 2011.
+
+INE. Recenseamento Geral da População e Habitação - Guiné-
+Bissau: características socioculturais. Bissau, Guiné-Bissau: INE, 2009. 
+Disponível em: https://www.stat-guinebissau.com/. Acesso em: 21 jan. 
+2020.
+
+KENT, Raymond; READ, Charles. The Acoustic Analysis of Speech. San 
+Diego, California: Singular Publishing Group, 1992.
+
+KIHM, Alain. Nasality in kriol: the marked case? Journal of Pidgin and 
+Creole languages, Paris, France, v. 1, n. 1, p. 81-107, 1986.
+
+MATOS, Priscila Costa. A Sílaba Fonética do Guineense Moderno: a 
+posição de Coda. 2021. Monografia (Graduação em Letras) – Instituto 
+de Humanidades e Letras, Universidade da Integração Internacional da 
+Lusofonia Afro-brasileira, São Francisco do Conde, 2021.
+
+MBODJ, Chérif. Phonologie du créole de Guinée-Bissau. Dakar: Centre 
+de Linguistique Appliquée de Dakar, 1979. v. 74.
+
+MORAES, João; WETZELS, Leo. Sobre a duração dos segmentos vocálicos 
+nasais e nasalizados em português: um exercício da fonologia experi-
+mental. Cadernos de Estudos linguísticos, Campinas, SP, v. 23, [s. n.], 
+p. 153-166, 1992.
+
+ROUGÉ, Jean-Louis. Petit dictionnaire étymologique du kriol de 
+Guinée Bissau et de Casamance. Bissau: Instituto Nacional de Estudos 
+e Pesquisa, 1988.
+
+SCANTAMBURLO, Luigi. Dicionário do guineense. Dicionário guineen-
+se/português. Bissau: Edições FASPEBI, 2002. v. 2.
+
+SCANTAMBURLO, Luigi. Gramática e dicionário da língua Criol da 
+Guiné-Bissau (GCr). Bologna: Editrice Missionaria Italiana, 1981.
+
+SELKIRK, Elisabeth. The syllabe. In: HULST, H. Van der; SMITH, Norval 
+(ed.). The Structure of Phonological representations. Dordrecht, 
+Nederland: Foris, 1982. p. 337-383.
+
+WETZELS, Leo. Consoantes palatais como geminadas fonológicas 
+no Português Brasileiro. Revistas de Estudos Linguísticos, Belo 
+Horizonte, v. 9, n. 2, p. 5-15, 2000.
+
+

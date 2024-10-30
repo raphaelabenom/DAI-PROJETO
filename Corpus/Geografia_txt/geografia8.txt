@@ -1,0 +1,1811 @@
+ 
+
+ 
+
+DOI: 10.5216/bgg.v43i01.73217 
+
+Análise espaço-temporal dos remanescentes 
+da cobertura vegetal da Mata Atlântica em  
+um município costeiro no sul do Brasil 
+ 
+
+Spatiotemporal analysis of the Atlantic Forest remnants  
+of vegetation cover in a coastal city 
+ in southern Brazil 
+ 
+Análisis espaciotemporal de los remanecientes de la  
+cubierta vegetal de mata Atlántica en 
+una ciudad costera del sur de Brasil  
+ 
+ 
+
+  Luana Caroline Neitzel 
+Universidade da Região de Joinville – Santa Catarina – Brasil 
+luananeitzel@hotmail.com  
+
+  Celso Voos Vieira  
+Universidade da Região de Joinville – Santa Catarina – Brasil 
+celso.v@univille.br   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Resumo  O  entendimento  das  relações  ecológicas  dos 
+fragmentos  florestais  permite  a  aplicação  de  uma  correta 
+gestão  ambiental, 
+favorecendo  a  sua  conservação  e 
+restauração  de  áreas  degradadas.  Diante  do  exposto,  foi 
+realizada uma análise espaço-temporal a partir das métricas 
+de  paisagem,  com  o  objetivo  de  mensurar  a  qualidade  dos 
+fragmentos florestais no município de Joinville no período de 
+1985 a 2019. A análise dos fragmentos florestais foi realizada 
+com a adoção de métricas de paisagem de tamanho, borda e 
+forma, com posterior análise estatística para verificar se houve 
+alterações significativas na paisagem no período estudado. Os 
+resultados  indicaram  uma  supressão  de  774  fragmentos 
+florestais  no  município,  com  uma  redução  de  65,94  km²  de 
+área,  com  destaque  para  a  supressão  dos  pequenos 
+fragmentos,  principalmente  ao  longo  perímetro  urbano  e 
+
+ 
+
+DOI: 10.5216/bgg.v43i01.73217 
+
+áreas adjacentes, assim como a redução de 35% da área de 
+manguezal.  As  métricas  de  paisagem 
+indicaram  uma 
+consequente diminuição do efeito de borda, aumento de área 
+média  dos  fragmentos  florestais,  aumento  do  número  de 
+fragmentos com morfologia menos complexa e diminuição da 
+conectividade  dos  fragmentos  florestais  em  decorrência  da 
+redução  dos  corredores  ecológicos.  A  principal  pressão 
+antrópica  envolvida  na  alteração  ecológica  identificada  foi  a 
+expansão  urbana.  Como  resposta  a  prefeitura  municipal 
+implementou  medidas  ações  prioritárias,  com  a  intenção  de 
+manutenção e restauro das funções ecológicas dos fragmentos 
+florestais no município. 
+
+Palavras  chave:  Joinville,  métricas  de  paisagem,  uso  e 
+cobertura do solo, Baía Babitonga. 
+
+Abstract  Understanding  the  ecological  relationships  of  the 
+forest fragments makes possible the application of a correct 
+environmental management, favoring its conservation and the 
+restoration of degraded areas. Considering it, a spatiotemporal 
+analysis  was  performed  based  on  the  landscape  metrics, 
+aiming to measure the quality of forest fragments in the city of 
+Joinville, Santa Catarina, Brazil, in the period between 1985 and 
+2019. This analysis used landscape metrics of size, edge, and 
+shape, with a posterior statistical analysis in order to verify if 
+there were significant alterations in the landscape during the 
+studied period. The results revealed suppression of 774 forest 
+fragments  in  the  city,  with  area  reduction  of  65.94  km2, 
+highlighting the suppression of small fragments, especially in 
+the urban perimeter and adjacent areas, as well as reduction 
+of 35% in the mangrove area. The landscape metrics pointed 
+out a logic reduction of the edge effect, increase of the average 
+area of forest fragments, increase in the number of fragments 
+with 
+less  complex  morphology,  and  reduction  of  the 
+connectivity  between  forest  fragments  because  of  the 
+decrease of ecological corridors. The main identified anthropic 
+pressure involved in ecological change was the urban sprawl. 
+In  answer,  the  city  hall  has  implemented  priority  actions, 
+aiming  to  keep  and  restore  the  ecological  functions  of  the 
+forest fragments in the city.  
+
+Keywords:  Joinville,  landscape  metrics,  land  use  and  cover, 
+Babitonga Bay. 
+
+ 
+
+ 
+
+ 
+
+DOI: 10.5216/bgg.v43i01.73217 
+
+Resumen El entendimiento de las relaciones ecológicas de los 
+fragmentos  de  bosque  posibilita  aplicar  la  correcta  gestión 
+ambiental, favoreciendo su conservación y la restauración de 
+áreas degradadas. En vista de eso, se llevó a cabo un análisis 
+espaciotemporal  basada  en 
+las  métricas  del  paisaje, 
+objetivando medir la calidad de los fragmentos de bosque en 
+la ciudad de Joinville, Santa Catarina, Brasil, en el período de 
+1985 hasta 2019. El análisis se realizó por medio de métricas 
+del paisaje como tamaño, borde y forma, con posterior análisis 
+estadística para verificar se ocurrieron cambios significativos 
+en el paisaje en el período en foco. Los resultados indicaran 
+supresión  de  774  fragmentos  de  bosque  en  la  ciudad,  con 
+disminución de 65,94 km2 de área, con destaque a la supresión 
+de  los  pequeños  fragmentos,  de  manera  especial  en  el 
+perímetro urbano y áreas adyacentes, además de reducción de 
+35% de la zona de manglares. Las métricas de paisaje revelarán 
+una lógica disminución del efecto de borde, aumento en el área 
+promedio de fragmentos de bosque, aumento en el número de 
+fragmentos con morfología menos compleja y disminución de 
+la  conectividad  de  los  fragmentos  de  bosque  debido  a  la 
+reducción de los corredores ecológicos. La presión antrópica 
+principal que resultó en el cambio ecológico identificada fue la 
+expansión  urbana.  Como 
+la  alcaldía  ha 
+implementado  acciones  prioritarias,  con  el  objetivo  de 
+mantener  y  restaurar 
+los 
+fragmentos de bosque de la ciudad.  
+
+las  funciones  ecológicas  de 
+
+respuesta, 
+
+Palabras clave: Joinville, métricas de paisaje, uso y cobertura 
+del suelo, Bahía Babitonga. 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+Introdução 
+
+Atualmente  o  sensoriamento  remoto  vem  sendo  largamente 
+aplicado para o monitoramento de coberturas vegetais e é voltado, 
+principalmente, para o comportamento espacial (ABREU; COUTINHO, 
+2014).  Segundo  Borges  e  Rajão  (2016),  as  discussões  acerca  do 
+território  brasileiro  vêm  sendo  reiteradas  em  diversos  meios: 
+acadêmico, político, econômico e defesa nacional. Tendo em vista a 
+importância dos mapeamentos e conhecimento de territórios, foram 
+desenvolvidas  as  metodologias  de  Sensoriamento  Remoto  e  Uso  e 
+Cobertura  da  Terra,  que 
+tornam  possível  não  somente  o 
+monitoramento, mas a preservação (INÁCIO, et al., 2020).  
+
+Portanto, a biodiversidade da Mata Atlântica é considerada de 
+extrema importância biológica, mas essa riqueza de fauna e flora está 
+ameaçada pelo desmatamento (BRANCO, et al., 2021). Este bioma é 
+uma  das  florestas  tropicais  mais  ameaçadas  do  planeta  (SAFAR; 
+MAGNAGO; SCHAEFER, 2020) e vem sendo devastado com o processo 
+de urbanização (FERREIRA et al., 2019), pois mais de 60% da população 
+brasileira  reside  em  área  de  domínio  de  Mata  Atlântica  (SCARANO; 
+CEOTTO, 2015). Então, atualmente é possível afirmar de acordo com 
+Fundação  SOS  Mata  Atlântica  (2021),  que  restam  apenas  12,4%  da 
+floresta que existia originalmente e de 1985 a 2019, a ação antrópica 
+desmatou cerca de 1,95 milhões de hectares desta cobertura florestal 
+(SOUSA et al., 2022).  
+
+Já a fragmentação do habitat é frequentemente definida como 
+o  processo  através  do  qual  uma  grande  área  é  transformada  em 
+pequenas manchas, com área total menor, isoladas por uma matriz 
+diferente do habitat original (FAHRIG, 2003). 
+
+Sendo assim, o parcelamento do solo é um dos motivos pelos 
+quais o processo de fragmentação da paisagem vem causando tanto 
+a  redução  das  áreas  de  cobertura  vegetal  quanto  à  distribuição 
+fragmentada  das  mesmas  e  interferindo  na  sustentabilidade  dos 
+recursos naturais, da biodiversidade e, portanto, na qualidade de vida 
+da  sociedade  (CHAVES;  SANTOS,  2009;  ANDERSSON  et  al.,  2014; 
+MASSOLI; STATELLA; SANTOS, 2016). No contexto das cidades, apesar 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+da infraestrutura verde ter capacidade de fornecer uma multiplicidade 
+de  serviços,  denominados  serviços  ecossistêmicos,  para  que  isso 
+aconteça de forma eficaz é essencial o monitoramento da vegetação 
+natural,  tanto  com  relação  à  sua  composição,  quanto  em  termos 
+temporais e distribuição espacial (ANDERSSON et al., 2014; LAWLEY et 
+al., 2016). 
+
+Portanto, foram levantados dados ao longo do tempo a partir 
+das métricas de paisagem, com o objetivo de mensurar a qualidade 
+dos  fragmentos,  visto  a  escassez  dessas  informações  sobre  os 
+fragmentos arbóreos no município de Joinville. 
+
+Logo, foram definidos os anos de 1985 e 2019 para o estudo em 
+questão, visando analisar as alterações da cobertura e uso do solo no 
+município,  por  meio  da  caracterização  da  evolução  da  estrutura  da 
+paisagem  e  análise  das  métricas  de  paisagem  dos  fragmentos  de 
+vegetação. 
+
+Metodologia 
+
+Área de estudo 
+
+  O município de Joinville localizado no norte do estado de Santa 
+Catarina confronta-se a leste com a baía Babitonga e a oeste com a 
+Serra do Mar e possui uma área de 1.124 km² (Figura 1).  
+ 
+Figura 1: Localização do estado de Santa Catarina e do município de Joinville. 
+
+ 
+
+ 
+
+Fonte: Autores 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+O  município  é  a  maior  cidade  do  estado  e  possui  604  mil 
+habitantes  (IBGE,  2021)  e  uma  densidade  demográfica  de  457 
+hab./km². O município também se destaca por ser a maior economia 
+do  estado  de  Santa  Catarina  (IBGE,  2021).  Dentre  os  ecossistemas 
+que ocorrem na região destacam-se a Floresta Ombrófila Densa (que 
+compreende 60% do município) e seus ecossistemas associados, com 
+destaque para os manguezais no litoral e os campos de altitude nas 
+áreas com mais de 1.100 m de altitude na Serra do Mar (PMJ, 2020).  
+
+ 
+Uso e cobertura do solo 
+
+ 
+Para a avaliação da dinâmica de uso de cobertura da terra, foram 
+utilizados, os dados fornecidos pelo MapBiomas. De acordo com a 
+base  de  dados  do  MapBiomas  (2019),  ele  tem  o  propósito  de 
+contribuir para o entendimento da dinâmica do uso do solo no Brasil 
+e em outros países tropicais, estabelecendo uma rede colaborativa 
+de  especialistas  nos  biomas  brasileiros  para  o  mapeamento  da 
+cobertura do solo e da sua dinâmica de mudanças. Com esses dados, 
+foi possível visualizar a evolução do município de Joinville. Depois de 
+obter  o  levantamento  de  informações,  foram  selecionados  dois 
+momentos temporais, os anos de 1985 e 2019. Foi selecionado este 
+recorte temporal devido a disponibilidade de informações na base de 
+dados  do  MapBiomas,  que  eram 
+limitadas  a  este  período. 
+Posteriormente, a partir dos dados obtidos foi realizado um estudo 
+comparativo dos fragmentos florestais para estes dois momentos.  
+
+Métricas de paisagem 
+
+ 
+Para  o  cálculo  de  métricas  de  paisagem  foram  utilizados  os 
+softwares Fragstats (MCGARIGAL et al., 1995) e a extensão do ArcGIS 
+Patch  Analyst  (REMPEL  et  al.,  2012)  com  a  análise  das  seguintes 
+métricas de paisagem: (1) Métricas de tamanho; (2) Métricas de borda 
+e  (3)  Métricas  de  forma  (Quadro  1).  A  seleção  das  métricas  de 
+paisagem foi baseada em Silva et al. (2019), Fernandes et al. (2019) e 
+Amorim et al. (2021). 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+Quadro 1 – Definições métricas de paisagem adotadas no estudo. 
+
+ 
+Sigla 
+
+CA 
+
+NumP 
+
+MPS 
+
+MedPS 
+
+Métrica 
+
+Área total da 
+
+classe 
+
+Número de 
+manchas 
+Tamanho 
+
+médio 
+
+Tamanho 
+mediano 
+
+PSSD 
+
+Desvio padrão 
+do tamanho 
+
+TE 
+
+ED 
+
+MPE 
+
+Comprimento 
+total de borda 
+Densidade de 
+
+borda 
+
+Média do 
+perímetro 
+
+MPAR 
+
+Média da 
+relação 
+
+perímetro/área 
+
+MSI 
+
+Indicador 
+médio de 
+
+forma 
+
+Indicador 
+médio de 
+
+forma 
+
+ponderado 
+pela área 
+
+Dimensão 
+
+fractal média 
+da mancha 
+
+AWMSI 
+
+MPFD 
+
+ 
+
+ 
+
+Métricas de Tamanho 
+
+Descrição 
+
+Representa a soma de todas as manchas de 
+determinada classe de uso do solo. 
+Expressa o número total de manchas por tipo de 
+classe de uso do solo. 
+Expressa o tamanho médio das manchas por tipo de 
+classe de uso do solo. 
+Expressa o tamanho mediano das manchas por tipo 
+de classe de uso do solo. 
+Expressa a variação do tamanho das manchas em 
+torno do valor médio para cada classe de uso do 
+solo. 
+
+Métricas de Borda 
+
+Comprimento total do perímetro (borda) para cada 
+classe de uso do solo. 
+Expressa a relação entre o perímetro (TE) de cada 
+classe pela área total da paisagem (TLA).  
+Expressa o comprimento médio do perímetro (te) das 
+manchas para cada tipo de classe. é calculado com a 
+divisão do valor total do perímetro da classe (te) pelo 
+número total de manchas (NumP). 
+
+Métricas de Forma 
+
+Nessa métrica é calculada a relação entre o 
+perímetro (te) de cada classe pela área total classe 
+(CA) dividido pelo número de manchas (NumP). 
+Expressa o quanto a mancha é próxima de um 
+círculo. essa métrica efetua a soma do perímetro de 
+todas as manchas e divide pelo quadrado da área da 
+classe de uso. Basicamente expressa que quanto 
+mais próximo de 1 for o valor, a forma da mancha é 
+mais parecida com um círculo. 
+Expressa o quanto a mancha é próxima de um 
+círculo. essa métrica efetua a soma do perímetro de 
+todas as manchas dividido pelo quadrado da área da 
+classe de uso sendo o resultado dividido pelo 
+número de manchas da classe. Basicamente 
+expressa que quanto mais próximo de 1 for o valor, a 
+forma da mancha é mais parecida com um círculo. 
+É uma métrica que expressa a complexidade de 
+forma da mancha, sendo que valores próximos de 1 
+representam perímetros simples e valores próximos 
+de 2 indicam perímetros complexos, baseados na 
+forma. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+Análise Estatística 
+
+A  análise  estatística  foi  realizada  com  a  apreciação  de  cada 
+fragmento  florestal  dos  anos  de  1985  e  2019,  totalizando  7.194 
+fragmentos  ou  casos.  As  variáveis  utilizadas  na  análise  estatística 
+foram:  área  de  cada  fragmento  (m²),  perímetro  ou  borda  de  cada 
+fragmento  (m),  índice  de  forma  (SI)  de  cada  fragmento,  relação 
+perímetro/área de cada fragmento (PAR) e dimensão fractal (FD) de 
+cada fragmento.  
+
+As  classes  de  tamanho  (área)  dos  fragmentos  florestais  dos 
+anos  de  1985  e  2019  foram  comparadas  para  verificar  entre  as 
+seguintes classes: (i) área menor que 0,5 ha; (ii) área maior que 0,5 ha 
+e menor que 5 ha; (iii) área maior que 5 ha e menor que 100 ha; (iv) 
+área maior que 100 ha e menor que 300 ha; (v) área maior que 300 
+ha.  
+
+A  análise  estatística  teve  como  objetivo  efetuar  uma 
+comparação  entre  os  fragmentos  de  1985  e  2019  com  o  uso  das 
+variáveis supramencionadas e testar a hipótese nula se há diferença 
+significativa entre os anos estudados.  
+
+A  normalidade  das  variáveis  foi  analisada  pelo  teste  de 
+Kolmogorov-Smirnov  e  a  homocedasticidade  das  variâncias  foi 
+analisada pelo teste de Levene (ANOVA). O teste de Mann-Whitney foi 
+usado para comparar as medianas e amplitude interquartil (AI) das 
+variáveis com distribuição não normal e não homocedástica e o teste 
+ANOVA  foi  utilizado  para  comparar  a  média  e  desvio  padrão  das 
+variáveis  com  distribuição  normal  e  homocedástica.  Os  resultados 
+foram considerados estatisticamente significativo quando p<0,05. 
+
+ 
+
+Resultados 
+ 
+
+Os dados de uso e cobertura do solo do município de Joinville 
+podem ser analisados na Tabela 1 e observados na Figura 2 e Figura 
+3. 
+ 
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+ 
+ 
+
+Tabela 1 - Classes de uso e cobertura do solo do município de Joinville. 
+
+Área (Km²) 
+
+Classes 
+
+Formação florestal 
+Manguezal 
+Floresta plantada 
+Pastagem 
+Agricultura  
+Infraestrutura urbana 
+Outras áreas não vegetadas 
+Água 
+Total 
+
+1985 
+791,68 
+28,55 
+8,43 
+8,27 
+202,42 
+53,87 
+2,90 
+28,00 
+
+2019 
+725,73 
+18,66 
+20,39 
+60,6 
+136,81 
+131,74 
+1,49 
+28,67 
+
+1.124 km² 
+
+1.124 km² 
+
+ 
+ 
+ 
+Figura 2 - Mapa de uso e cobertura do solo no ano de 1985. 
+
+Variação 
+
+-8% 
+-35% 
++142% 
++633% 
+-33% 
++144% 
+-49% 
++2% 
+
+ 
+
+Fonte: Autores 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+ 
+
+Figura 3 - Mapa de uso e cobertura do solo no ano de 2019 
+
+ 
+
+Fonte: Autores 
+
+ 
+
+ 
+
+A área total da classe formação florestal em 1985 era de 791,68 
+km²  e  diminuiu  em  2019  para  725,73  km²,  com  isso  houve  uma 
+redução na área total da classe de formação florestal na ordem de 
+8%.  
+
+A  classe  manguezal  teve  uma  diminuição  de  área  9,89  km² 
+apresentando uma perda significativa para o ecossistema costeiro, 
+com uma redução de 35% do ecossistema no período. Entretanto, a 
+floresta plantada (silvicultura) teve um incremento de 142% de área, 
+bem como a classe de pastagem com um crescimento de 633% no 
+período analisado.  
+
+As áreas de agricultura no município sofreram uma redução de 
+32%,  principalmente  com  o  avanço  do  perímetro  urbano  do 
+município  no  mesmo  período,  com  um  crescimento  de  144%  da 
+classe  de  infraestrutura  urbana.  A  classe  de  outras  áreas  não 
+vegetadas  é  representada  por  locais  associadas  à  infraestrutura 
+urbana  e  atividades  rurais  e,  contou  com  uma  redução  de  49%.  A 
+classe de água manteve-se praticamente estável, com uma pequena 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+expansão  de  2%  representada  por  oscilações  na  zona  costeira  do 
+município, representada pelo manguezal. 
+
+Com relação aos fragmentos florestais (Figura 4) foi observado 
+que a supressão das manchas ocorreu principalmente no interior do 
+perímetro urbano e nas áreas periféricas do mesmo. 
+
+ 
+
+Figura 4 - Mapa de uso e cobertura da Classe de Formação Florestal nos anos de 
+1985 e 2019. 
+ 
+
+ 
+
+Fonte: Autores 
+
+ 
+Na  Tabela  2  é  evidenciada  as  métricas  de  tamanho  dos 
+fragmentos  florestais,  pode-se  observar  que  a  área  total  da  classe 
+(CA) de formação florestal expressou uma redução do tamanho dos 
+fragmentos. Onde, no ano de 1985 era 791.685.000 m² ou 791,68 km² 
+e  no  ano  de  2019  passou  para  725.736.000  m²  ou  725,73  km², 
+resultando  em  uma  perda  de  65.949.000,00  m²  ou  65,94  km². 
+Entretanto,  houve  um  aumento  do  tamanho  médio  das  manchas 
+(MPS)  de  198.716  m²  para  226.086  m²,  indicando  que  as  manchas 
+menores (NumP) foram suprimidas ao longo do período em questão, 
+com uma redução de 3.984 para 3.210 manchas, com uma supressão 
+de  774  manchas  de  vegetação  nativa.  Já  o  tamanho  mediano  das 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+manchas  (MedPS)  apresentou  valores  praticamente  idênticos  ao 
+longo do tempo. Por fim, o desvio padrão do tamanho das manchas 
+(PSSD)  teve  um  pequeno  aumento,  indicando  um  aumento  da 
+variação do tamanho das manchas. 
+ 
+Tabela 2 -Métricas de tamanho dos fragmentos florestais do município de Joinville. 
+
+Métricas 
+
+Área total da classe 
+
+Sigla 
+ 
+CA 
+
+Número total de manchas  NumP 
+
+1985 
+
+ 
+
+3.984 
+
+791.685.000 m²  725.736.000 m² 
+
+2019 
+
+ 
+
+3.210 
+
+Variação 
+
+-9% 
+-19% 
+
+Tamanho médio das 
+
+manchas 
+
+Tamanho mediano das 
+
+manchas 
+
+Desvio padrão do tamanho 
+
+das manchas 
+
+MPS 
+
+198.716 m² 
+
+226.086 m² 
+
++14% 
+
+MedPS 
+
+1.609,18 m² 
+
+1.609,67 m² 
+
++0,03% 
+
+PSSD 
+
+9.049.170 m² 
+
+9.164.960 m² 
+
++1% 
+
+Fonte: Autores 
+
+ 
+Com  base  na  Tabela  3,  referente  as  métricas  de  borda,  foi 
+possível  identificar  que  o  tamanho  total  de  borda  (TE)  diminuiu 
+707.360,00  m  (ou  14%)  no  período  em  questão  assim  como  a 
+densidade de borda (ED), já que houve uma redução de 6% tanto de 
+área  quanto  de  comprimento  do  perímetro  dos  fragmentos 
+florestais.  Entretanto,  a  média  do  perímetro  (MPE) apresentou  um 
+aumento de 84,64 m (7%), em virtude da supressão dos fragmentos 
+menores e manutenção das manchas maiores. 
+ 
+Tabela 3 - Métricas de borda dos fragmentos florestais do município de Joinville. 
+
+Métricas 
+
+Sigla 
+
+ 
+
+1985 
+
+ 
+
+2019 
+
+ 
+
+Variação 
+
+Comprimento total do perímetro 
+
+(borda) 
+
+TE 
+
+5.039.340 m  4.331.980 m 
+
+-14% 
+
+Densidade de borda 
+
+ED 
+
+0,0064 m/m²  0,0060 m/m² 
+
+-6% 
+
+Média do perímetro (borda) 
+
+MPE 
+
+1.264,89 m 
+
+1.349,53 m 
+
++7% 
+
+ 
+
+Fonte: Autores 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+Em  relação  as  métricas  de  forma  dos  fragmentos  florestais 
+(Tabela  4)  foi  possível  identificar  que  o  indicador  médio  de  forma 
+(MSI) sofreu em um pequeno aumento (1%), indicando que a forma 
+dos  fragmentos  florestais  está  ligeiramente  mais  complexa.  Já  a 
+média da relação perímetro/área (MPAR) diminuiu 4%, indicando um 
+menor  efeito  de  borda  nas  manchas  de  2019.  A  dimensão  fractal 
+média da mancha (MPFD) indicou uma sutil diminuição, resultando 
+em  maiores  fragmentos  florestais  com  menor  efeito  de  borda.  O 
+indicador  médio  de  forma  ponderado  pela  área  (AWMSI)  também 
+sofreu  uma  diminuição  que  indica  que  em  1985  existiam  vários 
+pequenos fragmentos, porém mais complexos, já em 2019, restaram 
+fragmentos maiores contemplando um menor efeito de borda. 
+
+Tabela 4: Métricas de forma dos fragmentos florestais do município de Joinville. 
+
+Média da relação perímetro/área  MPAR 
+
+Métricas 
+
+Indicador médio de forma 
+
+Dimensão fractal média da 
+mancha 
+Indicador médio de forma 
+ponderado pela área 
+
+ 
+
+Sigla 
+MSI 
+
+MPFD 
+
+ 
+
+1985 
+1,4162 
+0,1007 
+m/m² 
+
+1,3969 
+
+ 
+
+2019 
+1,4299 
+0,0969 
+m/m² 
+
+1,3932 
+
+Variação 
+
++1% 
+
+-4% 
+
+-0,3% 
+
+AWMSI 
+
+17,25 
+
+14,73 
+
+-15% 
+
+Fonte: Autores 
+
+ 
+A  análise  estatística  (Tabela  5)  indicou  diferença  significativa 
+(p<0,05) entre os anos de 1985 e 2019 para as variáveis de área (m²), 
+perímetro  ou  borda  (m),  relação  perímetro/área  (PAR)  e  dimensão 
+fractal (FD). Destarte, podemos verificar que as alterações sofridas na 
+paisagem,  com  a  supressão  dos  fragmentos  florestais  no  período 
+estudado,  possuem  relevância  estatística  e  indicam  alterações 
+ecológicas. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+Tabela 5 - Teste de hipóteses. 
+
+Hipótese nula 
+
+Teste Estatístico 
+
+Sigma 
+
+Decisão 
+
+A distribuição da área (m²) 
+
+dos fragmentos é igual 
+entre os anos de 1985 e 
+
+2019 
+
+A distribuição do 
+perímetro (m) dos 
+
+fragmentos é igual entre 
+os anos de 1985 e 2019 
+A distribuição do índice de 
+forma (SI) dos fragmentos 
+é igual entre os anos de 
+
+1985 e 2019 
+
+A distribuição da relação 
+perímetro/área (PAR) dos 
+fragmentos é igual entre 
+os anos de 1985 e 2019 
+
+A distribuição da 
+
+dimensão fractal (FD) dos 
+fragmentos é igual entre 
+os anos de 1985 e 2019 
+
+Mann-Whitney U 
+
+p<0,05 
+
+Rejeitar a hipótese 
+
+nula 
+
+Mann-Whitney U 
+
+p<0,05 
+
+Rejeitar a hipótese 
+
+nula 
+
+Mann-Whitney U 
+
+p=0,062 
+
+Aceitar a hipótese 
+
+nula 
+
+Mann-Whitney U 
+
+p<0,05 
+
+Rejeitar a hipótese 
+
+nula 
+
+Mann-Whitney U 
+
+p<0,05 
+
+Rejeitar a hipótese 
+
+nula 
+
+ 
+
+Fonte: Autores 
+
+ 
+A análise comparativa das classes de tamanho dos fragmentos 
+dos  anos  de  1985  e  2019  (Tabela  6)  indicou  que  houve  diferença 
+significativa para os fragmentos florestais com (i) área <0,5 ha com 
+uma redução de 653 fragmentos e (ii) fragmentos com área >5 ha e 
+<100 ha com uma redução de 24 de fragmentos. As demais classes 
+não  possuem  diferença  estatisticamente  significativa  no  nível  de 
+p<0,05. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+Tabela 6 - Análise comparativa das classes de tamanho dos fragmentos para o ano 
+de 1985 e 2019. 
+
+Classe de área 
+
+<0,5 ha 
+
+>0,5 ha e <5 ha 
+
+>5 ha e <100 ha 
+
+>100 ha e <300 ha 
+
+>300 ha 
+
+1985 
+
+N= 2.804a 
+
+39% 
+
+N= 982a 
+13,7% 
+N= 169a 
+
+2,3% 
+N= 16a 
+0,2% 
+N= 13a 
+0,2% 
+
+2019 
+
+N= 2.151b 
+
+29,9% 
+N= 836a 
+11,6% 
+N= 193b 
+
+2,7% 
+N= 15a 
+0,2% 
+N= 15a 
+0,2% 
+
+Total 
+
+N= 4.955 
+68,9% 
+N= 1.818 
+25,3% 
+N= 362 
+5,0% 
+N= 31 
+0,4% 
+N= 28 
+0,4% 
+
+Letras  iguais  (a,a)  denotam  categorias  que  não  diferem  significativamente umas 
+das outras no nível p<0,05. 
+Letras  diferentes  (a,b)  denotam  categorias  que  diferem  significativamente  umas 
+das outras no nível p<0,05. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discussão 
+ 
+
+ 
+De  acordo  com  a  Tabela  1  foi  observado  que  a  classe  de 
+Infraestrutura Urbana expandiu, em área territorial 144% nos últimos 
+34  anos,  com  a  expansão  do  perímetro  urbano  municipal, 
+principalmente ao longo da planície costeira. Chaves e Santos (2009) 
+destacam que as alterações de uso e ocupação no solo, associadas 
+ao  processo  de  urbanização,  tais  como  o  parcelamento  do  solo,  a 
+construções  de  edificações  e  o  aumento  da  densidade  viária  são 
+alguns  dos  principais 
+fatores  associados  ao  aumento  da 
+fragmentação das paisagens naturais (SILVA et al., 2019). Portanto, 
+sabe-se que a intensificação do processo de urbanização provocada 
+por grandes empreendimentos se estabelece por meio da mudança 
+no uso do solo e modificações da cobertura natural do mesmo (NETO 
+et al., 2021). 
+ 
+Já a classe de Formação Florestal, teve uma diminuição de 1985 
+para 2019 de 65,95 km² que representa 8,33% da área total da classe, 
+sendo  assim,  o  efeito  causado  pela  urbanização  sobre  as 
+comunidades florestais é uma questão importante para os gestores 
+ambientais, tanto para o uso da terra como para a conservação da 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+natureza  (SILVA  et  al.,  2019).  Uma  das  consequências  diretas  da 
+fragmentação  e  perda  de  habitat  é 
+justamente  a  perda  da 
+biodiversidade microbiológica do solo, da flora e da fauna, a perda 
+da  diversidade  genética,  a  redução  da  densidade  ou  abundância, 
+alteração  da  estrutura  da  vegetação  e  maior  possibilidade  de 
+ocorrência  de  espécies  invasoras,  entre  outros  (CALEGARI  et  al., 
+2010). Esses danos podem ocorrer para uma espécie em particular 
+ou para a comunidade de plantas e animais, podendo ainda provocar 
+a  modificação  ou,  mesmo,  a  eliminação  das  relações  ecológicas 
+originalmente  entre  as  espécies  vegetais,  os  polinizadores  e  os 
+dispersores (BORGES et al., 2004).  
+
+A classe de manguezal teve uma redução de área de 35% em 
+relação  ao  ano  de  1985.  A  Prefeitura  Municipal  de  Joinville  (2011) 
+relatou que grande parte do ecossistema costeira foi perdido durante 
+as fases de expansão urbana do município, principalmente durante 
+a década de 70 e 80. Deve ser ressaltado que os remanescentes de 
+manguezal  situados  na  baía  Babitonga  correspondem  a  75%  dos 
+manguezais de todo o Estado de Santa Catarina. O manguezal é um 
+dos ecossistemas mais expressivos e dominantes do litoral costeiro 
+(RODRIGUES et al., 2020) e é um dos responsáveis pela estabilidade 
+da  geomorfologia  costeira,  conservação  da  biodiversidade  e  da 
+manutenção  de  recursos  pesqueiros,  geralmente  utilizados  pela 
+população local. Em virtude da elevada sensibilidade dos manguezais 
+em  função  das  mudanças  ambientais,  incluindo  as  alterações 
+climáticas, é possível elencar os manguezais entre os ecossistemas 
+mais ameaçados do mundo (RODRIGUES et al., 2020; ALONGI, 2002; 
+GIRI et al., 2007, 2011). A intensa pressão antrópica no ecossistema 
+costeiro,  com  a  introdução  indiscriminada  de  espécies  exóticas  no 
+ambiente  natural  ocasionou  um  desiquilíbrio  na  comunidade, 
+reduzindo  o  crescimento,  a  taxa  de  reprodução  das  plantas  e, 
+causando a perda das espécies presentes no local, influenciando na 
+competição,  composição  e  diversidade  do  ecossistema  (SANTOS, 
+2006). Entre os anos de 2016-2017 foi registrada uma bioinvasão de 
+mariposas da espécie Hyblaea puera (Cramer, 1777 - Lepidoptera), 
+ocasionando o desfolhamento maciço em uma área de 800 hectares 
+de  manguezal  em  Joinville.  Com  a  intensa  herbivoria,  muitos 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+indivíduos presentes na localidade sofreram danos irreversíveis em 
+toda extensão de sua copa, o que elevou a taxa de mortalidade da 
+população de L. racemosa (FRANÇA et al., 2020). 
+
+Em  mais  um  exemplo  de  pressão  antrópica  no  município, 
+destaca-se que as áreas de floresta plantada (silvicultura) tiveram um 
+aumento de 142% no período estudado. As plantações florestais têm 
+estado no meio de grandes controvérsias e continuam a despertar 
+acalorados debates quanto a seus impactos no meio ambiente. De 
+modo geral, criticam-se os efeitos sobre o solo (empobrecimento e 
+erosão),  a água  (impacto  sobre  a  umidade  do  solo,  os  aquíferos  e 
+lençóis 
+freáticos)  e  a  baixa  biodiversidade  observada  em 
+monoculturas  (VITAL,  2007).  Os  efeitos  ecológicos,  decorrentes  de 
+empreendimentos  florestais,  envolvem  principalmente  questões 
+relativas aos problemas de destruição de ecossistemas, manutenção 
+da biodiversidade, degradação de microbacias, diminuição do capital 
+de  nutrientes  do  solo,  desfiguração  da  paisagem,  entre  outros 
+(MENDES & LIMA, 2007). Destaca-se que as áreas mais expressivas de 
+silvicultura estão situadas à montante da principal área de captação 
+e tratamento de água potável do município, situada no Rio Cubatão. 
+Com relação às áreas agrícolas no município foi constado uma 
+diminuição das áreas de agricultura (-33%) e o aumento da classe de 
+pastagem  em  633%.  Ao  longo  do  período  estudado  houve  um 
+consequente  abandono  das  atividades  agrícolas  e  um  avanço  na 
+supressão  de  vegetação  nativa  nas  margens  do  perímetro  urbano 
+municipal.  A  retirada  de  vegetação  nativa,  o  abandono  das  áreas 
+agrícolas e a manutenção de áreas com vegetação herbácea na zona 
+rural  do  município  está  relacionada  com valorização  do  preço  dos 
+imóveis.  Essas  áreas  normalmente  são  alvo  de  implantação  de 
+condomínios  rurais  (condomínios  de  chácaras)  ou  possuem  um 
+tratamento  urbanístico  especial,  classificadas  como  de  expansão 
+urbana, de acordo com o zoneamento municipal (JOINVILLE, 2017).  
+A  classe  intitulada  água  teve  um  pequeno  aumento  de  2%, 
+podendo afetar de forma negativa as áreas de mangue, visto que o 
+manguezal é particularmente vulnerável ao processo de elevação do 
+nível  do  mar  (FIELD,  1995;  LOVELOCK  e  ELLISON,  2007;  FARACO, 
+ANGRETO-FILHO e LANA, 2010; GIRI et al., 2011). Contudo, o padrão 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+de resposta do manguezal à elevação do nível do mar é dependente 
+das  características  geográficas,  oceanográficas  e  ambientais,  nas 
+escalas local e regional (GILMAN et al., 2006), assim como, também, 
+da  capacidade  adaptativa  das  espécies  vegetais  do  manguezal 
+(ESPINOSA e FLORES, 2011). Ressalta-se que essa diferença de área 
+pode estar associada a própria hidrodinâmica estabelecida na baía 
+da Babitonga, como erosão da linha de costa ou mesmo diferenças 
+de  altura  de  maré  na  passagem  dos  sensores  imageadores  nas 
+distintas datas. 
+
+A  análise  estatística  indicou  diferença  significativa  para  o 
+tamanho dos fragmentos florestais entre os anos 1985 e 2019 (Tabela 
+5). Neste período houve uma supressão de 774 fragmentos e uma 
+redução  de  área  de  65,94  km².  Contudo,  em  uma  análise  mais 
+detalhada  das  classes  de  tamanhos  dos  fragmentos  (Tabela  6)  foi 
+identificado que somente os fragmentos com (i) área menor que 0,5 
+ha e (ii) área maior 5 e menor 100 ha possuem diferença significativa 
+(p<0,05)  entre  os  anos  de  1985  e  2019.  A  classe  de  tamanho  de 
+fragmento  florestal  que  mais  sofreu  supressão  foi  a  classe  (i) com 
+área  menor  que  0,5  ha,  com  uma  perda  de  653  fragmentos,  que 
+representa  84%  dos 
+florestais  suprimidos.  Os 
+florestais  com  área  superior  a  100  hectares 
+fragmentos 
+permaneceram  praticamente 
+longo  do  mesmo 
+período (1985 a 2019).  
+
+inalterados  ao 
+
+fragmentos 
+
+A área média dos fragmentos identificados em 2019 foi de 22,6 
+hectares, com uma diminuição no número total de manchas em 19%, 
+principalmente dos pequenos fragmentos (<0,5 ha). Neste sentido, 
+houve um aumento do tamanho médio das manchas que influenciou 
+na  redução  do  efeito  de  borda.  Entretanto,  houve  a  exclusão  das 
+manchas  florestais  menores,  o  que  contribuiu  para  um  aspecto 
+negativo  de  conectividade,  visto  que  os  fragmentos  menores 
+exerciam  um  papel  de  corredores  ecológicos  entre  os  fragmentos 
+maiores no município (FARIA e SANTOS, 2016).  
+
+Com  relação  as  métricas  de  borda,  a  transformação  da 
+estrutura florestal na borda destes fragmentos é também uma das 
+principais  consequências  do  processo  de  fragmentação  (MASSOLI; 
+STATELLA; SANTOS, 2016). Normalmente é visualizada uma diferença 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+entre as áreas de borda e as regiões mais interiores dos fragmentos, 
+com  uma  maior  riqueza  e  diversidade  de  espécies  nas  áreas  mais 
+distantes da borda em comparação às áreas marginais que, por sua 
+vez, apresentam menor diversidade e maior abundância de árvores 
+de espécies pioneiras e regenerantes (SILVA et al., 2019). Observa-se 
+ainda  alterações  abióticas  com  pronunciados  efeitos  sobre  o 
+microclima,  como  aumento  da  temperatura,  redução  da  umidade, 
+aumento  da  luminosidade,  aumento  da  exposição  aos  ventos  e 
+estresse  hídrico.  No  entanto,  espécies  oportunistas  podem 
+beneficiar-se dessas condições e aumentar a sua densidade nessas 
+áreas, passando a ser elemento de perturbação para a estrutura da 
+comunidade (VIDOLIN, et al., 2011). Com a redução do número de 
+pequenos fragmentos (<0,5 ha), as métricas de comprimento total do 
+perímetro  (borda)  e  densidade  de  borda  igualmente  diminuíram 
+(Tabela  3).  Deve  ser  ressaltado  que  foi  identificada  uma  diferença 
+significativa  (p<0,05)  das  métricas  de  perímetro  (borda)  e  relação 
+perímetro/área  dos fragmentos florestais entre  os  anos  de  1985  e 
+2019 (Tabela 6).  
+
+A  métrica  de  dimensão  fractal  (FD)  apresentou  diferença 
+significativa  (p<0,05)  ao  longo  do  período  estudado  (1985  a  2019) 
+indicando  uma  diminuição  na  complexidade  da 
+forma  dos 
+fragmentos  florestais  para  o  ano  de  2019.  O  indicador  médio  de 
+forma ponderado pela área (Tabela 4) igualmente apresentou uma 
+diminuição,  indicando  que  atualmente  os  fragmentos  possuem 
+morfologia com um menor efeito de borda e áreas maiores do que o 
+ano de 1985. 
+
+Por fim, o Plano Municipal de Conservação e Recuperação da 
+Mata Atlântica do município de Joinville - PMMA (PMJ, 2020) indicou 
+que serão adotadas algumas ações prioritárias no município, com a 
+intenção  de  manutenção  e  restauro  das  funções  ecológicas  dos 
+fragmentos  florestais  no  município.  O  supracitado  plano  indicou 
+como ações prioritárias o (i) levantamento de irregularidades e áreas 
+passíveis  de  restauro  em  Áreas  de  Preservação  Permanente,  (ii) 
+criação  de  áreas  verdes  urbanas, 
+(iii)  monitoramento  de 
+remanescentes  florestais,  (iv)  regulamentação  do  Zoneamento 
+Ecológico  Econômico,  (v)  criação  de  projeto  de  conservação  e 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+recuperação em corredores ecológicos e (vi) criação de unidades de 
+conservação. 
+
+ 
+
+Conclusão 
+
+ 
+Diante  das  análises  obtidas  por  meio  das  métricas  da 
+paisagem durante o período de 1985 e 2019, foi possível constatar 
+alterações  ecológicas  associadas  aos  fragmentos  florestais  no 
+município de Joinville, em que a classe de formação florestal diminuiu 
+à proporção que a classe de infraestrutura urbana expandiu em área 
+e  perímetro.  O  avanço  urbano 
+impactou  negativamente  a 
+biodiversidade  no  munícipio,  onde,  destaca-se  os  danos  causados 
+sobre  o  manguezal  com  redução  de  35%  da  área  do  ecossistema 
+costeiro.  Ressalta-se  que  os  manguezais  da  Baía  Babitonga 
+representam 75% do ecossistema de todo o estado de Santa Catarina 
+e encontram-se dentre os ecossistemas mais ameaçados do mundo. 
+Também, pôde-se observar que no período em questão (1985 
+a 2019) houve um crescente abandono das atividades agrícolas em 
+decorrência  da  valorização  dos  imóveis  que  foi  estimulado  pela 
+implantação de condomínios rurais e expansão do perímetro urbano. 
+No  mesmo  período ocorreu  a  supressão de  774  fragmentos 
+florestais no município, com uma redução de 65,94 km² de área, com 
+destaque  para  a  supressão  dos  pequenos  fragmentos  (com  área 
+menor que 0,5 ha) principalmente ao longo perímetro urbano e áreas 
+adjacentes.  Todavia,  os  fragmentos  arbóreos  com  área  superior  a 
+100 ha foram pouco impactados no mesmo período.  Desta maneira, 
+com a supressão dos pequenos fragmentos as métricas de paisagem 
+indicaram  (i)  uma  consequente  diminuição  do  efeito  de  borda,  (ii) 
+aumento  de  área  média  dos  fragmentos,  (iii)  fragmentos  com 
+morfologia menos complexa e (iv) diminuição da conectividade dos 
+fragmentos  florestais  em  decorrência  da  redução  dos  corredores 
+ecológicos. 
+
+Por  fim,  diante  do  cenário  de  perda  ecológica  ao  longo  do 
+período estudado (1985 a 2019) a Prefeitura Municipal de Joinville no 
+âmbito do Plano Municipal de Conservação e Recuperação da Mata 
+Atlântica  estabeleceu  ações  prioritárias,  com  a 
+intenção  de 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+manutenção  e  restauro  das  funções  ecológicas  dos  fragmentos 
+florestais no município. 
+
+ 
+
+Referências  
+ 
+
+ABREU,  K.  M.  P.;  COUTINHO,  L.  M.  Sensoriamento  remoto  aplicado  ao 
+estudo da vegetação com ênfase em índice de vegetação e métricas da 
+paisagem. Vértices, Campos dos Goytacazes/RJ, v.16, n.1, p. 173 - 198, 2014.  
+
+ALONGI, D. M. Present state and future of the world ́s mangroves forests. 
+Environmental Conservation, v. 29, n.03, p. 331 – 349, 2002.  
+
+AMORIM, A. T.; SOUSA, J. A. P. de; PIROLI, E. L. O uso das métricas de ecologia 
+da paisagem para análise dos padrões espaciais da Sub-bacia hidrográfica do 
+Ribeirão da Boa vista. Revista Formação (ONLINE), v. 28, n. 53, p. 625 – 642, 
+2021. 
+
+ANDERSSON, E. BARTHEL, S.; BORGSTRÖM, S.; COLDING, J.;  
+
+BORGES, G. de F.; RAJÃO, R. G. L. Projeto Radam: (Re)Descobrindo o Projeto 
+de Sensoriamento Remoto Aplicado ao Mapeamento da Amazônia. Revista 
+FSA, Teresina, v. 13, n. 6, p. 03 - 17, 2016. 
+
+ 
+
+BORGES, L. F. R.; SCOLFORO, J. R.; OLIVEIRA, A. D.; MELLO, J. M.; JUNIOR, F. W. 
+A.; FREITAS, G.D. Inventário de fragmentos florestais nativos e propostas para 
+seu manejo e o da paisagem. Cerne, Lavras, v. 10, n. 1, p. 22 - 38, 2004.  
+
+BRANCO,  A.  F.  V.  C.;  LIMA,  P.  V.  P.  S.;  FILHO, E.  S.  de M.;  COSTA,  B. M.  G.; 
+PEREIRA,  T.  P.  Avaliação  da  perda  da  biodiversidade  na  Mata  Atlântica. 
+Ciência Florestal, Santa Maria, v. 31, n. 4, p. 1885-1909, 2021.  
+
+CALEGARI, L.; MARTINS, S. V.; GLERIANI, J. M.; SILVA, E.; BUSATO, L. C. Análise 
+da dinâmica de fragmentos florestais no município de Carandaí, MG, para 
+fins de restauração florestal. Revista Árvore, Viçosa-MG, v.34, n.5, p. 871-
+880, 2010.    
+
+CHAVES,  H.  M.  L.;  SANTOS,  L.  B.  Ocupação  do  solo,  fragmentação  da 
+paisagem e qualidade da água em uma pequena bacia hidrográfica. Revista 
+Brasileira de Engenharia Agrícola e Ambiental, Campina Grande, v. 13, n. 
+Suplemento, p. 922-930, 2009.  
+
+ELMQVIST, T.; FOLKE, C.; GREN, A. Reconnecting Cities to the Biosphere: 
+Stewardship  of  Green  Infrastructure  and  Urban  Ecosystem  Services. 
+AMBIO, Stockholm, v. 43, n. 4, p. 445 - 453, 2014.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+ESPINOSA, L. Y.; FLORES, J. A Review of Sea-Level Rise Effect on Mangrove 
+Forest  Species:  Anatomical  and  Morphological  Modifications. 
+In: 
+CASALEGNO,  S.  Global  Warming  Impacts  -  Case  Studies  on  the  Economy, 
+Human Health, and on Urban and Natural Environments. InTech: London, 
+2011. p. 253-276. Disponível em: <http://dx.doi.org/10.5772/24662>. Acesso 
+em: 10 abril 2022. 
+
+FARACO, L. F. D.; ANDRIGUETTO-FILHO, J. M.; LANA, P. C. A methodology for 
+assessing the vulnerability of mangroves and fisherfolk to climate change. 
+Pan-American Journal of Aquatic Sciences, v. 5, n. 2, p. 205 - 223, 2010.  
+
+FARIA, K.M.S de; SANTOS, R. A. Análise espacial da densidade de fragmentos 
+remanescentes e da estrutura da paisagem na sub-bacia do Rio Caiapó – GO. 
+Ateliê Geográfico, Goiânia-GO, v. 10, n. 2, p. 115-127, 2016.  
+
+FERNANDES, W. A. A.; PIMENTEL, M. A. S. Dinâmica da paisagem no entorno 
+da  Resex  Marinha  de  São  João  da  Ponta/PA:  Utilização  de  métricas  e 
+geoprocessamento. Caminhos de Geografia, Uberlândia, v. 20, n. 72, p. 326 
+– 344, 2019. 
+
+FERREIRA, I. J. M; BRAGA, G. da R.; FERREIRA, J. H. D.; BENEDITO, E.; COUTO, E. 
+V. Landscape pattern changes over 25 years across  a hotspot zone in 
+southern Brazil, Southern Forests, v. 81, n. 2, p. 175-184, 2019. 
+
+FIELD, C. Impacts of expected climate change on mangroves. Hydrobiologia, 
+v. 295, p. 75 - 81, 1995.  
+
+FIRMINO,  R.  G.;  FONSECA,  M.  B.  Uma  Visão  Econômica  dos  Impactos 
+Ambientais Causados pela Expansão da Agricultura. R. Econ. e Adm. Campo 
+Grande, MS, v. 9, n. 18, p. 32-48, 2008. 
+
+ 
+
+FRANÇA, B. S.; MELO JR., J. C. F.; SANT'ANNA-SANTOS, B. F. Padrão temporal 
+de herbivoria e defesas antiherbivoria em população natural de Laguncularia 
+racemosa (Combretaceae) em manguezal predado maciçamente por Hyblaea 
+puera (Lepidoptera). Revista Brasileira de Geografia Física, Recife, v. 13, n. 
+07, p. 3151-3158, 2020.  
+
+GILMAN, E. L.; ELLISON, J.; JUNGBLUT, V.; LAVIEREN, H. V.; WILSON, L.; AREKI, 
+F.;  BRIGHOUSE,  G.;  BUNGITAK,  J.;  DUS,  E.;  HENRY,  M.;  KILMAN,  M.; 
+MATTHEWS, E.; SAUNI JR., I.; TEARIKI-RUATU, N.; TUKIA, S.; YUKNAVAGE, K. 
+Adapting to Pacific Island mangrove responses to sea level rise and climate 
+change. Climate Research, v. 32, p, 161–176, 2006.  
+
+GIRI, C.; OCHIENG, E.; TIESZEN, L. L.; ZHU, Z.; SINGH, A.; LOVELAND, T.; MASEK, 
+J.; DUKE, N. Status and distribution of mangrove forests of the world using 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+earth observation satellite data. Global Ecology and Biogeography, v. 20, n. 
+1, p. 154 – 159, 2011.  
+
+GIRI, C.; PENGRA, B; ZHU, Z.; SINGH, A.; TIESZEN, L. L. Monitoring mangrove 
+forest  dynamics  of  the  sundarbans  in  Bangladesh  and  India  using  multi-
+temporal  satellite  data  from  1973  to  2000.  Estuarine,  Coastal  and  Shelf 
+Science, v. 73, n. 1-2, p. 91 – 100, 2007. 
+
+ 
+
+ 
+
+IBGE  -  INSTITUTO  BRASILEIRO  DE  GEOGRAFIA  E  ESTATÍSTICA.  Cidades. 
+Disponível  em:  <  https://cidades.ibge.gov.br/brasil/sc/joinville/panorama>. 
+Acesso em: 11 abril 2022.  
+
+INÁCIO, D. R.; BARBOZA, D. V.; BRUNO, S. F.. Sensoriamento Remoto e uso e 
+Cobertura  da  Terra:  Uma  Revisão  sobre  Monitoramento.  Revista  FSA, 
+Teresina, v. 17, n. 11, p. 263 - 277, 2020.  
+
+JOINVILLE. Lei complementar nº 470, de 09 de janeiro de 2017. Redefine e 
+institui,  respectivamente,  os  Instrumentos  de  Controle  Urbanístico  - 
+Estruturação  e  Ordenamento  Territorial  do  Município  de  Joinville,  partes 
+integrantes do Plano Diretor de Desenvolvimento Sustentável do Município 
+de Joinville e dá outras providências. 
+
+JOINVILLE.  SECRETARIA  DE  AGRICULTURA  E  MEIO  AMBIENTE.  Plano 
+municipal de conservação e recuperação da Mata Atlântica de Joinville. 
+Joinville, 2020. 94 - 95 p. 
+
+LAWLEY, V.; LEWIS, M.; CLARKE, K.; OSTENDORF, B. Site-based and remote 
+sensing  methods  for  monitoring  indicators  of  vegetation  condition:  An 
+Australian review. Ecological Indicators, Coimbra, v. 60, p. 1273 - 1283, 2016.  
+
+LOVELOCK, C. E.; ELLISON, J. Vulnerability of mangroves and tidal wetlands of 
+the Great Barrier Reef to climate change. In:  JOHNSON, J. E.; MARSHALL, P. 
+A.  Climate  change  and  the  Great  Barrier  Reef:  a  vulnerability  assessment. 
+Great  Barrier  Reef  Marine  Park  Authority:  Townsville,  2007.  p.  237-269. 
+Disponível em: < http://hdl.handle.net/11017/542>. Acesso em: 4 abril 2022. 
+
+MapBiomas.  O  projeto.  2019.  Disponível  em:  <https://mapbiomas.org/o-
+projeto>. Acesso em: 16 maio 2020.  
+
+MASSOLI,  E.  V.  J.;  STATELLA,  T.;  SANTOS,  V.  S.  Estimativa  da  fragmentação 
+florestal na microbacia Sepotubinha, Nova Marilândia - MT, entre os anos de 
+1990 a 2014. Caminhos de Geografia, Uberlândia, v. 17, n. 60, p. 480 - 60, 
+2016.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+MCGARIGAL, K.; ENE, E. Fragstats. A Spatial Pattern Analysis Program for 
+Categorical Maps. Version 4.2., 2015.  
+
+MENDES, C. A. B.; LIMA, W. de P. Análise de impactos ambientais de florestas 
+plantadas,  no  contexto  de  bacias  hidrográficas:  princípios  norteadores. 
+Anais I Seminário de Recursos Hídricos da Bacia Hidrográfica do Paraíba do 
+Sul: o Eucalipto e o Ciclo Hidrológico, Taubaté, Brasil, p. 263-270, 2007. 
+
+ NETO,  A.  M.;  BATISTA,  L.  M.;  SOUSA,  M.  C.;  FREITAS,  K.  M.;  ARAÚJO,  S.  R. 
+Sensoriamento  Remoto  na  Análise  de  Variáveis  Ambientais  Influenciadas 
+pela  Implantação  da  Usina  Hidrelétrica  de  Belo  Monte  (PA).  Caderno  de 
+Geografia, v. 31, n. 66, p. 823 – 841, 2021. 
+
+PMJ  -  PREFEITURA  MUNICIPAL  DE  JOINVILLE.  Joinville  Cidade  em  Dados. 
+Joinville, 2020. 06 p. 
+
+PMJ  -  PREFEITURA  MUNICIPAL  DE  JOINVILLE.  Qualidade  ambiental  em 
+Joinville: Sua ação faz diferença! Joinville, 2011. 08 p. 
+
+REMPEL,  R.S.,  D.  K;  CARR.  A.P.    Patch  Analyst  and  Patch  Grid.  Ontario 
+Ministry  of  Natural  Resources.  Centre  for  Northern  Forest  Ecosystem 
+Research, Thunder Bay, Ontario. Version 5.2.0.16, 2015.  
+
+RODRIGUES, S. W. P.; FILHO, P. W. M. e Souza. Detecção de  Mudanças no 
+Manguezal ao Longo do Estuário do Rio Coreaú, Nordeste do Brasil a partir 
+da  Classificação  Orientada  a  Objeto  em  Imagens  Orbitais.  Anuário  do 
+Instituto de Geociências – UFRJ, v. 43, n. 3, p. 158 - 169, 2020.  
+
+SAFAR, N. V. H.; MAGNAGO, L. F. S.; SCHAEFER, C. E. G. R. Resilience of lowland 
+Atlantic forests in a highly fragmented landscape: insights on the temporal 
+scale  of 
+landscape  restoration.  Forest  Ecology  and  Management, 
+Amsterdam, v. 470, n. 118183, p. 1 - 10, 2020. 
+
+SANTOS, I. V. Estudo das interações planta-herbívoros em Laguncularia 
+racemosa  (L.)  Gartten  (Combretaceae)  no  manguezal  de  Maracaípe, 
+Ipojuca,  PE.  Mestrado  em  Biologia  Vegetal  –  Universidade  Federal  de 
+Pernambuco, Recife, 2006. 
+
+SCARANO, F. R.; CEOTTO, P. Brazilian Atlantic forest: impact, vulnerability, and 
+adaptation to climate change. Biodiversity and Conservation, London, v. 
+24, p. 2319 - 2331, 2015.  
+
+SILVA, A. Leite; LONGO, R. M.; BRESSANE, A.; CARVALHO, M. F. H. Classificação 
+de  fragmentos  florestais  urbanos  com  base  em  métricas  da  paisagem. 
+Ciência Florestal, Santa Maria, v. 29, n. 3, p. 1254 - 1269, 2019.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+Fundação SOS Mata Atlântica. Atlas dos remanescentes florestais da Mata 
+Atlântica:  período  2019/2020,  relatório  técnico.  Fundação  SOS  Mata 
+Atlântica  /  Instituto  Nacional  de  Pesquisas  Espaciais  –  INPE.  –  São  Paulo  : 
+Fundação SOS Mata Atlântica, 2021. 73 p.  
+
+SOUSA, W. L.; IRFFI, G.; ASEVEDO, M. D. G. de A. Deforestation of the Atlantic 
+Forest  in  the  state  of  Ceará:  analysis  of  the  Environmental  Kuznets  Curve 
+from panel data, 2011 to 2017. Revista de Economia e Sociologia Rural, v. 
+60(1), n. e229884. p. 1 – 18, 2022.  
+
+ 
+
+THIAGO,  C.  R.  L.;  MAGALHÃES,  I.  A.  L.;  SANTOS,  A.R.  Identificação  de 
+Fragmentos  Florestais  Potencias  para  a  delimitação  de  Corredores 
+Ecológicos na bacia hidrográfica do Rio Itapemirim, ES por meio técnicas de 
+Sensoriamento Remoto. Revista Brasileira de Geografia Física, v.13, n.02, 
+p. 595 - 612, 2020.  
+
+VIDOLIN,  G.  P.;  BIONDI,  D.  WANDEMBRUCK,  A.  Análise  da  estrutura  da 
+paisagem  de  um  remanescente  de  floresta  com  araucária,  Paraná,  Brasil. 
+Revista Árvore, Viçosa - MG, v.35, n.3, p. 515 - 525, 2011.  
+
+VITAL,  M.  H.  F.  Impacto  Ambiental  de  Florestas  de  Eucalipto.  Revista  do 
+BNDES, Rio de Janeiro, v. 14, n. 28, p. 235-276, 2007.  
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+Análise espaço-temporal dos remanescentes da cobertura vegetal da Mata Atlântica em um município 
+costeiro no sul do Brasil 
+
+   Luana Caroline Neitzel .  Celso Voos Vieira 
+
+Publisher 
+
+Federal  de  Goiás. 
+
+Instituto  de  Estudos 
+Universidade 
+Socioambientais.  Programa  de  Pós-graduação  em  Geografia. 
+Publicação no Portal de Periódicos UFG. 
+As  ideias  expressadas  neste  artigo  são  de  responsabilidade  de 
+seus autores, não representando, necessariamente, a opinião dos 
+editores ou da universidade. 
+
+ 
+
+Contribuições dos autores 
+
+ Todos  os  autores  ofereceram  substanciais  contribuições  científicas  e 
+intelectuais  ao  estudo.  As  tarefas  de  concepção  e  design  do  estudo, 
+preparação e redação do manuscrito, bem como, revisão crítica foram 
+desenvolvidas em grupo. A primeira autora Luana Caroline Neitzel ficou 
+especialmente 
+responsável  pela  aquisição  de  dados  e  suas 
+interpretações  e  análise.  O  segundo  autor  Celso  Voos  Vieira  ficou 
+responsável pelo desenvolvimento teórico-conceitual, análise estatística 
+e interpretações dos resultados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Luana Caroline Neitzel, Agente de defesa ambiental da empresa 
+Cubatão  Pesquisas;  Bacharela  em  Ciências  Biológicas  -  Meio 
+Ambiente e Biodiversidade na Universidade da Região de Joinville - 
+Univille. Mestranda em Saúde e Meio Ambiente na Universidade da 
+Região de Joinville – Univille. 
+ 
+Celso Voos Vieira, Possui Graduação em Geografia com Mestrado 
+e  Doutorado  em  Geografia  pela  Universidade  Federal  de  Santa 
+Catarina - UFSC, área de concentração em Utilização e Conservação 
+de  Recursos  Naturais  na  linha  de  pesquisa  em  Oceanografia 
+Costeira e Geologia Marinha. Atua como docente e pesquisador na 
+Universidade  da  Região  de  Joinville  (UNIVILLE)  no  curso  de  Pós-
+Graduação em Saúde e Meio Ambiente e nos curso de graduação 
+de Engenharia Ambiental e Sanitária, Biologia e Biologia Marinha, 
+Engenharia Civil, Arquitetura. Destaca-se a experiência na área das 
+Geociências, com ênfase em Geografia Física e Geologia Costeira, 
+atuando  principalmente  nos  seguintes 
+temas:  Geologia  e 
+Geomorfologia  Costeira,  Sensoriamento  Remoto,  Cartografia, 
+Geoprocessamento e Sistemas de Informações Geográficas.  
+ 
+ 
+
+ 
+ 
+
+ 
+Data de recebimento: 15 de julho de 2022 
+Aceite: 17 de juho de 2023 
+Publicação: 20 de outubro de 2023 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73217 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

@@ -1,0 +1,1702 @@
+A toponímia oficial e paralela na 
+nomeação de praças de Cuiabá/MT
+
+The Official and parallel toponymy in the naming of 
+squares in Cuiabá/MT
+
+La toponimia oficial y paralela en la denominación de 
+plazas en Cuiabá/MT
+
+Soeli Bento Clementi
+Doutoranda em Estudos de Linguagens pela Universidade Federal de Mato Grosso do 
+Sul (UFMS), Campo Grande, Mato Grosso do Sul, Brasil
+soeli_bentoclement@yahoo.com.br
+
+Aparecida Negri Isquerdo
+Pesquisadora Sênior na Universidade Federal de Mato Grosso do Sul (UFMS), Campo 
+Grande, Mato Grosso do Sul, Brasil
+aparecida.isquerdo@ufms.br
+
+Resumo: Este trabalho discute resultados de um estudo sobre as 
+toponímias oficial e paralela de 65 praças de Cuiabá/MT, localiza-
+das na região mais antiga da cidade, quanto à taxionomia, estru-
+tura morfológica e língua de origem (DICK, 1990, 1992). O estudo 
+aponta que a toponímia oficial das praças é composta essencial-
+mente  por  antropotopônimos  e  axiotopônimos  com  80,95%  de 
+registros,  o  que  revela  influências  das  forças  políticas,  militares, 
+religiosas e econômicas na denominação, enquanto a toponímia 
+paralela não evidencia destaques significativos, pois, dos 65 topô-
+nimos analisados, 53,30% possuem topônimos paralelos distribuí-
+dos em 14 categorias taxionômicas, sendo a dos sociotopônimos a 
+taxe mais produtiva (26,47%). 
+Palavras-chave: léxico; toponímia; onomástica; Cuiabá; praça.
+
+Abstract: This work discusses the results of a study on the offi-
+cial and parallel toponyms of 65 squares in Cuiabá/MT, located in 
+the oldest region of the city, in terms of taxonomy, morphologi-
+cal structure and language of origin (DICK, 1990, 1992). The study 
+points out that the official toponymy of the squares is essentially 
+composed of anthropotoponyms and axiotoponyms with 80.95% 
+of records, which reveals influences of political, military, religious 
+and  economic  forces  in  the  denomination,  while  the  parallel  to-
+ponymy does not show significant highlights, since, of the 65 to-
+ponyms analyzed, 53.30% have parallel toponyms distributed in 14 
+taxonomic categories, with sociotoponyms being the most produc-
+tive taxe (26.47%).
+Keywords: lexicon; toponymy; onomastic; Cuiabá; praça.
+
+Resumen: Este trabajo discute los resultados de un estudio sobre 
+los topónimos oficiales y paralelos de 65 plazas en Cuiabá/MT, ubi-
+cada en la región más antigua de la ciudad, en términos de taxono-
+mía, estructura morfológica y lengua de origen (DICK, 1990, 1992). 
+El estudio señala que la toponimia oficial de las plazas está com-
+puesta  esencialmente  por  antropotopónimos  y  axiotopónimos 
+con un 80,95% de registros, lo que revela influencias de fuerzas 
+políticas,  militares,  religiosas  y  económicas  en  la  denominación, 
+mientras que la toponimia paralela no presenta destaques signi-
+ficativos, ya que , de los 65 topónimos analizados, el 53,30% tiene 
+topónimos  paralelos  distribuidos  en  14  categorías  taxonómicas, 
+siendo los sociotopónimos el impuesto más productivo (26,47%).
+Palabras clave: léxico; toponímia; onomástico; Cuiabá; cuadrado.
+
+Submetido em 12 de setembro de 2022.
+Aceito em 24 de janeiro de 2023.
+Publicado em 14 de abril de 2023.
+
+Introdução
+
+Por meio da linguagem, o homem desenvolve a aptidão para 
+simbolizar que, no dizer de Benveniste (1991, p. 64, grifo do autor), 
+é “a capacidade de formular e de interpretar um ‘signo’ que remete 
+a uma certa ‘realidade’, a memória da experiência e a aptidão para 
+decompô-la”. A língua é resultado da interação social e, ao permitir 
+ao homem materializar seu pensamento, reflete a representação 
+do mundo em que ele vive. Nesse sentido, “o caráter da língua é 
+o  de  propiciar  um  substituto  da  experiência  que  seja  adequado 
+para ser transmitido sem fim no tempo e no espaço” (BENVENISTE, 
+1991, p. 65). Nesse contexto, na aquisição de uma linguagem, ad-
+quire-se, também, a tradição, os costumes, o fazer material e ima-
+terial, a história e todas as conquistas do grupo ao qual o falante/
+usuário está inserido.
+
+Particularmente, o léxico traduz a relação da língua com a so-
+ciedade e com a cultura dessa mesma sociedade. Conforme Bider-
+man (1998, p. 91), “o léxico de uma língua constitui uma forma de 
+registrar o conhecimento do universo”. Sendo o conhecimento um 
+processo constante de mudanças que se reflete na língua, o nível le-
+xical é o que mais claramente absorve os aspectos socioculturais de 
+uma comunidade. Nesse particular, Isquerdo e Oliveira (2001, p. 9) 
+asseveram que o léxico “constitui-se no acervo do saber vocabular 
+de um grupo sócio-linguístico-cultural [e, desse modo,] representa a 
+janela através da qual uma comunidade pode ver o mundo”.
+
+Nesse sentido, à medida que os grupos sociais vão modifican-
+do os seus anseios, o modo de pensar, agir e sentir, ou seja, con-
+forme os seus valores vão sendo modificados, envoltos na cultura, 
+o acervo lexical desse grupo também tende a sofrer modificações 
+(ajustes/trocas), considerando-se que o léxico de uma língua é tes-
+temunho de que o falante pertence a um grupo maior de pessoas 
+que exercem atividades comuns, utilizam uma gama de recursos 
+comunicativos disponíveis a esse grupo.
+
+Em razão disso, em termos científicos, o léxico de uma língua 
+pode ser estudado pela Lexicologia, que tem como objeto de es-
+
+tudo  a  palavra,  a  categorização  e  a  estruturação  do  léxico;  pela 
+Lexicografia, que se ocupa do tratamento lexicográfico do acervo 
+vocabular  da  língua;  pela  Terminologia,  que  estuda  as  unidades 
+lexicais  específicas  das  áreas  de  especialidades,  os  termos;  pela 
+Fraseologia,  que  analisa  as  unidades  complexas,  tanto  no  voca-
+bulário comum quanto do de especialidade. Além disso, na esfera 
+dos estudos lexicais, situa-se também a Onomástica, ciência que 
+tem como objeto de estudo os nomes próprios de uma língua, des-
+dobrando-se em diferentes subáreas, dentre as quais a Antroponí-
+mia, que estuda os nomes próprios de pessoas e a Toponímia, que 
+se ocupa dos nomes próprios de lugar (DICK, 1992, p. 16).
+
+ Este trabalho tem como objetivo analisar a toponímia oficial 
+e paralela que nomeia 65 praças da cidade de Cuiabá, capital de 
+Mato Grosso, localizadas na região mais antiga da cidade, no que 
+diz respeito à língua de origem, à motivação (categorias taxionômi-
+cas), a possíveis causas denominativas e à estrutura morfológica 
+(DICK, 1990, 1992, 1997), bem como observar possíveis mudanças 
+ocorridas na denominação das praças selecionadas, da fundação 
+da cidade de Cuiabá aos dias atuais.
+
+Este trabalho se insere no ramo da Onomástica, uma ciência 
+do  século  XIX,  subárea  Toponímia,  vinculada  à  Linguística,  que 
+possui relações estritas com a Lexicologia, a Lexicografia, a Morfo-
+logia, a Semântica, a Geografia, a História, a Antropologia, dentre 
+outros ramos do saber. De acordo com Isquerdo (2008, p. 36-37), 
+o topônimo pode ser estudado pelo viés linguístico, quando são 
+abordados os aspectos da classificação taxionômica; da etimolo-
+gia; da estrutura do sintagma toponímico; da língua de origem e 
+pelo viés extralinguístico, quando considerados na análise fatores 
+do ambiente sociocultural.
+
+ O nome próprio, na função de topônimo, é um signo de língua, 
+não  totalmente  arbitrário,  conforme  os  postulados  de  Saussure 
+(2012), mas com traços motivacionais, à medida que transparece 
+
+Pressupostos teóricos
+
+tanto aspectos geográficos quanto da cultura material e imaterial 
+do espaço nomeado. Segundo Dick (1990, p. 34),
+
+[...] ainda que, na língua, o signo participe, genericamen-
+te, de uma natureza convencional de significação, ao se 
+aplicar o mesmo princípio à Toponímia notar-se-á uma 
+diversidade de aspecto: o elemento linguístico comum, 
+revestido, aqui, de função onomástica ou identificadora 
+de  lugares,  integra  um  processo  relacionante  de  moti-
+vação onde, muitas vezes, se torna possível deduzir co-
+nexões hábeis entre o nome propriamente dito e a área 
+por ele designada.
+
+Há que se considerar ainda que o topônimo é uma unidade le-
+xical advinda do léxico comum da língua que, ao nomear um lugar, 
+é dotado de um significado particular e que, de acordo com sua 
+carga semântica, pode ser classificado em categorias distintas, no 
+caso, em taxionomias toponímicas que se associam ao universo 
+natural ou sociocultural.
+
+O estatuto do nome próprio tem despertado o interesse de 
+estudiosos  desde  épocas  remotas.  Conforme  Amaral  e  Seide 
+(2020, p. 39), “historicamente, os nomes próprios têm maior peso 
+nos estudos de áreas diferentes da Linguística”, por exemplo, na 
+área da Psicologia, da Psicopedagogia, da História e da Antropo-
+logia, entre outras.
+
+A Toponímia teve os seus estudos pioneiros na França com 
+Longnon,  por  volta  de  1878,  ao  estudar  os  nomes  próprios  de 
+lugares  de  forma  regular.  Dauzat  (1926,  1946),  por  sua  vez,  in-
+fluenciado pelos estudos de Longnon, ampliou as pesquisas em 
+Toponímia, na França, contribuindo para a consolidação da disci-
+plina ao publicar diversas obras sobre o assunto, dentre outras, 
+La Toponymie Française (1946) e Les noms de lieux: origine et évolu-
+tion, villes et villages, pays, cours d’eau, montagnes, lieux-dits (1926), 
+obras significativas para a divulgação dos estudos em Onomásti-
+ca e para a expansão de pesquisas, particularmente as voltadas 
+para a Toponímia. 
+
+No  Brasil,  contemporaneamente,  destacam-se  as  contribui-
+ções  de  Dick  (1990,  1992).  Inicialmente,  a  Toponímia,  “tinha  seu 
+interesse  centrado  mais  nas  línguas  da  terra,  especialmente  no 
+tupi antigo, do que no próprio elenco denominativo do português” 
+(DICK, 2006, p. 94), já que as primeiras investigações sobre os no-
+mes de lugares se deram a partir de Sampaio (1901), com a obra 
+O Tupi na Geografia Nacional, que versa sobre a influência indígena 
+tupi na toponímia brasileira. Na cronologia dos estudos toponími-
+cos pioneiros no Brasil, destacam-se também as obras de Cardoso 
+(1961), com Toponímia Brasílica e de Drumond (1965), com a Con-
+tribuição do Bororo à toponímia brasílica que, apesar de manterem 
+como objeto de interesse as línguas da terra, ampliam o elenco de 
+línguas indígenas que não o tupi em seus estudos investigativos. 
+Drumond (1965) pesquisou os nomes de lugares provenientes do 
+Bororo, enquanto Cardoso (1961) estudou a toponímia dos povos 
+Caribe e Aruaque em termos de etimologia e de significados.
+
+Todavia, foi com a Tese de Doutorado de Dick (1980)1 que os 
+estudos toponímicos foram impulsionados e direcionados para 
+a formatação em que se encontram no estágio atual. A toponi-
+mista brasileira elaborou um modelo taxionômico para subsidiar 
+a  classificação  dos  topônimos  quanto  à  motivação,  contendo, 
+inicialmente, 19 taxes, concebidas com base em motivações to-
+ponímicas  identificadas  no  seu  corpus  de  estudo  formado  com 
+topônimos brasileiros.
+
+Todavia, conforme expõe Dick (1992, p. 27) na Tese, “era difícil 
+abranger, de plano, nas 19 taxionomias primitivas, todas as possi-
+bilidades contidas na nomenclatura geográfica brasileira”. Assim, 
+Dick (1992) reformula o seu modelo teórico, que passou a englo-
+bar 27 taxionomias permanecendo a divisão em Taxionomias de 
+Natureza Física2 reveladoras dos aspectos do mundo natural – hi-
+drografia, fauna, flora, relevo, localização etc. – e Taxionomias de 
+Natureza Antropocultural3 que descortinam aspectos sociais, his-
+tóricos e culturais, estado emocional, sentimentos, nomes de pes-
+soas, lugares, títulos etc.
+
+1 A motivação toponímica e a realidade brasileira. Princípios teóricos e modelos taxionômicos (1980), publicada em 1990 com o 
+título de A motivação toponímica e a realidade brasileira.
+2  Astrotopônimos,  Cardinotopônimos,  Cromotopônimos,  Dimensiotopônimos;  Fitotopônimos;  Geomorfotopônimos;  Hidro-
+topônimos; Litotopônimos; Meteorotopônimos; Morfotopônimos; Zootopônimos (DICK, 1992).
+3 Animotopônimos (ou Nootopônimos), Antropotopônimos, Axiotopônimos, Corotopônimos, Cronotopônimos, Ecotopônimos, 
+Ergotopônimos,  Etnotopônimos,  Dirrematotopônimos,  Hierotopônimos:  (Hagiotopônimos,  Mitotopônimos),  Historiotopôni-
+mos, Hodotopônimos, Numerotopônimos, Poliotopônimos, Sociotopônimos, Somatotopônimos (DICK, 1992).
+
+De acordo com a toponimista, “nomes cuja origem revela uma 
+filiação a elementos vegetais ou minerais foram denominados fito-
+topônimos e litotopônimos, respectivamente” (DICK, 1990, p. 26). 
+A taxe dos Zootopônimos, por exemplo, pertence à Taxionomia de 
+Natureza Física e se aplica a nomes de lugares, montanhas, cordi-
+lheiras, rios etc., motivados por nomes de animais como boi – Rio 
+do Boi (MG); onça – Lagoa da Onça (RJ); cobra – Cascavel (PR); caititu 
+– Córrego Caititu (Nobres - MT); porcas – Ribeirão das Porcas (No-
+bres - MT), dentre outros.
+
+Os  antropotopônimos,  por  seu  turno,  integram  as  Taxiono-
+mias de Natureza Antropocultural que abrigam nomes de pessoas 
+que nomeiam lugares como rios, montanhas, cidades, praças, ruas 
+etc., como ocorre com Cáceres (Mato Grosso); João Pessoa (Paraí-
+ba); Rio Arinos (Nobres - MT); Rua Getúlio Vargas (Cuiabá - MT); Pra-
+ça Moreira Cabral (Cuiabá - MT), dentre outros.
+
+O sintagma toponímico, conforme Dick (1990, p. 10), resulta 
+da soma do elemento genérico (geográfico) que recebe a denomi-
+nação e o elemento específico (topônimo) que particulariza e iden-
+tifica o espaço como é possível observar em casos de nomes de 
+praças de Cuiabá, como Praça da República, Praça Conde de Azam-
+buja, Praça Moreira Cabral etc.
+
+A fonte de dados na pesquisa toponímica: o caso da topo-
+nímia paralela
+
+A  Toponímia  fixou-se  como  estudo  dos  nomes  próprios  de 
+lugar, com a atenção voltada para as propriedades etimológicas 
+dos nomes. Considerando que o nome próprio possui muitas in-
+tercorrências  para  muito  além  de  nome  de  lugar,  a  Toponímia 
+expandiu-se e abriga o estudo de uma gama diversificada de no-
+mes de lugares como objeto de estudo. Além do nome próprio de 
+lugar de qualquer origem, ocupa-se também de nomes de edifí-
+
+cios, de fontes, chafarizes, lojas, praças, símbolos de uma comu-
+nidade, dentre outros.
+
+Em decorrência da ampliação de concepção do objeto, expan-
+dem-se também as fontes de dados dessa disciplina e, “ao alar-
+garem-se  as  possibilidades  de  coletas  de  dados  onomásticos,  o 
+trabalho de campo se inscreve dentre os pontos possíveis de uti-
+lização” (DICK, 2006, p. 97). Assim, a par das cartas topográficas e 
+dos mapas, dentre os quais os oficiais fornecidos pelo IBGE (Insti-
+tuto Brasileiro de Geografia e Estatística), fontes primárias para as 
+pesquisas toponímicas, os estudos toponímicos podem ter como 
+fontes também dados orais obtidos por meio de entrevistas. Trata-
+-se da toponímia paralela não registrada em documentos oficiais, 
+cujo registro exige a busca de dados por meio também de consulta 
+a documentos fornecidos pelos órgãos oficiais, obras históricas e 
+especialmente entrevistas com pessoas que residem nas proximi-
+dades do espaço geográfico em estudo. Segundo Dick (1990, p. 49),
+
+[...]  há  um  consenso  unânime  entre  os  toponimistas  de 
+pesquisar  as  origens  da  denominação  em  duas  fontes 
+principais,  uma,  reputada  espontânea  ou  popular,  sem 
+uma autoria identificável à primeira vista, porque nascida 
+no seio da população e não individualizada; e, outra, co-
+nhecida como sistemática ou oficial, atribuída aos desco-
+bridores, aos dirigentes ou ao poder de mando, legitima-
+mente constituído, ou não.
+
+  Viera  (2000),  por  sua  vez,  considera  a  nomeação  paralela 
+como a que congrega topônimos que, embora à margem de do-
+cumentos oficiais, permanecem vivos, denominando lugares, po-
+voados, vilas, rios e, no caso do objeto deste estudo, as praças, 
+convivendo, ora pacificamente com a toponímia oficial, ora substi-
+tuindo-a. Topônimos dessa natureza têm como único recurso para 
+sua permanência o uso diário no âmbito de uma comunidade. Por 
+não ter documentação escrita, é uma toponímia sujeita ao desapa-
+
+recimento e, com o distanciamento no tempo, as motivações que 
+originaram o topônimo tendem a perder-se no tempo.
+
+A perpetuação da toponímia paralela depende muito da me-
+mória coletiva dos habitantes da localidade, também com a possi-
+bilidade de desaparecimento, com as mudanças de gerações e de 
+interesses, o que aponta para a importância de pesquisas sobre 
+topônimos  dessa  categoria.  O  signo  toponímico  perde,  assim,  a 
+transparência quando há mudanças no núcleo de usuários.
+
+No caso deste estudo, considera-se necessário o levantamen-
+to, o estudo e a análise semântica da toponímia paralela que no-
+meia praças de Cuiabá por ser ela, em muitos casos, a mais dis-
+seminada ou, até mesmo, a única conhecida pelos moradores da 
+cidade.
+
+A cidade de Cuiabá – questões históricas 
+
+Cuiabá é a capital de Mato Grosso, estado que se localiza na 
+
+região Centro-Oeste do Brasil (Figura 1).
+
+Figura 1 – Mapa da cidade de Cuiabá em diferentes representações.
+
+Fonte: Elaborado pelas autoras.
+
+A cidade de Cuiabá e os doze municípios que surgiram às mar-
+gens  do  rio  Cuiabá  e  de  seus afluentes  integram  à  denominada 
+Baixada Cuiabana, Planície de Cuiabá ou Vale do Cuiabá e apresen-
+
+tam características etnolinguístico-culturais similares que se man-
+tiveram até a segunda metade do século XX. 
+
+O processo de formação de Cuiabá se deu em consequência 
+do movimento desbravador das Bandeiras paulistas com o intuito 
+de solucionar duas carências econômicas das regiões litorâneas do 
+país: serviço (mão-de-obra escrava) e produtos (pedras preciosas). 
+O povoamento das terras brasileiras, em um primeiro momento, 
+ocorreu na faixa litorânea, ficando o seu interior ocupado por co-
+munidades indígenas de diversas etnias. Nessa conjuntura, Cuiabá 
+e toda a região central do Brasil, mesmo após o descobrimento, per-
+maneceram isoladas das demais áreas do país por quase 300 anos. 
+As minas de ouro na região de Cuiabá motivaram o início de 
+seu povoamento por pessoas de diversas regiões da então Colô-
+nia, entretanto, conforme Holanda (1976, p. 56), “o ouro cuiabano 
+começara a perder muito do prestígio tão rapidamente conquista-
+do. As minas só eram opulentas na superfície e nada se fizera para 
+melhorar os processos empregados em sua exploração”. Quando 
+do esgotamento das minas, a região já estava povoada por povos 
+de etnias distintas como africanos escravizados, povos indígenas e 
+o branco vindo de outras localidades do país.
+
+A cidade apresenta, nos dias atuais, uma densidade demográ-
+fica de 618.124 habitantes, distribuídos em uma área territorial de 
+3.291,696km² e está localizada à margem direita do rio do mesmo 
+nome que foi a rota das bandeiras paulistas, o primeiro caminho 
+fluvial entre São Paulo e Mato Grosso.
+
+A área urbana da cidade de Cuiabá está subdividida em locali-
+dades (loteamentos regulares, loteamentos clandestinos, assenta-
+mentos  informais,  núcleos  habitacionais,  condomínios,  desmem-
+bramentos) contidas em 117 bairros (IPDU, 2010). Este trabalho tem 
+como objetivo o estudo dos nomes oficiais e paralelos de 65 praças 
+distribuídas por 15 bairros da capital, examinando aspectos como 
+a motivação, a estrutura morfológica, a língua de origem e a causa 
+denominativa, pautando-se, para tanto, em Dick (1990, 1992). O cor-
+pus analisado contempla os topônimos que nomeiam os ambientes 
+
+Análise e discussão dos dados
+
+de praças situados na região mais antiga da cidade e, portanto, são 
+espaços perfeitamente definidos pelo Plano Diretor da capital. 
+
+Os dados relativos à toponímia oficial foram obtidos por meio 
+de consulta a mapas oficiais fornecidos pela SMDU (Secretaria Mu-
+nicipal de Desenvolvimento Urbano) (SMDU, 2009), enquanto as 
+informações relacionadas à toponímia paralela foram documenta-
+das por meio de entrevistas com moradores antigos residentes nas 
+proximidades das praças, comerciantes, vendedores ambulantes 
+e de consulta à obra de Barreto (2015), que traz informações histó-
+ricas acerca da nomeação das primeiras praças de Cuiabá (1777). 
+
+De acordo com o documento expedido pelo IPDU (Instituto de 
+Planejamento e Desenvolvimento Urbano), “até o início da década 
+de 70, a área urbana de Cuiabá não se estendia para muito além 
+do limite físico definido pelo anel viário da Perimetral (Avenida Mi-
+guel Sutil)” (IPDU, 2007, p. 31). Das 65 praças que compõem este 
+trabalho, 31 apresentam data de fundação no ano de 1973, mes-
+mo período de oficialização dos primeiros bairros de Cuiabá, loca-
+lizados no Centro Histórico da cidade, onde se situam as praças. 
+
+De acordo com Houaiss (2009), a unidade lexical praça nomeia 
+áreas  públicas  essencialmente  urbanas  surgidas  para  atender  a 
+necessidades coletivas de lazer, descanso, atividades econômicas 
+de compra e venda de produtos, decisões coletivas, entre outros. 
+Nesse contexto e considerando que a data de fundação de Cuiabá 
+acontece no século XVIII, como também as motivações que provo-
+caram a necessidade de surgimento de praças, pode-se inferir que 
+o ano de 1973 serve somente como marco temporal para fins de 
+normatização de espaços cuja existência coincide com a fundação 
+da cidade, quando não havia a necessidade de se legislar a res-
+peito do processo de urbanização. É o que demonstram os dados 
+reunidos no quadro a seguir.
+
+As praças mais antigas de Cuiabá e os seus nomes
+
+As seis primeiras praças de Cuiabá estão ligadas às festivida-
+des oficiais: Largo do Palácio; ao contexto religioso como pátios de 
+duas importantes igrejas católicas da capital: Largo da Sé e Colina 
+do Rosário, atualmente Igreja Matriz e Igreja São Benedito; espaço 
+próximo ao cemitério mais antigo da capital: Largo da Boa Morte; 
+ao local de venda coletiva de leguminosa importante para a econo-
+mia local à época, Largo da Mandioca; e ao contexto de escravidão: 
+Largo da Forca, conforme se apreende pelos nomes registrados no 
+quadro que segue.
+
+Quadro 1 – Cronologia dos nomes das praças mais antigas de Cuiabá (1777-
+
+2022), segundo Barreto (2015).
+
+1777
+
+1825
+
+1850
+
+1871
+
+1874
+
+1890
+
+2022
+
+Largo da 
+Mandioca 
+ou Praça 
+Real 
+
+Rua Cam-
+pos do 
+Ourique
+
+-
+
+-
+
+-
+
+Largo da 
+Sé ou Pá-
+tio da Sé
+
+Largo da 
+Mandioca
+
+-
+
+Praça Bispo D. 
+Carlos 
+
+Praça 
+Bispo D. 
+Carlos
+
+Largo da Man-
+dioca ou Praça 
+Real
+
+Largo da 
+Mandioca ou 
+Praça Real
+
+Largo da Man-
+dioca ou Praça 
+Real
+
+Praça 
+Conde de 
+Azambuja
+
+Largo da 
+Forca 
+
+Praça do 
+Alegre 
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Largo da 
+Conceição ou 
+Mundeuzinho
+
+Largo da 
+Conceição ou 
+Mundeuzinho
+
+Largo da 
+Conceição ou 
+Mundeuzinho
+
+Praça 
+Bispo Dom 
+José
+
+Largo Cruz 
+das Almas 
+
+Largo Cruz 
+das Almas
+
+Largo Cruz 
+das Almas
+
+Cacimba 
+do Solda-
+do 
+
+Cacimba do 
+Soldado
+
+Cacimba do 
+Soldado
+
+Cacimba do 
+Soldado
+
+Praça Mar-
+quês de 
+Aracaty
+Praça San-
+ta Rita 
+
+Praça da 
+Repúbli-
+ca
+
+Praça 
+Conde 
+de Azam-
+buja 
+
+Praça 
+Moreira 
+Cabral 
+
+Praça 
+Bispo 
+Dom 
+José
+Ipiranga
+
+Praça 
+Rachid 
+Jaudy
+
+Largo do 
+Palácio
+
+Largo da 
+Boa Morte 
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Colina do 
+Rosário
+
+Largo do 
+Rosário 
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Praça do 
+Rosário
+
+Praça da 
+Boa Morte
+
+Praça 
+Alencas-
+tro
+Praça do 
+Rosário
+
+Praça 
+Antônio 
+Corrêa 
+da Costa
+
+Fonte: Elaboração das autoras com base em Barreto (2015) e IPDU (2010).
+
+A cronologia apresentada por Barreto (2015) fornece informa-
+ções lógicas e importantes como a data da fundação das primeiras 
+praças de Cuiabá no ano de 1777, quase 60 anos após a funda-
+ção da cidade (1719), porém muito anterior à oficialização que só 
+acontece no ano de 1973. É o que ocorre com os topônimos Largo 
+da Sé, Largo da Mandioca, Largo da Forca, Largo Alencastro, Largo do 
+Palácio, Colina do Rosário e Largo da Boa Morte. Já a Praça Rachid 
+Jaudy (Cacimba do Soldado) tem como data de fundação o ano de 
+1825, enquanto as praças Bispo Dom José e Ipiranga apresentam 
+data de fundação no ano de 1850.
+
+Conforme os dados de Barreto (2015), tanto o elemento es-
+pecífico quanto o genérico do sintagma toponímico passaram por 
+mudanças, considerando a sincronia que compreende a data da 
+constituição das praças até os dias atuais. Os dados revelam que, 
+de início, os topônimos apresentavam características de uma gê-
+nese espontânea, passando por renomeações impostas por ações 
+burocráticas  da  administração.  Em  Largo  da  mandioca,  Largo  da 
+Forca, Cacimba do Soldado, Largo Cruz das Almas, Colina do Rosário, 
+Largo da Boa Morte, Largo do Palácio e Largo da Sé transparecem 
+elementos do ambiente físico e sociocultural do espaço nomeado.
+As mudanças operadas ao longo do tempo transformaram a 
+feição dos nomes das praças, surgindo topônimos que homena-
+geiam personalidades do campo da política, da religião, das ativi-
+dades econômicas – como em Conde de Azambuja, Moreira Cabral, 
+
+Bispo  Dom  José,  Antônio  Corrêa  da  Costa,  Alencastro,  Rachid  Jaudy 
+–  como  também  acontecimentos  históricos  de  abrangência  am-
+pla, fenômenos evidenciados nos topônimos República e Ipiranga. 
+Do Rosário foi o único designativo de praça que não se alterou ao 
+longo de 300 anos, figurando como topônimo oficial e efetivo na 
+memória dos habitantes.
+
+O  elemento  genérico  do  sintagma  toponímico  na 
+configuração das praças de Cuiabá/MT 
+
+Conforme  as  informações  fornecidas  por  Barreto  (2015),  o 
+elemento genérico do sintagma toponímico também passou por 
+alterações no decurso de aproximadamente três séculos. Assim, 
+o nome inicial largo alterou-se para praça, denominação contem-
+porânea. Houaiss (2009) informa que a unidade lexical praça tem 
+origem no latim vulgar plattea, um substantivo feminino surgido 
+no século XIII na acepção de “área pública sem construção dentro 
+de uma cidade [cujos sinônimos são] rua larga, pátio ou largo; local 
+aberto onde se compra e se vende; mercado, feira; lugar fortifica-
+do; fortaleza; área urbana arborizada e /ou ajardinada, para des-
+canso e lazer, jardim público” (HOUAISS, 2009, p. 1534).
+
+No Dicionário Histórico do Português do Brasil, a unidade léxi-
+cal praça aparece com as primeiras datações com o significado 
+de “local público onde se faz comércio”, no ano de 1587, no docu-
+mento Descripção Topographica da Bahia (Parte Segunda - título 
+2)  de  Gabriel  Soares  de  Sousa  (BIDERMAN;  MURAKAWA,  2021). 
+Já para largo, Houaiss (2009), na sua primeira acepção, identifica 
+essa unidade lexical como um adjetivo do século XIV, do latim lar-
+gus, no sentido de “abundante, rico, generoso, solto” (HOUAISS, 
+2009, p. 1158).
+
+Biderman e Murakawa (2021), por sua vez, com base no corpus 
+do  Português  Colonial,  apresentam  a  unidade  lexical  largo  com 
+duas entradas. Na primeira, como adjetivo com a acepção de “que 
+é  grande,  considerável  em  tamanho”  (BIDERMAN;  MURAKAWA, 
+2021, n. p.), registro extraído da carta de 1556, do padre Manuel 
+da Nóbrega ao padre Inácio de Loyola. Na segunda entrada, lar-
+
+go figura como substantivo na acepção de “praça pública” (BIDER-
+MAN; MURAKAWA, 2021), com base no registro no documento Par-
+te III - Aureo Throno Episcopal - 1. Reprodução Fotografada da Edição 
+PRÍNCIPE (1784) (BIDERMAN; MURAKAWA, 2021).
+
+Em Aulete (2011, p. 1095), a unidade lexical praça, na primeira 
+acepção, é definida como “espaço público, ger. com assentos, co-
+retos, plantas ornamentais, etc. destinado ao lazer e ao descanso”, 
+sinônimo de jardim público. E, na segunda acepção, como “espa-
+ço público cercado de edifícios” (AULETE, 2011, p. 1095), sinônimo 
+de largo. Na versão digital, o item lexical praça é definido como 
+“lugar público, grande largo ordinariamente rodeado de edifícios, 
+para embelezamento de uma cidade, vila, etc., e como meio higiê-
+nico para melhor circulação do ar e plantação de árvore” (AULETE, 
+2008), enquanto largo é classificado como adjetivo traduzindo as-
+pectos de dimensão como espaçosos, abundantes, folgado, demo-
+rado, detalhado etc. (AULETE, 2008).
+
+Conforme as informações dos dicionários, ao longo de dois 
+a três séculos, no Brasil, o item lexical largo, que designava um 
+aspecto de uma dada área, passou a nomear o referente, assu-
+mindo a categoria do substantivo. Nota-se, ainda, que em se tra-
+tando  do  item  lexical  praça,  embora  tenham  registros  anterio-
+res à forma lexical largo, no corpus em estudo (nomes de praças 
+antigas de Cuiabá/MT), o seu uso para nomear o referente em 
+questão só se consolidou alguns séculos depois. A mudança ope-
+rada, como podemos comprovar em Aulete (2011, 2008), partiu 
+do substantivo praça, que passou a incorporar semas do adjetivo 
+largo, tornando-o sinônimo, operando-se, por esse meio, a mu-
+dança de classe gramatical.
+
+Topônimos oficiais e paralelos: possíveis relações
+
+Das 65 praças cujos nomes compõem o corpus deste estudo, 
+duas são identificadas somente por topônimos paralelos (Praça do 
+Facilita e Praça do Dirceu); 32, tanto com topônimos oficiais quan-
+to paralelos, e 31 praças possuem somente denominação oficial, 
+conforme o quadro a seguir.
+
+Quadro 2 – Topônimos oficiais e paralelos na nomeação de praças na cidade 
+
+de Cuiabá/MT.
+
+Elemento
+genérico
+
+Toponímia Oficial
+
+Elemento 
+Genérico
+
+Topônimo Paralelo
+
+Bairro Centro Norte (1973)
+
+Alencastro
+República, da
+Caetano de Albuquerque
+Doutor Alberto Novis
+Dona Euphrosina Hugueney de
+Rachid Jaudy
+Antônio Correa
+Conde de Azambuja
+Visconde de Taunay
+
+Bairro do Quilombo (1973)
+
+Presidente Carlos Luz
+Oscar Brandão
+João Balduíno Curvo
+General Mallet
+Santos Dumont
+Mitsuo Daima
+Alice de Lima Grisólia
+
+-
+-
+Praça
+Largo
+Bosque
+Pracinha
+Praça
+Bairro Araés (1973)
+
+Mestre Inácio
+Tuffk Afif
+Ermete Ricci
+
+-
+-
+Praça
+Beco
+Beco
+-
+Praça
+Praça
+-
+
+-
+-
+Área
+
+-
+
+Praça
+Praça
+Praça
+
+Praça
+
+Sávio Brandão
+
+Bairro Duque de Caxias (1973)
+
+8 de Abril
+Tenente Antônio João Ribeiro
+Pres. Eurico Gaspar Dutra
+
+Bairro Popular (1988)
+Praça
+Praça
+Praça
+
+Bairro Jardim Cuiabá (1973)
+
+Manoel Miráglia
+-
+-
+
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+
+Praça
+Praça
+Praça
+
+Praça
+Praça
+Praça
+
+Praça
+Praça
+Praça
+
+-
+-
+Rasqueado, do
+Candeeiro, do
+Candeeiro, do
+-
+Boa Morte, da
+Mandioca, da
+-
+
+-
+-
+Sinjão
+Esquadrão, do
+Municipal
+Santa Helena, do
+Polícia Feminina, da
+
+-
+-
+Lazer, de
+
+-
+
+Choppão, do
+Antigo Caçarola
+Popular
+
+Jardim Cuiabá
+Facilita, do
+Dirceu, do
+
+Praça
+
+Lyons Internacional
+
+Bairro Goiabeira (1973)
+
+Praça
+
+Pe. Sebastião Teixeira de Carvalho
+
+Inconfidência, da
+
+Bairro Cidade Alta (1973)
+
+Praça
+Bairro do Porto (1973)
+
+Clóvis Cardoso
+Manoel Murtinho
+Falcãozinho
+Mário Augusto de Pinho
+
+-
+
+-
+Praça
+Praça
+Praça
+
+-
+-
+-
+-
+Praça
+Praça
+
+Praça
+Ralinha
+-
+Campo
+-
+
+-
+-
+-
+Praça
+-
+Praça
+-
+Campinho
+-
+Praça
+Praça
+
+Bairro Centro Sul (1973)
+
+Bairro Dom Aquino (1973)
+
+José Pinto
+Cohab Nova Cuiabá
+Esportiva Tenente Pedro Moreira
+Maria Ricci
+Luís de Albuquerque
+Major João Bueno
+
+Benjamin Constant
+Almirante Barroso
+Pe. Firmo Pinto Duarte Filho
+Moreira Cabral
+Ipiranga
+
+Maria Taquara
+Bispo Dom José
+Seminário, do
+João Batista de Almeida
+Professora Isabel Abalén Sant’ana
+Benjamin Eubank
+Ana Poupino
+Severino Bispo da Silva
+Santa Terezinha
+Nossa Senhora Auxiliadora
+Gonçalo de Almeida Botelho
+
+-
+
+-
+Cai-Cai, do
+-
+Abel Marques
+
+-
+-
+-
+Lagoa, da
+Porto, do
+-
+
+Arsenal, do
+Coronel, do
+-
+Ourique, do
+-
+
+-
+-
+-
+Pedra, da
+-
+Secretaria de obras, da
+-
+Areia, de
+-
+São José Operário
+Bica, da
+
+Praça
+Praça
+Praça
+
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+
+Praça
+Praça
+Praça
+Praça
+Praça
+
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+Praça
+
+Praça
+
+Motoristas, dos
+
+Praça
+
+Farinha, da
+
+Bairro do Poção (1973)
+
+Praça
+Praça
+Praça
+
+Praça
+Praça
+Praça
+
+Praça
+Praça
+Praça
+Praça
+
+Bairro da Lixeira (1973)
+
+Francisco Morais de Oliveira
+Jaime de Figueiredo
+Rosário, do
+
+-
+-
+-
+
+Dona Rosinha Galvão
+Teodoro Paulino do Espírito Santo
+Mãe Preta
+
+Bairro Do Baú (1988)
+Praça
+Praça
+-
+
+Bairro dos Bandeirantes (1973)
+
+Bandeirantes, dos
+Ana Maria May do Couto
+Oscar Soares
+Assis Chateaubriand
+
+-
+-
+Córrego
+-
+
+-
+-
+-
+
+Dona Eulália
+Baú, do
+-
+
+-
+-
+Caixão, do
+-
+
+Fonte: Elaborado pelas autoras com base no IPDU (2007, 2010) – CUIABÁ.
+
+Considerando as informações de Barreto (2015) e as registra-
+das no Quadro 2, podemos atestar que República, da; Bispo Dom 
+José; Ipiranga; Rachid Jaudy; Rosário, do; e Alencastro são topônimos 
+oficiais consolidados nos dias atuais, não convivendo com nenhum 
+topônimo paralelo, embora os espaços de praças nomeados por 
+eles tenham recebido outras nomeações anteriores.
+
+Situação diversa verifica-se com os topônimos oficiais Conde 
+de Azambuja e Moreira Cabral, desconhecidos da população, por 
+isso foram substituídos pelos topônimos paralelos Mandioca, da; 
+e Campo do Ourique, respectivamente. Esses dois topônimos para-
+lelos perpetuaram-se, da fundação das praças aos dias atuais, na 
+memória e na fala da população.
+
+Na  toponímia  paralela,  o  elemento  genérico  predominante 
+é praça, entretanto, registramos as ocorrências de beco (Beco do 
+Candeeiro); ralinha (Ralinha do Coronel); campo (Campo d’Ourique); 
+campinho (Campinho de Areia); área (Área de Lazer); largo (Largo do 
+Esquadrão); pracinha (Pracinha do Santa Helena); bosque (Bosque 
+Municipal) e córrego (Córrego do Caixão), dados que demonstram a 
+riqueza de denominações, conforme as diferentes percepções da 
+comunidade circunvizinha das praças de Cuiabá.
+
+Os  sintagmas  toponímicos  supracitados  solidificaram  dois 
+aspectos do ambiente, um refletido no elemento genérico e ou-
+tro no elemento específico. Em Beco do Candeeiro, por exemplo, 
+apreende-se a característica de um espaço sem saída, no termo 
+genérico Beco, e um elemento da cultura material cujo referente 
+não  faz  mais  parte  dos  usos  da  localidade,  no  elemento  espe-
+cífico  Candeeiro.  Essa  dupla  informação  ocorre  com  os  demais 
+sintagmas toponímicos.
+
+Classificação dos topônimos oficiais na nomeação de pra-
+ças na cidade de Cuiabá/MT
+
+A toponímia oficial é constituída essencialmente por antropo-
+
+topônimos e axiotopônimos, conforme o quadro a seguir.
+
+ 
+
+Quadro 3 – Classificação dos topônimos oficiais conforme Dick (1990, 1992).
+
+Taxionomias de Natureza Antropocultural
+Topônimos Oficiais
+
+Taxe Toponímica
+Acronimotopônimo4 Cohab Nova Cuiabá.
+Antropotopônimo
+
+Alencastro;  Caetano  de  Albuquerque;  Rachid  Jaudy;  Antônio  Correa; 
+Oscar Brandão; João Balduíno Curvo; Santos Dumont; Mitsuo Daima; 
+Alice de Lima Grisólia; Ermete Ricci; Sávio Brandão; Tuffk Afif; Mano-
+el Miráglia; Clóvis Cardoso; Manoel Murtinho; Falcãozinho; José Pinto; 
+Mário Augusto de Pinho; Maria Ricci; Luís de Albuquerque; Benjamin 
+Constant; Moreira Cabral; May do Couto; Oscar Soares; Assis Chate-
+aubriand; Teodoro Paulino do Espírito Santo; Francisco Morais de Oli-
+veira; Jaime de Figueiredo; Gonçalo de Almeida Botelho; Ana Poupino; 
+Severino  Bispo  da  Silva;  Benjamin  Eubank;  João  Batista  de  Almeida; 
+Maria Taquara; Mãe Preta.
+Doutor  Alberto  Novis  Neves;  Dona  Euphrosina  Ugueney  de  Mattos; 
+Conde de Azambuja; Visconde de Taunay; Presidente Carlos Luz; Ge-
+neral Mallet; Mestre Inácio; Tenente Antônio João Ribeiro; Presidente 
+Eurico Gaspar Dutra; Major João Bueno; Bispo Dom José; Professora 
+Isabel Abalén Sant’ana; Dona Rosinha Galvão; Almirante Barroso; Pa-
+dre Firmo Pinto Duarte Filho; Padre Sebastião Teixeira de Carvalho.
+Santa Terezinha; Nossa Senhora Auxiliadora; Rosário, do.
+República, da; 8 de Abril; Ipiranga.
+
+Axiotopônimo
+
+Hagiotopônimo
+Historiotopônimo
+
+4 Em Francisquini (1998 apud SOUSA, 2008, p. 36), encontra-se o acréscimo da taxe dos acronimotopônimos que se aplica aos 
+topônimos formados por siglas como no exemplo de COHAB (Companhia de Habitação Popular). 
+
+Sociotopônimo
+
+Lions Internacional; Esportiva Tenente Pedro Moreira; Bandeirantes, 
+dos; Seminário, do; Motoristas, dos. 
+
+Fonte: Elaborado pelas autoras.
+
+A taxionomia dos antropotopônimos é caracterizada pelo em-
+prego do nome individual como técnica de nomeação de acidentes 
+geográficos. Conforme Dick (1992, p. 285), “dentre as taxionomias 
+de natureza antropocultural, sobressaem-se pela expressividade 
+das  formações  onomásticas”  em  qualquer  porção  do  território. 
+Nessa categoria, encontram-se topônimos formados por hipoco-
+rístico (Falcãozinho); prenome + alcunha (Maria Taquara); apelido 
+(Mãe Preta), que transparecem aspectos de escolha voluntária da 
+população.  Os  demais  antropotopônimos  revelam  traços  de  ho-
+menagem deliberada por parte da administração do setor a ex-
+poentes dos diferentes poderes em âmbito regional e brasileiro.
+
+Entre  os  axiotopônimos  constatamos,  além  da  presença  de 
+topônimos que revelam títulos nobiliárquicos, patentes militares, 
+função profissional e de honrarias, bem como o substantivo dona 
+seguido de prenome e sobrenome, refletindo respeito e posse no 
+denominativo. A fé às entidades do catolicismo transparece nos 
+hagiotopônimos,  enquanto  os  historiotopônimos  configuram-se 
+como homenagens a eventos históricos de abrangência nacional 
+e à fundação da cidade de Cuiabá.
+
+Classificação dos topônimos paralelos
+
+A toponímia paralela é mais variada, distribuindo-se por 14 ta-
+
+xionomias, de acordo com o quadro a seguir.
+
+Quadro 4 – Classificação dos topônimos paralelos conforme Dick (1990; 1992).
+
+Taxionomias de Natureza Antropocultural
+
+Taxe toponímica
+Antropotopônimos
+
+Topônimos paralelos 
+Abel Marques; Dirceu, do.
+
+Axiotopônimos
+Nootopônimos Eufóricos6
+Cronotopônimos
+Corotopônimo
+Dirrematotopônimo
+Ergotopônimos
+
+Hagiotopônimo
+Historiotopônimo
+Sociotopônimo
+
+Sinjão5; Dom Aquino; Dona Eulália; Coronel, do.
+Boa Morte, da; Facilita, do.
+Antigo Caçarola, do.
+Ourique, do.
+Cai-Cai, do.
+Choppão, do; Farinha, da; Baú, do; Candeeiro, do; Candeeiro, do; 
+Caixão, do.
+Santa Helena, do; São José Operário.
+Inconfidência, da.
+Rasqueado, do; Esquadrão, do; Polícia Feminina, da; Lazer de; Po-
+pular; Arsenal, do; Secretaria de obras, da; Porto do; Municipal.
+
+Taxionomias de Natureza Física
+
+Fitotopônimos
+Hidrotopônimo
+Geomorfotopônino
+Litotopônimo
+
+Mandioca, da; 
+Lagoa, da.
+Jardim Cuiabá.
+Pedra, da; Areia, da. 
+
+Fonte: Elaborado pelas autoras.
+
+Observa-se que, na toponímia paralela, as praças são identi-
+ficadas pelo nome de um produto da cultura material (Choppão, 
+do; Farinha, da; Baú, do; Candeeiro, do; Caixão, do); por um mineral 
+(Pedra, da; Areia, da); por elemento de índole vegetal (Mandioca, 
+da); por referência a um elemento hídrico (Lagoa, da;); por um sen-
+timento  (Boa  Morte,  da;  Facilita,  do);  por  acontecimentos  históri-
+cos (Inconfidência, da); pela fé católica (Santa Helena, do; São José 
+Operário); pelos pontos de associação dos moradores e categorias 
+profissionais  (Rasqueado,  do;  Esquadrão,  do;  Polícia  Feminina,  da; 
+Popular; Arsenal, do; Porto, do), entre outros.
+
+Mesmo os casos de antropotopônimos (Abel Marques e Dirceu, 
+do) e de axiotopônimos (Sinjão; Dom Aquino; Dona Eulália e Coronel, 
+do) não traduzem traços de idolatria, autolatria, lisonja ou home-
+nagem,  mas  de  gênese  espontânea  e  um  vínculo  de  proprieda-
+
+5 O topônimo Sinjão é formado pela aglutinação do pronome de tratamento senhor + o antropônimo João. 
+6 Devido aos traços semânticos distintos, Isquerdo (2013) subdividiu a taxionomia dos animotopônimos ou nootopônimos em 
+eufóricos: apresentam traços de uma impressão agradável, otimista, por exemplo: Belo Horizonte (MG); e animotopônimos ou 
+nootopônimos disfóricos: sinalizam uma impressão desagradável, pessimista, por exemplo: Rio Triste (MT).
+
+de, características encontradas na toponímia do Brasil nos idos de 
+1600. A esse respeito, Dick (1992, p. 295) informa que “na toponí-
+mia brasileira, de um modo geral, é constante o aparecimento des-
+sa nomeação anônima, concretizada, às vezes, pelo prenome”, e 
+distinta da nomeação imposta por eventuais detentores do poder.
+Conforme Backheuser, Lamego e Gabaglia (1950, p. 166, grifo 
+do autor), “o nome é de linguagem popular e fica propriedade de 
+todos. Aliás, uma designação só se torna verdadeiramente geográ-
+fica,  quando  adquiri  essa  ‘popularidade’.  Antes  disso,  é  batismo 
+sem confirmação”. O princípio da popularidade observada pelos 
+autores pode ser aplicado tanto à toponímia oficial quanto à para-
+lela. Se grande parte dos topônimos oficiais não é sequer conhe-
+cida pela população, o que, de certa forma, os torna “ilegítimos”, 
+“figurativos”, os topônimos paralelos traduzem a relação que cada 
+falante/usuário estabelece com o ambiente da praça.
+
+Um exemplo dessa realidade pode ser verificado com os topô-
+nimos paralelos do Dirceu e Antiga, designativos de um mesmo es-
+paço de praça inominado na toponímia oficial, sendo que o primei-
+ro é em decorrência do bar localizado próximo à praça cujo dono 
+chama-se Dirceu e Antiga é uma comparação que favorece a dis-
+tinção com a praça Lions Internacional, recentemente urbanizada.
+Assim, a ausência da toponímia oficial ou a não identificação 
+semântica com os ambientes de praça, bem como a ausência de 
+um nome paralelo que possa se popularizar, deixam uma lacuna 
+propícia  à  formação  de  uma  quantidade  significativa  de  topôni-
+mos paralelos para um mesmo referente.
+
+Produtividade dos topônimos paralelos e oficiais conforme 
+as taxionomias 
+
+Conforme o gráfico a seguir, os 63 topônimos oficiais distribu- 
+em-se em seis taxionomias, enquanto os topônimos paralelos em 14. 
+
+Gráfico 1 – Produtividade das taxionomias da Toponímia Oficial e Toponímia 
+
+Paralela.
+
+55,55%
+
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+25,39%
+
+26,47%
+8%
+
+18%
+
+,11%
+
+5,88%
+
+5%
+
+5%
+
+5%
+
+3%
+
+3%
+
+6%
+
+6%
+
+1,58%
+
+3%
+
+3%
+
+3%
+
+3%
+
+3%
+
+Antropotopônimo
+Sociotopônimo
+Axiotopônimo
+
+Ergotopônimo
+Historiotopônimo
+Fitotopônimo
+Hagiotopônimo
+
+Cronotopônimo
+Dirrematotopônimo
+Nootopônimo Euf.
+Acronimotopônimo
+Litotopônimo
+
+Corotopônimo
+
+Geomorfotopônimo
+Hidrotopônimo
+
+Toponímia Oficial
+
+Toponímia Paralela
+
+Fonte: Elaborado pelas autoras. 
+
+Os topônimos que constam em documentos oficiais em vigor 
+são,  em  predominância,  antropotopônimos  35  (55,55%)  e  axio-
+topônimos 16 (25,39%), ficando os demais topônimos divididos em 
+sociotopônimos: cinco (7,93%); hagiotopônimos: três (4,76%); his-
+toriotopônimos:  três  (4,76%)  e  acronimotopônimos:  um  (1,58%), 
+totalizando seis categorias taxionômicas. 
+
+Não  há  topônimos  de  natureza  física,  mas  uma  superabun-
+dância de antropotopônimos e de axiotopônimos, revelando que 
+a  motivação  essencial  no  ato  da  nomeação  é  a  de  homenagear 
+figuras públicas: a) personalidades do campo político que estive-
+ram em ascensão na cidade de Cuiabá, no estado do Mato Gros-
+so e no Brasil e membros de suas famílias: Presidente Carlos Luz, 
+Presidente Eurico Gaspar Dutra, Assis Chateaubriand, Ana Poupino, 
+Mário  Augusto  de  Pinho,  Oscar  Soares,  José  Pinto,  Oscar  Brandão, 
+Luís de Albuquerque, Manoel Miráglia, Moreira Cabral, João Batista 
+de Almeida, Severino Bispo da Silva, Clóvis Cardoso, Gonçalo de Al-
+meida Botelho, Francisco Morais de Oliveira, Jaime de Figueiredo; b) 
+portadores  de  títulos  nobiliárquicos  e/ou  patentes  militares  e  a 
+membros de suas famílias: Major João Bueno, Conde de Azambuja, 
+General Mallet, Tenente Antônio João Ribeiro, Almirante Barroso Cae-
+
+tano de Albuquerque, Dona Euphrosina Hugueney de Mattos, Viscon-
+de de Taunay, Benjamin Constant, Teodoro Paulino do Espírito Santo; 
+c) atividades profissionais, locais de trabalho e pontos de encontro 
+dos membros de uma comunidade: Esportiva Tenente Pedro Morei-
+ra; Seminário, do; Motoristas, dos; Bandeirantes, dos; d) categorias 
+profissionais como a dos médicos, dos professores, e jornalistas: 
+Doutor Alberto Novis Neves, Tuffk Afif, Antônio Correa, Professora Isa-
+bel Abalén Sant’ana, May do Couto, Sávio Brandão; e) personalidades 
+do campo comercial e/ou religioso influentes residentes próximo 
+à praça: Rachid Jaudy, Alice de Lima Grisólia, Dona Rosinha Galvão, 
+João  Balduíno  Curvo,  Benjamin  Eubank;  f)  imigrantes  italianos  in-
+fluentes economicamente em Cuiabá: Ermete Ricci, Maria Ricci; g) 
+autoridades religiosas de modo geral e dos santos e a símbolos do 
+catolicismo: Bispo Dom José, Santa Terezinha, Nossa Senhora Auxilia-
+dora, Padre Sebastião Teixeira de Carvalho, Padre Firmo Pinto Duarte 
+Filho, Mitsuo Daima e Rosário, do; h) ciência e inventividade: San-
+tos Dumont; i) voluntário envolvido na guerra do Paraguai; datas 
+de acontecimentos históricos importantes: Manoel Murtinho, 8 de 
+Abril, Ipiranga e República, da; j) instituição não governamental para 
+ações sociais de influência mundial: Lions Internacional; k) nome de 
+bairro transplantado: Cohab Nova; e l) personalidades populares: 
+Mestre Inácio, Mãe Preta, Maria Taquara e Falcãozinho.
+
+Em  relação  aos  topônimos  paralelos,  não  há  extremos  em 
+termos de percentuais de ocorrência: das 14 categorias taxionô-
+micas identificadas, os sociotopônimos foram os mais produtivos 
+com  nove  (26,47%)  ocorrências,  seguidos  pelos  ergotopônimos 
+com seis (17,64%) ocorrências e pelos axiotopônimos com quatro 
+(11,76%) registros. 
+
+A toponímia paralela somou cinco nomes que traduzem tra-
+ços do ambiente físico inclusos nas taxes dos fitotopônimos: Man-
+dioca, da; geomorfotopônimo: Jardim Cuiabá; dos hidrotopônimos: 
+Lagoa, da; e dos litotopônimos: Pedra, da; Areia, da.
+
+Estrutura morfológica
+
+Conforme Amaral e Seide (2020, p. 101), “em português, bem 
+como em muitas outras línguas, não é possível diferenciar os no-
+mes comuns dos nomes próprios por meio de marcas morfológi-
+cas. Assim, qualquer palavra ou sequência de palavras pode vir a 
+ser um nome próprio”. As condicionantes, conforme os autores, 
+não são gramaticais, mas socioculturais.
+
+De acordo com o número de unidades lexicais na constituição 
+do elemento específico dos topônimos oficiais, foram identificadas 
+cinco categorias:
+
+1.  Elemento genérico + um elemento específico com/sem prepo-
+sição  indicativa  de  posse:  oito  ocorrências  (12,69%):  Alencastro; 
+Ipiranga; Falcãozinho; República, da; Seminário, do; Motoristas, dos; 
+Rosário, do; e Bandeirantes; dos.
+2.   Elemento genérico + dois elementos específicos com/sem pre-
+posição indicativa de posse: 27 ocorrências (42,85%): Rachid Jau-
+dy, Antônio Correa, Conde Azambuja, Oscar Brandão, General Mallet, 
+Santos Dumont, Mitsuo Daima, Mestre Inácio, Tuffk Afif, Ermete Ricci, 
+Sávio Brandão, Manoel Miráglia, Lions Internacional, Clóvis Cardoso, 
+Manoel  Murtinho,  José  Pinto,  Maria  Ricci,  Benjamin  Constant,  Almi-
+rante Barroso, Moreira Cabral, Maria Taquara, Benjamin Eubank, Ana 
+Poupino, Santa Terezinha, Mãe Preta, Oscar Soares e Assis Chateau-
+briand . 
+3.  Elemento genérico + três elementos específicos com/sem pre-
+posição  indicativa  de  posse:  13  (20,63):  Caetano  de  Albuquerque, 
+Visconde de Taunay, Presidente Carlos Luz, João Balduíno Curvo, 8 de 
+Abril, Cohab Nova Cuiabá, Luís de Albuquerque, Major João Bueno, 
+Nossa Senhora Auxiliadora, Jaime de Figueiredo, May do Couto, Dona 
+Rosinha Galvão e Bispo Dom José.
+4.  Elemento  genérico  +  quatro  elementos  específicos  com/sem 
+preposição indicativa de posse: 11 (17,46%): Doutor Alberto Novis 
+Neves, Alice de Lima Grisólia, Tenente Antônio João Ribeiro, Pres. Eu-
+rico Gaspar Dutra, Mário Augusto de Pinho, Esportiva Tenente Pedro 
+Moreira, João Batista de Almeida, Professora Isabel Abalén Sant’ana, 
+
+Severino Bispo da Silva, Gonçalo de Almeida Botelho e Francisco Mo-
+rais de Oliveira.
+5.  Elemento genérico + cinco elementos específicos com/sem pre-
+posição indicativa de posse: 4 (6, 34%): Dona Euphrosina Hugueney 
+de Mattos, Padre Sebastião Teixeira de Carvalho, Padre Firmo Pinto 
+Duarte Filho e Teodoro Paulino do Espírito Santo.
+
+Os topônimos paralelos, por seu turno, classificaram-se em três 
+categorias, conforme a estrutura morfológica do elemento específico:
+
+1.  Elemento  genérico  +  um  elemento  específico  com/sem  prepo-
+sição indicativa de posse: 24 (70,58%): Sinjão: Popular; Cuiabá; Ras-
+queado, do; Mandioca, da; Esquadrão, do; Choppão, do; Cai-Cai, do; 
+Inconfidência, da; Lagoa, da; Porto, do; Arsenal, do; Pedra, da; Farinha, 
+da; Baú, do; Ourique, do; Coronel, do; Candeeiro, do; Candeeiro, do; 
+Facilita, do; Municipal; Areia, de; Caixão, do; e Dirceu, do. 
+2.  Elemento genérico + dois elementos específicos com/sem pre-
+posição indicativa de posse: sete (20,58%): Boa Morte, da; Santa He-
+lena, do; Polícia Feminina, da; Antigo Caçarola; Abel Marques; Dom 
+Aquino e Dona Eulália.
+3.  Elemento genérico + três elementos específicos com/sem pre-
+posição indicativa de posse: três (8,82%): Secretaria de obras, da; 
+São José Operário. 
+
+Enquanto o padrão de nomeação da toponímia oficial é cons-
+tituído  por  antropônimos  (Rachid  Jaudy,  Antônio  Correa,  dentre 
+outros) e substantivo + antropônimos (Doutor Alberto Novis Neves; 
+Dona Euphrosina Ugueney de Mattos etc.), na paralela, verifica-se a 
+predominância de nomes formados por preposição indicativa de 
+posse + substantivo (Rasqueado, do; Esquadrão, do; Polícia Femini-
+na, da; Lazer de; Porto do, dentre outros).
+
+No panorama geral, 26 (78,78%) dos 34 topônimos paralelos 
+têm na sua estrutura preposições de, do, da, refletindo um vínculo 
+de proximidade e de propriedade entre o denominativo e o espaço 
+
+Considerações finais
+
+nomeado. Nessa conjuntura, pode-se entender que os topônimos 
+paralelos atendem aos imperativos da oralidade, marcada, quase 
+sempre, pela economia de tempo no ato de enunciação.
+
+Base linguística dos topônimos
+
+ Os topônimos paralelos são, em sua totalidade, de base por-
+tuguesa,  enquanto  na  toponímia  oficial  predominam  topônimos 
+de base portuguesa 46 (73,01%), também evidenciam formas hí-
+bridas:  língua  portuguesa  +  língua  francesa:  seis  (9,53%);  língua 
+portuguesa + língua italiana: dois (3,17%); língua inglesa + língua 
+portuguesa: um (1,58%); língua portuguesa + língua espanhola: um 
+(1,58%)  e  língua  portuguesa  +  língua  escocesa:  um  (1,58%).Tam-
+bém figuram no corpus topônimos de estrutura simples oriundos 
+de línguas estrangeiras: língua árabe: dois (3,17%); as língua fran-
+cesa,  tupi,  guarani,  japonesa  e  italiana  contam  um  (1,58%)  para 
+cada língua.
+
+Este artigo teve como objetivo analisar a toponímia oficial e 
+paralela que nomeia as praças da cidade de Cuiabá em termos 
+de  motivação,  de  língua  de  origem  e  de  estrutura  morfológica, 
+de  modo  a  obter  elementos  de  comparação  entre  as  duas  ca-
+tegorias  toponímicas.  O  estudo  demonstrou  que  os  topônimos 
+das praças selecionadas alteram de forma significativa, conforme 
+a  época,  as  forças  políticas  e  sociais  que  estão  em  vigor.  Tan-
+to o elemento genérico quanto o elemento específico passaram 
+por mudanças. Em relação ao elemento genérico, foi identifica-
+da a unidade lexical largo que de adjetivo, em algum momento 
+da história da língua portuguesa, mudou de classe morfológica, 
+nomeando espaços públicos abertos. Largo, nome genérico das 
+primeiras praças (1777), não é mais identificado nos documentos 
+oficiais, sendo substituído paulatinamente por jardim, pátio, bos-
+que, área, campo, urbanização e praça.
+
+A toponímia paralela, em virtude de seu caráter espontâneo, 
+genuíno, distancia-se dos traços da lisonja e de homenagem, como 
+
+nos  exemplos  Rasqueado,  do;  Beco  do  Candeeiro;  Boa  Morte,  da; 
+Mandioca, da; Sinjão; Choppão, do; Popular; Cai-Cai, do; Campo do 
+Ourique etc. Os topônimos paralelos Facilita e Dirceu nomeiam es-
+paços inominados na toponímia oficial.
+
+Dentre os topônimos paralelos, situam-se aqueles que convi-
+vem simultaneamente com o topônimo oficial como, por exemplo, 
+Choppão, do; e 8 de Abril, que são denominativos do mesmo espa-
+ço, qual seja, uma das praças mais frequentadas pela população, 
+situada na Regional Oeste da capital.
+
+A  toponímia  oficial  das  praças  é  composta  essencialmente 
+por antropotopônimos e axiotopônimos: 51 (80,95%) e revela a in-
+fluência das forças políticas, militares, religiosas e econômicas na 
+nomeação das praças, marcas também evidenciadas na toponímia 
+geral do país. Em outros casos, o topônimo oficial não é conhecido 
+ou reconhecido pelos moradores, como ocorre com os nomes das 
+praças Mandioca, da; Popular, cujos topônimos oficiais são Conde 
+de Azambuja e Presidente Eurico Gaspar Dutra, respectivamente.
+
+Os topônimos Maria Taquara, Mestre Inácio, Falcãozinho, Mãe 
+Preta apontam para a ascensão de forças populares na toponímia 
+oficial. Nesses casos, o topônimo é registrado por nome e/ou por 
+alcunha, sem a identificação do sobrenome.
+
+Por  fim,  dos  65  topônimos  estudados  neste  trabalho,  34 
+(51,64%)  apresentam  topônimos  paralelos.  A  topônima  oficial 
+apresenta  topônimos  extensos,  não  evidenciando  a  intenção  de 
+ser falada no cotidiano, função cumprida pela toponímia paralela.
+
+Referências
+
+AMARAL, Eduardo Tadeu Roque; SEIDE, Márcia Sipavicius. Nomes 
+próprios de pessoa: introdução à antroponímia brasileira. São Paulo: 
+Blucher, 2020.
+
+AULETE, Caldas. Novíssimo Aulete dicionário contemporâneo da língua 
+portuguesa/Caldas Aulete. Rio de Janeiro: Lexikon, 2011. 
+
+AULETE, Caldas. Aulete digital. Dicionário contemporâneo da língua 
+portuguesa. Rio de Janeiro: Lexikon, 2008. Disponível em: http://aulete.
+com.br. Acesso em: 21 jul. 2022.
+
+BACKHEUSER, Everardo; LAMEGO, Alberto Ribeiro; GABAGLIA, Raja. 
+TOPONÍMIA: (Suas regras — Sua evolução). Revista Geográfica, Cidade 
+do México, n. 25/30, p. 163-195, 1950. 
+
+BARRETO, Neila Maria Souza. Bicas fontes, chafarizes, caixa d´água velha 
+e a água de beber no espaço urbano de Cuiabá (1790-1886). Cuiabá: 
+Carlini & Caniato, 2015.
+
+BENVENISTE, Émile. Problemas de linguística geral I. 3. ed. Campinas, SP: 
+Fontes, 1991.
+
+BIDERMAN, Maria Tereza Camargo; MURAKAWA, Clotilde de Almeida 
+Azevedo. (org.). Dicionário Histórico do Português do Brasil: séculos XVI, 
+XVII e XVIII. Araraquara: FCL – UNESP, 2021. Disponível em: http://dicio-
+narios.fclar.unesp.br. Acesso em: 10 dez. 2021.
+
+BIDERMAN, Maria Tereza Camargo. Dimensões da palavra. Filologia e 
+Linguística Portuguesa, Araraquara, v. 2, n. 2, p. 81-118, 1998. Disponível 
+em: https://www.revistas.usp.br/flp/article/view/59660. Acesso em: 15 
+nov. 2021. 
+
+CARDOSO, Armando Levy. Toponímia brasílica. Rio de Janeiro: Biblioteca 
+do Exército Editora, 1961.
+
+IPDU - Instituto de Planejamento e Desenvolvimento Urbano. 
+Composição dos bairros de Cuiabá. Cuiabá, 2010. 
+
+SMDU - Secretaria Municipal de Desenvolvimento Urbano. Áreas de 
+praças situadas dentro do perímetro da Av. Miguel Sutil. Cuiabá, 2009. 
+
+IPDU - Instituto de Planejamento e Desenvolvimento Urbano. 
+Organização Geopolítica de Cuiabá. Cuiabá, 2007. 
+
+DAUZAT, Albert. Les noms de lieux: origine et évolution, villes et villages, 
+pays, cours d’eau, montagnes, lieux-dits. Paris: Librairie Delagrave, 
+1926.
+
+DAUZAT, Albert. La Toponymie Française. Paris: Payot, 1946.
+
+DICK, Maria Vicentina do Amaral. A dinâmica dos nomes na cidade de São 
+Paulo, 1954-1897. São Paulo: Annablume, 1997.
+
+DICK, Maria Vicentina de Paula do Amaral. A motivação toponímica e a 
+realidade brasileira. São Paulo: Edições Arquivo do Estado, 1990.
+
+DICK, Maria Vicentina de Paula do Amaral. A motivação toponímica: prin-
+cípios teóricos e modelos taxeonômicos. 1980. 351 f. Tese (Doutorado 
+em Linguística e Línguas Orientais- Línguas Indígenas do Brasil) – 
+Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São 
+Paulo, São Paulo, 1980. 
+
+DICK, Maria Vicentina de Paula do Amaral. Fundamentos teóricos da 
+Toponímia. Estudo de caso: o projeto ATEMIG – Atlas toponímico do es-
+tado de Minas Gerais (variante regional do Atlas Toponímico do Brasil). 
+In: SEABRA, Maria Cândida Trindade Costa de (org.). O léxico em estudo. 
+Belo Horizonte: Faculdade de Letras da UFMG, 2006. p. 91-117.
+
+DICK, Maria Vicentina de Paula do Amaral. Toponímia e Antroponímia 
+no Brasil. Coletânea de Estudos. São Paulo: Serviço de Artes Gráficas/
+FFLCH/USP, 1992.
+
+DRUMOND, Carlos. Contribuição do Bororo à toponímia brasílica. São 
+Paulo: Editora da USP, 1965.
+
+HOLANDA, Sérgio Buarque. Monções. São Paulo: Alfa Omega, 1976.
+
+HOUAISS, Antônio. Dicionário Houaiss da língua portuguesa. Rio de 
+Janeiro: Objetiva, 2009. 
+
+ISQUERDO, Aparecida Negri. O nome do município. Um estudo etnolin-
+guístico e sócio-histórico na toponímia sul-mato-grossense. Prolíngua, 
+
+João Pessoa, v. 2, n. 2, p. 34-52, dez. 2008. Disponível em: https://do-
+cplayer.com.br/21480485-O-nome-do-municipio-um 
+-estudo-etnolinguistico-e-socio-historico-na-toponimia-sul-mato-gros-
+sense.html. Acesso em: 10 maio 2021.
+
+ISQUERDO, Aparecida Negri; OLIVEIRA, Ana Maria Pinto Pires de. 
+Apresentação. In: ISQUERDO, Aparecida Negri; OLIVEIRA, Ana Maria 
+Pinto Pires de. (org.). As ciências do léxico: Lexicologia, Lexicografia, 
+Terminologia. 2 ed. Campo Grande: EdUFMS, 2001. p. 9-11.
+
+ISQUERDO, Aparecida Negri. A motivação toponímica: algumas refle-
+xões. In: SELLA, Aparecida Feola; CORBARI, Clarice Cristina; BIDARRA, 
+Jorge. (org.). Pesquisas sobre Léxico: reflexões teóricas e aplicação. 1 ed. 
+Campinas, SP; Cascavel, PR: Pontes; Edunioeste, 2013. v. 26, p. 81-96.
+
+SAMPAIO, Teodoro. O tupi na geografia nacional. Memoria lida no 
+Instituto Historico e Geographico de S. Paulo. São Paulo: Typ. da Casa 
+Eclectica, 1901. Disponível em: http://etnolinguistica.wdfiles.com/local-
+--files/biblio%3Asampaio-1901-tupi/sampaio_1901_tupi.pdf. Acesso em: 
+30 ago. 2021.
+
+SAUSSURE, Ferdinand de. Curso de linguística geral. 28. ed. São Paulo: 
+Cultrix, 2012.
+
+SOUSA, Alexandre Melo de. Projeto Atlas Toponímico da Amazônia 
+Ocidental Brasileira: Gênese e Trajetória. ÍCONE - Revista de Letras, São 
+Luís de Montes Belos, v. 2, n. 2, p. 31-42, jul. 2008. Disponível em: http://
+www.slmb.ueg.br/iconeletras. Acesso em: 28 ago. 2021.
+
+VIEIRA, Zara Peixoto. Estudo Onomástico do Município de Socorro: re-
+constituição dos antropônimos e da memória da imigração. 2000. 196 
+f. Dissertação (Mestrado em Semiótica e Linguística Geral) – Faculdade 
+de Filosofia, Letras e Ciências Humanas, Universidade do Estado de São 
+Paulo, São Paulo, 2000. 
+
+

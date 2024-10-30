@@ -1,0 +1,941 @@
+#Contémironia: uma análise bakhtiniana da 
+contrapalavra no contexto virtual
+# Contémironia: a Bakhtinian analysis of the 
+counterword in the virtual context
+
+# Contémironia: un análisis bakhtiniano de la 
+contrapalabra en el contexto virtual
+
+Guilherme Brambila
+Universidade Federal do Espírito Santo (UFES), Vitória, Espírito Santo, Brasil. 
+E-mail: guilhermebrambilamanso@hotmail.com
+
+Resumo: Este artigo analisa o uso da hashtag #contémironia em posta-
+gens na rede social Facebook, bem como movimenta os conceitos de pa-
+lavra e contrapalavra, refletindo sobre a ironia a partir de Bakhtin ([1975] 
+2002; 2010; [1924] 2011). As postagens são analisadas qualitativamente 
+a partir da teoria da Análise Dialógica do Discurso. A produção contribui 
+com questionamentos sobre como a responsividade do enunciado con-
+creto assume, no contexto digital, dimensões variadas e produtivas aos 
+estudos da linguagem. O texto aponta que a marcação da ironia no texto 
+on-line assume papéis diferentes conforme se realiza, constituindo terri-
+torialidade ideológica, contrapalavra e busca por regulação de sentidos.
+
+Palavra-chaves: Ironia. Contrapalavra. Facebook. Análise Dialógica.
+
+Abstract : This paper analyzes the use of the hashtag #contémironia in 
+Facebook posts, as well as it moves the concepts of word and counter-
+word, reflecting on irony from Bakhtin’s perpective ([1975] 2002; 2010; 
+[1924] 2011). The posts are analyzed qualitatively, according to the Dia-
+logical  Discourse  Analysis  Theory.  The  text  contributes  with  questions 
+about  how  the  responsiveness  of  the  concrete  utterance  assumes,  in 
+the  digital  context,  varied  and  productive  dimensions  to  the  language 
+studies. It points out that the marking of irony in online text assumes 
+different roles as it takes place, constituting ideological territoriality, cou-
+nterword and the search for
+
+regulation of meanings
+
+Keywords: Irony. Counterword. Facebook. Dialogical Analysis.
+
+Resumen: Este artículo analiza el uso del hashtag #contémironia (#con-
+tieneironia) en publicaciones en la red social Facebook y se utilizan los 
+conceptos de palabra y contrapalabra, reflexionando sobre la ironía de 
+Bajtín  ([1975]  2002;  2010;  [1924]  2011).  Los  mensajes  son  analizados 
+cualitativamente desde la Teoría del Análisis Dialógico del Discurso. Este 
+trabajo contribuye con preguntas acerca de cómo la responsividad del 
+enunciado concreto asume, en el contexto digital, dimensiones variadas 
+y productivas para los estudios del lenguaje. El texto señala que la mar-
+ca de la ironia en el texto online asume distintos roles a medida que se 
+produce, constituyendo territorialidad ideológica, contrapalabra y bús-
+queda de regulación de sentidos.
+
+Palabras clave:  Ironía. Contrapalabra. Facebook. Análisis Dialógico.
+
+Submetido em 8 de fevereiro de 2021.
+Aceito em 04 de abril de 2021.
+Publicado em 30 de setembro de 2022.
+
+Introdução
+
+As práticas com a língua em contextos reais de interação hu-
+mana são um interesse constante dos estudos contemporâneos 
+da  linguagem.  Sobretudo  com  o  advento  e  a  força  do  contexto 
+digital  na  vida  cotidiana  e  profissional,  emergem  novos  questio-
+namentos sobre como o estatuto da palavra é transformado em 
+meio às negociações discursivas estabelecidas nessa esfera. 
+
+Diante da constante mediação digital nas relações humanas, 
+alguns fenômenos da língua surgem acompanhando as novas de-
+mandas que se apresentam a partir de sua prática na esfera virtual 
+on-line. Uma dessas ocorrências, objeto de estudo do presente ar-
+tigo, é o caso da hashtag #contémironia, marcação presente em 
+postagens de diversas naturezas para explicitar que o conteúdo 
+textual deve ser recepcionado como uma mensagem irônica, isto 
+é, em sentido oposto ao que está registrado. Como exemplo, po-
+demos citar as postagens da personagem “blogueirinha do fim do 
+mundo”, interpretada por Maria Bopp ao canal GNT, que são sem-
+pre antecedidas de um aviso (“Atenção: este vídeo contém ironia”), 
+conscientizando os seguidores sobre qual a valoração atribuída ao 
+conteúdo compartilhado. 
+
+Reconhecemos  nesse  exemplo  mais  famoso,  bem  como  em   
+
+postagens de anônimos, uma relação nova, distinta daquela pra-
+ticada no texto fora da esfera virtual, sendo estabelecida com o 
+signo ideológico. Há uma adoção de perspectiva diversa sobre o 
+enunciado, uma vez que surge uma demanda de registro explícito 
+de seu tom valorativo. A partir daí, uma inquietação se apresenta 
+no decurso deste estudo, motivando perguntas como: por que a 
+marcação explícita e textualizada do tom irônico se mostra neces-
+sária  na  esfera  virtual?  Que  dimensões  do  discurso  estão  impli-
+cadas nesse movimento? De que modo os estudos da linguagem 
+podem observar e analisar tal fenômeno?
+
+Em face das perguntas e do contexto apresentados, este artigo 
+constitui-se de uma análise da marcação #contémironia em posta-
+gens na rede social Facebook. Para tanto, são movimentadas com-
+preensões advindas dos postulados de Bakhtin ([1975] 2002; 2010; 
+[1924] 2011) para discutir a dimensão da ironia em si e analisar as 
+relações dialógicas da palavra e da contrapalavra em contexto di-
+gital. Algumas postagens que apresentavam #contémironia foram 
+selecionadas para compor a produção de uma análise guiada por 
+um viés qualitativo. O presente trabalho é uma contribuição aos 
+estudos da linguagem, sobretudo àqueles ancorados na perspec-
+tiva teórico-filosófica bakhtiniana e/ou interessados nos processos 
+de interação humana em esferas digitais. 
+
+De maneira específica, o artigo está dividido em três partes: 
+na primeira, exploramos, a partir dos postulados de Bakhtin, os 
+conceitos de palavra e contrapalavra. O principal intento dessa es-
+colha está na observação da atualidade da contribuição bakhtinia-
+na aos estudos da linguagem, sobretudo por sua perspectiva de 
+observação do signo em sua condição histórica, social e ideologi-
+camente situada. Na segunda, traçamos apontamentos pertinen-
+tes à pesquisa em contexto digital, elencando características dessa 
+esfera que precisam compor a lente analítica, visto que transfor-
+mam cronotopicamente o enunciado concreto. Por fim, na terceira 
+parte, analisamos algumas postagens que utilizam #contémironia 
+em suas formulações. As análises estão focadas principalmente na 
+potencialidade ideológica e responsiva do recurso, bem como em 
+seus impactos às dimensões e aos desdobramentos do signo na 
+interação humana. 
+
+Palavra, contrapalavra e sua interface com a ironia: refle-
+xões a partir da perspectiva bakhtiniana
+
+Nesta seção refletimos sobre as concepções de palavra e con-
+trapalavra, que norteiam teórico-filosoficamente o presente artigo. 
+Para tanto, a perspectiva bakhtiniana é tomada como horizonte no 
+
+desenvolvimento dessas observações, acrescida de interlocuções 
+com autores contemporâneos. De antemão, afirmamos que não 
+é proposta da seção exaurir conceitualmente os termos, mas sim 
+traçar apontamentos sobre sua atualidade para a pesquisa em lin-
+guagem, sobretudo na esfera virtual.
+
+Bakhtin confronta seus leitores com a proposta de observação 
+e  análise  da  linguagem  em  meio  à  comunicação  humana  a  par-
+tir da perspectiva metalinguística, sobre a qual a conceituação da 
+palavra deve estar ancorada nas relações intersubjetivas situadas 
+cronotopicamente.
+
+A  palavra  com  as  suas  fronteiras  inexpugnáveis,  sagradas,  é 
+uma palavra inerte, com possibilidades limitadas de contatos e 
+combinações. [...] A palavra tirada do diálogo: ela pode apenas 
+ser citada no interior das réplicas, mas ela não pode se tornar 
+réplica entre outras réplicas isônomas. (BAKHTIN, [1924] 2011, 
+p. 368).
+
+A proposição de um estatuto sacro à inércia da palavra evoca 
+a problematização do dogmatismo contido nesse movimento, so-
+bretudo  por  seu  caráter  hegemônico.  A  palavra  não  respondida 
+alcança apenas um patamar modelar, ao qual se busca uma repe-
+tição desarticulada da concretude da vida, uma vez que tal estipu-
+lação se sustenta apenas no campo das ideias e não se estabelece 
+em meio às irregularidades e dissonâncias do discurso. 
+
+Juntamente à problematização da palavra fora do diálogo e de 
+sua proximidade com uma concepção inexpugnável de existência 
+está a dimensão autoritária desse processo. Tal qual defende Ba-
+khtin, essa condição não se subordina a algum estatuto linguísti-
+co específico, mas a dimensões metalinguísticas que pressupõem 
+graus de alteridade e formas de relação pelas quais se estabelece 
+sua “exclusão da vida do discurso” (BAKHTIN, 2011, p. 368) . 
+
+Bakhtin une a palavra autoritária exatamente com a palavra da 
+autoridade, “independente de que a reconheçamos ou não”, que 
+pede um “distanciamento” matizado, na forma positiva ou nega-
+tiva, razão pela qual a atitude do indivíduo em relação a ela pode 
+ser respeitosa ou hostil. Por sua condição, organiza ao seu redor 
+outras palavras, mas, sem se unir a elas, que “a interpretam, que 
+a exaltam, que a aplicam desta ou de outra maneira”, sendo que 
+deveria não apenas ser colocada entre aspas como escrita com 
+letras “especiais”, uma vez que é muito difícil introduzir-lhe mu-
+danças: “sua estrutura semântica é imóvel e amorfa, ou, então é 
+acabada e monossêmica, seu sentido se refere ao pé da letra, se 
+torna rígido”. (BAKHTIN, [1975] 2002, p. 143-144 apud MUELLER, 
+p. 96, 2017).
+
+Assim como propõe Mueller (2017) em seu artigo, a palavra 
+autoritária, aparentemente desprendida de um contrato relacio-
+nal com as palavras dos outros, se coloca a partir de uma respos-
+ta ao dito. Em outros termos, a palavra autoritária transmite uma 
+posição axiológica sobre aquilo que enuncia, porém não admite 
+contestações  ou  movimentos  persuasivos  que  instabilizem  sua 
+constituição indivisível. 
+
+A  noção  de  palavra  autoritária,  que  está  firmada  em  um  lu-
+gar ideológico impositivo e que não se transforma no contato com 
+aqueles a quem é direcionada, estabelece indisponibilidade com 
+o riso e com a ironia, visto que são de potencialidade libertadora, 
+dissonante e não hegemônica. Se na palavra autoritária não ca-
+bem os movimentos dissonantes e irruptivos que a abririam para 
+se transformar cronotopicamente em meio à interação verbal, o 
+riso e a ironia tornam-se elementos de amplo deslocamento de 
+seu estatuto, visto que ameaçam a morbidez incutida na serieda-
+de do gesto autoritário.
+
+Só  as  culturas  dogmáticas  e  autoritárias  são  unilateralmente 
+sérias. A violência desconhece o riso. [...] A entonação de uma 
+
+ameaça anônima no tom do locutor que transmite comunicados 
+importantes. A seriedade amontoa as situações de impasse, o 
+riso se coloca sobre elas, liberta delas. O riso não coíbe o ho-
+mem, liberta-o. (BAKTHIN, [1924] 2011, p. 370).
+
+A partir dessas percepções, é possível estabelecer uma com-
+preensão preliminar, apesar de não generalista, sobre a atualidade 
+do conceito de palavra no viés bakhtiniano. Dado o entendimento 
+da palavra como movimento axiológico humano que se materiali-
+za verbalmente na composição dos enunciados concretos, obtém-
+-se o encaminhamento de que o estudo da palavra conduz a uma 
+caça aos rastros das alteridades que são respondidas, refutadas, 
+polemizadas e postas em tensão de maneira irrepetível dentro da 
+extensão do enunciado. 
+
+Em  face  da  irrepetibilidade  discursiva  na  palavra,  uma  vez 
+que sua constituição se dá pela interseção singular de um eu que 
+enuncia com um outro, pode-se criar uma perspectiva pulverizada 
+sobre  sua  constituição,  mobilizando  uma  noção  efêmera  acerca 
+de sua existência. Todavia, na dimensão cronotópica da palavra, 
+o tempo e o espaço da enunciação se convergem e conferem en-
+tornos  tácitos  que  situam  seu  lugar  interindividual.  “Em  termos 
+gerais, o cronotopo nos possibilita entender, à luz do discurso, as 
+diversificadas experiências de sujeitos na concretude do tempo e 
+espaço das situações de interação das quais se engajam” (OLIVEI-
+RA; HUFF; ACOSTA PEREIRA, 2019, p. 135).    
+
+A partir do que se apresenta, compreendemos que a palavra, 
+viva e aberta ao diálogo, estabelece-se na condição de poder lidar 
+com a contrapalavra, isto é, a força das alteridades que colidem de 
+maneira  tensa  com  sua  existência,  dando  contornos  axiológicos 
+diversos ao acontecimento responsivo no discurso e na vida. Es-
+sas palavras do outro, ou palavras alheias, nos termos de Bakhtin 
+([1924] 2011, p. 295), “trazem consigo a sua expressão, o seu tom 
+valorativo que assimilamos, reelaboramos, e reacentuamos”. 
+
+São  estabelecidas,  dessa  forma,  duas  importantes  noções 
+ao presente artigo e que estão imbricadas em suas próprias di-
+mensões:  a  palavra  e  a  contrapalavra.  Ao  mesmo  tempo,  surge 
+o questionamento: em que medida se torna possível observá-las 
+separadamente? A esse respeito, entendemos que análises foca-
+das em enunciados deslocados de seu acontecimento dialógico e 
+situado chegam apenas ao patamar da catalogação da língua, algo 
+que  não  reflete  significativamente  as  refrações  da  inter-relação 
+humana que emergem em meio ao jogo de negociação discursi-
+va. “[...] Todas as palavras (enunciados, produções de discurso e 
+literárias),  além  das  minhas  próprias,  são  palavras  do  outro.  Eu 
+vivo em um mundo de palavras do outro” (BAKHTIN, [1924] 2011, 
+p. 379). Desse modo, palavra e contrapalavra, do ponto de vista 
+conceitual, são norteamentos da dialogicidade humana a partir de 
+sua relação com o outro em contextos concretos de comunicação. 
+Na prática, incorporam-se no discurso do sujeito, não revelando 
+necessariamente uma gênese específica, mas funcionando no en-
+gajamento de respostas ao dito, na composição viva da cadeia dia-
+lógica da interação humana. Em suma, e de acordo com Bakhtin 
+(2010, p. 89), “todo discurso é orientado para a resposta e ele não 
+pode  esquivar-se  à  influência  profunda  do  discurso  da  resposta 
+antecipada”.
+
+Importa  trazer  à  tona  que  há  o  princípio  relacional  que  dis-
+tingue a palavra e a contrapalavra do ponto de vista conceitual e 
+prático. A partir das reflexões nas linhas anteriores, esse princípio 
+de relação carrega em si uma mobilidade inerente, uma vez que a 
+contrapalavra assume a colisão discursiva com um dito, em uma 
+esteira  responsiva,  dissonante,  tensa,  mas,  sobretudo,  não  indi-
+ferente ao seu enunciado de referência. A partir desse processo 
+estabelecido, a contrapalavra toma seu lugar de palavra da relação 
+e está aberta ao embate, podendo ser atingida e transformada na 
+valoração enunciada dos outros, quando a respondem. Essas for-
+mas de respondibilidade são diversificadas e variam conforme os 
+graus de relação intersubjetiva e os contextos históricos e sociais 
+negociados ou impostos. Em acréscimo, a própria linguagem que 
+
+está nesse jogo não está inerte às valorações, mas reflete e refrata 
+a perspectiva ideológica daquele(s) que enuncia(m), contribuindo 
+à tensão discursiva inerente do diálogo, conforme apontam Ribei-
+ro e Sobral (2021):
+
+A linguagem, sendo constitutivamente dialógica, não pode ser 
+compreendida de maneira estática, como um sistema abstrato 
+e acabado, mas como um fluxo comunicativo intermitente. Todo 
+enunciado é resposta a outro enunciado dado e suscita respos-
+tas de outros que virão. Lidamos com palavras alheias, clivadas 
+de valor axiológico, que, quando mobilizadas na interação, são 
+reelaboradas, apropriadas e produzem velhos/novos sentidos. 
+(RIBEIRO; SOBRAL, 2021, p. 5).
+
+As reflexões de Ribeiro e Sobral (2021) evocam um posiciona-
+mento pertinente não só ao linguista, mas também ao professor 
+de língua. Dentro desses dois ofícios há o constante risco da mo-
+delização, imposto sistematicamente pela corrente racionalista ou 
+pelos próprios interesses do modelo escolástico (BAKHTIN, 2013) 
+que abstraem a linguagem de seu acontecimento, para dissecá-la, 
+repeti-la e testificá-la em processos avaliativos. Como exemplo, é 
+possível citar o próprio ensino da ironia, comumente aplicado em 
+sala de aula no viés da modelização e na busca catalográfica a par-
+tir de recursos linguísticos em excertos textuais deslocados. Ape-
+sar de tal estratégia alcançar determinadas dimensões do estudo/
+análise da língua, sua problematização é igualmente necessária, 
+visto que está em constante tendência à modelização exacerbada 
+que requer indiferença ao estatuto responsivo e responsável si-
+tuado, contido nesse movimento axiológico na linguagem.
+
+A ironia entrou em todas as línguas da Idade Moderna (particu-
+larmente  na  francesa),  entrou  em  todas  as  palavras  e  formas 
+(particularmente  as  sintáticas,  a  ironia,  por  exemplo,  destruiu 
+a estorvadora periodicidade “empolada” do discurso). A ironia 
+
+existe em toda parte – da ironia mínima, imperceptível, à ruido-
+sa, limítrofe com o riso. (BAKHTIN, [1924] 2011, p. 367).
+
+Bakhtin proporciona uma perspectiva inconformada, não indi-
+ferente e que, por consequência, requer dos leitores uma postura 
+não estagnada frente às dinâmicas da linguagem. A observação da 
+ironia, no viés bakhtiniano, requer a atribuição de uma centralida-
+de ao aspecto de colisão constituinte de seu processo. Seja a ironia 
+mínima ou a ruidosa, sua essência se dá na não estagnação, no 
+confronto e no movimento de não permanência do discurso ofi-
+cial ou de autoridade (que pode se desdobrar em autoritário). Em 
+outros termos, a ironia é a contrapalavra que destitui, modifica e 
+ressignifica a palavra à qual se refere. Sua provocação de riso é, na 
+leitura proposta neste artigo, o reflexo ruidoso de seu impacto no 
+cerne ideológico do enunciado, abalando-o em meio à interação 
+verbal. Acerca dessa proposta, as reflexões de Bubnova, Baronas 
+e Tonelli (2011) encaminham um esclarecimento da questão.
+
+ 
+
+Na palavra a duas vozes, há dois pontos de vista, duas opiniões, 
+duas  intenções  que  entram  em  conflito.  A  palavra  bivocal  é  a 
+reação à palavra alheia, à palavra de outra pessoa. O acento, em 
+particular, o alheio, isto é, a entonação que reproduz a valora-
+ção social, é o que determina a reprodução da palavra do outro. 
+(BUBNOVA; BARONAS; TONELLI, 2011, p. 271, grifo do autor).
+
+Um aspecto importante a ser destacado está na bivocalidade 
+pressuposta da ironia. Não desconsideramos, com isso, essa exis-
+tência em outras práticas na e com a linguagem, mas sim em sua 
+imanência para a constituição do efeito irônico em meio à intera-
+ção humana. Além disso, a forma de inter-relação mantém o enun-
+ciado irônico em uma constante posição de contrapalavra, pois é 
+nessa  esfera  que  sua  constituição  linguístico-discursiva  expõe  o 
+interstício dialógico da palavra alheia, pondo em tensão o discurso 
+atingido.
+
+Desse modo, torna-se possível visualizar um aspecto marginal 
+e  produtivo  da  ironia  enquanto  contrapalavra.  Sua  marginalida-
+de se dá a partir de sua força contra-hegemônica, isto é, da dire-
+ção não subordinada de que parte, rompendo com estabilizações 
+impostas  ou  pré-estabelecidas.  Por  exemplo,  a  palavra  autoritá-
+ria não se vale da ironia em sua constituição, visto que marcaria 
+discursivamente seu ruído, divisibilidade e contestação. Por outro 
+lado, quando a ironia é utilizada, há o deslocamento da palavra 
+autoritária para fora de sua abrangência, atribuindo-lhe palavras 
+alheias munidas de outras posições axiológicas, como a ironia, que 
+visam à sua transfiguração. O riso pode ser assumido como produ-
+to refratante desse tipo de embate, porém o caráter proeminente 
+dessa relação com a linguagem está em seu efeito anárquico dian-
+te do que é imposto, fechado e sério.
+
+Conforme  anunciado  desde  o  início  do  texto,  as  reflexões 
+acerca da palavra, da contrapalavra e de sua interlocução com a 
+ironia  estão  postas  a  partir  dos  escritos  de  Bakhtin,  o  qual,  por 
+uma  questão  temporal,  não  testemunhou  diversas  mudanças  e 
+atualizações nas formas de interação humana. Ao mesmo tempo, 
+ao confrontarmos esses postulados com contextos contemporâ-
+neos de comunicação, como é o caso dos estabelecidos na esfe-
+ra virtual, observaremos dimensões enunciativas diversas das do 
+texto analógico e que se tornam uma arena para refletirmos sobre 
+a atualidade e pertinência do pensamento desse autor.
+
+Um caso interessante, e que motivou a produção do presente 
+estudo, ocorreu a partir da percepção do uso cada vez mais fre-
+quente  de  expressões  como  “#contémironia”,  “[contém  ironia], 
+“(Este post contém ironia)”, entre outras similares. Surgiu, desse 
+modo,  uma  curiosidade  preliminar  acerca  de  quais  demandas 
+enunciativas se sobrepuseram aos usuários para que necessitas-
+sem demarcar textualmente o tom irônico em enunciados lança-
+dos nas redes sociais da internet. Assim, na seção seguinte serão 
+exercitadas algumas considerações sobre a esfera virtual e suas 
+implicações à materialidade do enunciado, a fim de construir um 
+
+entorno de percepções que se aplicarão a alguns casos coletados 
+da rede social Facebook.
+
+As redes sociais como praça pública: repensando territórios
+
+As práticas com a linguagem na esfera virtual evocam desa-
+fios à linguística contemporânea, sobretudo no que diz respeito 
+às diferentes formas possíveis de interação que questionam e res-
+significam a oficialidade do enunciado. Especificamente nas redes 
+sociais digitais, somos confrontados por uma força enunciativa e 
+popular que liquidifica e potencializa a interação humana, exce-
+dendo-se em impactos à sociedade, tal qual afirma Recuero (2014):
+
+São essas conversas públicas e coletivas que hoje influenciam a 
+cultura, constroem fenômenos e espalham informações e me-
+mes, debatem e organizam protestos, criticam e acompanham 
+ações  políticas  e  públicas.  É  nessa  conversação  em  rede  que 
+nossa cultura está sendo interpretada e reconstruída. (RECUE-
+RO, 2014, p. 17-18).
+
+A potência de transformação social dos enunciados na esfera 
+virtual pode ser observada a partir de pelo menos duas caracterís-
+ticas inerentes à sua existência: seu estatuto público e suas múlti-
+plas territorialidades. Ambos os aspectos carregam em si uma re-
+latividade constitutiva, porém devem compor o crivo investigativo 
+do analista no estudo desse tipo de interação humana.
+
+Seguindo  a  esteira  propositiva  bakhtiniana,  defendemos  a 
+rede social como a praça pública da contemporaneidade. Essa pra-
+ça, de acordo com Bakhtin ([1975] 2002), ao refletir sobre o contex-
+to da antiguidade, é um:
+
+Cronotopo extraordinário, onde todas as instâncias superiores, 
+desde o Estado até a verdade, eram representadas e personifi-
+
+cadas concretamente, estavam visivelmente presentes. E nesse 
+cronotopo  concreto,  que  parece  englobar  tudo,  realizava-se  a 
+exposição e recapitulação de toda a vida do cidadão, efetuava-
+-se a sua avaliação público-civil. (BAKHTIN, ([1975] 2002, p. 252).
+
+Observamos pertinência na apreciação do conceito da praça 
+pública aplicado às redes sociais, por compartilharem de dimen-
+sões constitutivas equivalentes. As redes sociais comportam em 
+si a coletividade exacerbada e constitutiva para sua existência. A 
+partir de tal característica, os sujeitos compartilham sua posição 
+axiológica, em um constante processo de respondibilidade. As di-
+mensões  íntimas,  públicas,  político-partidárias  e  ideológicas  são 
+lançadas nessa praça, na qual todos estão respondendo a algo/
+alguém.  “A  praça  pública  é  o  lugar  da  extroversão,  não  daquela 
+manifestação superficial, mas sim da extraposição do universo in-
+terior em toda sua intimidade” (MACHADO, 2010, p. 212).
+
+Outro  aspecto  da  praça  pública,  em  Bakhtin,  que  converge 
+com o das redes sociais é a possibilidade de tomada da palavra, 
+sobretudo na dimensão volitivo-responsiva que a constitui, uma 
+vez que seu espaço não se subordina à hierarquização autoritária, 
+mas fornece condições de bivocalizar os discursos, dando-lhes pa-
+lavras alheias que as interpõem, as questionam e as tiram de seu 
+lugar estático.
+
+A praça pública no fim da Idade Média e no Renascimento for-
+mava um mundo único e coeso onde todas as “tomadas de pala-
+vra” (desde as interpelações em altos brados até os espetáculos 
+organizados) possuíam alguma coisa em comum, pois estavam 
+impregnados do mesmo ambiente de liberdade, franqueza e fa-
+miliaridade. (BAKHTIN, [1975] 2002, p. 132).
+
+Diante  dessa  característica  é  que  também  se  estabelecem 
+estratégias  de  captação  popular,  travestidas  de  palavra  interior-
+mente persuasiva (BAKHTIN, [1924] 2011), mas que galgam dentro 
+
+das redes sua força discursiva, a fim de alcançar estatuto de ofi-
+cialidade. No contexto brasileiro, é possível citar a atual chefia de 
+Estado que, investindo nas redes sociais e munida de um apelo po-
+pularesco, ganhou forte adesão de grupos reacionários e venceu 
+as eleições presidenciais em 2018, contrariando muitas previsões 
+que se baseavam no formato tradicional de campanha e engaja-
+mento político.
+
+Com base no caso específico citado no parágrafo anterior, per-
+cebemos que as redes sociais são esferas em que as tomadas de 
+palavra não têm dimensões previsíveis ou que sequer possam ser 
+integralmente tolhidas por algum tipo de clivagem sistêmica. Tal 
+qual uma semente em solo fértil, o enunciado nas redes sociais 
+se alastra e ganha contrapalavras abruptamente, assumindo ade-
+sões, recusas e impactos sociais diversos.
+
+A  imprevisibilidade  das  respostas  ao  enunciado  está  intima-
+mente  relacionada  ao  aspecto  multiterritorial  das  redes  sociais. 
+Sobre isso, Nunes (2003, p. 35) afirma que “no território digital não 
+há fronteiras, nem alfândegas. Um livre trânsito de informações, 
+pessoas  e  produtos  do  meio.  Em  similaridade,  as  fronteiras  ter-
+restres – reais – tornam-se cada vez mais rarefeitas, obsoletas”. A 
+partir de uma concepção dialógica de linguagem, é possível inferir 
+que  os  enunciados,  retomados,  respondidos,  reiterados  e  ques-
+tionados ad infinitum nas redes sociais, estão em uma constante 
+mutabilidade em virtude dos efeitos que exercem na vida de seus 
+respondentes. Não é raro, por exemplo, encontrar nas redes so-
+ciais pessoas (físicas e jurídicas) que se retratam por enunciados 
+anteriormente  transmitidos/postados,  não  necessariamente  em 
+virtude de seu conteúdo, mas sim por conta dos novos territórios 
+a eles agregados, a partir da resposta negativa por parte daqueles 
+que  o  recepcionaram  (popularmente  chamado  de  “cancelamen-
+to”).
+
+Em face da potencialidade das redes sociais, inclusive de seu 
+impacto  socioeconômico  àqueles  que  a  utilizam  como  ofício  ou 
+como  plataforma,  os  efeitos  causados  pelas  respostas  positivas 
+(popularmente chamado no contexto virtual de engajamento) não 
+
+podem ser ignorados por aqueles que enunciam. É a praça pública 
+dando sua resposta a qualquer voz sobressalente.
+
+Importa,  desse  modo,  pontuar  que  não  lidamos  nesses  ca-
+sos com enunciados sem seu acontecimento concreto. Apesar de 
+a  não  perenidade  cronotópica  ser  um  elemento  constitutivo  do 
+enunciado nas redes sociais, isso não significa, por exemplo, que 
+palavras são lançadas a partir de um vazio. Há sempre um contex-
+to sócio-histórico subjacente aos enunciados postados em redes 
+sociais, isto é, há sempre um apelo de resposta constitutivo. Po-
+rém, as dimensões se refazem a cada instância alcançada por esse 
+enunciado em rede, uma vez que seu trajeto em meio às alterida-
+des não está à mercê do controle centralizador do sujeito.
+
+Diante desse cenário, surge a busca por um firmamento, a fim 
+de se poder estabilizar a palavra, mesmo que simbolicamente. Na 
+proposta do presente artigo, a marcação hashtag (manifestada no 
+uso do símbolo # junto a alguma palavra ou expressão) é enxerga-
+da como uma estratégia discursiva de firmar um território ao que 
+é enunciado nas redes sociais.
+
+Diríamos que as hashtags podem ou não apresentar um cará-
+ter argumentativo, considerando que se trata de um elemen-
+to técnico (um link) que só poderá ser significado a partir do 
+modo como irá integrar o enunciado-tuite e, também, do modo 
+como esse elemento pode ou não relacionar sentidos e sujei-
+tos em espaços enunciativos informatizados específicos, uma 
+vez que uma hashtag não funciona do mesmo modo em todos 
+os  espaços,  pois  cada  um  desses  espaços  possui  normatiza-
+ções próprias. (SILVEIRA, 2017, p. 226).
+
+Silveira (2017), apesar de construir suas observações com foco 
+na rede social Twitter, fornece elementos importantes para a com-
+preensão do caráter territorializador da hashtag de maneira ge-
+ral. A partir de seus apontamentos, afirmamos que a utilização de 
+hashtags será, nas redes sociais, uma estratégia de se propor uma 
+
+baliza para se refletir sobre quais tempos-espaços e ideologias es-
+tão  sendo  evocados  no  enunciado  em  questão.  Há,  consequen-
+temente, perguntas que emergem dessa tentativa, tais como: em 
+que medida essa estratégia se efetiva (ou não) no contexto digital? 
+Podemos inferir que no contexto digital as hashtags cumprem o 
+papel  de  posição  axiológica  exteriorizada?  A  hashtag  #contémi-
+ronia, objeto principal do presente estudo, pode ser considerada 
+uma tentativa de regulação da contrapalavra?
+
+#Contémironia: entre a contrapalavra, a territorialidade e 
+a regulação
+
+A presente seção, focada na análise de algumas postagens da 
+rede social Facebook em que houve a utilização da hashtag #con-
+témironia, é um exercício de observação dessa estratégia na in-
+teração  humana  situada  no  contexto  digital.  Não  há  uma  busca 
+por regularidades que permitam uma catalogação desse processo, 
+mas sim uma busca pelo estudo de posições axiológicas e formas 
+de respondibilidade a contextos concretos da vida social. 
+
+Em  termos  práticos,  o  procedimento  de  seleção  das  posta-
+gens, visto que são muitas e diversas, se deu com base em alguns 
+critérios, a saber: as postagens deveriam estar em modo público 
+na  rede  social  Facebook;  deveriam  mencionar  (textualmente  ou 
+utilizando o recurso do compartilhamento) a qual tema social se 
+referem, explicitamente; deveriam enunciar a partir de temas de 
+contexto social público (tais como economia, política, saúde, com-
+portamento etc.); deveriam utilizar a hashtag #contémironia1. Ima-
+gens pessoais e nomes dos autores das postagens foram proposi-
+talmente omitidos. 
+
+Ainda,  as  propostas  de  leitura  nesta  seção  orientam-se  na 
+perspectiva da Análise Dialógica do Discurso, tomada neste traba-
+lho como método que norteia a recepção e o estudo do enunciado 
+a partir de seu acontecimento concreto na linguagem e na vida. 
+
+1 Foi notada a ocorrência do uso de parênteses e colchetes em algumas postagens para demarcar a palavra “ironia”, porém 
+optamos no artigo por coletar apenas enunciados que utilizaram o recurso da hashtag (#). 
+
+Diante dessa decisão, as dimensões histórico-sociais são evocadas 
+no processo analítico para interlocução com os enunciados sele-
+cionados, a fim de que se mantenha o foco nas relações dialógicas 
+que se vivificam em seus contextos ideológicos situados. Concor-
+damos, portanto, com a proposição de Brait (2006) acerca dessa 
+postura metodológica disposta a:
+
+Esmiuçar campos semânticos, descrever e analisar micro e ma-
+cro-organizações sintáticas, reconhecer, recuperar e interpretar 
+marcas e articulações enunciativas que caracterizam o(s) discur-
+so(s) e indicam sua heterogeneidade constitutiva, assim como 
+a dos sujeitos aí instalados. E mais ainda: ultrapassando a ne-
+cessária  análise  dessa  “materialidade  linguística”,  reconhecer 
+o gênero a que pertencem os textos e os gêneros que nele se 
+articulam, descobrir a tradição das atividades em que esses dis-
+cursos se inserem e, a partir desse diálogo com o objeto de aná-
+lise, chegar ao inusitado de sua forma de ser discursivamente, à 
+sua maneira de participar ativamente de esferas de produção, 
+circulação e recepção,  encontrando sua identidade nas relações 
+dialógicas estabelecidas com outros discursos, com outros sujei-
+tos. (BRAIT, 2006, p. 13-14).
+
+A primeira postagem é de um usuário que utiliza uma imagem/
+manchete do presidente Jair Bolsonaro com seus filhos, cujo título 
+é “Clã no alvo: Justiça e Polícia Federal investigam os 4 filhos de Bol-
+sonaro”. O usuário, na parte superior dessa manchete, enuncia: 
+“Parem com essa perseguição. O pai não tem culpa dos erros dos 
+
+Figura 1: Postagem do Facebook sobre a família Bolsonaro
+
+Fonte: Facebook (Março, 2021).
+
+filhos. Além do mais as pessoas de bem do Brasil votaram no pai e 
+não nos filhos #contémironia”.
+
+Sob uma perspectiva sócio-histórica do contexto político-par-
+tidário brasileiro contemporâneo, é possível admitir que a hashtag 
+#contémironia atinge minimamente duas dimensões responsivas 
+importantes: responde à notícia e responde à parcela da popula-
+ção que endossa as opiniões e os movimentos políticos do então 
+chefe de Estado. 
+
+Acerca da primeira dimensão, notamos que #contémironia de-
+sempenha uma função ideológica basilar para o enunciado como 
+um todo, uma vez que, linguisticamente e sem a hashtag, sua cons-
+trução caminha para uma proposição que repudia qualquer movi-
+mento de oposição ao presidente da República e à sua família. A 
+partir de expressões como “Parem com essa perseguição”, “o pai 
+não tem culpa” e “as pessoas de bem no Brasil votaram no pai”, o 
+
+usuário constrói ideologicamente uma posição de apoio à família 
+Bolsonaro, o que se desmantela e é revogada diante da hashtag ao 
+final do enunciado. 
+
+Algo interessante a ser destacado é que a rede social Facebook 
+permite em suas postagens textuais a inclusão de emojis (peque-
+nas imagens que podem ser usadas para expressar sentimentos, 
+marcar visualmente alguma informação não mencionada no plano 
+verbal ou reiterar/refutar o que foi enunciado em texto). Todavia, 
+ao longo de todo o enunciado, o usuário não se vale desse recurso, 
+deixando para inserir apenas ao final um emoji em que há uma 
+pessoa de braços cruzados, sucedido da hashtag #contémironia. 
+A marcação visual e a hashtag, na posição em que se encontram, 
+conduzem a uma leitura que desafia seu formato canônico2: ape-
+sar de lermos o conteúdo textual da esquerda para a direita e de 
+cima para baixo, #contémironia obriga o leitor a refazer seus pas-
+sos em um processo de ressignificação da recepção do enunciado. 
+Assim, notamos que a marcação da ironia desregulariza o pla-
+no linguístico como um todo e atinge o campo ideológico do signo. 
+Não afirmamos, desse modo, que essa estratégia quebra com a 
+cadeia sintagmática da língua, mas certamente a questiona. Por 
+conseguinte, esse tipo de construção traz à tona o questionamen-
+to acerca da (não) linearidade do texto na esfera virtual e o quanto 
+esse procedimento (ou sua falta) contribuem (ou não) para o pro-
+cesso da leitura nesse contexto específico. 
+
+Acerca da segunda dimensão, na qual #contémironia respon-
+de à parcela da população apoiadora do presidente, obtemos tal 
+noção a partir da investigação social e histórica dos enunciados da 
+postagem. A partir da busca de possíveis fios que nos mostrassem 
+sua historicidade, encontramos duas notícias que permitiram tal 
+entendimento.
+
+2 Considera-se neste caso o procedimento de leitura do português, conforme ensinado nas aulas de alfabetização em língua 
+materna. 
+
+Figura 2: Manchete da Folha de São Paulo
+
+Fonte: Site Folha de S. Paulo (2019).
+
+Figura 3: Manchete do Correio Braziliense
+
+Fonte: Site Correio Braziliense (2020).
+
+Apesar de ambas as reportagens trazerem suas próprias abor-
+dagens ao tema (algo que não aprofundaremos por uma questão 
+de foco), importa destacar a recorrência do enunciado “Votei no 
+pai e não nos filhos”, que se repete com algumas variações nos 
+dois casos. Desse modo, as escolhas do usuário do Facebook não 
+estão soltas ou emergem de uma circunstância adâmica, mas são 
+contrapalavras  ruidosas  que  desterritorializam  o  enunciado  dos 
+
+apoiadores e o reimplantam em um acontecimento irônico e ques-
+tionador. 
+
+Em virtude da historicidade e dos matizes ideológicos evoca-
+dos pelo enunciado “votei no pai e não nos filhos”, a presença de 
+#contémironia tem papel importante para a territorialidade ética e 
+responsiva ao usuário em seu contexto de enunciação. Ao mesmo 
+tempo,  essa  estratégia  promove  o  não  álibi  (BAKHTIN,  2010)  do 
+usuário,  que  renega  responsivamente  a  repetibilidade  do  enun-
+ciado em contextos de apoio, transferindo-o para a valoração de 
+crítica e de zombaria. 
+
+A próxima postagem também faz interlocução com o contexto 
+político-econômico do Brasil. Nela, o usuário posta um vídeo que 
+utiliza  de  linguagem  e  elementos  visuais  típicos  de  um  anúncio 
+publicitário de supermercado. Todavia, o suposto supermercado 
+é chamado de “Super Obrigado” ao então ministro da Economia, 
+Paulo  Guedes,  apresentando  uma  lista  com  produtos  de  consu-
+mo básico (como óleo de cozinha, carne, gás etc.) e suas respecti-
+vas altas de preço. Na postagem do usuário está registrado: “Todo 
+mundo agradecendo o Paulo Guedes pelas altas nos preços dos 
+alimentos. Ele não consegue nem ir mais ao mercado, muitas pes-
+soas param para agradecer”. O enunciado verbal é concluído com 
+
+Figura 4: Postagem sobre a alta dos preços
+
+Fonte: Facebook (Março, 2021).
+
+um emoji que apresenta um rosto de expressão triste e olhar para 
+cima, sucedido de #contémironia. 
+
+ Ao situar social e historicamente o enunciado e seu contexto 
+de recepção, é possível evocar um episódio da política brasileira 
+em que o Ministro Paulo Guedes afirma ser recebido com agra-
+decimentos e orações quando entra no supermercado. De acordo 
+com a versão do ministro, em transcrição reportada pela página 
+de notícias Uol:
+
+ 
+
+Vejo isso aqui [cargo de ministro] como um compromisso com 
+200 milhões de brasileiros [...] Enquanto eu sentir que estou aju-
+dando... Eu entro no supermercado, as pessoas me agradecem. 
+Às vezes falam: “Olha, nós rezamos pelo senhor, estamos sen-
+tindo o que o senhor está fazendo por nós”. Isso me recompen-
+sa mais que qualquer elogio [...]. (GUEDES..., 2021, n. p.).
+
+No contexto enunciativo específico, o signo “agradecer/agra-
+decimento” assume centralidade no embate dialógico de sentidos. 
+O ministro utiliza o signo como contrapalavra às especulações de 
+que iria sair de seu cargo, ao passo que o usuário da rede social 
+reorganiza ideologicamente a expressão para causar ruído ao pró-
+prio lugar de benfeitor que o ministro atribui a si. 
+
+Assim como na primeira postagem analisada, houve a opção 
+por utilizar #contémironia ao final, requerendo que o leitor refaça 
+seus passos assim que avista a hashtag e sua dimensão ideológica 
+contrária ao que acabou de ser enunciado. Todavia, na postagem 
+em questão, o usuário deixa rastros mais abertos acerca de sua 
+postura  valorativa  frente  ao  contexto  sobre  o  qual  enuncia.  Em 
+“Todo mundo agradecendo o Paulo Guedes pelas altas nos pre-
+ços dos alimentos” o leitor já é confrontado com o ruído irônico 
+antes mesmo de alcançar a hashtag #contémironia, uma vez que, 
+ciente da crise política e econômica brasileira, as expressões de 
+agradecimento direcionadas à alta dos preços assumem relação 
+dissonante. Nesse caso, é possível notar que há a ironia ruidosa e 
+limítrofe (cf. BAKHTIN, [1924] 2011). A hashtag #contémironia não 
+assume nesse caso unicamente exterioridade linguística ao enun-
+
+ciado transmitido na postagem, mas reitera, tal qual um amplifica-
+dor vocal, o tom valorativo do enunciado concreto.  
+
+Pela própria estabilidade relativa (BAKHTIN, [1924] 2011) das 
+postagens do Facebook, é comum que as hashtags sejam postadas 
+na parte final dos enunciados, o que pode sugerir certa regularida-
+de sobre seu uso e função ideológica, sobretudo quando carregam 
+em si contrapalavras que se embatem ao dito, como é o caso de 
+#contémironia. Entretanto, no contexto seguinte, seu uso se deu 
+
+Figura 5: Postagem sobre crenças, ciência e pandemia
+
+Fonte: Facebook (Março de 2021).
+
+antes do enunciado em questão, o que evoca outras observações 
+a respeito:
+
+Na postagem em questão, o usuário insere #contémironia an-
+tes do enunciado: “Um absurdo estas pessoas que estão ignoran-
+do a ciência e se baseando em crendices para decidir o que fazer 
+durante  a  pandemia.  Aposto  que  são  todas  de  capricórnio  com 
+ascendente em escorpião”. Em análise, compreendemos que, nes-
+se caso, #contémironia funciona como recurso de territorialidade 
+ideológica, predizendo que tom valorativo deve ser esperado no 
+contato com o enunciado que ainda será recepcionado. Tal estra-
+tégia  carrega em  si uma posição mais  conservadora em relação 
+às potencialidades da contrapalavra nas redes sociais. O usuário 
+prepara a arena na qual lançará seu enunciado, na busca por esta-
+belecer um acordo de leitura com os demais participantes da rede. 
+Esse tipo de movimento está também ancorado em uma orienta-
+ção tácita sobre as redes sociais, por as reconhecer também como 
+
+espaços em que comumente ocorrem linchamentos virtuais, “can-
+celamentos” e ciberbullying, engatilhados por postagens mal re-
+cepcionadas ou de tema socialmente inaceitável.  
+
+O enunciado do usuário em questão apresenta em sua com-
+posição textual um ruído que permite ao leitor minimamente le-
+trado identificar efeitos de ironia e provocação ao tema do ceticis-
+mo versus crenças particulares. Entretanto, ainda assim, o usuário 
+não abre mão de reafirmar esse tom, por meio de #contémironia, 
+que, por vir no início, explicita ainda mais essa inclinação. Desse 
+horizonte  emerge  o  questionamento  acerca  da  efemeridade  do 
+enunciado em sua condição virtual, exigindo que os sujeitos es-
+tabeleçam uma suposta regulação de sentidos alheios, item este 
+que não pode ser dado como garantido ou categórico. 
+
+Por fim, o último destaque está na interação que a postagem 
+recebeu, simbolizada nas reações, um recurso possível à rede so-
+cial Facebook. Os emojis de risada e de surpresa, na parte infe-
+rior do enunciado, são indícios das contrapalavras dos usuários da 
+rede social. Pela escolha desses elementos visuais e pela ausência 
+de comentários que questionem ou apontem uma possível “con-
+tradição” na afirmação, há uma sugestão de que as estratégias es-
+colhidas pelo usuário cumpriram a função esperada. Ao mesmo 
+tempo, tomar essa percepção como uma certeza não é um passo 
+promissor,  em  virtude  da  imprevisibilidade  inerente  à  interação 
+virtual. 
+
+Conclusão
+
+A partir do percurso teórico e analítico proposto neste traba-
+lho, emergem pelo menos duas dimensões pertinentes ao estudo 
+do texto e do discurso situados nas esferas digitais: sua potencia-
+lidade de estabelecer novos caminhos ao discurso e sua premissa 
+por uma investigação de indícios que emanam da materialidade 
+textual. 
+
+Sobre  a  primeira  dimensão,  compreendemos  que  os  enun-
+ciados  digitais,  por  poderem  mobilizar  recursos  tecnológicos  de 
+acentuação valorativa, como é o caso de #contémironia, retiram o 
+texto de um lugar demasiadamente estático. Apesar de não con-
+cebermos o enunciado fora da esfera virtual como “imaculado” às 
+contrapalavras, os recursos tecnológicos do contexto digital propi-
+ciam uma condição mais imediatista desse processo, mostrando 
+explicitamente  quais  vozes  são  evocadas  ou  refutadas  na  mate-
+rialidade enunciativa. Desse modo, as referências de análise e in-
+vestigação linguística que se construíram fora do contexto digital 
+não podem ser mais tomadas como lente unilateral de observação 
+a fenômenos contemporâneos da linguagem. Pelas redes sociais, 
+o signo ideológico é valorado a partir de processos diferentes e, 
+portanto, requer procedimentos de análise que considerem as ca-
+racterísticas dessa esfera. 
+
+Sobre a premissa por uma investigação de indícios que ema-
+nam da materialidade textual, defendemos que as diferentes for-
+mas e estabilizações dos enunciados concretos na esfera virtual 
+mobilizam-se  em  uma  velocidade  bem  mais  acentuada  que  em 
+outras instâncias de interação humana. Formas relativamente es-
+táveis de enunciado surgem e se dissipam de maneira mais vola-
+tizada no contexto digital, tornando a catalogação de fenômenos 
+uma tarefa hercúlea. Ao mesmo tempo, ignorar essas formas de 
+interação e sua potencialidade na investigação do movimento da 
+língua/linguagem não é uma decisão adequada, pois imporia limi-
+tes drásticos à área de estudo, em virtude da abrangência da in-
+teração virtual. Por essa razão, advogamos pela identificação das 
+posições axiológicas, reconhecidas como rastros do lugar do sujei-
+to na interação verbal, o que é um caminho produtivo à pesquisa 
+na análise da língua e do discurso. Deve-se assumir uma postu-
+ra de caça aos indícios que emergem na materialidade da língua, 
+buscando rastros e fios que reverberem as condições materiais e 
+ideológicas do discurso, bem metaforizado por Ginzburg (1986):
+
+Por milênios o homem foi caçador. Durante inúmeras persegui-
+
+ções, ele aprendeu a reconstruir as formas e movimentos das 
+presas invisíveis pelas pegadas de lama, ramos quebrados, bo-
+lotas de esterco, tufos de pelos, plumas emaranhadas, odores 
+estagnados.  Aprendeu  a  farejar,  registrar,  interpretar  e  classi-
+ficar pistas infinitesimais como fios de barba. Aprendeu a fazer 
+operações  mentais  complexas  com  rapidez  fulminante,  no  in-
+terior de um denso bosque ou numa clareira cheia de ciladas. 
+(GINZBURG, 1986, p. 151).
+
+Em suma, o presente artigo não exaure suas questões, tam-
+pouco persegue tal meta. Na condição de contribuição aos estu-
+dos  linguísticos,  seu  foco  sobre  uma  especificidade  recorrente 
+nas práticas de interação humana em contexto digital busca com-
+preender dimensões ideológicas e intersubjetivas a partir do sig-
+no. Ao mesmo tempo, tal proposta visa à mobilidade da área, em 
+seu constante pareamento com as demandas da sociedade per-
+meadas pelos usos da língua na contemporaneidade.
+
+Referências
+
+BAKHTIN, M. Questões de literatura e estética: a teoria do romance. 
+5ª ed. São Paulo: Hucitec, [1975] 2002. 
+
+BAKHTIN, M. Para uma filosofia do ato responsável. Trad. Valdemir 
+Miotello e Carlos Alberto Faraco. São Carlos: Pedro & João Editores, 
+2010.
+
+BAKHTIN, M. O enunciado como unidade da comunicação discursiva. 
+Diferença entre essa unidade e as unidades da língua. In: BAKHTIN, M. 
+Estética da Criação Verbal. São Paulo: Martins Fontes, 6ª ed., [1924] 
+2011, p. 270-306.
+
+BAKHTIN, M. Apontamentos de 1970-1971. In: BAKHTIN, M. Estética da 
+Criação Verbal. São Paulo: Martins Fontes, 6ª ed., [1924] 2011, p. 367-
+392.
+
+BAKHTIN, M. Questões de estilística no ensino de língua. 1ª edição. 
+São Paulo: Editora 34, 2013. 
+
+BRAIT, B. Análise e teoria do discurso. In: BRAIT, B. Bakhtin: outros con-
+ceitos-chave. São Paulo: Contexto, 2006. p. 9-33.
+
+BUBNOVA, T.; BARONAS, R. L.; TONELLI, F. Voz, sentido e diálogo em 
+Bakhtin. Bakhtiniana, v. 6, n. 1, 2011 p. 268-280.
+
+FOLHA DE SÃO PAULO. ‘Votei no presidente e no vice, não no filho’, afir-
+ma leitor. Painel do Leitor (Folha de S. Paulo), abril de 2019. Disponível 
+em: https://www1.folha.uol.com.br/paineldoleitor/2019/04/votei-no-
+-presidente-e-no-vice-nao-no-filho-afirma-leitor.shtml. Último acesso 
+em: 12/04/2021.
+
+GINZBURG, C. Mitos, Emblemas, Sinais: morfologia e história. São 
+Paulo: Companhia das Letras, 1986.
+
+MACHADO, I. A questão espaço-temporal em Bakhtin: cronotopia e 
+exotopia. In: PAULA, L.; STAFUZZA G. (orgs.). Círculo de Bakhtin: teoria 
+inclassificável. Campinas/SP: Mercado das Letras, 1ª ed., 2010, p. 203-
+234.
+
+MUELLER, B. G. A palavra religiosa como uma variante da ‘palavra auto-
+ritária’ em Bakhtin. Bakhtiniana, v. 12, n. 1, p. 91-112, 2017.
+
+NUNES, F. Web arte no Brasil: algumas poéticas e interfaces no univer-
+so da rede internet.  Dissertação (Mestrado em Multimeios) – Instituto 
+de Artes, Universidade Estadual de Campinas, Campinas, 2003.
+
+OLIVEIRA, A. M.; HUFF, L. A.; ACOSTA PEREIRA, R. Considerações teórico-
+-metodológicas para o estudo da palavra-discurso: respostas a dois en-
+saios de Mikhail Bakhtin. Revista Caminhos em Linguística Aplicada, 
+v. 20, n. 1, 2019, p. 131-151.
+
+RECUERO, R. A conversação em rede: comunicação mediada pelo 
+computador e redes sociais na internet. 2 ed. Porto Alegre: Sulina, 2014.
+
+RIBEIRO, P. B.; SOBRAL, A. Eu, o outro (Outro) e o vazio na constitui-
+ção da representação identitária. D.E.L.T.A., v. 37, n 1, 2021, p. 1-25.
+
+ROTHENBURG, D. “Votei em Bolsonaro, não nos filhos. Ou ele dá um 
+castigo no filho ou será castigado junto”. Correio Braziliense, março 
+de 2020. Disponível em: https://blogs.correiobraziliense.com.br/denise/
+votei-em-bolsonaro-nao-nos-filhos-ou-ele-da-um-castigo-no-filho-ou-se-
+ra-castigado-junto/. Último acesso em: 12/04/2021.
+
+SILVEIRA, J. Hashtag e argumentação: proposta para o ensino de escrita 
+e leitura em textualidades digitais. Papéis, v. 21, n. 41, 2017, p. 218-234.
+
+GUEDES nega saída do governo: ‘Entro no mercado, as pessoas me 
+agradecem’. Uol Economia, março de 2021. Disponível em: https://
+economia.uol.com.br/noticias/redacao/2021/03/12/guedes-nega-saida-
+-do-governo-entro-no-mercado-as-pessoas-me-agradecem.htm. Último 
+acesso em: 14/04/2021.
+
+USUÁRIOS DESIDENTIFICADOS. Postagens diversas. Facebook, março 
+de 2021.
+
+

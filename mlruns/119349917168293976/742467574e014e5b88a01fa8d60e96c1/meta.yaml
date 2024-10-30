@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/742467574e014e5b88a01fa8d60e96c1/artifacts
+deleted_time: 1730154652092
+end_time: 1730151920748
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: 742467574e014e5b88a01fa8d60e96c1
+run_name: peaceful-dove-747
+run_uuid: 742467574e014e5b88a01fa8d60e96c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730151912809
+status: 3
+tags: []
+user_id: rapha

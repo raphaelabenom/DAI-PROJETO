@@ -1,0 +1,1656 @@
+DOI: 10.5216/ bgg.v43i01.63773 
+
+ 
+
+ 
+
+ 
+
+ 
+Uma análise da cientificidade da teoria social crítica 
+do geógrafo marxista David Harvey 
+ 
+
+An analysis of the scientificity of the critical social theory of the 
+marxist geographer David Harvey 
+
+ 
+Un análisis de la cientificidad de la teoría social crítica  
+
+del geógrafo marxista David Harvey 
+
+Mariza Ferreira da Silva 
+Universidade Federal do Paraná- Paraná – Brasil 
+marizafsbh@gmail.com   
+
+Luis Lopes Diniz Filho 
+Universidade Federal do Paraná- Paraná – Brasil 
+diniz.ufpr@gmail.com   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Edu Silvestre de Albuquerque 
+Universidade Federal do Rio Grande do Norte- Rio Grande do Norte – 
+Brasil 
+edusilvestre@ufrnet.br     
+
+ 
+
+ 
+
+ 
+
+ 
+
+Resumo  O  texto  apresenta  os  principais  fundamentos  teóricos  do 
+geógrafo crítico marxista David Harvey, que influenciou gerações de 
+geógrafos pelo mundo desde a década de 1960. O objetivo é analisar 
+a cientificidade da teoria social crítica, bem como fazer uma análise 
+epistemológica  das  teorias  econômicas  elaboradas  por  esse 
+geógrafo. As análises geográficas assentadas na filosofia da dialética 
+histórica e materialista de David Harvey convergem para uma teoria 
+crítica do capitalismo e da revolução social. Vale notar, que mesmo 
+em  suas  obras  consideradas  próximas  ao  pensamento  pós-
+modernista  e  à 
+teoria  da  regulação,  os  pressupostos  da 
+determinação  da  infraestrutura  econômica  e  da  visão  da  luta  de 
+classes como motor da história, nunca foram abandonados. Em sua 
+concepção, as contradições do capital devem ser explicadas porque 
+são universais e perpassam as demais contradições sociais. De modo 
+
+ 
+
+DOI: 10.5216/ bgg.v43i01.63773 
+
+que  é  possível  afirmar  que  em  David  Harvey,  marxismo  e  pós-
+modernismo convergem enquanto campos analíticos da teoria social 
+crítica  e  fazem  parte  do  sistema  crítico-filosófico  da  ciência 
+racionalista  moderna.  Por  essa  razão,  é  possível  questionar  a 
+cientificidade da geografia proposta por Harvey à luz do critério de 
+falseabilidade e com base na análise do contexto de justificação tal 
+como proposta por Karl Popper. 
+
+Palavras-chave:  Teoria  Social  Crítica;  Paradigmas  Científicos; 
+Filosofia da Ciência. 
+
+  
+
+ 
+
+Abstract This article presents the main theoretical foundations of the 
+Marxist  critical  geographer  David  Harvey,  who  has  influenced 
+generations of geographers around the world since the 1960s. The 
+objective is to analyze the scientificity of critical social theory, as well 
+as  to  make  an  epistemological  analysis  of  the  economic  theories 
+elaborated  by  Harvey.  The  geographical  analyzes  based  on  David 
+Harvey's philosophy of historical and materialistic dialectic converge 
+on  a  critical  theory  of  capitalism  and  social  revolution.  It  is  worth 
+noting  that  even  in  his  works  considered  close  to  postmodernist 
+thought and regulation theory, the assumptions of determining the 
+economic  infrastructure and  the  vision  of  the  class  struggle  as  the 
+engine  of  history  were  never  abandoned. 
+In  his  view,  the 
+contradictions  of  capital  must  be  explained  because  they  are 
+universal and permeate other social contradictions. Because of that, 
+it  is  possible  to  say  that  in  David  Harvey's  work  Marxism  and 
+postmodernism converge as analytical fields of critical social theory 
+and are part of the critical-philosophical system of modern rationalist 
+science. For this reason, it is possible to question the scientificity of 
+geography proposed by Harvey in the light of the falsifiability criterion 
+and based on the analysis of the context of justification as proposed 
+by Karl Popper.  
+
+Keywords: Critical Social Theory; Scientific Paradigms; Philosophy of 
+Science. 
+
+ 
+
+Resumen El texto presenta los principales fundamentos teóricos del 
+geógrafo  crítico  marxista  David  Harvey,  que  ha 
+influenciado 
+generaciones de geógrafos por el mundo desde la década de 1960. El 
+objetivo es analizar la cientificidad de la teoría social crítica, así como 
+realizar  un  análisis  epistemológico  de 
+las  teorías  económicas 
+elaboradas por ese geógrafo. Los análisis geográficos apoyados en la 
+filosofía  de  la  dialéctica  histórica  y  materialista  de  David  Harvey 
+convergen para una teoría crítica del capitalismo y de la revolución 
+social. Señalase que mismo en sus obras consideradas próximas al 
+pensamiento  posmoderno  y  a  la  teoría  de  la  regulación,  las 
+suposiciones de la determinación de la infraestructura económica y 
+de la visión de la lucha de clases como motor de la historia nunca 
+fueran  dejadas.  En  su  concepción,  las  contradicciones  del  capital 
+
+DOI: 10.5216/ bgg.v43i01.63773 
+
+deben ser explicadas porque son universales y atraviesan las demás 
+contradicciones sociales. De modo que es posible afirmar que David 
+Harvey,  marxismo  y  posmodernidad  convergen  cómo  campos 
+analíticos  de  la  teoría  social  crítica  y  pertenecen  al  sistema  crítico-
+filosófico de la ciencia racionalista moderna. Por esa razón, es posible 
+cuestionar la cientificidad de la geografía propuesta por Harvey a la 
+luz del criterio de falsabilidad y basada en el análisis del contexto de 
+justificación, así como propuesto por Karl Popper.  
+
+Palabras  clave:  Teoría  social  crítica;  Paradigmas  científicos; 
+Filosofía de la ciencia. 
+
+ 
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+Introdução 
+
+A reavaliação da chamada Geografia Crítica ou Radical é uma tarefa tão 
+
+necessária  quanto  difícil.  Necessária  porque,  essa  é  hoje  a  corrente  de 
+
+pensamento geográfico dominante e seus pressupostos teórico-metodológicos 
+
+e éticos definem a pauta da maioria das publicações acadêmicas e o ensino da 
+
+Geografia  Humana,  inclusive  de  geógrafos  que  não  se  reconhecem  como 
+
+críticos, tais como Rogério Haesbaert e Marcelo Lopes de Souza (DINIZ FILHO, 
+
+2013, p. 13-27). Difícil porque, além das resistências a reavaliações inerentes a 
+
+essa hegemonia intelectual, os alicerces da Geografia Crítica estão apoiados em 
+
+abordagens  teóricas  e  metodológicas  que,  por  sua  própria  natureza,  são 
+
+fechadas à possibilidade de autocrítica. 
+
+Para  demonstrar  isso,  é  útil  proceder  a  uma  reavaliação  da  obra  de 
+
+David  Harvey,  um  dos  nomes  centrais  da  Geografia  Crítica  em  âmbito 
+
+internacional,  e  que  se destaca pelo uso  recorrente à  filosofia  materialista  e 
+
+histórica marxista. É possível afirmar que, em David Harvey, marxismo e pós-
+
+modernismo convergem enquanto campos analíticos da teoria social crítica, e 
+
+fazem  parte  do  sistema  crítico-filosófico  da  ciência  racionalista  moderna 
+
+(SILVA,  2019,  p.  133).  Por  essa  razão,  é  possível  avaliar  a  cientificidade  da 
+
+Geografia proposta pelo autor, com base na análise do contexto de justificação 
+
+tal como proposta por Karl Popper.  
+
+Tendo  esse  objetivo  em  vista,  o  presente  artigo  está  organizado  da 
+
+seguinte  forma:  a)  breve  periodização da  trajetória  intelectual  de  Harvey;  b) 
+
+síntese das teses mais recentes elaboradas por esse autor; c) apresentação das 
+
+críticas do filósofo Karl Popper ao marxismo; d) reavaliação da Geocrítica à luz 
+
+de perspectivas teóricas muito pouco trabalhadas pela geografia. 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+David  Harvey:  permanências  e  mudanças  em  sua  trajetória 
+intelectual 
+
+No artigo Marxismo e Geografia Econômica na obra de David Harvey, 
+
+Paul Claval (2013) realiza uma leitura crítica do marxismo, particularmente 
+
+em relação à teoria crítica do espaço, e, para isso, problematiza a obra de 
+
+Harvey para recuperar a trajetória da Geografia Econômica e entender os 
+
+dilemas  do  capitalismo  no  século  XXI.  Assim,  a  trajetória  intelectual  de 
+
+Harvey é dividida em quatro períodos: 1º) Até 1969, com a publicação de 
+
+Explanation in Geography, que marca a filiação de Harvey ao neopositivismo 
+
+lógico e a influência da economia liberal em seu pensamento; 2º) Do início 
+
+dos anos 1970, quando Harvey adere ao marxismo, até meados da década 
+
+de 80, caracterizado pelo esforço de espacialização do marxismo, como em 
+
+seu  livro  clássico  The  Limits  to  Capital;  3º)  Começa  com  a  publicação  de 
+
+Condition  of  Postmodernity,  livro  que  gerou  reações  críticas  por  parte  de 
+
+intelectuais pós-modernistas, feministas e teóricos da desconstrução, e; 4º) 
+
+De 2003 até hoje, se caracteriza pela produção de trabalhos de síntese, com 
+
+destaque  para  New  Imperialism  e  Spaces  of  Global  Capitalism,  nos  quais 
+
+Harvey  “mostra  uma  nova  liberdade  na  sua  interpretação  do  marxismo” 
+
+(CLAVAL, 2013, p. 8). 
+
+Na perspectiva de Paul Claval, o principal elemento de permanência 
+
+no  projeto  intelectual  de  David  Harvey  é  a  centralidade  do  “imperativo 
+
+revolucionário”: “uma vez que oferece a perspectiva de uma renovação total 
+
+da cena econômica e social, a teoria da exploração capitalista do trabalho 
+
+por  intermédio  da  mais-valia  aparece  como  peça  central  de  toda  sua 
+
+explicação” (CLAVAL, 2013, p. 80-83). Ao mesmo tempo, porém, verifica-se 
+
+que  Harvey  é  bastante  reativo  à  recepção  de  suas  ideias  nos  meios 
+
+intelectuais de esquerda:  
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+As reações dos intelectuais da esquerda à publicação de Condição 
+pós-moderna constituem uma surpresa para seu autor. A maioria 
+foi muito crítica. O que Harvey tinha ignorado era a diversidade do 
+mundo contemporâneo. A grande narrativa marxista que propõe 
+não é atraente para feministas e defensores de minorias étnicas, 
+sexuais e religiosas. Para Harvey, o mundo dos explorados e dos 
+excluídos tem de reconstruir sua unidade segundo a temática da 
+exploração  capitalista.  As  publicações  recentes  de  Harvey 
+oferecem  respostas  a  tais  críticas  numa  dupla  perspectiva: 
+econômica,  para  explicar  as  formas  mais  recentes  da  dinâmica 
+capitalista; simbólica, para explicar a evolução das representações 
+e das ideologias (CLAVAL, 2013, p. 68-71). 
+
+ 
+
+Nesse contexto, a obra Condição Pós-moderna merece uma atenção 
+
+especial por antecipar, em termos práticos, as sínteses de pensamento de 
+
+David Harvey. Nesta obra focada na cultura contemporânea, David Harvey 
+
+(2012[1989]) teoriza sobre a passagem da modernidade à pós-modernidade, 
+
+fundamentando seu pensamento crítico nas teorias de base marxista e na 
+
+crítica da sociedade capitalista. Na lógica transformativa e especulativa do 
+
+capital, a continuidade do projeto do iluminismo traz uma nova compressão 
+
+do  tempo-espaço,  marcada  pela  ascensão  do  modernismo  como  força 
+
+cultural e do pós-modernismo na cidade.  
+
+Harvey (2012, p. 7) apresenta a tese de que vinha ocorrendo “uma 
+
+mudança  abissal  nas  práticas  culturais,  bem  como  político-econômicas, 
+
+desde  mais  ou  menos  1972”.  Embora  a  simultaneidade  de  eventos  nas 
+
+dimensões  mutantes  do  tempo  e  do  espaço  não  seja  prova  de  conexão 
+
+necessária ou causal, Harvey busca evidenciar a correlação entre a ascensão 
+
+de formas culturais pós-modernas, a emergência de modos mais flexíveis de 
+
+acumulação do capital e um novo ciclo de “compressão do tempo-espaço” 
+
+na organização do capitalismo. Conforme ressalta o autor, essas mudanças, 
+
+quando  confrontadas  com  as  regras  básicas  da  acumulação  capitalista, 
+
+mostram-se  mais  como  transformações  da  aparência  superficial  do  que 
+
+como sinais do surgimento de alguma sociedade pós-capitalista ou mesmo 
+
+pós-industrial inteiramente nova (HARVEY, 2012, p. 7).  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+David  Harvey  (2012, p. 9)  procurou entender o significado  do  pós-
+
+modernismo,  que  emergia  ao  lado  do  pós-estruturalismo  e  do  pós-
+
+industrialismo,  e  que  "dava  a  impressão  crescente  de  uma  poderosa 
+
+configuração de novos sentimentos e pensamentos”. Harvey apontava que 
+
+o pós-modernismo parecia a caminho de desempenhar um papel crucial na 
+
+definição da trajetória do desenvolvimento social e político em virtude da 
+
+maneira  como  definia  padrões  de  crítica  social  e  de  prática  política, 
+
+determinando  os  padrões  do  debate,  definindo  o  modo  do  “discurso”  e 
+
+estabelecendo  parâmetros  para  a  crítica  cultural,  política  e  intelectual. 
+
+Entretanto,  a  compreensão  correta  do  significado  do  pós-modernismo 
+
+exigia, para ele, explorar com mais profundidade “a experiência do espaço e 
+
+do  tempo  como  um  vínculo  mediador  singularmente  importante  entre  o 
+
+dinamismo  do  desenvolvimento  histórico-geográfico  do  capitalismo  e 
+
+complexos  processos  de  produção  cultural  e  transformação  ideológica” 
+
+(HARVEY, 2012, p. 9).  
+
+A  Condição  Pós-moderna  representa,  portanto,  não  uma  ruptura, 
+
+mas o prosseguimento da luta anticapitalista de David Harvey, por meio da 
+
+teorização  do  espaço.  A  obra  Spaces  of  Capital:  Towards  a  Critical 
+
+Geography,  primeira  edição  inglesa  publicada  em  2001,  teve  textos 
+
+selecionados publicados no Brasil como A Produção Capitalista do Espaço, 
+
+em 2005. Nessa obra, Harvey (2005, p. 11) afirmou que encontrou em Marx 
+
+“uma base fértil para uma série completa de estudos subsequentes, assim 
+
+como livros posteriores, como The Limits to Capital [Os limites do capital] 
+
+(1982),  The  Condition  of  Postmodernity  [Condição  Pós-moderna]  (1989)  e 
+
+Spaces of Hope [Espaços da esperança] (2000)”. Nesse sentido:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+O aprendizado do método de Marx também abriu diversos outros 
+caminhos para o trabalho intelectual e para o comentário político 
+sobre  assuntos  tão  diversos  quanto  à  natureza  politicamente 
+controversa  dos  conhecimentos  geográficos,  das  questões 
+ambientais, dos desenvolvimentos político-econômicos locais e da 
+relação geral entre o conhecimento geográfico e a teoria social e 
+política.  Um  campo  completo  de  grande  interesse  emergiu  para 
+entender  os  usos  dos  conhecimentos  geográficos  (de  qualquer 
+maneira  que  fossem  definidos)  pelo  poder  político.  Em  paralelo, 
+isso  revelou  a  necessidade  premente  de  definir  uma  geografia 
+crítica  (e  uma  teoria  urbana  crítica),  que  pudesse  “desconstruir” 
+(para usar o jargão em vigor) o modo como determinados tipos de 
+conhecimento,  aparentemente  “neutros”,  “naturais”  ou  até 
+“óbvios”, eram capazes de serem, de fato, meios instrumentais de 
+preservação do poder político (HARVEY, 2005, p. 11-12). 
+
+ 
+
+Para David Harvey, o pós-modernismo representa essa passagem do 
+
+capitalismo por mais outro momento de crise. Neste sentido, é uma busca 
+
+por um novo padrão de equilíbrio para a superacumulação de capital, pois 
+
+as  crises  periódicas  do  sistema  capitalista  têm  o  efeito  de  expandir  a 
+
+capacidade produtiva, renovando as condições de acumulação adicional. Os 
+
+modos  de  produção  intensificam  a  atividade  social  e  os  mercados, 
+
+envolvendo  as  pessoas  na  produtividade  de  mão-de-obra,  na  criação  de 
+
+novos  desejos  e  necessidades,  estimulando  o  crescimento  populacional 
+
+como base da acumulação contínua1.  
+
+No  postulado  teórico  marxista,  as  relações  de  produção  e 
+
+acumulação se desenvolvem pelo uso do poder do Estado, garantindo-se o 
+
+direito da propriedade privada sobre as mercadorias em troca. A força de 
+
+trabalho é considerada uma mercadoria. Ou seja, uma forma de propriedade 
+
+privada  sobre  a  qual  o  trabalhador  tem  direitos  exclusivos  de  venda.  O 
+
+dinheiro,  como  objeto  de  troca  na  obtenção  da  mercadoria-força  de 
+
+trabalho  é o  veículo da acumulação.  Para  ser  reconhecido  como  capital é 
+
+preciso  que  seja  reposto  na  produção  e  na  circulação  para  gerar 
+
+rendimentos,  exigindo  o  mesmo  tipo  de  regulação  estatal  da  oferta  e  do 
+
+crédito (HARVEY, 2005, p. 82) 2.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+Entretanto, a corrente da concepção marxista de Estado como forma 
+
+superestrutural, que possui base num modo particular de produção, é, para 
+
+Harvey, inadequada quando aplicada ao estudo das sociedades capitalistas 
+
+reais,  posto  que  as 
+
+instituições  estatais  são  permanentemente  (re) 
+
+construídas para criar as relações reais (HARVEY, 2005, p. 89).   
+
+Na visão de Harvey (2005), a acumulação do capital é um processo 
+
+antes de tudo geográfico, pois sem as possibilidades inerentes da expansão 
+
+geográfica,  da  reorganização  espacial  e  do  desenvolvimento  geográfico 
+
+desigual,  o  capitalismo  não  funcionaria  como  sistema  econômico-político. 
+
+Desse  modo,  o  ajuste  espacial  associado  à  superacumulação  de  capital, 
+
+junto com a inserção desigual de diversos territórios e formações sociais no 
+
+mercado  mundial  capitalista,  criou  uma  geografia  histórica  global  de 
+
+acumulação do capital. 
+
+As geografias da história do capitalismo, também em David Harvey, 
+
+fundamentam-se  no  processo  de  circulação  de  capital,  na  sociedade 
+
+competitiva de mercado e na ação de diversos agentes econômicos. E ainda 
+
+que transações entre agentes econômicos possam existir fora da circulação 
+
+do  capital,  a  sobrevivência  do  capitalismo  se  funda  na  vitalidade 
+
+permanente  dessa  forma  de  circulação:  “O  sistema  tem  de  se  expandir 
+
+mediante a utilização do trabalho vivo na produção, enquanto a via principal 
+
+da mudança tecnológica envolve substituir o trabalho vivo – o agente real 
+
+da expansão – da produção” (HARVEY, 2005, p. 130-131) 3.  
+
+Entretanto,  prossegue  o  autor,  o  crescimento  e  o  progresso 
+
+tecnológico,  ambos  necessários  à  circulação  do  capital,  são  antagônicos 
+
+entre  si,  gerando  crises  cíclicas.  Para  explicar  a 
+
+formação  e  o 
+
+desenvolvimento  dessas  crises,  Harvey  (2005,  p.  131)  tomou  como 
+
+referência  “a  geografia histórica do  capitalismo,  considerada do ponto de 
+
+vista  do  triplo  imperativo  da  produção,  mobilização  e  absorção  do 
+
+excedente de capital e da força de trabalho”. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+A crítica de Harvey (2005) ao marxismo ortodoxo se refere não ao 
+
+método, mas ao desequilíbrio analítico em favor do tempo e da história, em 
+
+detrimento do espaço e da Geografia. Isso resultaria no empobrecimento da 
+
+economia  política  marxista,  pois  não  considera  as  consequências  das 
+
+reestruturações geográficas para a circulação do capital.  
+
+A opção revolucionária de David Harvey 
+
+A  adesão  de  David  Harvey  ao  "imperativo  revolucionário"  aparece 
+
+explicitada em sua obra ao remeter, tal como Marx, aos aspectos positivos 
+
+da revolução burguesa.  Nessa perspectiva, argumentou de forma favorável 
+
+sobre  a  concentração  do  proletariado  em  fábricas  e  cidades  e  sobre  a 
+
+formação de uma identidade de classe proletária: “os sistemas modernos de 
+
+comunicação  puseram  os  trabalhadores  de  diversos  lugares  em  contato 
+
+entre si, permitindo a centralização de muitas lutas locais, todas do mesmo 
+
+caráter, numa única luta nacional entre as classes” (HARVEY, 2005, p. 196)4. 
+
+Em  obras  mais  recentes  traduzidas  no  Brasil,  Harvey  (2016;  2018) 
+
+apresentou uma vasta lista de contradições presentes no sistema capitalista 
+
+e  apontou  diretrizes  para  uma  postura  anticapitalista.  O 
+
+livro  17 
+
+Contradições e o Fim do Capitalismo, originalmente publicado em 2014, “é 
+
+o livro mais perigoso que já escrevi”, disse Harvey (2016). O próprio autor 
+
+refere  ser  a  obra  mais  recente  de  uma  série  de  livros  a  qual  batizou  de 
+
+‘Projeto Marx’ (HARVEY, 2016, p. 275), iniciado no fim dos anos 1990: 
+
+Estava  claro  há  tempos  que  Marx  não  era  bem  compreendido, 
+muito menos adotado, e era preciso trabalhar duro para tornar sua 
+obra mais acessível. Não só por causa da ignorância geral, fundada 
+na  rejeição  e  nas  distorções  da  direita,  mas  também  pelas 
+apresentações mais dogmáticas da esquerda sectária. E, ao mesmo 
+tempo,  o  marxismo  acadêmico  parecia  empenhado  em  tornar  o 
+pensamento  de  Marx  ainda  mais  complicado  do  que  já  era.  [...] 
+Queria abrir uma porta para o pensamento de Marx, de modo que 
+os  leitores  pudessem  transpô-la  e,  uma  vez  do  outro  lado, 
+pudessem  chegar  a  seus  próprios  entendimentos.  Foi  nesse 
+espírito que a série de vídeos e os livros “Para entender o Capital”, 
+foram construídos (HARVEY, 2016, p. 275) 5. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+No  livro  17  Contradições,  Harvey  buscou  definir  as  implicações  de 
+
+uma luta política anticapitalista. No prólogo da obra, intitulado “A crise atual 
+
+do  capitalismo”,  o  autor  reafirmou  que  as  “crises  são  essenciais  para  a 
+
+reprodução do capitalismo”. Reforçou a ideia de que “é no desenrolar das 
+
+crises  que  as  instabilidades  capitalistas  são  confrontadas,  remodeladas  e 
+
+reformuladas  para  criar  uma  nova  versão  daquilo  em  que  consiste  o 
+
+capitalismo” (HARVEY, 2016, p. 9). Após uma visão retrospectiva das crises 
+
+mundiais de 1929 a 2012, Harvey (2016, p. 11-12) reafirmou sua descrença 
+
+nas forças de esquerda que classificou como libertárias: 
+
+Não são apenas as elites capitalistas e seus seguidores intelectuais e 
+acadêmicos que parecem incapazes de romper radicalmente com o 
+passado ou definir uma saída viável para a lamuriosa crise de baixo 
+crescimento,  estagnação,  alta  taxa  de  desemprego  e  perda  da 
+soberania estatal para o poder dos credores privados. As forças da 
+esquerda tradicional (partidos políticos e sindicatos) são nitidamente 
+incapazes de configurar uma oposição sólida ao poder do capital. Há 
+trinta anos elas são derrotadas pelos ataques ideológicos e políticos 
+da  direita,  enquanto  o  socialismo  democrático  é  desacreditado.  O 
+colapso  estigmatizado  do  comunismo  realmente  existente  e  a 
+“morte  do  marxismo”  depois  de  1989  pioraram  ainda  mais  a 
+situação.  Hoje,  o  que  resta  da  esquerda  radical  atua  amplamente 
+fora  dos  canais  de  oposição  institucionais  ou  organizados,  com  a 
+esperança  de  que  as  ações  em  pequena  escala  e  o  ativismo  local, 
+possam  contribuir  para  alguma  alternativa  satisfatória  em  grande 
+escala.  Essa  esquerda,  que  estranhamente  faz  eco  a  uma  ética 
+libertária  e  até  neoliberal  do  antiestatismo,  é 
+fomentada 
+intelectualmente  por  pensadores  como  Michel  Foucault  e  todos 
+aqueles que reuniram os fragmentos pós-modernos sob a bandeira 
+de  um  pós-estruturalismo  amplamente 
+incompreensível  que 
+identitária  e  evita  a  análise  de  classes. 
+favorece  a  política 
+Perspectivas e ações autonomistas, anarquistas e localistas estão em 
+evidência em toda a parte (HARVEY, 2016, p. 12-13). 
+
+ 
+
+Harvey (2016, p. 12) esclareceu que adotou “uma abordagem pouco 
+
+convencional visto que segue o método de Marx, mas não necessariamente 
+
+seus  preceitos”.  Sugeriu  que  “se  quisermos  fugir  do  hiato  atual  no 
+
+pensamento  econômico,  nas  políticas  públicas  e  na  política  tout  court, 
+
+precisamos  de  métodos  investigativos  e  concepções  diferentes”.  Assim,  o 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+autor se propõe a analisar o tema das contradições do capital partindo da 
+
+diferença  entre  a  contradição  nas  lógicas  formal  (dualista  e  estática)  e 
+
+dialética (relacional e dinâmica), e ainda, que o foco seja nas contradições 
+
+do capital, e não no capitalismo 6. 
+
+Harvey  (2016, p.  18-20) tentou  demonstrar  o  que  está por trás do 
+
+conceito de fetichismo em Marx. Referiu-se às várias máscaras, disfarces e 
+
+distorções  da  realidade  para  identificar  as  forças  contraditórias  que 
+
+obstruem o motor econômico que move o capitalismo. Justificou ainda, o 
+
+seu interesse nas contradições especificamente do capital, esclarecendo que 
+
+o  capitalismo  designa  qualquer  formação  social  em  que  os  processos  de 
+
+circulação e acumulação são hegemônicos no fornecimento e moldagem das 
+
+bases materiais, sociais e intelectuais da vida social. Ou seja, o capitalismo 
+
+“é cheio de contradições, contudo muitas não têm nada a ver diretamente 
+
+com  a  acumulação  do  capital.  Essas  contradições  transcendem  as 
+
+especificidades das formações sociais capitalistas” (HARVEY, 2016, p. 20).  
+
+Em  suma,  para  esse  autor,  tudo  que  acontece  no  capitalismo  é 
+
+motivado por contradições. Por isso, seu intuito é identificar as contradições 
+
+internas do capital responsáveis por crises recentes7.  
+
+De acordo com Harvey (2016, p. 23-86), o capitalismo não funciona 
+
+sem sete contradições fundamentais: “1) Valor de uso e valor de troca; 2) O 
+
+valor social do trabalho e sua representação pelo dinheiro; 3) Propriedade 
+
+privada  e  Estado  capitalista;  4)  Apropriação  privada  e  riqueza  comum;  5) 
+
+Capital e trabalho; 6) Capital como processo ou como coisa; 7) A unidade 
+
+contraditória entre produção e realização”. Essas contradições estão ligadas 
+
+de  tal  maneira  que  é  “impossível  modificar  substancialmente  ou  abolir 
+
+qualquer uma delas sem modificar ou abolir as outras” (HARVEY, 2016, p. 
+
+25).  
+
+Para Harvey (2016, p. 25), contestar o papel dominante do valor de 
+
+troca no fornecimento de um valor de uso como habitação, por exemplo, 
+
+implica mudar a forma e o papel do dinheiro e modificar, ou mesmo abolir, 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+o regime de direito de propriedade privada, gerando crises. Isso é perigoso 
+
+para o capital e cria oportunidades para uma luta anticapitalista, sistêmica. 
+
+Se as crises são transitórias e disruptivas, momentos nos quais o capital se 
+
+reconstitui  em  uma  nova  forma,  então  também,  remetem  a  questões 
+
+profundas  que  podem  ser  solucionadas  pelos  movimentos  sociais  que 
+
+buscam recriar o mundo com uma imagem diferente.  
+
+Na avaliação de Harvey (2016, p. 90), a orientação política deve se 
+
+voltar para valores de uso, resultando em uma forma-dinheiro que iniba o 
+
+acúmulo privado de riquezas e poder, com a dissolução do elo entre Estado 
+
+e  propriedade  privada  em  regimes  múltiplos  e  sobrepostos.  Desse  modo, 
+
+afirmam-se  direitos  de  propriedade  comum  geridos  coletivamente,  para 
+
+neutralizar  o  poder  rentista  e  facilitar  a  satisfação  contínua  e  segura  das 
+
+necessidades básicas de todos.  
+
+Harvey 
+
+(2016,  p.  94-199)  qualificou 
+
+também,  sete  outras 
+
+contradições  arroladas  como  mutáveis:  “1)  Tecnologia,  trabalho  e 
+
+descartabilidade  humana;  2)  Divisões  do  trabalho;  3)  Monopólio  e 
+
+competição:  centralização  e  descentralização;  4)  Desenvolvimentos 
+
+geográficos  desiguais  e  produção  de  espaço;  5)  Disparidades  de  renda  e 
+
+riqueza;  6)  Reprodução  social;  7)  Liberdade  e  dominação”.  Essas 
+
+contradições “evoluem de modo diferente e fornecem grande parte da força 
+
+dinâmica  que  está  por  trás  da  evolução  histórica  e  geográfica  do  capital” 
+
+(HARVEY, 2016, p. 203). 
+
+Finalmente,  as  três  contradições  denominadas  “perigosas”  por 
+
+Harvey são: 1) “Crescimento exponencial infinito – o capital, gira sempre em 
+
+torno do crescimento e cresce necessariamente a uma taxa composta: juros 
+
+compostos para o endividamento crescente” (2016, p. 207); 2) “A relação do 
+
+capital com a natureza – redução da natureza e da natureza humana à pura 
+
+forma-mercadoria”  (2016,  p.  243)  e;  3)  “A  revolta  da  natureza  humana: 
+
+alienação universal – (...) que anime uma subjetividade política coletiva para 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+a  constituição  de  um  motor  econômico  alternativo,  caso  os  poderes  do 
+
+capital sejam confrontados e superados” (2016, p. 247).  
+
+Sob  a  ótica  da  política  anticapitalista,  o  autor  visou  transcender  o 
+
+capital e seus limites estruturais, o que supostamente permitiria avançar na 
+
+reconstrução de uma sociedade mais igualitária e democrática.  
+
+O  livro  Marx,  Capital  and  the  Madness  of  Economic  Reason, 
+
+originalmente  publicado  por  Harvey  em  2017,  é  o  mais  recente  do  autor, 
+
+pós-coroamento  do  “Projeto  Marx”8.  Trata-se  da  problemática  do  capital 
+
+como valor em movimento; do capital e do dinheiro como representação do 
+
+valor; do antivalor como teoria da desvalorização, da formação dos preços 
+
+sem  valores,  do  papel  da  tecnologia  para  o  espaço/tempo  do  valor  e  da 
+
+produção de regimes de valor. Estudar a história do capitalismo  na crítica 
+
+marxista  da  economia  política  é  compreender  a  loucura  do  dinheiro  em 
+
+ação,  como  loucura  econômica  no  fetichismo  da  mercadoria  e  do  capital 
+
+(HARVEY, 2018, p. 171-175).  
+
+Conforme analisou Harvey (2018), até mesmo a mente, as funções 
+
+corporais  do  trabalhador  e  as  forças  naturais  livremente  investidas  na 
+
+produção, aparecem como poderes contingentes do capital, pois a alienação 
+
+da  relação  com  a natureza  e  com  a natureza  humana é  uma  precondição 
+
+para a afirmação da produtividade e dos poderes do capital. Além disso, a 
+
+produtividade  do  trabalho  é  conduzida  por  tecnologias  escolhidas  pelo 
+
+capital para confirmar seu controle sobre o trabalhador e minar a dignidade 
+
+e os supostos poderes do trabalho na produção e no mercado. Sendo assim, 
+
+os discursos utópicos sobre novas configurações tecnológicas baseadas em 
+
+inteligência  artificial  afirmam  o  mito  de  um  admirável  mundo  novo  de 
+
+consumismo emancipatório e tempo livre para todos. Entretanto, ignoram 
+
+completamente,  a  alienação  desumanizante  dos  processos  de  trabalho 
+
+residuais e dispensáveis que decorrem desse processo.  
+
+Em  síntese,  essa  breve  apresentação  das  ideias  defendidas  por 
+
+Harvey confirma que, como avalia Paul Claval, o postulado de servir à causa 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+dos “explorados” é o ponto de partida dos trabalhos do autor, e em função 
+
+disso,  a  elaboração  de  um  projeto  político  revolucionário  constitui  o 
+
+elemento  central  e  permanente  na  sua  trajetória  intelectual.  Nesse 
+
+contexto, uma avaliação crítica da obra de Harvey à luz das refutações de 
+
+Karl Popper ao marxismo torna-se útil para repensar a Geografia Crítica. 
+
+Karl Popper: sociedade aberta e falibilismo 
+
+Para  entender  a  crítica  epistemológica  de  Popper  ao  marxismo,  é 
+
+preciso  esclarecer  sobre  sua  filosofia  do  conhecimento  e  seu  conceito  de 
+
+“sociedade  aberta”.  No  centro  do  argumento  de  Popper  está  uma 
+
+observação  muito  simples  que  se  costuma  designar  “assimetria  dos 
+
+enunciados universais”. Isso significa que, enquanto nenhum número finito 
+
+de  observações  positivas  permite  validar  definitivamente  um  enunciado 
+
+universal, basta uma só observação negativa para invalidar este enunciado 
+
+ou  refutá-lo.  Noutras  palavras,  basta  encontrar  uma  observação  negativa 
+
+para ter certeza de que é falso o enunciado universal (ESPADA, 2012, p. XII-
+
+XIII).  
+
+Assim, Popper teria fundado nessa assimetria a sua teoria falibilista 
+
+do conhecimento em geral e do conhecimento científico em particular. Para 
+
+ele,  o  conhecimento  científico  não  se  assenta  no  método  indutivo,  mas 
+
+numa  contínua  interação  entre  conjecturas  e  refutações,  pois  é  no 
+
+enfrentamento  de  problemas  que  o  cientista  formula  teorias  conjecturais 
+
+para tentar solucioná-los, submetendo essas teorias a testes (ESPADA, 2012, 
+
+p.  XIII).  Nessa  perspectiva,  caso  as  teorias  submetidas  à  prova  forem 
+
+refutadas,  essas  serão  corrigidas  ou  eliminadas,  dando  origem  a  novas 
+
+teorias que, por sua vez, voltarão a ser submetidas a testes.  
+
+No entanto, se porventura as teorias não forem refutadas, isso não 
+
+significa que resistirão às provas sempre que forem testadas, tornando-se 
+
+justificadas,  infalíveis  ou  verdadeiras.  Elas  serão  apenas  corroboradas, 
+
+admitindo-se que, no futuro, poderão ainda vir a ser  refutadas por testes 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+mais severos. Isso permite dizer que, na visão popperiana, o conhecimento 
+
+é fundamentalmente conjectural e progride por ensaio e erro. Ou seja, de 
+
+acordo  com  essa  visão,  as  teorias  são  consideradas  falseáveis  quando 
+
+submetidas  a  testes  e  por  resistirem  a  esses  testes.  A  lógica  científica 
+
+proposta por Popper não busca provar teorias como verdade, mas provar 
+
+que há na natureza das próprias teorias sua condição de falseabilidade. 
+
+Essas concepções de conhecimento e de ciência fundamentam o livro 
+
+A sociedade aberta e os seus inimigos, publicado por Popper em 1945. De 
+
+acordo com Espada, entre as múltiplas consequências dessa visão sobre o 
+
+progresso  do  conhecimento,  encontram-se  duas  que  terão  particular 
+
+importância para a filosofia política e moral de Popper. Em primeiro lugar, o 
+
+chamado  critério  de  demarcação  entre  asserções  científicas  e  não 
+
+científicas: serão asserções científicas apenas aquelas que sejam suscetíveis 
+
+a teste, isto é, refutáveis. Esse ponto foi de crucial importância para a crítica 
+
+de Popper ao historicismo marxista. Em segundo lugar, a possibilidade de 
+
+criticar uma teoria, de submetê-la a teste e de tentar refutá-la é condição 
+
+indispensável para o progresso do conhecimento, pois a liberdade de crítica 
+
+é  indispensável  nesse  processo.  É  na  aceitação  ou  não  da  liberdade  de 
+
+crítica,  que  Popper  vai  fundamentar  a  distinção  fundamental  entre 
+
+sociedade  aberta  e  sociedade  fechada.  Na  primeira,  existe  espaço  para  a 
+
+liberdade de crítica e para a gradual alteração de leis e costumes através da 
+
+crítica racional. Na segunda, pelo contrário, leis e costumes são vistos como 
+
+tabus imunes à crítica e à avaliação pelos indivíduos (ESPADA, 2012, p. XIII). 
+
+Isso implica que “os riscos a serem assumidos por um cientista são 
+
+riscos  de  natureza  moral",  ou  seja,  "o  que  está  em  jogo  é,  de  fato,  a  sua 
+
+honestidade intelectual [...], a sua atitude pessoal em relação à verdade", 
+
+donde "o espírito corajoso de quem formula ‘hipóteses ousadas’ não deve 
+
+anestesiar a sua consciência” (OLIVEIRA, 2011, p. 72)9.  
+
+A  filosofia  do  conhecimento  de  Popper  o  leva  a  refutar  tanto  a 
+
+cientificidade  do  marxismo,  quanto  os  resultados  políticos  práticos  da 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+aplicação das teorias marxistas na transformação da sociedade. Com efeito, 
+
+as  teorias  marxistas  não  satisfazem  a  condição  de  falseabilidade  porque 
+
+estabelecem  leis  econômicas  da  evolução  histórica  da  sociedade  que  só 
+
+podem  ser  corroboradas  ou  refutadas  no  futuro,  quando  a  sociedade 
+
+socialista se tornar um fato (POPPER, 2012, p. 29). Como sintetiza Espada 
+
+(2012, p. VIII):  
+
+razão  puramente 
+
+futuro.  Existe  uma 
+
+Karl Popper argumentou, em primeiro lugar, que é impossível prever 
+o 
+lógica  para  esta 
+impossibilidade. Ela decorre do fato de termos de reconhecer que os 
+nossos  conhecimentos  técnicos  e  científicos  futuros  influenciarão 
+em  larga  medida  o  futuro  das  nossas  sociedades.  Mas  também 
+temos  de  reconhecer  que  não  podemos  conhecer  hoje  os  nossos 
+conhecimentos técnicos e científicos futuros  – caso contrário, eles 
+deixariam  de  serem  futuros  e  passariam  a  serem  presentes.  Logo, 
+concluiu Popper, não podemos conhecer o futuro. Em segundo lugar, 
+as profecias historicistas acerca do sentido inevitável da história não 
+são  em  regra  suscetíveis  de  teste.  Este  é  o  caso  flagrante  do 
+marxismo, que profetizou o advento inexorável do socialismo e do 
+comunismo  sem  lhe  atribuir  um  horizonte  temporal  definido  –  e, 
+simultaneamente,  reclamando  um  estatuto  científico  para  essa 
+profecia.  Mas,  esta  profecia  não  pode  ter  caráter  científico, 
+argumentou Popper, porque nenhum teste  – que, quando ocorrer, 
+ocorrerá  sempre  “no  presente”  –  pode  refutar  uma  teoria  que 
+anuncia  a  sua  concretização  sempre  “para  o  futuro”.  A  “previsão” 
+marxista sobre o inevitável advento do socialismo no futuro trata-se, 
+por  isso,  apenas  de  uma  crença  ou  de  uma  superstição  (ESPADA, 
+2012, p. VIII).  
+
+ 
+
+Para Popper, o historicismo marxista - que considerava uma versão à 
+
+esquerda  do  historicismo  nazifascista  -  levou  à  construção  de  sistemas 
+
+políticos  baseados  na  violência  e  na  opressão  política.  Nessas  sociedades 
+
+fechadas,  qualquer  crítica  é  silenciada  pelo  Estado.  Portanto,  as  ideias  de 
+
+Karl  Popper  mostram-se  bastante  pertinentes  para  uma  crítica 
+
+epistemológica aos trabalhos de Harvey e, por extensão, à Geografia Crítica 
+
+de matriz marxista. 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+Análise  crítica  da  teoria  social  (e  espacial)  crítica  de  David 
+Harvey 
+
+À luz do trabalho de Popper, a obra de Harvey, desde sua adesão ao 
+
+marxismo, não pode ser considerada científica por não satisfazer a condição 
+
+de falseabilidade. Como visto, o elemento central de todos esses trabalhos 
+
+do autor é a construção de um projeto político revolucionário, de tal modo 
+
+que suas conclusões não podem ser testadas no presente, já que remetem 
+
+a um futuro utópico.  
+
+Nem mesmo o fracasso retumbante das experiências de socialismo 
+
+real foi capaz de fazer Harvey abandonar seu projeto revolucionário. Tal qual 
+
+a  grande  maioria  dos  intelectuais  críticos  do  capitalismo,  as  mudanças 
+
+profundas  provocadas  pela  queda  do  Muro  de  Berlim  e  a  dissolução  da 
+
+União  Soviética  fizeram  com  que  Harvey  apenas  assumisse  uma  postura 
+
+mais  prudente  e  menos  determinista  do  que  a  encontrada  no  marxismo 
+
+ortodoxo  (DINIZ  FILHO,  2013,  p.  48-57),  na  medida  em  que  não  fala  em 
+
+inevitabilidade  do  socialismo  e  rejeita  a  ideia  de  contradições  fatais, 
+
+substituída pelo conceito de contradições perigosas.  
+
+As obras mais recentes de Harvey, ao invés de defenderem as velhas 
+
+teses marxistas sobre ditadura do proletariado e estatização dos meios de 
+
+produção, agora remetem suas utopias ao experimentalismo de associações 
+
+de produtores, da eliminação de qualquer meio de acumulação de riqueza e 
+
+de  medidas  que  restrinjam  o  poder  de  grandes  empresas  e  das  classes 
+
+dominantes. Mas essa nova roupagem da utopia marxista, assim como as 
+
+antigas,  continua  a  situar  seu  pensamento  no  campo  da  crença,  não  da 
+
+ciência,  já  que  remetem  sempre  a  um  futuro  não  realizado,  não  sendo, 
+
+portanto, falseáveis. 
+
+Claval (2013) afirma que o acerto recente de Harvey sobre a crise de 
+
+2008  poderia  se  afigurar  para  alguns  como  algo  profético.  Contudo,  a 
+
+natureza cíclica do crescimento econômico capitalista é velha conhecida dos 
+
+economistas, e ao menos desde o início das políticas keynesianas, tornaram 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+conhecidas outras possibilidades de superação dessas crises que não a via 
+
+do socialismo.  
+
+Assim,  para  demonstrar  a  cientificidade  de  sua  teoria  das 
+
+contradições  do  capital  aplicada  ao  estudo  das  crises,  Harvey  deveria 
+
+analisar em profundidade as teorias usadas por correntes de pensamento 
+
+não  marxistas  e  compará-las  com  sua  própria  teoria  para  demonstrar  a 
+
+superioridade  desta.  Contudo,  Harvey  escreve  apenas  à  esquerda 
+
+intelectual, omitindo outras teorias que se propõe a explicar cientificamente 
+
+as crises e outros fenômenos econômicos. Daí que seus comentários críticos 
+
+a abordagens alternativas, como a teoria do valor utilidade, são ligeiros e 
+
+ocasionais.  Além  disso,  o  autor  não  se  dá  ao  trabalho  de  detalhar  os 
+
+movimentos especulativos e as transformações institucionais que levaram à 
+
+crise bancária de 2008, de sorte que sua teoria não os explica concretamente 
+
+(CLAVAL, 2013, p. 78-79).  
+
+Essas considerações permitem corroborar a avaliação feita por Paul 
+
+Claval (2013, p. 80-83) de que o sucesso da teoria da acumulação de David 
+
+Harvey 
+
+junto  à  esquerda 
+
+intelectual  deriva  mais  da  perspectiva 
+
+revolucionária  do  que  da  capacidade  explicativa  e  coerência  dessa  teoria. 
+
+Desse modo, pode-se acrescentar a essa avaliação que as obras de Harvey 
+
+não  satisfazem  o  critério  da  demarcação  entre  discursos  científicos  e  não 
+
+científicos.  
+
+ 
+
+Considerações finais 
+
+Diante das críticas tecidas até o momento, seria possível objetar que, 
+
+ao menos em A justiça social e a cidade, Harvey (1980, p. 112-164) fez uma 
+
+longa digressão para tentar demonstrar que as teorias liberais sobre a cidade 
+
+teriam eficácia explicativa apenas aparente. Aquele era o momento em que 
+
+o autor fazia um ajuste de contas com seu passado, daí a necessidade de 
+
+tentar provar que as teorias marxistas eram mais eficazes. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+Contudo, a eficácia do modelo de Von Thünen e de outras teorias era 
+
+negada pelo autor com argumentos baseados num conceito assumidamente 
+
+normativo, o de “justiça social”, e em suposições sobre a capacidade de um 
+
+sistema econômico inexistente, de tipo socialista, de eliminar o problema da 
+
+escassez de recursos. Por isso mesmo, Harvey não se preocupou em elaborar 
+
+instrumentos  de  análise  empírica  e  estudos  de  caso  para  pôr  à  prova  a 
+
+eficácia das teorias econômicas marxistas, que se reportam a uma realidade 
+
+que só existiria no futuro. Limitou-se a tecer argumentos que não satisfazem 
+
+a condição de falseabilidade e que, assim, não se distinguem de qualquer 
+
+discurso não científico. Após conquistar uma posição de destaque dentro da 
+
+Geocrítica, o autor passou a se preocupar apenas com as refutações que lhe 
+
+eram  dirigidas  de  dentro  da  esquerda  intelectual,  como  ocorreu  com  A 
+
+condição  pós-moderna.  Mas  não  admira  que  discursos  baseados  em 
+
+conceitos normativos – e, portanto, não preditivos – soem como se fossem 
+
+científicos para intelectuais críticos.  
+
+A unidade e identidade da Geografia Crítica derivam do compromisso 
+
+ético  do  pesquisador  com  as  “classes  dominadas”,  os  “explorados”  ou 
+
+“grupos  não  hegemônicos”,  entre  outras  denominações,  e  do  objetivo 
+
+comum de fazer da Geografia um instrumento de transformação radical da 
+
+sociedade. Todavia, Popper situa o compromisso moral do pesquisador no 
+
+plano da honestidade intelectual e da sua atitude em relação à verdade.  
+
+O intelectual pode e deve formular hipóteses ousadas de pesquisa, 
+
+mas  sem  perder  de  vista  a  necessidade  de  satisfazer  as  condições  de 
+
+falseabilidade  dos  enunciados  para  corroborá-los.  Os  intelectuais  críticos, 
+
+porém,  no  afã  de  servir  a  um  ideal  supostamente  libertador  fundado  em 
+
+concepções  pré-determinadas  sobre  uma 
+
+luta  entre  dominantes  e 
+
+dominados,  terminam  geralmente  por  deixar  de  lado  a  preocupação  em 
+
+proceder a uma verificação empírica rigorosa de suas teorias e, muitas vezes, 
+
+recorrem até ao uso de retórica político-ideológica disfarçada de ciência.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+Tal viés de pensamento ocorre mesmo quando autores da corrente 
+
+crítica alegam que sua visão anticapitalista é resultado de pesquisas sobre a 
+
+economia, a sociedade e o espaço, não um ponto de partida (DINIZ FILHO, 
+
+2013, p. 197-211). É a hegemonia desse modo de pensar que explica a larga 
+
+influência  das  obras  de  David  Harvey  na  Geografia,  apesar  da  não 
+
+cientificidade dos trabalhos marxistas desse autor. 
+
+ 
+
+Referências 
+
+CLAVAL,  Paul.  Marxismo  e  geografia  econômica  na  obra  de  David  Harvey. 
+
+Espaço e Economia [online], 3/2013, posto online no dia 19 de dezembro de 
+
+2013, 
+
+consultado 
+
+08 
+
+de 
+
+novembro 
+
+de 
+
+2018. 
+
+URL: 
+
+http://journais.openedition.org/espacoeconomia/570; 
+
+DOI: 
+
+10.4000/espacoeconomia. 570. 
+
+DINIZ FILHO, L. L. Por uma crítica da geografia crítica. 1 Ed. Ponta Grossa: 
+
+Editora da UEPG, 2013.  
+
+ESPADA,  J.  C.  Prefácio  à  Edição  Portuguesa.  In  POPPER,  Karl  Raimund.  A 
+
+sociedade aberta e os seus inimigos. Primeiro volume: O sortilégio de Platão. 
+
+Tradução: Miguel Freitas da Costa. Revisão: Pedro Bernardo. Lisboa: Edições 
+
+70, Lda., 2012. (Biblioteca de Teoria Política, 2 v.).  
+
+HARVEY, David. A justiça social e a cidade. São Paulo: Hucitec, 1980 (Coleção 
+
+Geografia: Teoria e Realidade).      
+
+HARVEY, David.  Condição pós-moderna: Uma Pesquisa sobre as Origens da 
+
+Mudança Cultural. 23ª ed. São Paulo: Edições Loyola Jesuítas, 2012.     
+
+HARVEY, David. A produção capitalista do espaço. São Paulo: Annablume, 
+
+2005. (Coleção Geografia e Adjacências). 
+
+HARVEY, David. 17 contradições e o fim do capitalismo. Tradução Rogério 
+
+Bettoni. 1ª ed. São Paulo: Boitempo, 2016. 
+
+HARVEY, David. A loucura da razão econômica: Marx e o capital no século 
+
+XXI. Tradução Artur Renzo. 1ª ed. São Paulo: Boitempo. 2018. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+HOBSBAWM,  Eric  J.  A  era  do  capital:  1848-1875.  Tradução  Luciano  Costa 
+
+Neto. 24ª ed. Rio de Janeiro: Paz e Terra, 1982.     
+
+OLIVEIRA, P. E. Da ética à ciência: uma nova leitura de Karl Popper. São Paulo. 
+
+PAULUS, 2011. 
+
+ 
+
+ 
+
+ 
+
+POPPER,  Karl  Raimund.  A  sociedade  aberta  e  os  seus  inimigos.  Primeiro 
+
+Volume: O Sortilégio de Platão. Tradução: Miguel Freitas da Costa. Revisão: 
+
+Pedro Bernardo. Lisboa: Edições 70, Lda., 2012. (Biblioteca de Teoria Política, 
+
+POPPER,  Karl  Raimund.  A  lógica  da  pesquisa  científica.  São  Paulo: Cultrix, 
+
+2v.).  
+
+[1959] 2013. 
+
+SILVA, Mariza Ferreira da. A cientificidade da Geografia Crítica em questão: 
+
+avaliação das contribuições de Milton Santos e David Harvey com base na 
+
+teoria da ciência de Karl Popper. [Tese de Doutorado]. Curitiba, UFPR, 2019. 
+
+Notas 
+
+1. David Harvey (2005) reproduz uma ideia recorrente nas ciências humanas, a de que essas 
+crises  capitalistas  estimulam  a  expansão  geográfica  para  novas  regiões,  incrementando  o 
+mercado mundial. Por exemplo, Eric Hobsbawm (1982) já publicava em livro de 1975 seus 
+estudos sobre a formação de unidades geoeconômicas do mercado mundial, vinculando-os 
+com o advento da expansão ferroviária global entre 1848 e 1875.  
+ 
+2. A teoria do modo capitalista de produção e a teoria marxista de Estado explicam as relações 
+sociais de troca e de valor, e pressupõem: 1) O conceito de pessoa jurídica ou pessoa física, 
+independentes  e  livres  para  envolverem-se  em  trocas;  2)  Um  sistema  de  direito  de 
+propriedade, assegurando que os indivíduos obtêm o domínio sobre os valores de uso apenas 
+mediante a propriedade ou a troca; 3) Um padrão comum do valor em troca (a objetivação 
+que é o dinheiro), de modo que envolva apenas a troca de valores equivalentes; 4) A condição, 
+na troca, de dependência recíproca, resultante do fato de que “toda produção do indivíduo 
+depende da produção e do consumo de todos os outros indivíduos” (HARVEY, 2005, p. 80-
+81).  
+
+3.  Para  David  Harvey  (2005),  a  destruição  criativa  permanente  do  capitalismo  envolve 
+infraestruturas  sociais  e  físicas  necessárias  à  circulação  do  capital.  Os  sistemas  legal, 
+financeiro,  educacional  e  da  administração  pública,  além  dos  sistemas  ambientais  não 
+naturais, urbanos e de transportes precisam ser desenvolvidos para sustentar a circulação do 
+capital e para reproduzir a vida cotidiana efetivamente. 
+
+4. Com essa  preocupação em mente, Harvey (2005, p. 216) afirma  que “a  revitalização da 
+International Labour Organization – ILO – talvez seja um interessante ponto de partida”.   
+
+5. Desse esforço em ilustrar a importância contemporânea do pensamento e do método de 
+Marx  para  a  política,  bem  como  de  suas  teorizações  concretas  na  análise  de  eventos  e 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+problemas contemporâneos, Harvey justificou que surgiram os livros O Novo Imperialismo, O 
+Neoliberalismo: História e Implicações, O Enigma do Capital, Espaços de Esperança e Cidades 
+Rebeldes.  Harvey  ainda  faz  menção  ao  livro  Paris:  Capital  da  Modernidade,  um  exercício 
+daquilo que o autor chama de “materialismo histórico-geográfico” (HARVEY, 2016). 
+
+6. A primeira forma de uso do conceito de contradição na língua inglesa, mais óbvia e comum, 
+como explicitou, “deriva da lógica aristotélica, em que duas declarações são consideradas tão 
+conflituosas que ambas possivelmente não podem ser verdadeiras”. A declaração “Todos os 
+melros  são  pretos”  contradiz  a  declaração  “Todos  os  melros  são  brancos”.  Se  uma  é 
+verdadeira, a outra é falsa (HARVEY, 2016, p. 15). O segundo uso do termo acontece quando 
+duas  forças  aparentemente  opostas  estão  presentes  ao  mesmo  tempo  em  determinada 
+situação,  entidade,  processo  ou  evento.  Essa  é  a  dialética  da  contradição,  ou  contradição 
+entre realidade e aparência. 
+
+7.  Ao  analisar  as  contradições  internas  do  capital,  Harvey  comparou-se  aos  biólogos  que 
+admitem  que  forças  e  perturbações  externas  (furacões,  aquecimento  global,  aumento  do 
+nível  do  mar,  poluição  atmosférica  ou  contaminação  de  água)  muitas  vezes  oprimem  a 
+“norma”  da  reprodução  ecológica  na  área  isolada  de  estudo.  Nessa  analogia  admitiu  que 
+“guerras,  nacionalismo,  disputas  geográficas,  desastres  de  vários  tipos,  tudo  isso  entra  na 
+dinâmica do capitalismo, junto com doses generosas de ódio e discriminação motivados por 
+questões de raça, gênero, orientação sexual, religião e etnia” (HARVEY, 2016, p. 21). 
+
+8. Publicado no Brasil em  2018, como  A  loucura da razão econômica: Marx e o capital no 
+século XXI. 
+
+9. Em sua juventude, Popper “quase foi pego pela armadilha ideológica marxista porque tinha 
+profundas razões morais que o levavam a fazer o que lhe parecia ser seu dever moral, e que 
+depois  experimentou  uma  grande  comoção  moral  que  o  levou  a  uma  profunda  aversão 
+moral” (OLIVEIRA, 2011, p. 96-97). 
+
+Publisher 
+
+Universidade  Federal  de  Goiás.  Instituto  de  Estudos  Socioambientais. 
+Programa  de  Pós-graduação  em  Geografia.  Publicação  no  Portal  de 
+Periódicos UFG. 
+As  ideias  expressadas  neste  artigo  são  de  responsabilidade  de  seus 
+autores,  não  representando,  necessariamente,  a  opinião  dos  editores 
+ou da universidade. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+Uma análise da cientificidade da teoria social crítica do geógrafo marxista David Harvey 
+ Mariza Ferreira da Silva   .     Luis Lopes Diniz Filho   . Edu Silvestre de Albuquerque 
+
+Contribuições dos autores 
+
+Todos  os  autores  ofereceram  substanciais  contribuições  científicas  e 
+intelectuais  ao  estudo.  As  tarefas  de  concepção  e  design  do  estudo  e 
+preparação do manuscrito, bem como, revisão crítica foram desenvolvidas 
+em grupo. Os autores Mariza Ferreira da Silva, Luis Lopes Diniz Filho e Edu 
+Silvestre  de  Albuquerque  contribuíram  com  suas  reflexões,  em  todas  as 
+fases  da  produção  (coleta  e  interpretações  bibliográficas,  sínteses  de 
+leituras realizadas e análise de literatura científica referente ao estudo da 
+temática epistemológica do artigo.   
+ 
+
+.     .  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mariza Ferreira da Silva, Possui Doutorado em Geografia pela 
+Universidade Federal do Paraná (2019) e Mestrado em Geografia - 
+Tratamento  da  Informação  Espacial  pela  Pontifícia  Universidade 
+Católica  de  Minas  Gerais  (2011).  Possui  Graduação  em  Geografia 
+(Bacharelado e Licenciatura)  pela Pontifícia Universidade  Católica 
+de  Minas  Gerais  (2005)  e  Graduação  em  Pedagogia  (Licenciatura 
+Plena) pela Universidade FUMEC - Fundação Mineira de Educação 
+e  Cultura  (1989/1990).  Possui  Especialização  em  Educação 
+(Orientação  Educacional)  pelo  Instituto  de  Educação  de  Minas 
+Gerais - Centro de Pesquisas Educacionais de Minas Gerais (1990). 
+Atualmente é pesquisadora na Universidade Federal do Paraná. 
+ 
+Luis  Lopes  Diniz  Filho      Possui  Graduação  em  Geografia  pela 
+Universidade de São Paulo (1990), Mestrado em Geografia Humana 
+pela Universidade de São Paulo (1994) e Doutorado em Geografia 
+Humana  pela  Universidade  de  São  Paulo  (2000).  Atualmente  é 
+Professor  Associado  3  do  Departamento  de  Geografia  da 
+Universidade Federal do Paraná. Tem experiência nas atividades de 
+ensino e pesquisa em Geografia, com ênfase nas seguintes áreas: 
+Epistemologia  da  Geografia,  Geografia  Econômica  e  Geografia 
+Regional do Brasil. 
+
+ 
+Edu  Silvestre  de  Albuquerque  Possui  Licenciatura  e 
+Bacharelado em Geografia (UFRGS, 1994/1995); Especialização em 
+Integração  Econômica  e  Mercosul  (UFRGS,  1995);  Mestrado  em 
+Geografia  Humana  (USP,  1998);  Doutorado  em  Geografia  (UFSC, 
+2007). Atualmente é professor adjunto da Universidade Federal do 
+Rio Grande do Norte (UFRN) e professor permanente do Programa 
+de Pós-Graduação e Pesquisa em Geografia da UFRN (Mestrado e 
+Doutorado). Professor Pesquisador do EaD. 
+ 
+ 
+
+Data de recebimento 04 de junho de 2020 
+Aceite em 22 de abril de 2023 
+Publicação em 20 de outubro de 2023 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63773   
+
+ 
+
+ 
+
+

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/406468b81b3848cdb05740b05a120f5f/artifacts
+deleted_time: 1730139257824
+end_time: 1730137903743
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: 406468b81b3848cdb05740b05a120f5f
+run_name: useful-flea-471
+run_uuid: 406468b81b3848cdb05740b05a120f5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730137900355
+status: 3
+tags: []
+user_id: rapha

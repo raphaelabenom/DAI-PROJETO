@@ -1,0 +1,1638 @@
+DOI: 10.5216/BGG.v 43. 73540 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: 
+uma análise da produção científica em 
+periódicos online entre os anos 2000 a 2020 
+ 
+La cartografía escolar en la enseñanza de Geografía:  
+un análisis de la producción científica en revistas online 
+entre los años 2000 y 2020 
+ 
+School Cartography in the teaching of Geography:  
+an analysis of scientific production in online journals 
+between the years 2000 to 2020 
+ 
+
+ 
+
+ 
+
+  Denis Richter 
+
+Universidade Federal de Goiás- Goiás – Brasil 
+drichter78@ufg.br    
+
+  Carlos Henrique Camilo de Matos 
+
+Professor  de  Geografia  das  redes  estadual  e 
+particular de ensino em Goiânia/Goiás 
+carlosmatsgeo@gmail.com  
+
+ 
+
+ 
+
+Resumo  A  Cartografia  Escolar  se  constituiu  como  um  campo  de 
+pesquisa no ensino de Geografia no Brasil a partir de 1978. Ao longo 
+desse  percurso  inúmeras  abordagens  e  problemas  de  investigação 
+foram  consolidando  os  estudos  sobre  a  linguagem  cartográfica  no 
+contexto  do  ambiente  escolar.  Sendo  assim,  o  presente  artigo  busca 
+analisar  a  produção  científica  da  Cartografia  Escolar  em  periódicos 
+online  brasileiros  entre  os  anos  de  2000  a  2020,  com  o  objetivo  de 
+compreender  as  contribuições  e  os  avanços  dessa  linha  de  pesquisa 
+para o ensino de Geografia. Para isso, esse estudo do tipo estado de 
+conhecimento,  organizou  um  banco  de  dados  com  214  artigos 
+publicados nesse período, o qual foi analisado sob diferentes categorias. 
+Como  resultado, 
+foi  possível  observar  uma  consolidação  nas 
+publicações  sobre  Cartografia  Escolar  a  partir  do  ano  de  2011  e  o 
+fortalecimento  das  reflexões  teórico-metodológicas  desta  temática 
+articulada com o pensamento espacial, bem como o crescimento dos 
+estudos sobre a Cartografia Social, Digital e Inclusiva. Para além disso, 
+esse  estudo  busca  contribuir  com  o  desenvolvimento  de  futuras 
+pesquisas  que  poderão  ser  estruturadas  com  base  nos  resultados  e 
+
+DOI: 10.5216/BGG.v 43. 73540 
+
+ 
+
+análises promovidas por este trabalho, potencializando as perspectivas 
+para o campo da Cartografia Escolar. 
+Palavras-chave:  Ensino  de  Geografia;  Cartografia  Escolar;  Periódicos 
+online; Estado de conhecimento. 
+ 
+
+Resumen  La  Cartografía  Escolar  se  constituyó  como  un  campo  de 
+pesquisa en la enseñanza de Geografía en Brasil a partir de 1978. A lo 
+largo  del  tiempo,  varios  abordajes  y  problemas  de  investigación  han 
+consolidado  los  estudios  sobre  el  lenguaje  cartográfico  en  el  entorno 
+escolar. Así, el presente artículo busca analizar la producción científica 
+de la Cartografía Escolar en las revistas online brasileñas entre los años 
+2000 y 2020, con el objetivo de comprender las contribuciones y avances 
+de esta línea de investigación para la enseñanza de la Geografía. Para 
+ello, este estudio del tipo estado de conocimiento organizó una base de 
+datos con 214 artículos publicados en este período, la cual se analizó 
+bajo  diferentes  categorías.  Como  resultado,  se  pudo  observar  una 
+consolidación en las publicaciones sobre Cartografía Escolar a partir del 
+año 2011 y el fortalecimiento de las reflexiones teórico-metodológicas 
+de  esta  temática  articulada  con  el  pensamiento  espacial,  así  como  el 
+crecimiento de los estudios sobre Cartografía Social, Digital e Inclusiva. 
+Además,  este  estudio  busca  contribuir  al  desarrollo  de  futuras 
+investigaciones que podrán estructurarse con base en los resultados y 
+análisis promovidos por este trabajo, potenciando las perspectivas para 
+el campo de la Cartografía Escolar. 
+Palabras clave: Enseñanza de Geografía; Cartografía Escolar; Revistas 
+online; Estado del conocimiento. 
+ 
+Abstract  School  Cartography  constituted  a  research  field  in  the 
+Geography teaching in Brazil since 1978. Throughout this course, several 
+approaches and research problems have consolidated the studies about 
+cartographic  language  in  the  school  environment  context.  Thus,  this 
+paper seeks to analyze the scientific production of School Cartography 
+in  Brazilian  online  journals  between  the  years  2000  and  2020,  to 
+understand the contributions and advances of this line of research to 
+the  teaching  of  Geography.  For  this,  this  state-of-knowledge  study 
+organized a database with 214 articles published in this period, which 
+were analyzed under different categories. As a result, it was possible to 
+observe a consolidation of publications on School Cartography from the 
+year  2011  and  the  strengthening  of  theoretical  and  methodological 
+reflections of this theme articulated with spatial thinking, as well as the 
+growth  of  studies  on  Social,  Digital,  and 
+Inclusive  Cartography. 
+Furthermore, this study seeks to contribute toward the development of 
+future research structured upon the results and analysis promoted by 
+this  work,  enhancing  the  perspectives  for  the  field  of  School 
+Cartography. 
+Keywords:  Geography  Teaching;  School  Cartography;  Online 
+Journals; State of knowledge 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+Introdução 
+
+Desde  que  a  professora  Lívia  de  Oliveira  apresentou  sua 
+tese de livre-docência sobre o ensino metodológico do mapa, em 
+1978, já se passaram mais de 40 anos. Nesse período, houve um 
+significativo  incremento  nas  pesquisas  relacionadas  a  essa 
+temática, ampliando as discussões e os estudos em relação ao 
+mapa  para  além  da  alfabetização  cartográfica,  proposta  que 
+norteou grande parte das investigações entre os anos de 1980 e 
+1990  (RICHTER,  2011).  Além  desse  foco  de  pesquisa,  foram 
+incorporadas outras temáticas, como, por exemplo, letramento 
+cartográfico, Cartografia digital, Cartografia inclusiva, Cartografia 
+social,  mapeamento  colaborativo,  entre  outras.  Esses  temas 
+possibilitaram  uma  maior  abertura  da  Cartografia  Escolar  em 
+relação aos desafios do ensino de Geografia, tanto na sua relação 
+direta  com  o  processo  de  ensino-aprendizagem  dos  alunos 
+quanto  nas  ações  de  formação 
+inicial  e  continuada  de 
+professores. 
+ 
+Nesse  sentido,  é  possível  analisar  que,  no  início  desse 
+percurso, as preocupações da Cartografia Escolar estavam mais 
+voltadas  para  compreender  e  construir  uma  metodologia  de 
+ensino do mapa para as crianças. Vale destacar que, antes disso, 
+os mais diferentes produtos cartográficos não tinham como foco 
+a aprendizagem escolar, mas eram representações relativamente 
+complexas que deveriam ser lidas ou interpretadas pelo usuário, 
+sem distinguir sua capacidade de análise ou nível de cognição. 
+Motivados por esse descompasso entre a representação espacial 
+e o público leitor, essa busca contribuiu para forjar a chamada 
+alfabetização cartográfica, a qual teve forte colaboração a partir 
+dos estudos de Oliveira (1978) e Simielli (1986), que se refere ao 
+processo  metodológico  de  ensino  do  mapa  tendo  como  base 
+seus elementos, códigos e sua estrutura própria, bem como o uso 
+da Semiologia Gráfica (BERTIN, 1967). 
+ 
+Em  decorrência  do  impacto  positivo  que  esses  estudos 
+tiveram  por  parte  da  comunidade  acadêmica  e  também  dos 
+professores  da  Educação  Básica,  a  Cartografia  Escolar  pôde  se 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+citar 
+
+Esses 
+
+alguns. 
+
+trabalhos 
+
+consolidar com o desenvolvimento de inúmeros outros estudos, 
+como  os  de  Paganelli  (1982),  Passini  (1994),  Rufino  (1996), 
+Almeida  (2001),  Girardi  (2003),  Katuta  (2003)  e  Le  Sann  (2007), 
+para 
+contribuíram 
+significativamente para marcar a presença e a relação do mapa 
+com  as  práticas  escolares  de  Geografia  e,  ainda  assim, 
+possibilitaram a  indicação  de  um  caminho  para a  utilização  da 
+linguagem  cartográfica  na  escola.  Esse  percurso  esteve 
+relacionado  às  propostas  de  alfabetização 
+diretamente 
+cartográfica,  mencionada  anteriormente,  e  de 
+letramento 
+cartográfico,  os  quais  permitiram  reconhecer  de  maneiras 
+distintas  a  contribuição  do  mapa  no  processo  de  ensino-
+aprendizagem da Geografia e do próprio pensamento espacial e 
+geográfico (RICHTER, 2017). 
+ 
+Desse modo, o desenvolvimento da Cartografia Escolar tem 
+sido enfatizado em vários estudos no ensino de Geografia nos 
+últimos anos. Em uma revisão bibliográfica realizada por Pinheiro 
+(2005), a Cartografia Escolar foi destacada como uma das áreas 
+mais  pesquisadas  na  produção  acadêmica  do  ensino  de 
+Geografia, abrangendo o período de 1967 a 2003. Atualmente, a 
+evolução tecnológica, principalmente na área de informática, tem 
+causado  mudanças  no  contexto  da  publicação  de  trabalhos 
+científicos. Nesse sentido, os periódicos online são um exemplo, 
+já  que  se  tratam  de  publicações  eletrônicas  com  edições 
+periódicas  que  variam  entre  anual,  semestral,  quadrimestral, 
+trimestral  ou  fluxo  contínuo.  Sendo  assim,  destaca-se  a 
+necessidade de novos estudos que investiguem os impactos das 
+pesquisas  sobre  a  temática  da  Cartografia  Escolar  a  partir  da 
+análise de artigos científicos publicados em periódicos online. 
+ 
+Diante disso, o presente artigo apresenta os resultados de 
+uma pesquisa qualitativa do tipo estado  do conhecimento que 
+investigou  a  produção  científica  da  Cartografia  Escolar  em 
+periódicos online brasileiros entre os anos de 2000 a 2020, com o 
+objetivo  de  compreender  os  aportes  e  avanços  dessa  linha  de 
+pesquisa para o ensino de Geografia. Os dados gerados por essa 
+investigação  permitem  um  maior  conhecimento  sobre  o 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+desenvolvimento dessa temática e sua contribuição no processo 
+de  formação  inicial  e  continuada  de  professores  de  Geografia. 
+Além  disso,  permitem  compreender  as  propostas  de  trabalho 
+com  o  mapa  na  Educação  Básica,  reconhecer  os  avanços  já 
+realizados  e  identificar  as  novas  fronteiras  de  pesquisa  desse 
+campo. 
+ 
+
+Cartografia 
+contribuição para o ensino de Geografia 
+
+contextualização 
+
+Escolar: 
+
+e 
+
+sua 
+
+e 
+
+letramento 
+
+cartográfico. 
+
+alfabetização 
+
+ 
+A  Cartografia Escolar  é  um tema  recorrente  nos  estudos 
+científicos  do  ensino  de  Geografia.  É  comum  encontrar  essa 
+temática  em  materiais  didáticos,  utilizando  o  processo 
+metodológico  da  aprendizagem  do  mapa,  também  conhecido 
+como 
+Esse 
+encaminhamento pedagógico propõe o ensino de mapas para a 
+Educação  Básica,  com  o  objetivo  de  desenvolver  as  noções 
+espaciais  topológicas,  projetivas  e  euclidianas,  bem  como 
+habilidades  de  leitura,  análise,  interpretação  e  construção  da 
+linguagem cartográfica. 
+Segundo Simielli (1999), a alfabetização cartográfica possui 
+ 
+diferentes níveis ao longo das fases da escolarização, já que o 
+desenvolvimento  dessa  habilidade  está 
+relacionado  à 
+construção  da  aprendizagem  do  sujeito.  Sendo  assim,  a 
+primeira proposta é destinada aos alunos do primeiro ao quinto 
+ano  do  Ensino  Fundamental  I,  com  o  desenvolvimento  das 
+noções  de  linha,  área,  lateralidade,  orientação,  localização  e 
+referências de espaço e tempo. A segunda proposta é voltada 
+para os alunos do 6º ao 9º ano do Ensino Fundamental II, em 
+que  os  professores  poderão  promover  o  trabalho  de  análise, 
+localização  e  correlação  de  mapas  com  os  seus  alunos.  Na 
+terceira  e  última  proposta, 
+indica-se  que  os  professores 
+trabalhem  com  a  perspectiva  de  síntese  dos  mapas  com  os 
+alunos  do  Ensino  Médio,  incorporando  as  estruturas  e  a 
+sistematização  das  informações  da  linguagem  cartográfica, 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+científica 
+
+linguagem 
+
+reconhece-se  que  a 
+
+possibilitando  uma  compreensão  mais  ampla  dos  conteúdos 
+geográficos presentes nas representações espaciais. 
+Considerando as contribuições de Simielli (1999) e outros 
+ 
+estudos1, 
+cartográfica 
+desempenha um papel relevante na construção do pensamento 
+geográfico  (CAVALCANTI,  2019).  É 
+importante  destacar  a 
+importância  da  Cartografia,  pois  ela  tem  uma  relação  com  o 
+movimento de renovação desta ciência e o seu distanciamento 
+implicou  em  dificuldades  para avançar  o ensino  de  Geografia 
+em diferentes níveis (SOUZA, 1994). 
+ 
+O  resultado  desse  trabalho  atingiu  patamares  jamais 
+imaginados, pois as críticas iniciais aos mapas apontavam para 
+um  recuo  no  engajamento  de  pesquisadores  sobre  essa 
+temática. No entanto, atualmente, a Cartografia Escolar é vista 
+como  uma  área  promissora  para  o  ensino  de  Geografia  e  os 
+avanços  na  produção 
+têm  permitido  uma 
+compreensão  mais  ampla  da  importância  dessa  temática  na 
+formação dos alunos e professores. 
+ 
+Assim, embora tenha ocorrido um crescimento no estudo 
+da  Cartografia  Escolar,  como  evidenciado  pela  pesquisa  de 
+Pinheiro  (2005),  é  importante  reconhecer  seus  avanços  e 
+características  além  dos  anos  2000.  Almeida  (2017)  contribui 
+para  esse  debate  ao  fazer  uma  crítica  contundente  sobre  o 
+desenvolvimento dos estudos nessa temática. Para essa autora, 
+é  necessário  construir  leituras  mais  aprofundadas  sobre  a 
+Cartografia Escolar. Diante desse ponto de vista, destaca-se a 
+urgência  em  realizar  novos  estudos  que  compreendam  o 
+impacto  dessas  pesquisas  a  partir  das  produções  científicas 
+publicadas em artigos de periódicos, os quais buscam socializar 
+o  conhecimento  e  indicar  os  resultados  alcançados  por  esse 
+campo de investigação. 
+ 
+A partir desses apontamentos, apresenta-se neste artigo 
+resultados  de  uma  pesquisa  qualitativa  do  tipo  estado  do 
+conhecimento,  fundamentada  na  metodologia  de  análise  de 
+uma  produção  científica  específica  que  versa  sobre  a 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+Cartografia  Escolar  em  periódicos  brasileiros  online.  Diferente 
+das pesquisas que tratam do estado da arte, que definem um 
+estudo  em  diferentes  tipos  de  produtos,  como  anais  de 
+congressos,  dissertações  e  teses,  por  exemplo,  o  estado  do 
+conhecimento  centra  sua 
+investigação  em  um  material 
+específico  e,  a  partir  deste,  busca  fazer  uma  interpretação 
+detalhada (ROMANOWSKI & ENS, 2006). Esse esclarecimento é 
+importante  para  ajudar  na  definição  do  que  será  analisado 
+sobre  a  produção  científica.  Nesse  sentido,  a  escolha  de 
+periódicos  online  se 
+justifica  porque,  nos  dias  atuais,  a 
+divulgação  científica  desse  tipo  de  publicação  tem  sido 
+significativa.  Os  programas  de  pós-graduação  no  Brasil  são 
+amplamente  avaliados  pelo 
+impacto  de  suas  pesquisas 
+publicadas  nesse  tipo  de  periódico,  os  quais  são  qualificados 
+pela  Coordenação  de  Aperfeiçoamento  de  Pessoal  de  Nível 
+Superior (CAPES), a partir do Qualis-CAPES. Mesmo diante dos 
+contextos  que  especificam  o  recorte  para  este  trabalho  de 
+estado de conhecimento, foram elegidos quatro critérios para a 
+seleção dos periódicos que fizeram parte desta investigação, a 
+saber: 
+ 
+atualizadas e com ISSN; 
+ 
+2) ter publicações de artigos no intervalo entre os anos de 
+2000 a 2020, tendo o limite de ser uma revista com o mínimo de 
+oito anos de periodicidade ininterrupta; 
+3) ser uma revista científica ligada a um programa de pós-
+ 
+graduação em Geografia no Brasil e/ou que tenha o ensino de 
+Geografia como um dos temas de publicação em seu escopo; e 
+ 
+4) ter como última avaliação no Qualis-CAPES (2013-2016), 
+para a área de Geografia, as seguintes classificações: A1, A2, B1 
+ou B2. 
+ 
+Após a pré-seleção dos artigos, os mesmos foram salvos 
+em  pastas  específicas  e  analisados  levando  em  conta  os 
+seguintes  dados:  título,  resumo,  palavras-chave,  ano  de 
+publicação dos artigos, objeto de estudo, concepção teórica da 
+
+1)  ser  uma  revista  científica  brasileira,  com  publicações 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+linguagem cartográfica, metodologia de pesquisa, proposta de 
+Cartografia Escolar, produto cartográfico, principais referências 
+bibliográficas, objetivo do artigo, nível da pesquisa acadêmica e 
+nível  do  ensino.  O  detalhamento  desses  itens  será  feito  mais 
+adiante no desenvolvimento desse texto. 
+ 
+
+O  estado  do  conhecimento  da  Cartografia  Escolar:  um 
+panorama das publicações 
+
+Diante  disso,  a  seguir  serão  apresentados  alguns  gráficos  que 
+ 
+foram construídos a partir da base de dados desta pesquisa, os quais 
+apresentam  as  categorias  analisadas  no  desenvolvimento  dessa 
+investigação.  Sendo  assim,  em  uma  busca  inicial,  levando  em 
+consideração  os  critérios  de  classificação  das  revistas  na  área  de 
+Geografia com avaliação A1, A2, B1 e B2, foram encontradas um total 
+de 533 revistas na Plataforma Qualis-CAPES (2013-2016). No processo 
+preliminar de análise dessas revistas, aquelas que não apresentavam 
+trabalhos relacionados ao campo de educação em Geografia ou que 
+fossem  revistas  internacionais  foram  retiradas  da  base,  pois  não 
+atendiam  aos  critérios  básicos  de  seleção  estabelecidos  para  esta 
+pesquisa.  Dessa  maneira,  do  total  de  533  revistas,  esse  número  foi 
+reduzido  para  103  revistas,  sendo  6  revistas  A1,  13  revistas  A2,  31 
+revistas B1 e 53 revistas B2. 
+
+ 
+Após essa análise inicial, as 103 revistas restantes passaram por 
+um  novo  processo  de  seleção.  Desse  modo,  as  revistas  que 
+apresentavam  artigos  relacionados  com  as  palavras-chave  que 
+remetiam  ao  tema  da  Cartografia  Escolar  eram  contempladas  no 
+processo  de  seleção.  Isto  posto,  o  número  de  revistas  foi  reduzido 
+ainda  mais,  chegando  ao  total  de  36  periódicos.  Desse  montante, 
+foram  identificados  214  artigos  que  se  encaixavam  nos  critérios  de 
+análise.  No  processo  de  seleção  dos  artigos,  algumas  revistas  se 
+destacaram na publicação de artigos no eixo temático da Cartografia 
+Escolar, como é o caso das revistas apresentadas no gráfico da figura 
+2. Pode-se evidenciar também que essas revistas concentraram uma 
+grande parcela das publicações de artigos nessa área, pois dos 214 
+artigos selecionados, 139 artigos, ou seja, mais da metade, estavam 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+concentrados em 7 revistas. Além disso, a partir da avaliação Qualis-
+CAPES (2013-2016), notou-se que os periódicos estavam concentrados 
+nas revistas B2, com 105 artigos publicados, enquanto as revistas B1 
+apresentaram  54  manuscritos  e  as  qualificadas  em  A2  foram 
+responsáveis  por  52  artigos.  Já  as  revistas  A1  tiveram  apenas  3 
+publicações  de  artigos.  Esse  valor  pode  ser  compreendido  devido  à 
+baixa quantidade de revistas brasileiras nessa avaliação Qualis-CAPES 
+e pelo fato de não haver, até o presente momento, um periódico online 
+especializado na área de ensino de Geografia nessa categoria. 
+
+O  gráfico  apresentado  na  figura  1  permite  uma  ampla 
+ 
+compreensão  da  distribuição  das  publicações  de  artigos  sobre 
+Cartografia Escolar em distintos periódicos online no período de 2000 
+a 2020. Essa análise global atende a uma preocupação destacada por 
+Almeida (2017), que  enfatiza a necessidade de conhecer com maior 
+profundidade a produção acadêmica sobre esse tema. As publicações 
+em artigos científicos são uma possibilidade de contribuir com essa 
+questão. No entanto, o gráfico mostra que não houve uma distribuição 
+equilibrada  ao  longo  do  tempo.  É  possível  observar  claramente  a 
+divisão de dois períodos específicos, um entre 2000 a 2010, com um 
+número médio de publicações que não ultrapassa 10 artigos, e outro 
+de 2011 a 2020, com um salto significativo no número de publicações, 
+que ultrapassa a média em todos os anos desse período.  
+
+Figura 1: Artigos sobre Cartografia Escolar publicados em periódicos online entre 
+
+2000 a 2020 - Distribuição por ano 
+
+Fonte: Pesquisa Documental. Org.: Autores, 2021. 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+ 
+Os  214  artigos  sobre  Cartografia  Escolar  publicados  em 
+periódicos online entre 2000 a 2020 foram encontrados em 36 revistas 
+científicas, lembrando que todas essas estavam classificadas acima de 
+B2  pelo  Qualis-CAPES  (2013-2016).  Desse  total,  pode-se  observar, 
+conforme o gráfico da figura 2, que houve uma concentração em 12 
+periódicos que publicaram acima de 5 artigos ao longo deste período. 
+Esses dados revelam uma preocupação na amplitude da divulgação de 
+manuscritos  científicos  em  periódicos  qualificados,  restringindo  as 
+publicações  para  poucas  revistas.  Fator  este  que  pode  ser  um 
+elemento limitante na difusão dos estudos sobre Cartografia Escolar 
+no Brasil. 
+
+Figura 2: Artigos sobre Cartografia Escolar em periódicos online entre 2000 a 2020 - 
+
+Distribuição das publicações por revistas científicas (acima de 5 artigos) 
+
+REVISTA BRASILEIRA DE EDUCAÇÃO EM GEOGRAFIA
+
+38
+
+BOLETIM DE GEOGRAFIA
+
+REVISTA BRASILEIRA DE CARTOGRAFIA
+
+GEOSABERES
+
+GEOGRAFIA ENSINO & PESQUISA
+
+ATELIÊ GEOGRÁFICO
+
+CAMINHOS DE GEOGRAFIA
+
+ACTA GEOGRAFICA
+
+ESTUDOS GEOGRÁFICOS
+
+GEOGRAFIA EM QUESTÃO
+
+REVISTA TAMOIOS
+
+RA'E GA: O ESPAÇO GEOGRÁFICO EM ANÁLISE
+
+8
+
+7
+
+6
+
+5
+
+5
+
+23
+
+23
+
+18
+
+15
+
+11
+
+11
+
+Fonte: Pesquisa Documental. Org.: Autores, 2021. 
+
+0
+
+10
+
+20
+
+30
+
+40
+
+ 
+Ao longo dos 20 anos de publicações de artigos científicos sobre 
+Cartografia Escolar em periódicos online, observou-se, de acordo com 
+os  dados  apresentados  no  gráfico  da  figura  3,  uma  assimetria  em 
+relação  à  classificação  Qualis-CAPES  (2013-2016)  das  respectivas 
+revistas.  É  notável  a  concentração  de  105  artigos  publicados  em 
+periódicos classificados como B2, o que representa 49% do total. Por 
+outro lado, no extremo oposto do gráfico (figura 3), tem-se apenas 3 
+artigos publicados em revistas A1, ou seja, apenas 1%. Esse contexto 
+revela  a  urgente  necessidade  de  um  trabalho  de  publicação  em 
+revistas mais qualificadas, de acordo com os parâmetros da Qualis-
+CAPES (2013-2016). 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+Figura 3: Artigos sobre Cartografia Escolar publicados em periódicos online entre 
+
+2000 a 2020 -  Por classificação Qualis-CAPES (2013-2016) 
+
+A1
+
+3
+
+A2
+
+B1
+
+B2
+
+52
+
+54
+
+105
+
+0
+
+30
+
+60
+
+90
+
+120
+
+Fonte: Pesquisa Documental. Org.: Autores, 2021. 
+
+A partir dos dados coletados, foi possível analisar a origem das 
+ 
+Instituições de Ensino Superior (IES) em relação às regiões brasileiras 
+que  publicaram  artigos  no  eixo  temático  da  Cartografia  Escolar.  É 
+importante  ressaltar  que  o  valor  total  dos  artigos  apresentados  no 
+gráfico da figura 4 supera os 214 manuscritos identificados ao longo 
+de  20  anos.  Isso  ocorre  porque  alguns  artigos  são  assinados  em 
+coautoria  e,  em  alguns  casos,  os  autores  são  de  IES  diferentes. 
+Portanto,  o  quantitativo  apresentado  na  figura  4  é  diferente  do 
+número total de artigos. Essa mesma situação pode ocorrer em outros 
+gráficos  quando  um  mesmo  artigo  é  analisado  em  duas  ou  mais 
+categorias. No entanto, focando nos dados apresentados no gráfico da 
+figura 4, observa-se que as regiões Sudeste e Sul concentraram 75% 
+das publicações no período analisado. Esse fato revela uma assimetria 
+na produção e divulgação científica no território nacional, pois apenas 
+25%  das  publicações  foram  destinadas  às  regiões  Centro-Oeste, 
+Nordeste e Norte. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+Figura 4: Artigos sobre Cartografia Escolar publicados em periódicos online entre 
+
+2000 a 2020 -  Por origem das IES nas regiões brasileiras  
+
+Sudeste
+
+Sul
+
+105
+
+78
+
+Centro-Oeste
+
+35
+
+Nordeste
+
+19
+
+Norte
+
+7
+
+ 
+
+0
+
+28
+
+110
+Fonte: Pesquisa Documental. Org.: Autores, 2021. 
+
+55
+
+83
+
+138
+
+ 
+Por outro lado, quando se analisa somente as IES dos autores dos 
+artigos o resultado se altera. Nesse contexto, a Universidade Federal 
+de Goiás (UFG), localizada na região Centro-Oeste, foi a instituição que 
+apresentou a maior quantidade de artigos, ao todo foram publicados 
+20 artigos entre os anos de 2000 a 2020. Além disso, outras instituições 
+como a Universidade Federal de Santa Catarina (UFSC), a Universidade 
+Estadual  Paulista  (Unesp),  a  Universidade  de  São  Paulo  (USP)  e  a 
+Universidade  Federal  de  Santa  Maria  (UFSM),  tiveram  mais  de  10 
+publicações cada uma. Ademais, dentre as publicações por estados, 
+São  Paulo  se  destacou  com  a maior  participação  na  publicação  dos 
+artigos, sendo 44 publicações contabilizadas. 
+
+ 
+O nível de ensino se caracteriza pelo direcionamento da fase da 
+escolarização apresentada nos artigos, ou seja, para quais sujeitos ou 
+contextos o manuscrito faz a abordagem da Cartografia Escolar (ver 
+gráfico da figura 5). A constatação sobre esse dado só foi possível a 
+partir  da  leitura  dos  artigos,  na  qual  foi  possível  identificá-los  no 
+detalhamento do resumo, da introdução e/ou do desenvolvimento dos 
+manuscritos. Ao observar os dados da figura 5, compreende-se que as 
+produções dos artigos analisados foram fortemente direcionadas para 
+o âmbito da Educação Básica, representando 41% do total. Esse dado 
+revela  a  importância  da  Cartografia  Escolar  para  a  amplitude  das 
+diferentes fases da escolarização presentes na Educação Básica, desde 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+a  Educação  Infantil,  passando  pelos  anos  iniciais  e  finais  do  Ensino 
+Fundamental até o Ensino Médio. Para Simielli (1999), é nesse período 
+escolar que se encontram inúmeros desafios relativos ao trabalho da 
+Cartografia  Escolar,  que  vão  desde  o  desenvolvimento  de 
+metodologias direcionadas para os estudantes, como também para a 
+prática docente. 
+
+Figura 5: Artigos sobre Cartografia Escolar publicados em periódicos online entre 
+
+2000 a 2020 - Por nível de ensino 
+
+Educação Básica
+
+88
+
+Ensino Fundamental - Anos Iniciais
+
+Ensino Superior
+
+Ensino Fundamental - Anos Finais
+
+25
+
+22
+
+21
+
+20
+
+Ensino Médio
+
+Educação Infantil
+
+4
+
+Não identificado
+
+34
+
+0
+
+23
+
+45
+
+68
+
+90
+
+113
+
+Fonte: Pesquisa Documental. Org.: Autores, 2021. 
+
+ 
+Dentre os artigos analisados, foi possível identificar 21 produtos 
+cartográficos, destacando o mapa como o mais comum, como pode 
+ser observado no gráfico da figura 6. Sendo assim, pode-se considerar 
+que o mapa é o produto mais proeminente no âmbito da Cartografia 
+Escolar,  devido  à  sua  versatilidade,  diversas  possibilidades  de  uso, 
+bem  como  sua  forte  relação  com  os  conteúdos  escolares,  sua 
+presença nos livros didáticos e Atlas escolares. Isso se aproxima da 
+ideia  “[…]  do  mapa  como 
+linguagem  pertinente  aos  saberes 
+geográficos na medida em que ele possibilita a visualização, a análise 
+e  a  problematização  de  diferentes  percepções  e  leituras  espaciais” 
+(RICHTER; GARCIA DE LA VEGA, 2019, p. 52) . 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+Figura 6: Artigos sobre Cartografia Escolar publicados em periódicos online entre 
+
+2000 a 2020 - Por tipo de produto cartográfico 
+
+140
+
+Mapa
+
+9
+
+Mapas Mentais
+
+Carta
+
+Maquetes
+
+Google Earth
+
+Geoprocessamento
+
+SIG
+
+Livro didático
+
+Jogos Cartográficos
+
+Mapas vivenciais
+
+Esquema corporal
+
+6
+6
+5
+5
+4
+4
+3
+3
+3
+3
+3
+2
+2
+2
+1
+1
+1
+1
+1
+
+26
+
+35
+
+0
+
+70
+
+105
+
+140
+
+175
+
+Fonte: Pesquisa Documental. Org.: Autores, 2021. 
+
+ 
+
+Os  temas  de  estudo  e  as  bases  teórico-metodológicas  da 
+Cartografia Escolar 
+
+Nesta  subseção  serão  apresentados  os  temas  de  estudo  e  as 
+ 
+bases teórico-metodológicas da Cartografia Escolar identificados nos 
+artigos selecionados para esta pesquisa. Essa análise é considerada 
+fundamental para compreender e entender os manuscritos para além 
+dos  dados  quantitativos,  ou  seja,  tem  como  foco  também  uma 
+exploração  sobre  o  conteúdo  presente  nessas  publicações  e  suas 
+respectivas  temáticas  de  investigação.  O  esforço  nessa  tarefa  toma 
+como  referência  as  preocupações  apresentadas  por  Almeida  e 
+Almeida  (2014),  ao  destacarem  a  necessidade  de  se  conhecer  os 
+percursos 
+teórico-
+metodológicos,  a  fim  de  compreender  os  atuais  desafios  e  as 
+fronteiras de pesquisa sobre essa temática. 
+
+seus  desdobramentos 
+
+investigativos 
+
+e 
+
+ 
+As  propostas  cartográficas  são  aquelas  que  constituem  o 
+direcionamento  das  ações  sobre  o  tema  da  Cartografia  Escolar  em 
+relação ao seu campo de atuação. Em outras palavras, essas propostas 
+indicam  como  as  publicações  buscam  materializar  ou  efetivar  a 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+linguagem  cartográfica  nos  diferentes  contextos,  produtos  ou 
+concepções teóricas relacionadas ao uso da Cartografia no ambiente 
+escolar. Em vista disso, foi elaborado um processo de regionalização 
+das propostas com a Cartografia Escolar, como pode ser observado na 
+figura 7, a seguir. A partir desse gráfico, é possível observar como os 
+estudos  relativos  ao  tema  da  alfabetização  cartográfica  ainda  são 
+relevantes  e  marcam  significativamente  as  propostas  cartográficas 
+pensadas  para  o  contexto  escolar.  Todavia,  cabe  observar  que  a 
+proposta  do  letramento  cartográfico,  em  grande  parte  atrelada  às 
+ações  da  alfabetização  cartográfica,  não  obteve  um  número 
+expressivo de publicações ao longo do período analisado. Nesse caso, 
+questiona-se  se  não  existe  aí  um  entendimento  equivocado  em 
+relação  à  aprendizagem  do  mapa,  que  deveria  considerar  tanto  a 
+alfabetização quanto o letramento. 
+
+Figura 7: Artigos sobre Cartografia Escolar publicados em periódicos online entre 
+
+2000 a 2020 - Propostas cartográficas 
+
+Alfabetização cartográfica
+
+Leitura e análise
+
+77
+
+65
+
+Leitura, análise e construção
+
+43
+
+Construção de mapas
+
+Letramento cartográfico
+
+15
+
+12
+
+Mapeamento
+
+6
+
+Construção de maquetes
+
+2
+
+0
+
+80
+Fonte: Pesquisa Documental. Org.: Autores, 2021. 
+
+20
+
+40
+
+60
+
+ 
+
+100
+
+ 
+Outro dado interessante presente no gráfico da figura 7 refere-se 
+às propostas direcionadas à leitura, análise e construção de mapas. 
+Tendo como referência as contribuições de Simielli (1999) e Almeida 
+(2001), essas autoras indicam a necessidade do ensino do e pelo mapa 
+ao  considerarem  importantes  habilidades  atreladas  a  esse  produto 
+cartográfico,  que  consistem  em  ler,  interpretar,  analisar  e  construir 
+mapas.  No  entanto,  na  análise  dos  artigos,  observou-se  que  65 
+manuscritos faziam menção somente à leitura e análise, enquanto que 
+43 textos destacavam esse trabalho integrado com a construção de 
+mapas. É claro que muitos estudos tinham como foco o processo de 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+leitura e análise, a partir de seus objetivos investigativos. Contudo, em 
+alguns  desses  trabalhos,  foi  observado  que  a  etapa  da  construção 
+poderia 
+incrementar  e  contribuir  significativamente  para  o 
+desenvolvimento da proposta cartográfica no ambiente escolar. 
+
+ 
+Com base no gráfico da figura 8, a seguir, é possível observar que 
+os  artigos  analisados  possuem  focos  diferentes  ao  trabalhar  com  a 
+temática da Cartografia Escolar, a partir da seleção de problemas de 
+pesquisa ou por questões mais específicas no objeto de investigação. 
+Nesse caso, houve a predominância de 69% na publicação de artigos 
+relativos às abordagens no campo da Cartografia Temática e Social. 
+
+Figura 8: Artigos sobre Cartografia Escolar publicados em periódicos online entre 
+
+2000 a 2020 - Por temas e/ou abordagens da Cartografia Escolar 
+
+Cartografia Clássica
+
+Cartografia Social
+
+ Cartografia Digital
+
+Cartografia Inclusiva
+
+14
+
+11
+
+Mapeamento colaborativo
+
+Cartografia histórica
+
+6
+
+91
+
+89
+
+50
+
+0
+
+75
+Fonte: Pesquisa Documental. Org.: Autores, 2021. 
+
+50
+
+25
+
+100
+
+No caso da abordagem clássica, que se refere ao trabalho com os 
+ 
+produtos cartográficos mais tradicionais ou oficiais, como os mapas 
+presentes em Atlas escolares, mapas-murais, livros didáticos, etc., e 
+que  são  geralmente  baseados  em  princípios  euclidianos,  os  dados 
+apresentados na figura 8 mostram como esse tema está fortemente 
+associado  ao  trabalho  da  Cartografia  na  escola,  destacando  seu 
+potencial investigativo em relação às demandas das práticas escolares 
+no que se refere aos conteúdos cartográficos e à concepção do mapa 
+como meio de comunicação (LE SANN, 2007). Em relação à abordagem 
+social, esta está mais ligada às propostas de mapas mentais, esboços 
+cartográficos,  croquis,  mapas  etnográficos,  entre  outros,  que 
+procuram  representar  o  espaço  a  partir  de  outras  referências  ou 
+escalas, muitas das quais provenientes de contextos sociais, culturais 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+ou  da  percepção  espacial.  O  número  de  artigos  analisados  que  se 
+concentra nesta perspectiva demonstra que ela vem se consolidando 
+como  uma  importante  contribuição  para  pensar  a  construção  e  a 
+leitura das relações espaciais, e que o ensino de Geografia tem um 
+papel fundamental no fortalecimento dessa proposta (GOMES, 2017). 
+
+indicavam  de 
+
+ 
+A partir da leitura dos textos selecionados foi possível identificar 
+as  propostas  metodológicas  de  cada  artigo  (figura  9).  Todavia,  se 
+reconhece que essa não foi uma tarefa fácil, já que alguns manuscritos 
+não 
+forma  clara  ou  explícita  sua  concepção 
+metodológica no desenvolvimento das ideias. Esse fato reafirma um 
+desafio apresentado por Almeida (2017), ao destacar que os estudos 
+da Cartografia Escolar carecem de um fortalecimento e um esforço na 
+construção de referenciais teórico-metodológicos que subsidiem esse 
+campo de pesquisa. Para identificar esse item na análise dos textos foi 
+necessário  lê-los  atentamente  e  fazer  uma  certa  interpretação  do 
+material. 
+
+Figura 9: Artigos sobre Cartografia Escolar publicados em periódicos online entre 
+
+2000 a 2020 - Por propostas metodológicas 
+
+Reflexões teórico-metodológicas
+
+80
+
+Pesquisa-Ação
+
+43
+
+Pesquisa Qualitativa
+
+23
+
+Pesquisa Participante
+
+Relato de experiência
+
+Estudo de Caso
+
+18
+
+17
+
+17
+
+Pesquisa Documental
+
+14
+
+Pesquisa Colaborativa
+
+1
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Fonte: Pesquisa Documental. Org.: Autores, 2021. 
+
+ 
+Por outro lado, uma parcela considerável de artigos presentes na 
+figura 9 (54%, excluindo aqui os “relatos de experiência”) apresentou 
+de modo mais direto sua opção metodológica, oportunizando que no 
+trabalho  de  análise  fossem  identificadas  as  seguintes  abordagens: 
+pesquisa-ação, pesquisa qualitativa, pesquisa participante, estudo de 
+caso, pesquisa documental e pesquisa colaborativa. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+ 
+Na leitura dos artigos selecionados para a base de dados desta 
+investigação foi possível identificar o tema ou problema de pesquisa 
+presente em cada manuscrito. O objetivo desse item foi o de conhecer 
+tanto  o  foco  de  estudo  das  publicações,  como  também  ter  um 
+panorama  de  quais  temáticas  investigativas  foram  mais  relevantes 
+neste período. Em razão da diversidade dos problemas de pesquisa 
+identificados  nos  artigos,  considerou-se  necessário  organizar  essa 
+análise em 12 temas (ver gráfico da figura 10). 
+
+Figura 10: Artigos sobre Cartografia Escolar publicados em periódicos online entre 
+
+2000 a 2020 -  Por problemas de pesquisa  
+
+ 
+
+Fonte: Pesquisa Documental. Org.: Autores, 2021. 
+
+ 
+Ao observar os dados presentes na figura 10, pode-se analisar os 
+resultados por meio de três agrupamentos. O primeiro grupo refere-
+se  aos  temas  1,  2  e  3.  Esses  temas  obtiveram  os  maiores  números 
+absolutos  na  análise  dos  artigos  (43,  41  e  30,  respectivamente), 
+revelando  que  esses  problemas  de 
+investigação  possuem  um 
+destaque  significativo  nas  produções  científicas  sobre  a  Cartografia 
+Escolar nesses últimos 20 anos. Desse conjunto, cabe ressaltar que as 
+reflexões  teórico-metodológicas  sobre  a  linguagem  cartográfica  se 
+posicionam com forte destaque, principalmente por agregar na última 
+década os temas ligados ao desenvolvimento do pensamento espacial. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+Além  disso,  os  outros  dois  temas  (2  e  3),  presentes  neste  primeiro 
+agrupamento,  demonstram  que  tão  importante  quanto  produzir 
+reflexões  teóricas  sobre  esta  temática,  é  fundamental,  também, 
+desenvolver  propostas  didático-pedagógicas  que  possam,  de  certo 
+modo,  materializar  e/ou  aproximar  essas  investigações  do  contexto 
+escolar.  Neste  caso,  considera-se  válido  reconhecer  o  destaque  ao 
+campo da Cartografia Digital, principalmente pelos inúmeros produtos 
+e  materiais  cartográficos  relacionados  aos  meios  tecnológicos  que 
+vem ampliando a presença do mapa tanto na vida cotidiana como nas 
+atividades escolares (CAZETTA, 2018). 
+
+ 
+  O  segundo  agrupamento  de  temas  presentes  no  gráfico  da 
+figura 10 inclui os seguintes problemas de investigação: 4, 5, 6, 7, 8 e 
+9.  O  conjunto  desses  temas  presentes  no  referido  gráfico  revela  a 
+diversidade  de  campos  de  pesquisa  na  área  de  Cartografia  Escolar, 
+muitos  deles  resultantes  do  percurso  histórico  dessa  linha  de 
+investigação,  como  é  o  caso  da  alfabetização  e 
+letramento 
+cartográfico, da produção de Atlas Escolares e da análise do processo 
+de  ensino-aprendizagem  com  os  mapas,  que  até  hoje  demonstram 
+relevância  enquanto  foco  de  estudo.  Como  também,  apresentam 
+temáticas  que  se  consolidaram  com  mais  intensidade  nos  últimos 
+anos, por exemplo, a Cartografia Social e a Cartografia Inclusiva. Para 
+além  desses  apontamentos,  pode-se  destacar  a  importância  de 
+compreender e defender a presença da Cartografia Escolar enquanto 
+disciplina  nos  cursos  de  formação  de  professores  de  Geografia 
+(GIRARDI, 2003; NOGUEIRA, 2011). 
+
+ 
+Por fim, o terceiro agrupamento, referente aos temas 10, 11 e 12, 
+ajuda  a  reconhecer  os  problemas  de  investigação  que  não  são  de 
+menor  importância,  pelo  contrário,  mas  os  que  necessitam  de  um 
+maior  engajamento  para  potencializar  focos  de  pesquisa  que  ainda 
+demandam  um  aprofundamento  científico.  Desses  últimos  temas, 
+pode-se destacar o fortalecimento que vem ocorrendo sobre o debate 
+da  presença  da  linguagem  cartográfica  nos  livros  didáticos  de 
+Geografia. Esse tema de investigação teve muito respaldo na pesquisa 
+de  Duarte 
+(2017),  assim  como  nos  estudos  mais  recentes 
+desenvolvidos por Cavallini e Richter (2019). 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+ 
+
+ 
+
+Considerações finais 
+
+ 
+A Cartografia Escolar se constituiu no Brasil em um período de 
+muita crítica ao papel do mapa dentro da Geografia, contexto este que 
+limitava  as  potencialidades  que  a  Cartografia  possuía  tanto  na 
+construção de seus diferentes produtos, como no processo de ensino-
+aprendizagem de Geografia. No entanto, a Cartografia Escolar resistiu 
+às  leituras  equívocas  e  conseguiu  se  constituir  como  um  dos  mais 
+importantes eixos de estudo científico da Geografia Escolar. Os dados 
+dessa pesquisa destacam como essa temática encontra-se atualmente 
+fortalecida e vem se consolidando, cada vez mais, como um relevante 
+foco de investigação no contexto da educação geográfica.  
+
+ 
+Esse  fato  marca,  por  exemplo,  sua  presença  para  além  das 
+discussões acadêmicas, pois a valorização da linguagem cartográfica 
+na  perspectiva  escolar  vem  se  materializando  nos  documentos 
+curriculares,  nos  livros  didáticos,  nas  propostas  escolares  e  no 
+processo de formação inicial e continuada de professores. Muitos dos 
+artigos  selecionados  para  essa  pesquisa  destacam  esse  caráter 
+articulador  da  Cartografia  Escolar  com  os  temas  e  conteúdos 
+geográficos,  ou  seja,  entende-se  que  o  trabalho  com  os  mapas 
+ultrapassa somente olhar para essa representação como um fim em si 
+mesmo.  Os  estudos  denotam  que  a  presença  dos  produtos 
+cartográficos  potencializa  as  leituras  e  análises  sobre  diferentes 
+fenômenos e situações geográficas. Este tem sido o principal aporte 
+da  Cartografia  Escolar  nos  últimos  anos,  contribuir  de  modo  mais 
+direto com o fortalecimento sobre o pensar pela Geografia.  
+
+Por  fim,  esse  estudo  oportunizou  um  panorama  sobre  o 
+ 
+desenvolvimento  das  pesquisas  acerca  da  Cartografia  Escolar, 
+publicizada  em  periódicos  online  nacionais  nos  últimos  20  anos, 
+demonstrando que por maiores avanços que tenham ocorrido nesse 
+período o trabalho com os mapas nas aulas de Geografia ainda precisa 
+de muitos investimentos. Desses, um pode ser ressaltado, que refere-
+se  a  efetivar  no  contexto  escolar  essas  contribuições  e  reflexões 
+teórico-metodológicas  da  Cartografia  Escolar,  tendo  o  objetivo  de 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+possibilitar que os estudantes da Educação Básica possam aprender 
+melhor Geografia a partir da leitura, análise e construção da linguagem 
+cartográfica.      
+
+ 
+
+Referências  
+
+ALMEIDA,  Rosângela  Doin  de.  Do  desenho  ao  mapa:  iniciação 
+cartográfica na escola. São Paulo: Contexto, 2001.  
+
+ALMEIDA,  Rosângela  Doin  de.  Cartografia  para  crianças  e  escolares: 
+uma  área  de  conhecimento?  Revista  Brasileira  de  Educação  em 
+Geografia,  v.  7,  n.  13,  p.  10–20,  2017.  Disponível  em: 
+http://www.revistaedugeo.com.br/ojs/index.php/revistaedugeo/article
+/view/483. Acesso em: 26 maio. 2022. 
+
+ALMEIDA,  Rosângela  Doin  de;  ALMEIDA,  Regina  Araujo  de. 
+Fundamentos e perspectivas da cartografia escolar no Brasil. Revista 
+Brasileira de Cartografia, v. 66, n. 4, p. 885-897, 2014. 
+
+BERTIN, Jacques. Sémiologie graphique. Les diagrammes. Les réseaux. 
+Les cartes. Paris: Gauthier-Villars, 1967. 
+
+CASTELLAR, Sônia Maria Vanzella. Cartografia escolar e o pensamento 
+espacial fortalecendo o conhecimento geográfico. Revista Brasileira 
+de Educação em Geografia, v. 7, n. 13, p. 207–232, 2017. Disponível 
+em: 
+http://www.revistaedugeo.com.br/ojs/index.php/revistaedugeo/article
+/view/494. Acesso em: 26 maio. 2022. 
+
+CAVALCANTI,  Lana  de  Souza.  Pensar  pela  Geografia:  ensino  e 
+relevância social. Goiânia: C&A Alfa Comunicação, 2019. 
+
+CAVALLINI, Gabriel Martins; RICHTER, Denis. El lenguaje cartográfico en 
+los  libros  de  texto  de  geografía  de  secundaria  en  Brasil.  Didáctica 
+Geográfica, 
+em: 
+https://doi.org/10.21138/DG.447. Acesso em: 26 maio. 2022. 
+
+2019.  Disponível 
+
+193-212, 
+
+20, 
+
+p. 
+
+n. 
+
+CAZETTA,  Valéria.  As  geotecnologias  na  geografia  acadêmica  e  na 
+geografia escolar e seus desdobramentos educativos. Boletim Goiano 
+de  Geografia,  v.  38,  n.  2,  p.  317–341,  2018.  Disponível  em: 
+https://www.revistas.ufg.br/bgg/article/view/54612.  Acesso  em:  26 
+maio. 2022. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+DUARTE, Ronaldo Goulart. A linguagem cartográfica como suporte ao 
+desenvolvimento  do  pensamento  espacial  dos  alunos  na  Educação 
+Básica. Revista Brasileira de Educação em Geografia, v. 7, n. 13, p. 
+187–206, 
+em: 
+http://www.revistaedugeo.com.br/ojs/index.php/revistaedugeo/article
+/view/493. Acesso em: 26 maio. 2022. 
+
+Disponível 
+
+2017. 
+
+GIRARDI,  Gisele.  Cartografia  Geográfica:  considerações  críticas  e 
+proposta para ressignificação de práticas cartográficas na formação do 
+profissional em Geografia. (Tese de Doutorado). São Paulo: FFLCH/USP, 
+2003. 
+
+GOMES, Marquiana de Freitas Vilas Boas. Cartografia social e Geografia 
+escolar:  aproximações  e  possibilidades.  Revista  Brasileira  de 
+Educação em Geografia, v. 7, n. 13, p. 97–110, 2017. Disponível em: 
+http://www.revistaedugeo.com.br/ojs/index.php/revistaedugeo/article
+/view/488. Acesso em: 26 maio. 2022. 
+
+KATUTA,  Ângela  Massumi.  Representações  Cartográficas:  teorias  e 
+práticas  para  o  ensino  de  Geografia.  Geografares,  n.  04.  Vitória: 
+EDUFES, 2003. p. 07-19. 
+
+LE  SANN,  Janine  Gisèle.  Metodologia  para  introduzir  a  Geografia  no 
+ensino 
+(org.). 
+Cartografia Escolar. São Paulo: Contexto, 2007. p. 95-118. 
+
+In:  ALMEIDA,  Rosângela  Doin  de 
+
+fundamental. 
+
+NOGUEIRA,  Ruth  Emilia.  A  disciplina  de  cartografia  escolar  na 
+universidade. Revista Brasileira de Cartografia, v. 63, p. 11-17, 2011. 
+Disponível 
+em: 
+https://seer.ufu.br/index.php/revistabrasileiracartografia/article/view/
+43763. Acesso em: 29 jun. 2022. 
+
+OLIVEIRA, Lívia de. Estudo Metodológico e Cognitivo do Mapa. Tese 
+de Livre Docência. São Paulo: IGEOG/USP, 1978. 
+
+PAGANELLI, Tomoko Iyda. Para a construção no espaço geográfico 
+na criança. Dissertação de Mestrado. Rio de Janeiro: Instituto Superior 
+de Estudos Avançados em Educação/Fundação Getúlio Vargas, 1982.  
+
+PASSINI, Elza Yazuko. Alfabetização cartográfica e o livro didático: 
+uma análise crítica. Belo Horizonte: Lê, 1994. 
+
+PINHEIRO, Antonio Carlos. O ensino de Geografia no Brasil: catálogo 
+de dissertações e teses (1967-2003). Goiânia: Ed. Vieira, 2005. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+RICHTER, Denis. O mapa mental no ensino de geografia: concepções 
+e propostas para o trabalho docente. São Paulo: Cultura Acadêmica, 
+2011. 
+
+RICHTER,  Denis.  A  linguagem  cartográfica  no  ensino  de  Geografia. 
+Revista Brasileira de Educação em Geografia, v. 7, n. 13, p. 277–300, 
+2017. 
+em: 
+http://www.revistaedugeo.com.br/ojs/index.php/revistaedugeo/article
+/view/511. Acesso em: 26 maio. 2022. 
+
+Disponível 
+
+RICHTER, Denis; GARCIA DE LA VEGA, Alfonso. O mapa no ensino de 
+geografia: uma análise do trabalho docente em Madrid (Espanha) e em 
+Goiânia  (Brasil).  Ateliê  Geográfico,  v.  13,  n.  3,  p.  46–65,  2019. 
+Disponível em: https://revistas.ufg.br/atelie/article/view/60860. Acesso 
+em: 29 jun. 2022. 
+
+ROMANOWSKI,  Joana  Paulin;  ENS,  Romilda  Teodora.  As  pesquisas 
+denominadas do tipo  estado da arte” na Educação. Revista Diálogo 
+Educacional, v. 06, n. 19, set./dez. 2006. p. 37-50. 
+
+RUFFINO,  Sônia  Maria  Vanzella  Castellar.  Noção  de  espaço  e 
+representação  cartográfica:  ensino  de  geografia  nas  séries  iniciais. 
+Tese de Doutorado. Universidade de São Paulo: São Paulo, 1996. 
+
+SIMIELLI, Maria Elena Ramos. O mapa como meio de comunicação: 
+implicações no ensino da Geografia do 1o grau. Tese de Doutorado. São 
+Paulo: FFLCH/USP, 1986. 
+
+SIMIELLI,  Maria  Elena  Ramos.  Cartografia  no  ensino  fundamental  e 
+médio. In: CARLOS, A.F.A. (org.). A geografia na sala de aula. São Paulo: 
+Contexto, 1999. p. 92-108. 
+
+José  Gilberto  de.  Cartografia  e  formação  docente. 
+
+SOUZA, 
+Dissertação de Mestrado. Presidente Prudente: FCT/Unesp. 1994. 
+
+ 
+Notas 
+1.  Como por exemplo: Almeida (2001), Girardi (2003), Castellar (2017), Duarte (2017), 
+
+Richter (2017) e Cazetta (2018) 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+A Cartografia Escolar no ensino de Geografia: uma análise da produção científica em periódicos online entre 
+os anos 2000 a 2020 
+Denis Richter    .     Carlos Henrique Camilo de Matos 
+
+Publisher 
+
+Federal  de  Goiás. 
+
+Instituto  de  Estudos 
+Universidade 
+Socioambientais.  Programa  de  Pós-graduação  em  Geografia. 
+Publicação no Portal de Periódicos UFG. 
+As  ideias  expressadas  neste  artigo  são  de  responsabilidade  de 
+seus autores, não representando, necessariamente, a opinião dos 
+editores ou da universidade. 
+
+ 
+
+Contribuições dos autores 
+
+Todos  os  autores  ofereceram  substanciais  contribuições  científicas  e 
+intelectuais  ao  estudo.  As  tarefas  de  concepção  e  design  do  estudo, 
+preparação e redação do manuscrito, bem como, revisão crítica foram 
+desenvolvidas  em  grupo.  O  primeiro  autor,  Denis  Richter,  ficou 
+especialmente responsável pelo desenvolvimento teórico-conceitual e 
+pela tradução do artigo, e o segundo autor, Carlos Henrique Camilo de 
+Matos,  pela  aquisição  de  dados,  procedimentos  técnicos  e  suas 
+interpretações e análise.  
+ 
+.     .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Denis  Richter, Pós-Doutor  em  Geografia  pela  Universidad 
+Autónoma de Madrid/Espanha, Doutor e Mestre em Geografia pela 
+Universidade 
+Presidente 
+Prudente/SP. Professor no curso de graduação e do Programa de 
+Pós-Graduação  em  Geografia  do 
+Instituto  de  Estudos 
+Socioambientais da Universidade Federal de Goiás. Pesquisa sobre 
+Ensino de Geografia, Cartografia Escolar e Formação de Professores 
+de Geografia. 
+ 
+ 
+Carlos Henrique Camilo Matos, Licenciado em Geografia pela 
+Universidade Federal de Goiás (UFG). Professor das redes estadual 
+e particular de ensino em Goiânia/Goiás. Pesquisa sobre Ensino de 
+Geografia e Cartografia Escolar. 
+ 
+ 
+ 
+
+campus  de 
+
+Estadual 
+
+Paulista, 
+
+Data de recebimento:31 de julho de 2022 
+Aceite: 05 de fevereiro de 2023 
+Publicação: 31 de agosto de 2023 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e73540 
+
+ 
+
+ 
+
+

@@ -1,0 +1,614 @@
+DOSSIÊ 
+
+ESTARIA A HISTÓRIA À MARGEM DA VIDA? ENSAIO SOBRE AS POSSIBILIDADES DE A DISCIPLINA 
+
+HISTÓRICA APRIMORAR SEUS MÉTODOS A PARTIR DE OUTRAS INTERAÇÕES TEÓRICAS QUE 
+
+DESAFIAM AS FRONTEIRAS DISCIPLINARES    
+
+WOULD HISTORY DWELL IN THE FRINGE OF LIFE? ESSAY ON THE POSSIBILITIES OF THE HISTORICAL DISCIPLINE 
+
+IMPROVING ITS METHODS FROM OTHER THEORETICAL INTERACTIONS THAT CHALLENGE DISCIPLINARY BOUNDARIES 
+Evandro Santos∗ 
+evansantos.hist@gmail.com 
+
+RESUMO:  O  presente  artigo,  escrito  na  forma  de  ensaio,  discute  limitações  metodológicas  que  a 
+interação  teórica  entre  psicanálise  e  estudos  de  gênero  pode,  por  hipótese,  superar.  O  ponto  de 
+partida  é  o  olhar  estrangeiro  da  psicanálise  sobre  o  conhecimento  histórico,  no  que  se  refere  à 
+problemática do sujeito de conhecimento e como ela é apreendida por pesquisadores de história. Em 
+seguida, a partir da aproximação entre a psicanálise e a história, com a contribuição da historiadora 
+Joan Scott, o argumento desdobra-se no sentido de examinar a importância da incomensurabilidade 
+entre esses dois saberes para uma crítica do anacronismo presente em algumas concepções que regem 
+a história entendida como disciplina, atualmente. Por fim, a remissão aos estudos da filósofa Judith 
+Butler pretende demonstrar a importância das teorias da formação do sujeito como um dos caminhos 
+de  ingresso  dos  estudos  de  gênero  como  uma  teoria  da  história  de  amplo  impacto,  capaz  de 
+reconfigurar os debates teóricos da área neste século XXI. 
+PALAVRAS-CHAVE: Teoria da História, História e Psicanálise, Estudos de Gênero. 
+ABSTRACT: This article, written as an essay, discusses methodological limitations that, hypothetically, 
+can  be  overcome  by  the  theoretical  interaction  between  psychoanalysis  and  gender  studies.  The 
+starting point is the foreign look of psychoanalysis over historical knowledge, regarding the problem 
+of  the  subject  of  knowledge  and  how  it  is  apprehended  by  history  researchers.  Then,  from  the 
+approximation between psychoanalysis and history, with the contribution of historian Joan Scott, the 
+argument unfolds in the examination of the importance of the incommensurability between these two 
+pieces  of  knowledge  for  a  critique  of  the  anachronism  in  some  conceptions  that  rule  a  history 
+nowadays understood as a discipline. Finally, the reference to the studies of the philosopher Judith 
+Butler intends to demonstrate the importance of theories of the formation of the subject as one of the 
+ways of entering gender studies as a wide-impact theory of history, able to reconfigure the theoretical 
+debates of the area in the XXI century. 
+KEYWORDS: Theory of History; History and Psychoanalysis; Gender Studies. 
+
+“AMANDA:  Moças  que  não  são  talhadas  para  carreiras  nos 
+negócios  normalmente  acabam  se  casando  com  algum  rapaz 
+decente. (Ela se levanta, revivendo uma centelha de animação.) E 
+é isso que você vai fazer, meu bem! 
+(Laura solta uma risada assustada, cheia de dúvidas e vai correndo 
+pegar uma peça de vidro de sua coleção.) 
+LAURA: Mas, mamãe –  
+AMANDA: O quê? (Vai até a fotografia.) 
+LAURA: (desculpando-se, assustada): Eu... sou aleijada!” 
+(Tennessee Williams, O Zoológico de vidro, 2014, p. 47.) 
+
+ 
+
+∗ Doutor em História pela Universidade Federal do Rio Grande do Sul (UFRGS), professor adjunto de Teoria e 
+História da Historiografia no Departamento de História do Centro de Ensino Superior do Seridó, Universidade 
+Federal  do  Rio  Grande  do  Norte  (CERES-UFRN)  e  do  Programa  de  Pós-Graduação  em  História  dos  Sertões 
+(MHIST), na mesma instituição. 
+
+Hist. R., Goiânia, v. 27, n. 3, p. 4–17, set./dez. 2022 
+
+Recebido em 13 de março de 2022 
+
+Aprovado em 08 de maio de 2023 
+
+5 
+
+ 
+
+DOSSIÊ 
+
+“Manter-se ao objetivável” 
+
+A discussão proposta neste artigo surgiu, inicialmente, de relações observadas entre 
+as indicações da ementa de divulgação do dossiê no qual busca se inserir e reflexões que 
+venho desenvolvendo em projetos de pesquisa que coordeno, nos últimos anos. Entretanto, 
+gostaria  de  iniciar  (também  de  acordo  com  as  indicações  das  organizadoras,  na  mesma 
+ementa) apresentando os jogos de sentido que explicam o título que escolhi. A obra À margem 
+dos dias (2012), que se trata de fragmentos e anotações do psicanalista, filósofo e escritor 
+francês Jean Bertrand Pontalis (1924-2013), traz, logo na abertura da primeira seção do livro, 
+considerações breves, porém, relevantes sobre o conhecido projeto Ensaios de Ego-história, 
+organizado  pelo  historiador  Pierre  Nora,  na  década  de  1980.1  Em  duas  ou  três  páginas, 
+Pontalis  comenta  a  ideia  de  Nora,  que  consistia  em  pedir  a  importantes  historiadores 
+franceses daquela época que escrevessem sobre suas próprias histórias de vida. Com exceção 
+de Pierre Chaunu (1923-2009), segundo o psicanalista, o que se vê nos Ensaios de Ego-história 
+(1989) é a análise padronizada de historiadores: uma narrativa processual, cronológica, com 
+recortes temporais e espaciais devidamente estabelecidos: “mesmo quando se trata de si, é 
+preciso manter-se ao objetivável: pudor ou respeito por um método que exige provas e exclui 
+o ‘subjetivo’?” (PONTALIS, 2012, p. 11). 
+
+Ao entrar  em  contato com o  texto de  Pontalis e  ler  as  poucas  linhas  nas  quais  o 
+psicanalista expõe seu pensamento sobre as formas de se narrar (e ingressar) em campos 
+como os da psicanálise e da história, recordei-me de uma peça teatral escrita pelo dramaturgo 
+estadunidense  Tennessee  Williams  (1911-1983),  que  há  alguns  anos,  tive,  inclusive,  a 
+oportunidade de assistir a uma das montagens brasileiras. Escolhi um excerto dela para servir 
+como  epígrafe  deste  artigo,  ou  seja,  refiro-me  à  peça  O  Zoológico  de  vidro,  publicada 
+originalmente em 1945. Contudo, minha associação entre o texto de Pontalis e o de Williams 
+tem a ver com o fato de que, em algumas traduções brasileiras, o título da peça de teatro 
+escrita pelo segundo aparece como À margem da vida, o que torna evidente a associação por 
+mim livremente realizada. Na peça (já adaptada para o cinema e para a televisão algumas 
+vezes), Amanda Wingfield é mãe de Laura Wingfield e poderíamos dizer que a história tem, 
+na  relação  entre  essas  duas  personagens,  seu  cerne.  Conforme  a  caracterização  das 
+personagens, registrada na tradução brasileira ora citada, Amanda é uma mulher “dotada de 
+
+1 Agradeço à Liane Pessin pela inspiradora referência de Pontalis.  
+
+ 
+
+Evandro Santos. ESTARIA A HISTÓRIA À MARGEM DA VIDA? 
+
+6 
+
+DOSSIÊ 
+
+grande  mas  confusa  vitalidade,  que  se  agarra  freneticamente  a  outro  tempo  e  lugar” 
+(WILLIAMS,  2014,  p.  24).  Dito  de  outra  forma,  Amanda  busca  desesperadamente  a 
+estabilidade do passado, recordando a época anterior ao abandono por parte do marido, que 
+a deixou só com os dois filhos, Laura e Tom. Já a caracterização de Laura diz o seguinte:  
+
+Apesar de não ter conseguido estabelecer contato com a realidade, Amanda 
+continua a viver suas ilusões com vitalidade, mas a situação de Laura é ainda 
+mais grave. Uma doença na infância a deixou aleijada e uma de suas pernas 
+é mais curta que a outra, obrigando-a a usar um aparelho ortopédico. [...] 
+Decorrente  disso,  o  alheamento  de  Laura  vai  aumentando  até  ela  se 
+transformar numa peça de sua coleção de objetos de vidro, frágil demais 
+para sair da prateleira (WILLIAMS, 2014, p. 24).  
+
+Por ora, sugiro que a analogia entre as obras de Pontalis e Williams – a partir de seus 
+títulos  –  seja  deixada  em  suspenso,  bem  como  as  rápidas  caracterizações  das  duas 
+personagens  da  dramaturgia.  Ao  final  do  artigo  este  último  aspecto  será  recuperado.  De 
+imediato, importa a retomada do ponto de vista de Pontalis acerca do aparente e severo 
+controle do discurso produzido por historiadores, mesmo quando se trata de produzir uma 
+narrativa  autobiográfica  e,  portanto,  atravessada  pela  subjetividade.  Evidentemente,  é 
+possível considerar que entre a década de 1980, quando os Ensaios de Ego-história foram 
+escritos  e  publicados,  e  os  dias  atuais,  houve  significativo  progresso  no  debate  teórico  e 
+historiográfico  e  as  condições  atuais  dessas  discussões  favoreceram,  em  muitos  casos, 
+alterações na escrita de historiadoras e historiadores, que tornaram mais complexas e ricas 
+tanto  as  narrativas  propriamente  historiográficas  como  os 
+reflexão 
+autobiográfica/ética produzidos por tais agentes. Chama a atenção os termos utilizados por 
+Pontalis  quando  se  pergunta  sobre  quais  seriam  os  motivos  para  que  historiadores,  ao 
+escreverem  sobre  suas  memórias,  seguissem  a  impor  a  objetividade  que  foi  construída, 
+discursivamente, para a história-disciplina, desde o século XIX. Reafirmava-se, uma vez mais, 
+a quase incontornável ideia da “ilusão biográfica”, de Pierre Bourdieu, já apropriada das mais 
+diferentes  maneiras  e  deslocada  de  seu  contexto  original  de  formulação  (em  diferentes 
+âmbitos disciplinares), na qual o limite formal da subjetividade na escrita da história são os 
+textos pautados pelo conceito de trajetória (BOURDIEU, 2006).2 Todo o mais não passaria de 
+produtos inacessíveis à crítica.  
+
+textos  de 
+
+ 
+
+2 Para uma importante reflexão, que vai além do caso do artigo do sociólogo francês (este, escrito nos anos 1980), 
+ver o texto “Para além de uma ilusão: indivíduo, tempo e narrativa biográfica”, de autoria da historiadora Maria 
+da Glória de Oliveira (2018a). 
+
+Hist. R., Goiânia, v. 27, n. 3, p. 4–17, set./dez. 2022 
+
+DOSSIÊ 
+
+7 
+
+ 
+
+Nesse sentido, caberia indagar o que teria mais peso em tal determinação, que situa exercícios 
+com memórias e experiências particulares/individuais como praticamente insignificantes para 
+uma disciplina da história: a exigência inelutável de provas materiais, ou, sobretudo, uma 
+obsessiva vontade de anular o imprevisível do “subjetivo” (assim mesmo, entre aspas, como 
+escreveu Pontalis)? Dando continuidade ao diálogo com a tradição intelectual francesa, se a 
+história é, como escreveu o filósofo Paul Ricoeur (1913-2005), “do começo ao fim, escrita”, 
+não  seriam  as  experiências  ditas  subjetivas  de  historiadoras,  historiadores  e  de  suas 
+personagens, uma vez compartilhadas, passíveis de procedimentos metodológicos críticos? 
+(RICOEUR,  2007,  p.  148).  Aliás,  depois  da  leitura  do  impressionante  contingente  de 
+historiadores,  sociólogos,  filósofos  e  antropólogos  reunidos  na  análise  de  Ricoeur,  não 
+estariam  historiadoras  e  historiadores  munidos,  suficientemente,  de  arsenal  teórico  e 
+metodológico para lidar com desejos, afetos, fantasias e todos os demais conceitos e noções 
+atinentes aos estudos das dimensões históricas das ações, relações e conflitos humanos? O 
+que impede a história de criar laços menos previsíveis e mais radicais com as áreas da filosofia 
+e da psicanálise, por exemplo? Reconhecidas as fronteiras estabelecidas nos últimos duzentos 
+anos, não seria pertinente, dadas as conjunturas políticas delicadas que têm marcado este 
+século XXI, transgredi-las em nome de um mundo compartilhado mais justo e democrático e 
+de uma ciência mais socialmente responsável? 
+
+Não  deixa  de  ser  impressionante  a  naturalidade  com  que  pesquisadoras  e 
+pesquisadores de história escrevem sobre suas próprias vidas como se fossem elas e eles 
+passíveis  de  conversão  absoluta  em  objeto  de  conhecimento,  este  entendido  no  sentido 
+estrito que lhe atribuiu, em determinado momento, a ciência moderna, já bastante criticado 
+(KUHN,  2006).  O  mesmo  procedimento  é  generalizado  quando  se  trata  de  reconstituir  as 
+ações  das  personagens  históricas  eleitas  para  comporem  suas  produções.  O  choque  em 
+relação a tais práticas pode ser, em parte, dirimido quando se entra em contato com a história 
+da objetividade científica. Embora essa história seja, do ponto de vista histórico, muito recente 
+e  curta,  é  inegável  seu  sucesso  em  termos  de  provocar  certa  simplificação  teórica  e 
+metodológica  que  atingiu  fortemente  a  história  entendida  como  disciplina.  Não  pretendo 
+desenvolver  este  argumento  pois  ultrapassaria  os  propósitos  deste  artigo,  mas  considero 
+importante remeter a um de seus aspectos por ser relevante para a análise ora apresentada. 
+O  princípio  de  objetividade  científica  pressupõe  não  apenas  uma  observação  de  caráter 
+
+Evandro Santos. ESTARIA A HISTÓRIA À MARGEM DA VIDA? 
+
+8 
+
+DOSSIÊ 
+
+metodológico. Ele diz respeito, em igual medida, a atenção a componentes éticos do trabalho 
+de  pesquisa  que  poderíamos  sintetizar  sob  a  nomenclatura  de  “virtudes  epistêmicas” 
+(DASTON;  GALISON,  2010,  p.  39-42).  As  virtudes  epistêmicas  encaminham  destacadas 
+discussões que dizem respeito a conceitos que podem ser considerados éticos e políticos, tais 
+quais confiança, responsabilidade, verdade e, inclusive, sensibilidade, como tem demonstrado 
+as pesquisas desenvolvidas pelo historiador João Rodolfo Munhoz Ohara (2016). Em um de 
+seus estudos sobre a sensibilidade histórica, no recorte da historiografia brasileira dos anos 
+1980-1990, Ohara apresentou duas formações discursivas relativas a ela relativas: 
+
+De  um  lado,  acompanhando  uma  concepção  processual  da  história,  a 
+sensibilidade histórica designa a capacidade do historiador situar elementos 
+individuais em cadeias maiores, dando-lhes um sentido e estabelecendo as 
+relações entre esses elementos. De outro, a sensibilidade histórica designa o 
+sentido  do  próprio  fazer  historiográfico,  aglutinando  outras  habilidades 
+desejáveis por parte do historiador – erudição, atenção aos detalhes, rigor 
+de análise, open-mindedness, capacidade de síntese, etc. Tratam-se de duas 
+formações que exercem funções diferentes na produção de subjetividade do 
+historiador. Enquanto uma designa uma habilidade que pode ser aprendida, 
+a  outra  dá  um  sentido  que  organiza  certas  competências  do  indivíduo 
+(OHARA, 2016, p. 181). 
+
+Assim, a produção de subjetividade por parte de historiadoras e historiadores estaria 
+atrelada, em geral, à certa capacidade de lidar com as temporalidades (elementos individuais 
+articulados a cadeias maiores) e ao desenvolvimento de competências individuais (erudição, 
+habilidade interdisciplinar, poder de síntese etc.). Como se pode depreender dos resultados 
+trazidos por Ohara, a discussão acerca da produção de subjetividades e sobre as sensibilidades 
+históricas,  quando  tratada  na  chave  da  história  da  historiografia,  pode  ganhar  alguns 
+contornos relevantes na crítica de uma concepção de objetividade muitas vezes tratada de 
+forma excessivamente abstrata (ou mesmo anacrônica), o que, não raro, dificulta o diálogo 
+teórico entre as diferentes subáreas do conhecimento histórico e suas variadas ferramentas 
+conceituais  e  metodológicas.  Nesse  horizonte,  da  mesma  forma  que  o  olhar  exterior  de 
+Pontalis, pautado no campo da psicanálise, incentivou o argumento pensado para este artigo, 
+a  próxima  seção  pretende  explorar  justamente  o  diálogo  da  historiografia  com  algumas 
+concepções oriundas do saber iniciado por Sigmund Freud (1856-1939). 
+
+Das margens às fronteiras: a incomensurabilidade entre história e psicanálise  
+
+As dificuldades da prática historiográfica em lidar com o imprevisível do desejo e das 
+fantasias, o que se costuma sintetizar no conceito de subjetividade, convocam a interlocução 
+
+Hist. R., Goiânia, v. 27, n. 3, p. 4–17, set./dez. 2022 
+
+DOSSIÊ 
+
+9 
+
+ 
+
+com  o  amplo  legado  da  psicanálise.  Embora  haja  uma  vasta  controvérsia  relacionada  às 
+condições epistemológicas desse saber e o que interditaria ou autorizaria sua condição como 
+ciência, o que se observa, de modo geral, é que a despeito dessa questão, a psicanálise situa-
+se, na maior parte das vezes, como “o outro” de todos os discursos de saber/poder, entre eles, 
+o discurso científico (BEER, 2017).  
+
+No que diz respeito, especificamente, às relações a psicanálise e a disciplina histórica, 
+o primeiro aspecto a ser apontado tem relação com a evidência de que a concepção de tempo 
+de ambas é diversa. Essa importante característica de distinção conceitual foi observada e 
+analisada por Michel de Certeau (1925-1986), um dos poucos nomes ligados à história que se 
+interessaram  por  tais  diálogos  interdisciplinares,  ficando  isso  evidente  em  sua  obra, 
+sobretudo,  nos  anos  1980  (CERTEAU,  2011).  A  historiadora  estadunidense  Joan  Scott,  ao 
+discutir o tema, em artigo publicado em History and Theory, também partiu da divergência 
+entre  as  formas  de  compreensão  e  trabalho  com  o  tempo  que  contrapõem  história  e 
+psicanálise. Scott explica que a noção de tempo, assim como a de causalidade, é diferente, em 
+especial, pela introdução feita, no campo da psicanálise, dos conceitos de inconsciente e de 
+fantasia (SCOTT, 2012). Essa parece ser um dos maiores impasses colocados ao diálogo em 
+questão. Pode-se admitir que há um duplo impeditivo que afeta as possíveis trocas entre 
+psicanálise e história. De um lado, as limitações de uma certa ideia de disciplina científica, 
+disputada por historiadores desde o século XIX, cujos modelos ainda eram ligados a uma ideia 
+generalista de ciência e de método, ao qual a história deveria, necessariamente, se adaptar. 
+De outro lado, os condicionamentos que essa ideia de ciência impunha à escrita da história, 
+tornando  os  personagens  narrados  agentes  plenamente  conscientes  de  cada  atitude  ou 
+decisão tomada, o que acabava por retirar a própria dimensão humana das ações históricas e 
+mimetizando, ainda que de forma ingênua, os padrões das análises das chamadas ciências 
+naturais.  
+
+Como afirma Joan Scott, dadas as perturbadoras hipóteses (para historiadores) das 
+motivações inconscientes e do papel das fantasias na construção da história, e apesar das 
+experiências  desenvolvidas,  mais  fortemente,  desde  a  década  de  1970,  ainda  não  foram 
+realizados  investimentos  mais  concretos  naquilo  que  Michel  de  Certeau  chamou  de 
+potencialidades da incomensurabilidade entre os dois campos – história e psicanálise (SCOTT, 
+2012, p. 68). O historiador Peter Gay (1923-2015) também investiu na reflexão relacionada 
+
+Evandro Santos. ESTARIA A HISTÓRIA À MARGEM DA VIDA? 
+
+10 
+
+DOSSIÊ 
+
+aos impasses que a ideia de que as mentes humanas são construtoras de ficções impõe à 
+crítica  histórica,  e  que,  como  tais,  são  mentes  atravessadas  pelo  inconsciente,  inclusive 
+quando parecem estar agindo de forma racional. Segundo Gay, a psicanálise instituiu-se a 
+partir desses conceitos desestabilizadores das ideias de razão e de realidade, ao contrário da 
+história. Portanto, o que se observa é que os psicanalistas trabalham com a organização dos 
+desregrados impulsos e ideias do paciente, enquanto que o historiador não consegue lidar 
+com tamanha variabilidade ou incorporá-los à narrativa que produz (GAY, 1989, p. 102).  
+
+De  todo  modo,  mais  do  que  presumir  uma  tentativa  de  aplicação  dos  conceitos 
+psicanalíticos à pesquisa histórica, o argumento de Scott vai no sentido de se trabalhar com a 
+ideia de incomensurabilidade como aporia com potencial produtivo tanto para a psicanálise 
+como para a história. Conforme a historiadora, indagações teóricas fundamentais no processo 
+de  trabalho  de  historiadoras  e  historiadores  poderiam  ser  repensadas  com  o  suporte  da 
+psicanálise, como, por exemplo, as relações entre fato e interpretação (SCOTT, 2012). Muito 
+provavelmente, o instrumental crítico de historiadores teria muito a ganhar na medida em 
+que fatos históricos pudessem ser interpretados desde outra implicação entre sujeitos e suas 
+ações, não apenas quando se fala em personagens das narrativas históricas, mas no caso dos 
+próprios historiadores enquanto sujeitos de conhecimento. Este seria um exemplo passível de 
+ser considerado se o propósito é pensar outras teorias da história, capazes atingir processos 
+de subjetivação mais intensos e, portanto, ainda mais políticos. Tal percepção colocaria em 
+xeque a própria concepção de realidade na história, pautada no naturalismo, possibilitando, 
+por hipótese, novas formas de interação e experiência com as temporalidades históricas.  
+
+Importa destacar que a proposta debatida por Scott, Certeau e Gay não consiste em 
+um  deslocamento  dos  conceitos  da  clínica  para  o  estudo  de  personagens  do  passado.  A 
+discussão sobre a incomensurabilidade vai, justamente, no sentido, de garantir a manutenção 
+das fronteiras entre os saberes, fazendo com que um sirva de olhar exterior crítico ao outro. 
+Scott  sublinha  que  a  teoria  do  inconsciente  (e  sua  própria  definição  conceitual)  é 
+indisciplinada,  todavia,  justamente  por  isso,  pode  permitir  uma  interdisciplinaridade  mais 
+interessante (SCOTT, 2012). Em diálogo com o argumento de Scott, minha hipótese vai no 
+sentido de se recuperar a noção de que a história, longe de se resumir a uma disciplina com 
+pretensões  científicas,  é  um  dado  antropológico  que  atravessa,  de  maneiras  diferentes, 
+muitas comunidades humanas. A constatação de que a história migrou, no século XIX, para o 
+
+Hist. R., Goiânia, v. 27, n. 3, p. 4–17, set./dez. 2022 
+
+DOSSIÊ 
+
+11 
+
+ 
+
+campo científico, como lembra o historiador Hayden White (1928-2018), é também um dado 
+propriamente histórico, situado no tempo e no espaço, não sendo a única possibilidade de 
+relacionamento com o passado (WHITE, 2001). Nessa perspectiva, o diálogo com saberes e 
+manifestações artísticas e políticas que não se submeteram ao processo de disciplinarização 
+pode trazer ganhos à forma disciplinar da história, em particular no que tange a aprender a 
+lidar  com  a  instabilidade  experimentada  nesse  tipo  de  diálogo.  Talvez,  ao  sustentar  a 
+instabilidade  como  elemento  inerente  ao  diálogo  com  a  psicanálise,  historiadoras  e 
+historiadores  poderiam abandonar a  reação  condicionada de,  repetidamente,  perceber os 
+conceitos oriundos da tradição freudiana como uma ameaça à razão (ou à razão histórica que 
+eles supõem sustentar). A consciência de que a própria ideia de disciplina histórica varia no 
+tempo e no espaço, trazida por White, vai ao encontro da apreensão de que a psicanálise, 
+como uma prática e como uma ética, nunca busca explicações exaustivas, pois opera com o 
+devir  do  sujeito  e  de  seu  corpo,  passíveis  de  inúmeras  mudanças  que  afetam  a  vida.  A 
+historiografia, apesar de seus recortes metodológicos, costuma mobilizar certa pretensão a 
+uma explicação exaustiva dos fenômenos.  
+
+Depois de recuperarmos os argumentos acima, especialmente, aqueles trazidos por 
+Joan Scott, é possível concluir que o cerne da questão, quando se fala em relações diálogos 
+ou analogias entre história e psicanálise, é o conceito de sujeito e sua conformação no que 
+tange à implicação deste com suas fantasias e realidades. Tal qual traz Scott, o psicanalista se 
+recusa  a tornar  o  analisando  um  “objeto”,  enquanto  historiadores  convertem  sujeitos  em 
+objeto de análise para construir um corte entre passado e presente. A psicanálise, que pode 
+ser entendida como uma ética do sujeito, está mais comprometida com a vida e com o tempo 
+presente nela reconhecido. É nesse tempo que os psicanalistas pretendem intervir, na medida 
+em que evidenciam a agência inconsciente na qual presente e passado são indistinguíveis 
+(SCOTT, 2012). Sabendo-se de tudo isso, a pergunta a ser feita – que remete à primeira seção 
+deste artigo – tange aos avanços da historiografia nas últimas décadas: agentes da escrita da 
+história,  homens,  mulheres,  transgêneros,  brancos,  negros,  indígenas,  já  são  capazes  de 
+pensar teórica e eticamente seus trabalhos e escrever sobre eles sem converterem-se em 
+meros  objetos  descritos  de  forma  linear,  homogênea,  por  meio  de  trajetórias  cheias  de 
+sentido e, por que não dizer? – de ilusões?  
+
+A centralidade da problemática de gênero como teoria da história no século XXI 
+
+Evandro Santos. ESTARIA A HISTÓRIA À MARGEM DA VIDA? 
+
+12 
+
+DOSSIÊ 
+
+A análise crítica proposta por Joan Scott, no artigo acima citado, a meu ver, além de 
+muito pertinente, é condizente com o atual estado das discussões sobre o conceito de sujeito 
+no campo das humanidades. O histórico feito por Scott sobre as tentativas de implementação 
+da psico-história ou da psicologia do ego, sobretudo nos anos 1970, nos Estados Unidos, e sua 
+limitação ao campo da história intelectual, área ainda muito masculina, é importante para se 
+pensar  o  contexto  atual  das  humanidades  no  Brasil  e  no  mundo.  Ainda  conforme  a 
+historiadora, a tradução da obra de Michel Foucault (1926-1984) para o idioma inglês, ainda 
+no final da década de 1970, movimentou o diálogo com os psicanalistas. Contudo, como a 
+psico-história não se preocupava, por exemplo, com a teorização das desigualdades, pautas 
+políticas militantes como as lutas feministas e da comunidade LGBTQIA+ ficaram ausentes e 
+não acolheram interessados que poderiam ter fomentado o crescimento do campo naquele 
+momento (SCOTT, 2012). Scott já havia discutido o assunto a partir da perspectiva da história 
+das mulheres (SCOTT, 1992). 
+
+O  diagnóstico  acima  descrito  é  importante  no  sentido  de  descrever  os  diversos 
+contextos intelectuais e políticos que se desenvolveram desde a década de 1960 e, assim, 
+incentivar a investigação dos limites e das possibilidades das teorias que trataram e tratam da 
+problemática do sujeito em diferentes conjunturas históricas e experiências de politização. 
+Não  é  sem  razão  que  um  nome  importante  do  campo  dos  estudos  de  gênero,  a  filósofa 
+estadunidense  Judith  Butler,  costuma  recuperar,  criticamente,  a  obra  de  Foucault  para 
+desenvolver suas investigações sobre as teorias de formação do sujeito e seus estudos de 
+filosofia moral. Em a vida psíquica do poder (2017a), Butler aprofunda discussões que haviam 
+ficado um pouco secundárias, por exemplo, em sua obra mais conhecida, intitulada Problemas 
+de gênero (2017b). Ao discutir diferentes teorias de formação do sujeito, a filósofa confronta 
+os escritos de Freud com os trabalhos de Nietzsche e Foucault, a tal ponto que sua reflexão 
+transborda os limites da filosofia e atinge aspectos importantes e negligenciados em teorias 
+do sujeito anteriores, quais sejam, justamente, as questões de gênero, corporeidade e, em 
+particular, as manifestações inconscientes do poder que atravessa e destrói os corpos quando 
+estes se constituem (e são constituídos) em sujeitos. Importante ressaltar que, ao abordar as 
+teorias da sujeição, a preocupação central de Butler diz respeito à resistência, assumindo, 
+assim, um compromisso ético-político evidente. Ao lermos os trabalhos da filósofa, não resta 
+dúvida de que ela amplia os limites do pensamento foucaultiano, ao mesmo tempo em que 
+
+Hist. R., Goiânia, v. 27, n. 3, p. 4–17, set./dez. 2022 
+
+DOSSIÊ 
+
+13 
+
+ 
+
+reposiciona os diálogos com a psicanálise como centrais ao debate dos estudos de gênero, em 
+específico, e de ética, em sentido mais geral.  
+
+Efetuando a crítica do legado freudiano e também da obra de Michel Foucault para 
+discutir importantes questões filosóficas inerentes aos estudos de gênero, Butler dá um passo 
+além, superando falsas aporias, como a ideia de que o caráter clínico da psicanálise impediria 
+seu diálogo com teorias da história e teorias de e sobre gênero (BUTLER, 2017c, p. 169). A 
+interpelação da psicanálise que se encontra em sua obra tende a tornar mais complexa a 
+concepção de sujeito de conhecimento, pois ela convoca conceitos como o de transferência, 
+que  inevitavelmente  movimentam  o  problema  da  implicação  do  sujeito  com  aquilo  que 
+converte em objeto (BUTLER, 2017c, p. 69-88). Este assunto exige uma nova discussão, agora 
+que contamos com a ampliação do campo dos estudos de gênero e sexualidade, não apenas 
+nos Estados Unidos. Fazer esse movimento de retomada de assuntos que, no passado, embora 
+importantes, não encontraram o devido espaço para seu desenvolvimento, a meu ver, é um 
+trabalho  de  historicização  necessário  e  que  pode  render  muitos  frutos  tanto  à  história 
+intelectual como à disciplina histórica, em sentido mais amplo.   
+
+Merece destaque o fato de que este tipo de teorização, que vai da história da ciência 
+ao cerne de sua estrutura discursiva e conceitual, com a segurança acumulada por cerca de 
+duzentos anos de história disciplinar, pode garantir avanços significativos na adaptação de 
+nossa disciplina às demandas do século XXI, sem abrir mão de seu aparato crítico e científico. 
+Dito  de  outra  forma,  utilizando  o  caso  do  diálogo  com  a  psicanálise,  com  uma  ação  mais 
+profunda e política de trabalho com as teorias de formação dos sujeito e com a agenda dos 
+estudos  de  gênero,  talvez  seja  possível  ampliarmos  as  possibilidades  teóricas  e  críticas,  à 
+medida em que a psicanálise possa ser apreendida em sua dimensão ética (ou teoria da ação), 
+capaz de intervir nas desigualdades estruturais do próprio campo científico, e não apenas 
+como um método ou modalidade hermenêutica, como no caso da leitura feita pelo historiador 
+italiano Carlo Ginzburg, ao desenvolver seu método indiciário (GINZBURG, 1989, p. 143-179). 
+Tanto no caso dos Estados Unidos do anos 1970, descrito por Scott, como no caso do método 
+criado para a história social, fornecido por Ginzburg, observa-se um afastamento das práticas 
+de pesquisa e de suas preocupações em relação à vida, entendida aqui simplesmente como 
+espaço  de  manifestação  do  laço  social  e  campo  de  possibilidades  para  os  processos  de 
+subjetivação que garantem o direito às identidades de sujeitos sem prejuízo da dimensão 
+
+Evandro Santos. ESTARIA A HISTÓRIA À MARGEM DA VIDA? 
+
+14 
+
+DOSSIÊ 
+
+social que condiciona qualquer processo dessa natureza. Enfim, nessa altura da história da 
+ciência histórica na qual nos encontramos, não faria o menor sentido limitar o debate teórico 
+e historiográfico sobre a vida e sobre as subjetividades humanas a uma questão de método. 
+O critério a ser observado, pelo visto, é tanto mais ético e político. A disciplina estará segura, 
+podemos ter certeza.  
+
+Um sonho: superar o fardo da história, abrir-se ao imponderável  
+
+Um nome insuspeito nos estudos de teoria da história, o historiador alemão Reinhart 
+Koselleck (1923-2006), refletiu, em alguns de seus textos, sobre a importância de se repensar 
+a  metodologia  da  história  com  o  escopo  de  permitirmos  o  ingresso  do  ficcional  como 
+elemento  que  pertencente  e  que  carrega  realidade  histórica.  Com  novas  traduções,  tal 
+preocupação  aparece  com  mais  intensidade.  Nesse  sentido,  o  capítulo  terceiro  da  obra 
+Reinhart Koselleck: uma latente filosofia do tempo, organizada por Hans Ulrich Gumbrecht e 
+Thamara de Oliveira Rodrigues, recentemente publicada (2021), é exemplo disso, em mais 
+uma  reflexão  de  Koselleck  acerca  do  sonho  como  elaboração  humana  e  histórica  de 
+experiências traumáticas. Mesmo que se distanciando da tradição psicanalítica, o historiador 
+reafirma  o  sonho,  uma  experiência  corporal,  como  histórica,  posto  que  pode  ser 
+compartilhada e acompanhar os fenômenos históricos que atingem o sujeito sonhador e dos 
+quais ele participa seja como agente, seja como vítima. em tempo, Koselleck foi um historiador 
+que  nunca  deixou  de  se  preocupar  com  os  afetos  humanos  e  com  o  quanto  eles  são 
+importantes,  inclusive,  para  se  garantir  alguma  crença  em  relação  a  história.  Basta 
+lembrarmos de sua interessante reflexão sobre os vencidos na história.  
+
+Em meus últimos textos de caráter historiográfico, tenho insistido na recuperação de 
+um conhecido texto escrito e publicado por Hayden White, na década de 1960. Trata-se do 
+ensaio “O fardo da história”, originalmente divulgado em 1966. Nele, o historiador enfatiza a 
+necessidade de se avançar no debate teórico da história, no intuito mesmo de tornar mais 
+complexas  nossas  relações  com  o  que  chamamos  de  ciência  da  história  e,  sobretudo, 
+superarmos certo ideal historicista estabelecido no século XIX, porém, não mais condizente 
+com a realidade histórica mais recente. A impressão que temos ao ler o ensaio escrito por 
+White é a de que ele antecipa uma série de consequências das transformações sociais para a 
+história  que,  a  rigor,  já  estavam  lá  colocadas,  mas  que,  agora,  podemos  perceber  como 
+absolutamente  consolidadas.  O  paradoxo  que  se  apresenta  é  que,  neste  século  XXI,  nada 
+
+Hist. R., Goiânia, v. 27, n. 3, p. 4–17, set./dez. 2022 
+
+DOSSIÊ 
+
+15 
+
+ 
+
+parece mais necessário e, ao mesmo tempo, mais acessório que a história. As sociedades 
+ocidentais  parecem  mergulhadas  em  diversas  crises  de  memória,  nas  quais  emergem 
+movimentos  autoritários,  não  raro,  acompanhados  de  projetos  violentos,  sectários  e 
+genocidas. Ao mesmo tempo, a história, como disciplina, aparentemente, foi empurrada para 
+um campo de especialização do qual ela quase não mais consegue se retirar. Seja como ofício 
+o como profissão, garantir o espaço para diferentes manifestações da história corresponde a 
+incentivar valores democráticos, creio eu. Contudo, entre as diversas formas de história, em 
+variadas linguagens e lugares de produção, sustentar o diálogo com a história-disciplina é 
+fundamental.  A  disciplina  tem  valor  de  referência,  ou  seja,  ocupa  um 
+lugar  de 
+responsabilidade.  
+
+Creio  que  os  diálogos  com  a  psicanálise  e  a  ampliação  dos  estudos  de  gênero  e 
+sexualidade,  no  contexto  atual,  colocam  em  evidência  a  necessidade  de  se  interpelar  as 
+subjetividades capazes de produzir tantos afetos intensos, a ponto de observarmos a ascensão 
+de movimentos neonazistas e neofascistas mundo afora, por exemplo. O que estaria por trás 
+de um ódio que parece ser tanto estrutural como histórico? O que explica o seu retorno? 
+Entretanto, para conseguirmos observar essas subjetividades, antes, seria oportuno sairmos 
+de  nosso  narcisismo  e  quebrarmos  alguns  espelhos.  Retomando  a  epígrafe  que  abre  este 
+artigo, precisamos superar o século XIX – deixarmos de ser a personagem Amanda, que vive 
+de passado – e, em simultâneo, alimentarmos a teoria da história daquilo que, hoje, ela mais 
+precisa, ou seja, uma teoria geral do desejo e das fantasias – para que não venhamos a ser 
+Laura, a filha que, por ser aleijada, aliena-se do mundo, fragilmente, entre suas miniaturas de 
+vidro que ficam na estante. 
+
+REFERÊNCIAS BIBLIOGRÁFICAS 
+BEER, Paulo. Psicanálise e ciência: um debate necessário. São Paulo: Blucher, 2017. 
+
+BIRMAN, Joel. Psicanálise, ciência e cultura. Rio de Janeiro: Jorge Zahar Editor, 1994. 
+
+BOURDIEU, Pierre. A ilusão biográfica. In: FERREIRA, Marieta de Moraes Ferreira; AMADO, Janaína 
+(orgs.). Usos & abusos da História Oral. Rio de Janeiro: Editora FGV, 2006, p. 183-191. 
+
+BUTLER,  Judith.  A  vida  psíquica  do  poder:  teorias  da  sujeição.  Tradução:  Rogério  Bettoni.  Belo 
+Horizonte; Autêntica Editora, 2017a. 
+
+BUTLER, Judith. Problemas de gênero: feminismo e subversão da identidade. Tradução: Renato Aguiar. 
+Rio de Janeiro: Civilização Brasileira, 2017b. 
+
+Evandro Santos. ESTARIA A HISTÓRIA À MARGEM DA VIDA? 
+
+16 
+
+DOSSIÊ 
+
+BUTLER,  Judith.  Relatar  a  si  mesmo:  crítica  da  violência  ética.  Tradução  de  Rogério  Bettoni.  Belo 
+Horizonte: Autêntica Editora, 2017c. 
+
+CERTEAU, Michel de. A invenção do cotidiano. 1. Artes de fazer. Tradução: Ephraim Ferreira Alves. 
+Petrópolis, RJ: Vozes, 1994. 
+
+CERTEAU, Michel de. História e psicanálise: entre ciência e ficção. Tradução: Guilherme João de Freitas 
+Teixeira. Belo Horizonte: Autêntica Editora. 2011. 
+
+DASTON, Lorraine; GALISON, Peter. Objectivity. New York: Zone Books, 2007. 
+
+FOUCAULT, Michel. História da sexualidade 3: o cuidado de si. Tradução de Maria Thereza da Costa 
+Albuquerque. Rio de Janeiro/São Paulo: Paz & Terra, 2017. 
+
+GAY, Peter. Freud para historiadores. Tradução: Osmyr Faria Gabi Junior. Rio de Janeiro: Paz e Terra, 
+1989. 
+
+GINZBURG, Carlo. Mitos, embremas, Sinais: morfologia e história. Tradução de Federico Carotti. São 
+Paulo: Companhia das Letras, 1989. 
+
+GUMBRECHT, Hans Ulrich; RODRIGUES, Thamara de Oliveira (org.). Reinhart Koselleck: uma latente 
+filosofia do tempo. Tradução: Luiz Costa Lima. São Paulo: Editora Unesp, 2021.  
+
+KOSELLECK,  Reinhart.  Futuro  passado:  contribuição  à  semântica  dos  tempos  históricos.  Tradução: 
+Wilma Patrícia Maas e Carlos Almeida Pereira. Rio de Janeiro: Contraponto: Ed. PUC-Rio, 2006. 
+
+KUHN, Thomas S. A estrutura das revoluções científicas. Tradução de Beatriz Vianna e Nelson Boeira. 
+São Paulo: Perspectiva, 2009. 
+
+OHARA, J. R. M. Virtudes Epistêmicas na Prática do Historiador: o caso da sensibilidade histórica na 
+historiografia brasileira (1980-1990). História da Historiografia: International Journal of Theory and 
+History of Historiography, Ouro Preto, v. 9, n. 22, 2017. DOI: 10.15848/hh.v0i22.1107. Disponível em: 
+https://www.historiadahistoriografia.com.br/revista/article/view/1107. Acesso em: 28 fev. 2022. 
+
+OLIVEIRA, Maria da Glória de. Para além de uma ilusão: indivíduo, tempo e narrativa biográfica. In: 
+AVELAR, Alexandre de Sá; SCHMIDT, Benito Bisso (org.). O que pode a biografia. São Paulo: Letra & 
+Voz, 2018, p. 59-72. 
+
+PONTALIS, J. B. À margem dos dias. Tradução de Lidia R. Aratangy. São Paulo: Primavera Editorial, 2012. 
+
+RICOEUR, Paul. A memória, a história, o esquecimento.  Tradução de Alain François. Campinas, SP: 
+Editora da Unicamp, 2007. 
+
+SAFATLE, Vladimir. Maneiras de transformar mundos: Lacan, política e emancipação. Belo Horizonte: 
+Autêntica Editora, 2020. 
+
+SCOTT, Joan. História das mulheres. In: BURKE, Peter (org.). A escrita da história: novas perspectivas. 
+Tradução: Magda Lopes. São Paulo: UNESP, 1992, p. 63-95. 
+
+SCOTT, Joan. The incommensurability of psychoanalysis and history. History and Theory, 51, (February, 
+2012), p. 63-83). 
+
+Hist. R., Goiânia, v. 27, n. 3, p. 4–17, set./dez. 2022 
+
+WHITE, Hayden. O fardo da história. In: Trópicos do discurso: ensaios de crítica da cultura. Tradução de 
+Alípio Correia de Franca Neto. São Paulo; Editora da Universidade de São Paulo, 2001, p. 39-63. 
+
+WILLIAMS, Tennessee. O Zoológico de vidro, De repente no último verão, Doce pássaro da juventude. 
+Tradução de Clara Carvalho \ Grupo Tapa. São Paulo: É Realizações Editora, 2014. 
+
+17 
+
+ 
+
+DOSSIÊ 
+
+ 
+ 
+ 
+
+Evandro Santos. ESTARIA A HISTÓRIA À MARGEM DA VIDA? 
+
+

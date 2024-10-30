@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/65a3417910f34a1c83769eeb000a47f6/artifacts
+deleted_time: 1730154652049
+end_time: 1730154246455
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: 65a3417910f34a1c83769eeb000a47f6
+run_name: colorful-ray-862
+run_uuid: 65a3417910f34a1c83769eeb000a47f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730154241930
+status: 3
+tags: []
+user_id: rapha

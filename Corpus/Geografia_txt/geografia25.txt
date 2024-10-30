@@ -1,0 +1,1748 @@
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+ 
+https://doi.org/10.51359/2238-6211.2023.253370   
+ 
+
+ Licença  Creative  Commons  Atribuição  4.0 
+Internacional.  CC  BY -  permite  que  outros  distribuam, 
+remixem, adaptem e criem a partir do seu trabalho, mesmo 
+para  fins  comerciais,  desde  que  lhe  atribuam  o  devido 
+crédito pela criação original. 
+ 
+
+ 
+
+ANÁLISE DOS ESTUDOS DE FRAGILIDADE AMBIENTAL 
+
+NA IDENTIFICAÇÃO E MITIGAÇÃO DE IMPACTOS 
+
+AMBIENTAIS EM BACIAS HIDROGRÁFICAS, A PARTIR DE 
+
+ANÁLISE BIBLIOMÉTRICA  
+
+Patricia Barbosa Pereira¹, http://orcid.org/0000-0001-7298-9469  
+Glairton Cardoso Rocha², http://orcid.org/0000-0002-1706-7338  
+
+Cláudia Maria Sabóia de Aquino, http://orcid.org/0000-0002-3350-7452  
+
+                                     ¹ Universidade Federal do Piauí, Teresina – PI, Brasil 
+  ² Instituto Federal do Piauí, Teresina – PI, Brasil** 
+3 Universidade Federal do Piauí, Teresina – PI, Brasil*** 
+  
+
+Artigo recebido em 22/02/2022 e aceito em 01/08/2023 
+
+Publicado: 10/2023 
+
+RESUMO 
+A análise da fragilidade ambiental envolvendo as bacias hidrográficas, vêm sendo amplamente utilizada 
+para a identificação de atividades degradadoras, e como subsídio ao manejo sustentável dos sistemas 
+terrestres. Neste sentido, o objetivo do presente artigo é analisar as contribuições de metodologias sobre 
+fragilidade  ambiental  na  identificação  e  mitigação  de  impactos  ambientais  em  bacias  hidrográficas, 
+através  de  análise  bibliométrica.  Dessa  maneira,  a  partir  da  revisão  de  literatura  sobre  fragilidade 
+ambiental em bacias hidrográficas brasileiras, foi possível verificar que os estudos analisados obtiveram 
+resultados satisfatórios. Além da identificação dos impactos ambientais, identificou-se que as pesquisas 
+apresentam variadas medidas mitigadoras com destinação às ações de planejamento ambiental e auxílio 
+à tomada de decisão. Em linhas gerais, reitera-se que esse estudo contribuirá com informações úteis ao 
+desenvolvimento de pesquisas futuras, além de identificar os principais impactos ambientais recorrentes 
+na temática da fragilidade ambiental, e medidas de ordenamento territorial. 
+  
+Palavras-chave: fragilidade ambiental; impactos ambientais; bacias hidrográficas.  
+ 
+ 
+ 
+
+ 
+
+  Aluna  do  Programa  de  Mestrado  em  Análise  e  Planejamento  Espacial  e  do  curso  de  especialização  em 
+Geoprocessamento: fundamentos e aplicações (IFPI). E-mail: patriiciabarbosaap@gmail.com 
+**  Professor  do  Instituto  Federal  de  Educação,  Ciência  e  Tecnologia  do  Piauí  (IFPI).  E-mail: 
+glairtongeo@ifpi.edu.br 
+*** Professora Associada II da Universidade Federal do Piauí, onde atua na pesquisa e no ensino de graduação e 
+pós-graduação (Programa de Pós-Graduação de Geografia da UFPI). E-mail: cmsaboia@gmail.com 
+
+Pereira; Rocha; Aquino, 2023 
+
+ISSN 0104-5490 
+
+24 
+
+PKS 
+
+PUBLIC 
+KNOWLEDGE 
+PROJECT 
+
+https://periodicos.ufpe.br/revistas/revistageografia 
+
+ 
+
+OJS 
+
+OPEN  
+JOURNAL 
+SYSTEMS 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ANALYZES OF STUDIES OF ENVIRONMENTAL FRAGILITY IN THE 
+IDENTIFICATION AND MITIGATION OF ENVIRONMENT IMPACTS 
+IN HYDROGRAPHIC BAYS FROM THE BIBLIOMETRICS ANALYSIS 
+
+ABSTRACT 
+The analyses of the environment fragility that involves the hydrographic bays, and has been widely used 
+for  the  identification  of  degrading  activities,  and  as  subsidy  to  the  sustainable  management  of  the 
+terrestrial  systems.  In  this  way,  the  objective  of  this  article  it’s  to  analyze  the  contributions  of 
+methodologies about the environment fragility in the identification and mitigation of the environment 
+impacts in the hydrographic bay through bibliometrics analysis. In this way, from the literature revision 
+about the environment fragility in Brazilians hydrographic bays, it was possible to verify that the studies 
+that were analyzed had satisfactory results. Beyond the identification of environmental impact, it was 
+identified that the researches presents a variety of mitigating measures with a destination to the actions 
+of the environment plan and helping with making decisions. In general lines, we highlighting that this 
+study  will  contribute  with  useful  information  to  the  development  of  future  researches,  beyond 
+identifying  the  main  environmental  impacts  recurrent  in  the  theme  of  environment  fragility,  and 
+territorial ordering measures.  
+ 
+Keywords: Environmental fragility; environment impacts; hydrographic bays. 
+ 
+
+ANÁLISIS DE ESTUDIOS DE FRAGILIDAD AMBIENTAL EN LA 
+
+IDENTIFICACIÓN Y MITIGACIÓN DE IMPACTOS AMBIENTALES 
+EN BACIAS HÍDRICAS, BASADO EN ANÁLISIS BIBLIOMÉTRICO 
+
+RESUMEN 
+El análisis de fragilidad ambiental que involucra cuencas hidrográficas ha sido ampliamente utilizado 
+para la identificación  de  actividades degradantes,  y  como  subsidio para  la  gestión  sustentable  de  los 
+sistemas terrestres. En este sentido, el objetivo de este artículo es analizar los aportes de las metodologías 
+sobre  fragilidad  ambiental  en  la  identificación  y  mitigación  de  impactos  ambientales  en  cuencas 
+hidrográficas, a través del análisis bibliométrico. Así, a partir de la revisión de literatura sobre fragilidad 
+ambiental  en  cuencas  hidrográficas  brasileñas,  fue  posible  verificar  que  los  estudios  analizados 
+obtuvieron resultados satisfactorios. Además de la identificación de impactos ambientales, se identificó 
+que  la investigación  presenta  diversas medidas  mitigadoras encaminadas  a  acciones  de  planificación 
+ambiental y ayuda en la toma de decisiones. En términos generales, se reitera que este estudio brindará 
+información  útil  para  el  desarrollo  de  futuras  investigaciones,  además  de  identificar  los  principales 
+impactos  ambientales  recurrentes  en  el  tema  de  la  fragilidad  ambiental,  y  medidas  de  ordenamiento 
+territorial. 
+. 
+Palabras clave: Fragilidad ambiental; impactos ambientales; bacias hidrográficas. 
+ 
+ 
+ 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+25 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+INTRODUÇÃO  
+
+As intervenções antrópicas quando realizadas de maneira inadequada aceleram de forma 
+
+bastante  expressiva  as  mudanças  nas  características  ambientais,  e  na  disponibilidade  de 
+
+recursos naturais. O desenvolvimento da produção do espaço, engendrado pelas relações sociais, 
+
+impactam a funcionalidade das bacias hidrográficas, uma vez que são receptoras de todas as 
+
+interferências  naturais  e  humanas  que  ocorrem  na  sua  área  (CHRISTOFOLETTI,  1980; 
+
+BRASIL, 1997; CARVALHO, 2020 CARVALHO et al., 2019). 
+
+Os  estudos  decorrentes  da  identificação  de  impactos  ambientais  em  análises  de 
+
+fragilidade ambiental, tendem a contribuir com o manejo de bacias, pois permitem identificar a 
+
+compatibilidade ambiental das atividades socioeconômicas. E a partir dos resultados obtidos, 
+
+podem  ser  gerados  planos  de  gestão  vinculados  à  dinâmica  local  (CASTRO,  2016; 
+
+FIGUEIRÔA e SALVIO, 2020).  
+
+O crescimento populacional urbano, combinado com a ocupação desordenada do espaço, 
+
+contribuem  para  a  intensificação  dos  problemas  socioambientais,  a  exemplo  da  retirada  da 
+
+vegetação primária, descaracterização do relevo, dentre outros. Dessa maneira, o planejamento 
+
+adequado poderá fornecer subsídios  para controlar as atividades potencialmente impactantes 
+
+(CAMPOS et al., 2019, LINHARES, 2020). 
+
+Desse modo, conforme Degrande e Bortoluzzi (2020), é incontestável que nas últimas 
+
+décadas  os  estudos  voltados  ao  viés  natureza  e  sociedade,  tem  sido  bastante  difundido, 
+
+especialmente  pelas  variadas  metodologias  empregadas.  Essas  abordagens  trabalham  com 
+
+adaptações a proposta metodológica de Ross (2012, Ross (1994), e Crepani et al. (2001), que 
+
+visa à análise holística dos aspectos naturais e antrópicos.  
+
+As  pesquisas  de  fragilidade  ambiental,  são  fundamentais  para  a  verificação  das 
+
+potencialidades  e  limitações  do  ambiente.  O  conhecimento  dessas  características  perfaz 
+
+importantes  instrumentos  destinados  ao  planejamento  territorial  e  ambiental,  tomando  como 
+
+base a análise integrada da paisagem. (DIAS e CIRILO, 2018; SILVA et al., 2020).  
+
+Neste  sentido,  o  objetivo  do  presente  artigo  é  analisar  as  contribuições  de  pesquisas 
+
+sobre  fragilidade  ambiental  na  identificação  e  mitigação  de  impactos  ambientais  em  bacias 
+
+hidrográficas, através de estudo bibliométrico.  Dessa forma,  a pesquisa  mostra-se pertinente 
+
+em evidenciar as medidas mitigadoras propostas às bacias hidrográficas no ramo das pesquisas 
+
+de fragilidade ambiental. 
+
+ 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+26 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+METODOLOGIA 
+
+No  que  se  refere  aos  procedimentos  iniciais  para  o  alcance  do  objetivo  proposto  no 
+
+estudo,  fez-se  uso  de  levantamentos  e  análises  de  materiais  teóricos/bibliográficos  sobre  os 
+
+estudos de fragilidade ambiental em bacias hidrográficas. Adotando-se os seguintes critérios:  
+
+As pesquisas foram realizadas a partir da base de dados abertas publicados no Brasil, 
+
+destaca-se o Google Acadêmico e Periódico Capes; 
+
+Foram pré-selecionados 45 artigos, mas adotou-se apenas 23 para o estudo, haja vista 
+
+que, os demais não abordavam sobre impactos ambientais em bacias hidrográficas; 
+
+Buscou-se  os  materiais  publicados  no  intervalo  temporal  (2011-2021),  no  intuito  de 
+
+verificar as publicações dos últimos 10 anos; 
+
+Os  estudos  foram  selecionados  com  base  na  identificação  de  impactos  ambientais 
+
+negativos e suas propostas de medidas mitigadoras; 
+
+Foram selecionados apenas artigos publicados em periódicos avaliados por pares. 
+
+Quanto aos trabalhos selecionados, contendo o nome dos periódicos, autores, título e ano de 
+
+publicação, são representados no (Quadro 1).  
+
+     Quadro 01 – Artigos selecionados para o estudo 
+
+1. 
+
+  Cabral et al. (2011) 
+
+Mapeamento da fragilidade ambiental 
+
+GeoFocus 
+
+  Gonçalves et al. (2011) 
+
+Determinação da fragilidade ambiental 
+
+Revista floresta 
+
+  Silva e Costa (2011) 
+
+Caminhos de geografia 
+
+4. 
+
+  Bahr e Carvalho (2012) 
+
+Identificação da fragilidade ambiental 
+
+Ra’ega 
+
+da bacia hidrográfica do rio Doce 
+
+(GO), utilizando técnicas de 
+
+geoprocessamento 
+
+de bacias hidrográficas 
+
+Paisagem e fragilidade ambiental 
+natural da bacia hidrográfica do 
+
+ribeirão São Lourenço, Ituiutaba/Prata 
+
+da bacia hidrográfica do arroio 
+
+uvaranal, como subsídio ao projeto de 
+expansão urbana de Telêmaco Borba – 
+
+– MG 
+
+PR 
+
+Avaliação da fragilidade ambiental e 
+vulnerabilidade natural à perda de solo 
+da bacia hidrográfica do rio Almada-
+
+Bahia 
+
+hidrográfica do ribeirão São Bento da 
+
+Ressaca, município de Frutal - MG 
+
+Mapeamento da fragilidade ambiental 
+na bacia do rio verde, região Nordeste 
+
+do estado de São Paulo, Brasil 
+
+  Cunha, Bacani e Ayach 
+
+Geoprocessamento aplicado à análise 
+
+Revista da Anpege 
+
+(2013) 
+
+de fragilidade ambiental 
+
+ 
+
+Gomes (2013) 
+
+Boletim de geografia 
+
+ Santos e Oliveira (2013) 
+
+Fragilidade ambiental da bacia 
+
+  Vitte e Mello (2013) 
+
+Observatorium: Revista 
+eletrônica de geografia 
+
+GEOUSP 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+27 
+
+⮚ 
+
+⮚ 
+
+⮚ 
+
+⮚ 
+
+⮚ 
+
+ 
+
+ 
+
+ 
+
+2. 
+
+3. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+9. 
+
+  Bacani et al. (2015) 
+
+Sensoriamento remoto e sig aplicados à 
+
+Revista Mercator 
+
+10. 
+
+  Ferreira, Ferreira e 
+
+Gouveia (2016) 
+
+11. 
+
+  Gouveia et al. (2015) 
+
+12. 
+
+ Gonçalves, Araújo e Imai 
+
+(2016) 
+
+avaliação da fragilidade ambiental de 
+
+bacia hidrográfica 
+
+Mapa de Fragilidade Ambiental como 
+auxílio para o planejamento urbano e 
+
+gestão de recursos hídricos 
+
+Análise da fragilidade ambiental na 
+bacia do rio Queima-Pé, Tangará da 
+
+Serra, MT 
+
+Mapeamento do grau de fragilidade 
+com processo analítico hierárquico e 
+operadores fuzzy gama na detecção 
+
+áreas de fragilidade ambiental 
+
+de uma bacia hidrográfica urbana no 
+
+município de Santa Maria - RS 
+
+na bacia hidrográfica do rio Santo 
+
+MS: Subsídio ao zoneamento 
+
+Antônio, 
+
+ambiental 
+
+Fórum ambiental 
+
+Instituto de 
+Geociências 
+
+Revista brasileira de 
+
+cartografia 
+
+gestão, educação e 
+tecnologia ambiental 
+Floresta e ambiente 
+
+13. 
+
+  Schiavo et al. (2016) 
+
+Caracterização da fragilidade ambiental 
+
+Revista eletrônica em 
+
+14. 
+
+  Valle, Francelino e 
+
+Mapeamento da fragilidade ambiental 
+
+15. 
+
+ 
+
+Pinheiro (2016) 
+Abrão (2018) 
+
+na bacia do rio Aldeia Velha, RJ 
+
+Diagnóstico da fragilidade ambiental 
+
+Boletim Goiano 
+
+16. 
+
+  Belato, Serrão e Dias 
+
+Diagnostico da fragilidade ambiental 
+
+Natural Resources 
+
+(2019) 
+
+na bacia do submédio 
+
+Tocantins: UHE Tucuruí 
+
+17. 
+
+ Periçato e Souza (2019) 
+
+O estudo da fragilidade potencial e 
+
+Caderno de geografia 
+
+18. 
+
+  Santos e Marchioro 
+
+emergente na bacia hidrográfica do rio 
+
+das Antas, Noroeste do Paraná 
+Análise empírica da fragilidade 
+
+(2020) 
+
+ambiental da bacia hidrográfica do rio 
+
+departamento de 
+
+Duas Bocas, Espírito Santo, Brasil 
+
+geografia 
+
+Revista de 
+
+ 
+
+19. 
+
+ Sutil, Gonçalves e Vieira 
+
+Análise comparativa da fragilidade 
+
+Revista Brasileira de 
+
+(2020) 
+
+ambiental da bacia do rio Piracicaba a 
+
+Geografia Física 
+
+partir da aplicação de dois modelos 
+
+metodológicos: suporte para o 
+estabelecimento e proposição de 
+
+Corredores Ecológicos 
+
+20. 
+
+  Sales e Nascimento 
+
+(2021) 
+
+Geomorfologia e fragilidade ambiental 
+na classificação de paisagens em bacias 
+
+Revista Equador 
+
+21. 
+
+ Souza e Rebelato (2021)  Avaliação da fragilidade ambiental da 
+bacia hidrográfica do baixo Mogi com 
+
+hidrográficas 
+
+uso da geotecnologia 
+
+Brazilian Journal of 
+
+Animal and 
+
+Environmental 
+
+Research 
+
+22. 
+
+  Teixeira, Oliveira e 
+
+Fragilidade Ambiental da Bacia 
+
+Revista Brasileira de 
+
+Teixeira (2021) 
+
+Hidrográfica do Rio São João de Tiba, 
+
+Geografia Física 
+
+23. 
+
+  Vieira et al. (2021) 
+
+Fragilidade ambiental emergente da 
+bacia hidrográfica do rio Santa Maria 
+
+Revista Brasileira de 
+
+Geografia Física 
+
+Extremo Sul da Bahia 
+
+do Doce – ES, Brasil 
+
+     Fonte: Dados da pesquisa (2021). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+28 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+RESULTADOS E DISCUSSÕES 
+
+territorial.   
+
+Janeiro. 
+
+(2001).  
+
+A  análise  da  fragilidade  ambiental  envolvendo  as  bacias  hidrográficas,  vem  sendo 
+
+amplamente  utilizada  para  a  identificação  de  atividades  degradadoras,  e  no  subsídios  de 
+
+medidas que proponham o manejo sustentável dos sistemas terrestres. Os estudos de Santos e 
+
+Oliveira (2013) e Abrão (2018), afirmam que os resultados oriundos da análise integrada dos 
+
+aspectos  geoambientais,  podem  resultar  em  instrumentos  de  zoneamento  e  ordenamento 
+
+Nas  últimas  décadas,  o  desenvolvimento  das  técnicas  de  geoprocessamento  tem 
+
+contribuído para identificação de variados impactos ambientais, bem como na possibilidade de 
+
+desenvolver  propostas  de  medidas  mitigadoras.  Essa  revisão  de  literatura  abrange  variadas 
+
+pesquisas nos estados      brasileiros, no Mato Grosso do Sul, Paraná, Pará, Góias, São Paulo, 
+
+Bahia, Mato Grosso, Paraná, Ceará, Espírito Santo, Minas Gerais, Rio Grande do Sul e Rio de 
+
+Nas  metodologias  empregadas  nos  estudos,  há  um  predomínio  da  proposta  de  Ross 
+
+(1994),  considerando  que  a  mesma  passa  por  adaptações  no  intuito  de  adequações, 
+
+principalmente envolvendo as características geomorfológicas e os pesos das variáveis, e além 
+
+da metodologia de Ross, também há o emprego da abordagem de Ross (2012) e Crepani et al. 
+
+Essas  metodologias  de  fragilidade  tornam-se  cada  vez  mais  importantes  devido  a 
+
+diversificação  de  questões  ambientais  associadas  ao  crescimento  populacional  e  a  também 
+
+crescente  urbanização.  Haja  vista  que,  em  sua  grande  maioria,  a  expansão  urbana  ocorre  de 
+
+maneira  desordenada,  sem  o  reconhecimento  das  características  físico-naturais  da  região 
+
+(BAHR e CARVALHO, 2012). 
+
+No estudo de Bacani et al. (2015), sobre fragilidade ambiental na Bacia Hidrográfica do 
+
+Alto Rio Coxim (BAC)/MS, os autores identificaram que a zona urbana situada às margens da 
+
+BAC, apresenta risco de inundação em função das atividades antrópicas realizadas, e que por 
+
+vezes, estas atingem os cursos d´águas e os demais aspectos ambientais. É importante enfatizar 
+
+a  contribuição  dessa  análise  de  fragilidade  para  a  elaboração  de  medidas  mitigadoras 
+
+envolvendo a definição e delimitação de áreas destinadas para a preservação, recuperação e uso 
+
+sustentável. 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+29 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+É recorrente a ocupação de áreas próximas às redes hidrográficas, e ainda aquelas com 
+
+destinação às atividades de agropecuária, destacam-se os trabalhos de Cabral et al. (2011), Silva 
+
+e Costa (2011), Vitte e Mello (2013) e Abrão (2018). 
+
+Belato,  Serrão  e  Dias  (2019),  desenvolveram  a  pesquisa  na  bacia  hidrográfica  do 
+
+Submédio Tocantins, apresentando como justificativa analisar o processo degradacional da área 
+
+após a construção da Usina Hidrelétrica Tucuruí. Foi verificado que para a construção da usina, 
+
+tiveram  que retirar grande parte da vegetação da  área provocando o aumento  da fragilidade, 
+
+além  de  alteração  nos  cursos  d’águas.  Depois  da  identificação  dos  impactos  ambientais, 
+
+evidenciaram  que  o  estudo  contribuirá  com  a  geração  de  informações  importantes  para  a 
+
+produção  do  planejamento  territorial,  e  assim  possibilitando  aporte  cartográfico  para  o 
+
+zoneamento. 
+
+Nesse sentido, sobre as  modificações exercidas pelo  homem nas bacias  hidrográficas 
+
+sob a perspectiva da fragilidade ambiental, destacam-se: a descaracterização do relevo através 
+
+de  construções  irregulares,  retirada  da  vegetação  primária  para  a  ampliação  de  áreas  de 
+
+pastagem e agricultura, causando danos aos cursos d’águas, ressalta-se os estudos de Teixeira, 
+
+Oliveira  e  Teixeira  (2021),  Periçato  e  Souza  (2019),  Santos  e  Marchioro  (2020)  e  Sales  e 
+
+Nascimento (2020). 
+
+Conforme  Ross  (1994),  a  fragilidade  ambiental  potencial  representa  a  avaliação  da 
+
+desestabilização  natural  do  ambiente,  por  sua  vez,  a  emergente,  ocorre  a  partir  da  ação  do 
+
+homem. No estudo de Cabral et al. (2011), localizado na bacia hidrográfica do rio Doce/GO, 
+
+constataram  que  o  desenvolvimento  dos  cultivos  agrícolas  têm  contribuído  para  alterar  o 
+
+equilíbrio  natural  da  área.  Com  os  resultados  obtidos,  propuseram  ações  de  planejamento 
+
+ambiental e gestão ambiental. 
+
+Os  estudos  de  Cunha,  Bacani  e Ayach  (2013)  e  Ferreira,  Ferreira  e  Gouveia  (2016), 
+
+também  contemplam  o  pressuposto  de  que  as  intervenções  antrópicas  auxiliam  na 
+
+desestabilização do ambiente, ao passo que o homem realiza diversas formas de ocupação no 
+
+ambiente físico. As medidas mitigadoras propostas contemplam o planejamento para a gestão 
+
+da ocupação territorial.  
+
+De acordo com Abrão (2018), ao desenvolver o trabalho na bacia hidrográfica do rio 
+
+Santo Antônio/MS, constataram resultados equivalentes com o estudo de Cabral et al (2011), 
+
+sobre o manejo inadequado das atividades agrícolas, que acarretam desequilíbrios ambientais 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+30 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+prejudicando  o  sistema  hidrológico.  A  partir  da  análise,  elaboraram  uma  proposta  de 
+
+zoneamento ambiental, com recomendações e restrições de usos das terras. 
+
+ Conforme  Ferreira,  Ferreira  e  Gouveia  (2016),  ao  realizarem  a  pesquisa  na  bacia 
+
+hidrográfica do Córrego do Veado/SP, a classe de fragilidade do terreno abrange 63% da área, 
+
+e a grande maioria dos uso são referenciados pelo o alto grau de urbanização. De modo geral, 
+
+o processo de apropriação do espaço geográfico é realizado de maneira recorrente, seja para a 
+
+implantação da construção civil ou com destinação às atividades da sociedade.  
+
+Enquanto que Gomes (2013), evidencia que a paisagem do rio Almada/BA, ao longo 
+
+dos anos vem passando por distintas modificações em sua cobertura vegetal, esse processo é 
+
+prolongado pela transformação em pastagens, e isso tem implicado no aumento da fragilidade 
+
+ambiental. Ressalta Gonçalves et al. (2011, p.797): 
+
+A  influência  antrópica  no  ambiente,  inclusive  em  bacias  hidrográficas,  tem  sido 
+motivo  frequente  de  preocupação  na  sociedade,  o  que  tem  levado  ao  aumento  de 
+pesquisas  para  qualificar  e  quantificar  impactos  da  ocupação  territorial.  Nesse 
+contexto, tem se tornado primordial o conhecimento prévio das características e da 
+capacidade de uso do meio, ou mesmo durante os processos de desenvolvimento das 
+atividades, com vistas ao aperfeiçoamento das tecnologias aplicadas.  
+
+ 
+
+Os resultados da pesquisa de Gonçalves, Araújo e Imai (2016), envolvendo os graus de 
+
+fragilidade  ambiental  na  bacia  hidrográfica  do  alto  rio  Santo Anastácio/SP,  indicaram  que  a 
+
+instabilidade da área tem relação com as altas porcentagens de solo exposto e/ou áreas urbanas. 
+
+Conforme o exposto, com a avaliação da área e através dos mapas de fragilidade, elaboraram 
+
+medidas envolvendo o planejamento ambiental.  
+
+Considerando  a  avaliação  da  fragilidade  potencial,  Gouveia  et  al.  (2015,  p.138), 
+
+enfatizaram que os solos da classe latossolos, associado com o desenvolvimento de atividades 
+
+de mineração e as práticas de queimadas, contribuem para sua baixa proteção “(…) toda área 
+
+ocupada por latossolo encontra-se sob influência urbana (…) a cobertura existente não protege 
+
+o solo. De todo modo, ressaltam que as ações de planejamento ambiental são necessárias para 
+
+a área de estudo.  
+
+No estudo de Santos e Oliveira (2013), na bacia hidrográfica do ribeirão São Bento da 
+
+Ressaca/MG,  avaliando  os  níveis  de  fragilidade  ambiental,  identificaram  que  apesar  da 
+
+fragilidade  emergente  não  apresentar  áreas  de  graus  alto  e  muito  alto,  constatou-se  que  as 
+
+intervenções  antrópicas  contribuíram  na  alteração  das  características  naturais  da  bacia.  As 
+
+medidas mitigadoras envolveram o  gerenciamento e planejamento territorial da região.  
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+31 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Schiavo et al. (2016, p.470), estudando a bacia hidrográfica do Arroio Cadena/RS, “(…) 
+
+constataram-se que nos 208,86 km², da sub-bacia hidrográfica do Arroio Cadena, a classe solo 
+
+exposto  e  urbanização  são  as  de  maior  abrangência,  com  uma  área  total  de  138,26  km², 
+
+representando 66,2% da área total. Desse modo, a estabilidade do solo torna-se comprometida, 
+
+uma vez que há ausência do revestimento vegetal na área. Ressalta Silva e Costa (2011, p. 152): 
+
+Neste  âmbito,  pode-se  observar  que  as  preocupações  em  torno  das  questões 
+ambientais estão cada vez mais em evidência, pois o meio natural compreende a base 
+para a sobrevivência. Os grandes avanços tecnológicos, a intensificação do processo 
+de urbanização e, em especial, a mecanização do campo com o grande crescimento 
+das  atividades  agropecuárias,  são  elementos  integrantes  da  vida  humana.  Porém,  a 
+preocupação  exacerbada  com  as  questões  econômicas  e  os  agressivos  processos  de 
+exploração irracional e desperdício dos recursos naturais têm agravado a situação do 
+meio ambiente. 
+ 
+
+As considerações de Souza e Rebelato (2021, p.423), fazem-se bastante pertinentes aos 
+
+dias  atuais,  principalmente  referenciando  o  uso  de  softwares  com  ambientes  do  Sistema  de 
+
+Informação  Geográfica  (SIG),  haja  vista  que,  alguns  impactos  negativos  não  são  detectados 
+
+através  das  imagens  de  satélites,  a  exemplo  “canais  de  vinhaça,  taludes  construídos  sem 
+
+proteção geotécnica e cobertura vegetal, edificações com muros indicando movimento do solo, 
+
+árvores inclinadas e de raízes expostas com risco de tombamento (…)”. Dessa maneira, relatam 
+
+que faz-se necessário o reconhecimento da área de estudo através das verificações de campo, 
+
+para solucionar as possíveis inconsistências no trabalho.  
+
+Sutil,  Gonçalves  e  Vieira  (2020),  sobre  fragilidade  ambiental  da  bacia  do  rio 
+
+Piracicaba/MG, evidenciaram a importância da cobertura vegetal para minimizar os efeitos do 
+
+processo  degradacional,  tendo  em  vista  que  maior  parte  da  área  de  bacia  é  composta  pela 
+
+vegetação primária, gerando benefícios como a proteção do solo. Nessa perspectiva, destaca-se 
+
+os estudos de Valle, Francelino e Pinheiro (2016) e Vieira et al. (2021). Desse modo, o Quadro 
+
+2 reitera as características dos impactos e medidas mitigadoras apresentadas nos estudos.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+32 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Quadro 02 – Impactos e medidas mitigadoras 
+
+Impactos 
+
+Medidas Mitigadoras 
+
+Autores 
+
+Retirada  de  cobertura  vegetal 
+para instalação ou ampliação de 
+terrenos agricultáveis, pastagens 
+e 
+implantação  de  estruturas 
+urbanas. 
+
+Abrão (2018); Bacani et al. 
+(2015); Bahr e Carvalho 
+(2012); Belato, Serrão e 
+Dias (2019); Cabral et al. 
+(2011); Cunha, Bacani e 
+Ayach (2013); Ferreira, 
+Ferreira e Gouveia (2016); 
+Gomes (2013); Gonçalves et 
+al (2011); Periçato e Souza 
+(2019); Sales e Nascimento 
+(2021); Santos e Marchioro 
+(2020); Santos e Oliveira 
+(2013); Silva e Costa (2011); 
+Souza e Rebelato (2021); 
+Sutil, Gonçalves e Vieira 
+(2020); Teixeira, Oliveira e 
+Teixeira (2020); Vitte e 
+Mello (2013) 
+ 
+ 
+
+para 
+
+Geração 
+
+Subsídio 
+
+cartográfico 
+
+Proposta  de  zoneamento  ambiental, 
+com  recomendações  e  restrições  de 
+usos  das 
+terras;  Definição  e 
+delimitação de áreas destinadas para 
+a  preservação,  recuperação  e  uso 
+sustentável; 
+ao 
+planejamento  ambiental  com  base 
+cartográficos 
+nos 
+materiais 
+disponibilizados; 
+de 
+importantes  para  a 
+informações 
+produção 
+planejamento 
+do 
+territorial,  e  assim  possibilitando 
+aporte 
+o 
+zoneamento;  Contribuições  para  a 
+gestão  do  território;  Propostas  de 
+ações  de  planejamento  ambiental  e 
+gestão  ambiental;  Medidas  para  o 
+planejamento  e  gestão  da  ocupação 
+da  terra;  Proporcionar  subsídios  ao 
+processo  de  gestão 
+territorial; 
+Fatores  que  contribuam  com  o 
+planejamento  ambiental;  Subsidiar 
+ações  de  planejamento  ambiental; 
+Informações  para  contribuir  na 
+identificação 
+e 
+potencialidades;  Contribuições  ao 
+ordenamento  do  território;  Ação  e 
+planejamento  dos  recursos  naturais 
+da  bacia  hidrográfica;  Algumas 
+recomendações de caráter ambiental 
+documentos 
+baseadas 
+cartográficos;  Gerenciamento 
+e 
+planejamento  territorial  da  região; 
+corredores 
+Implantação 
+ecológicos;  Subsídios 
+o 
+planejamento ambiental e territorial; 
+Planejamento ambiental. 
+ 
+Plano  de  gerenciamento  urbano  e 
+ambiental 
+
+limitações 
+
+para 
+
+em 
+
+de 
+
+de 
+
+ao 
+
+planejamento 
+
+Contribuições 
+ambiental; 
+Ações  de  planejamento  ambiental; 
+Planejamento territorial 
+
+Schiavo et al. (2016) 
+
+Gonçalves,  Araújo  e  Imai 
+(2016); 
+Gouveia et al. (2015);  
+Valle, Francelino e Pinheiro 
+(2016) 
+ 
+
+Ordenamento da ocupação dos solos  Vieira et al. (2021) 
+
+a 
+
+inundação 
+
+Ocupação  de  áreas  de  risco, 
+sujeitas 
+e 
+deslizamentos. 
+Ampliação  de  áreas  com  solos 
+expostos. 
+Ocorrência de solos suscetíveis à 
+erosão  submetidos  a  manejos 
+impróprios 
+
+Artificialização  dos  canais  de 
+drenagem 
+
+ 
+Fonte: Dados da pesquisa (2021). 
+ 
+
+ 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+33 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Considerando os resultados obtidos, identificou-se que os estudos relacionados com a 
+
+fragilidade  ambiental,  principalmente  pautados  nas  intervenções  antrópicas,  buscaram 
+
+desenvolver propostas que poderiam remediar o processo degradacional das áreas. De maneira 
+
+geral,  as metodologias empregadas para o estudo de fragilidade  mostraram importância para 
+
+essa finalidade, além da identificação dos impactos ambientais, identificou-se que as pesquisas 
+
+apresentam variadas medidas mitigadoras com destinação às ações de planejamento ambiental 
+
+e auxílio à tomada de decisão. 
+
+ 
+
+CONCLUSÃO 
+ 
+
+Através dos resultados obtidos, foi possível verificar que a ação antrópica realizada sem 
+
+o manejo adequado, tem contribuído para a ampliação das áreas frágeis. A grande maioria das 
+
+atividades geradoras de impactos ambientais, estão ligadas com a expansão urbana em virtude 
+
+do crescimento populacional.  
+
+As  atividades  decorrentes  de  práticas  agrícolas  com  manejo  inadequado,  destacando 
+
+principalmente a remoção da cobertura vegetal, resultam em danos diversos ao ambiente. Os 
+
+estudos apresentados nessa pesquisa, além de suscitarem os impactos ambientais verificados 
+
+através dos mapeamentos, a exemplo da ampliação de terrenos agricultáveis e implantação de 
+
+estruturas urbanas.  Também foram analisadas possíveis medidas mitigadoras sugeridas para as 
+
+áreas.  
+
+É preciso considerar que as transformações naturais, sem a intervenção do homem, já 
+
+denominadas  de  fragilidade  potencial,  também  ocasionam  intensificação  da  fragilidade 
+
+emergente. Identificado na pesquisa de Gouveia et al. (2015), que o tipo de solo existente na 
+
+área da bacia hidrográfica, contribuem para o desencadeamento dos processos erosivos.   
+
+Em  linhas  gerais,  reitera-se  que  esse  estudo  poderá  fornecer  subsídios  para  o 
+
+desenvolvimento de pesquisas futuras, sendo que as mesmas poderão inserir outras variáveis 
+
+na  análise,  a  exemplo  dos  fatores  similares  envolvendo  a  fragilidade  e  vulnerabilidade 
+
+ambiental.  Destaca-se  também  a  necessidade  de  analisar  a  aplicabilidade  das  medidas 
+
+preventivas e mitigadoras, e a estipulação de prazos para serem realizadas. A partir da análise 
+
+de  revisão  de  literatura,  foi  constatado  os  principais  impactos  ambientais  recorrentes  na 
+
+temática da fragilidade ambiental, e de medidas mitigadoras propostas para minimizar as áreas 
+
+mais fragilizadas. 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+34 
+
+ 
+
+ 
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+AGRADECIMENTOS  
+
+À  Fundação  de  Amparo  à  Pesquisa  do  Estado  do  Piauí  (FAPEPI)  e  à  Coordenação  de 
+Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) pela concessão da bolsa de 
+pesquisa.  
+ 
+ 
+
+REFERÊNCIAS 
+
+ABRÃO, C. M. R.; BACANI, V. M. Diagnóstico da fragilidade ambiental na bacia hidrográfica 
+do rio Santo Antônio, MS: subsídio ao zoneamento ambiental. Boletim Goiano de Geografia, 
+v.  38,  n.  3,  p.  619-645,  2018.  Disponível  em:  https://revistas.ufg.br/bgg/article/view/56362. 
+Acesso em: 05 jan. 2022. 
+
+BACANI, V. M., SAKAMOTO, A. Y., LUCHIARI, A., & QUÉNOL, H. Sensoriamento remoto 
+e SIG aplicados à avaliação da fragilidade ambiental de bacia hidrográfica. Mercator, v. 14, n. 
+2, 
+em: 
+https://www.scielo.br/j/mercator/a/Cn3xYss5BgW349HYkKQWQjN/abstract/?lang=pt. 
+Acesso em 05 jan. 2022. 
+
+Disponível 
+
+119-135, 
+
+2015. 
+
+p. 
+
+BAHR, G.C.; CARVALHO, S.M. Identificação da fragilidade ambiental da bacia hidrográfica 
+do arroio  uvaranal,  como subsídio  ao projeto  de expansão urbana de Telêmaco Borba  – PR. 
+em: 
+RA´E 
+https://revistas.ufpr.br/raega/article/download/30155/19465. Acesso em 05 jan. 2022. 
+
+Disponível 
+
+p.157-181, 
+
+2012. 
+
+GA, 
+
+26, 
+
+v. 
+
+BELATO, L.S.; SERRÃO, S.L.C.; DIAS, R.P. Diagnostico da fragilidade ambiental na bacia 
+do submédio Tocantins: UHE Tucuruí. Natural Resources, v.9, n.1, p.28-37, 2019. Disponível 
+em: 
+https://www.sustenere.co/index.php/naturalresources/article/download/CBPC2237-
+9290.2019.001.0004/1482. Acesso em 05 jan. 2022. 
+
+BRASIL. Política Nacional de Recursos Hídricos. Lei nº 9.433, de 8 de janeiro de 1997.  
+
+CABRAL,  J.  B.  P.,  da  Rocha,  I.  R.,  Martins, A.  P.,  da Assunção,  H.  F.  e  Becegato,  V. A. 
+Mapeamento  da  fragilidade  ambiental  da  bacia  hidrográfica  do  Rio  Doce  (GO),  utilizando 
+tecnicas  de  geoprocessamento.  GeoFocus,  n.  11,  p.  51-69,  2011.  Disponível  em: 
+https://dialnet.unirioja.es/descarga/articulo/3720460.pdf. Acesso em 05 jan. 2022. 
+
+CAMPOS, J.A.; AIRES, U.R.V.; SILVA, D.D.; CALIJURI, M.L. Environmental fragility and 
+vegetation cover dynamics in the Lapa Grande State Park, MG, Brazil.  Anais da Academia 
+em: 
+Brasileira 
+https://www.scielo.br/j/aabc/a/hmcZ6GYy97wQKrHqznXmKGs/abstract/?lang=en.  Acesso 
+em 05 jan. 2022. 
+
+Disponível 
+
+Ciências, 
+
+2019. 
+
+2-16, 
+
+de 
+
+p. 
+
+9, 
+
+v. 
+
+CARVALHO, A.P.P.; GUERRERO, J.V.R.; SILVA, E.V.E.; PINTO, M.J.R. VAZ, R.M.G.F.C.; 
+PEREIRA,  C.T.;  LORANDI,  R.  LOLLO,  J.A.;  MOSCHINI,  L.E.  Fragilidade Ambiental  à 
+Erosão em uma Bacia Hidrográfica Antropizada no Nordeste do Estado de São Paulo, Brasil. 
+Anuário  do  Instituto  de  Geociências,  v.  42,  n.  3,  p.  07-18,  2019.  Disponível  em: 
+https://www.ppegeo.igc.usp.br/index.php/anigeo/article/view/13436. Acesso em 05 jan. 2022. 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+35 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+CARVALHO, A.T.F.  Bacia  hidrográfica  como  unidade  de  planejamento:  discussão  sobre  os 
+impactos da produção social na gestão de recursos hídricos no Brasil. Caderno Prudentino de 
+Geografia, 
+Disponível 
+em: 
+https://revista.fct.unesp.br/index.php/cpg/article/view/6953. Acesso em 06 jan. 2022.  
+
+140-161, 
+
+2020. 
+
+42, 
+
+n. 
+
+p. 
+
+1, 
+
+v. 
+
+CASTRO, R.A. Fragilidade ambiental na bacia do Córrego Água Branca, Oeste Maranhense. 
+em: 
+Revista 
+http://periodicoseletronicos.ufma.br/index.php/interespaco/article/view/6490.  Acesso  em  06 
+jan. 2022.  
+
+InterEspaço, 
+
+Disponível 
+
+221-234, 
+
+2016. 
+
+n.6, 
+
+v.2, 
+
+p. 
+
+CREPANI,  E.;  MEDEIROS,  J.  S.;  FILHO,  P.  H.;  FLORENZANO,  T.  G.;  DUARTE,  V.; 
+BARBOSA,  C.  C.  Sensoriamento  remoto  e  geoprocessamento  aplicados  ao  Zonemento 
+Ecológico  Econômico  e  ao  ordenamento  territorial.  São  José  dos  Campos:  INPE,  2001. 
+Disponível em: http://sap.ccst.inpe.br/artigos/CrepaneEtAl.pdf. Acesso em 06 jan. 2022. 
+
+CHRISTOFOLETTI, A. Geomorfologia. 2. ed. São Paulo: Edgard Blücher, 1980. 
+
+CUNHA,  E.R.;  BACANI,  V.M.;  AYACH,  L.R.  Geoprocessamento  aplicado  à  análise  da 
+fragilidade  ambiental.  Revista  da ANPEGE,  v.  9,  n.  12,  p.  89-105,  2013.  Disponível  em: 
+https://ojs.ufgd.edu.br/index.php/anpege/article/download/6486/3467/19462.  Acesso  em  06 
+jan. 2022. 
+
+DEGRANDE,  E.J.S.;  BORTOLUZZI,  L.N.  Análise  da  fragilidade  ambiental  potencial  e 
+emergente da bacia hidrográfica do Córrego da Onça em Presidente Prudente / SP. Geografia 
+https://e-
+em 
+revista.unioeste.br/index.php/geoemquestao/article/view/22570. Acesso em 07 jan. 2022. 
+
+2020.  Disponível 
+
+questão, 
+
+33-50, 
+
+v.13, 
+
+n.3, 
+
+em: 
+
+p. 
+
+DIAS, F.G.; CIRILO, B.B. Diagnóstico da fragilidade ambiental da bacia do rio Caeté/PA como 
+subsídio ao planejamento ambiental. Geoambiente on-line, n,32, p. 74-95, 2018. Disponível 
+em: https://revistas.ufg.br/geoambiente/article/download/51294/26963/236209. Acesso em 06 
+jan. 2022. 
+
+FERREIRA,  N.H.;  FERREIRA,  C.A.B.V.;  GOUVEIA,  I.C.M.C.  Mapa  de  fragilidade 
+ambiental  como  auxílio  para  o  planejamento  urbano  e  gestão  de  recursos  hídricos.  Fórum 
+ambiental, 
+em: 
+Disponível 
+https://periodicos.ufpe.br/revistas/rbgfe/article/view/251890. Acesso em 06 jan. 2022. 
+
+44-58, 
+
+2016. 
+
+v.12, 
+
+n. 
+
+3, 
+
+p. 
+
+FIGUEIRÔA, C.F.B.; SALVIO, G.M.M. Análise da fragilidade da Área de Proteção Ambiental 
+Alto Rio Doce, MG, Brasil. Ciência Florestal, v. 30, n. 4, p. 1008-1018, 2020. Disponível em: 
+https://periodicos.ufsm.br/cienciaflorestal/article/view/34294. Acesso em 06 jan. 2022.  
+
+GOMES, R.L. Avaliação da fragilidade ambiental e vulnerabilidade natural à perda de solo da 
+bacia  hidrográfica  do  rio Almada-Bahia.  Boletim  de  geografia,  v.  31,  n.  3,  p.  41-53,  2013. 
+Disponível  em:  https://www.periodicos.uem.br/ojs/index.php/BolGeogr/article/view/18650. 
+Acesso em 06 jan. 2022. 
+
+GONÇALVES,  G.G.G.;  DANIEL,  O.;  COMUNELLO,  E.; VITORINO, A.C.T.; ARAI,  F.K. 
+Determinação da fragilidade ambiental de bacias hidrográficas. Floresta, v. 41, n. 4, p. 797 - 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+36 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+808, 2011. Disponível em: https://revistas.ufpr.br/floresta/article/view/25344. Acesso em 05 jan. 
+2022. 
+
+GONÇALVES, S.R.A.; ARAÚJO, R.R.; IMAI, N.N. Mapeamento do grau de fragilidade com 
+processo  analítico  hierárquico  e  operadores  fuzzy  gama  na  detecção  áreas  de  fragilidade 
+ambiental.    Revista  Brasileira  de  Cartografia,  n.  62,  p.  327-337,  2016.  Disponível  em: 
+https://seer.ufu.br/index.php/revistabrasileiracartografia/article/view/44398/23473. Acesso  em 
+05 jan. 2022. 
+
+GOUVEIA,  R.G.L.;  GALVANIN,  E.A.S.;  NEVES,  S.M.A.S.;  NEVES,  R.J.  Análise  da 
+fragilidade  ambiental  na  bacia  do  rio  Queima-Pé,  Tangará  da  Serra,  MT.  Pesquisas  em 
+Geociências, 
+em: 
+https://seer.ufrgs.br/index.php/PesquisasemGeociencias/article/view/78115. Acesso em 05 jan. 
+2022. 
+
+Disponível 
+
+131-140, 
+
+2015. 
+
+42, 
+
+p. 
+
+v. 
+
+LINHARES,  J.M.S.;  SILVA,  D.P.L.;  BASTOS,  W.R.;  BATISTA,  J.F.    Mapeamento  da 
+Fragilidade Ambiental Potencial do Meio Físico da Área Urbana do Município de Lábrea – Sul 
+do Amazonas. Revista Brasileira de Cartografia, v. 72, n. 4, p. 651-664, 2020. Disponível 
+em: https://seer.ufu.br/index.php/revistabrasileiracartografia/article/view/53391. Acesso em 05 
+jan. 2022. 
+
+PERIÇATO, A.J.;  SOUZA,  M.L.  O  Estudo  da  Fragilidade  Potencial  e  Emergente  na  Bacia 
+Hidrográfica  do  Rio  das Antas,  Noroeste  do  Paraná.  Caderno  de  Geografia,  v.29,  n.59,  p. 
+1064- 
+em: 
+http://periodicos.pucminas.br/index.php/geografia/article/view/19826. Acesso em 05 jan. 2022. 
+
+Disponível 
+
+2019. 
+
+1082, 
+
+ROSS, J. L. S. Análise empírica da fragilidade dos ambientes naturais e antropizados. Revista 
+em: 
+do  Departamento 
+https://www.revistas.usp.br/rdg/article/view/47327. Acesso em 05 jan. 2022. 
+
+1994.  Disponível 
+
+de  Geografia, 
+
+p.63-74, 
+
+n.8, 
+
+ROSS, J. L. S. Land forms and environmental planning: potentialities and fragilities. Revista 
+do  Departamento  de  Geografia,  FFLCH/USP,  São  Paulo,  Volume  Especial  30  anos  RDG, 
+p.38-51, 2012. Disponível em: https://www.revistas.usp.br/rdg/article/download/53841/57804. 
+Acesso em 05 jan. 2022. 
+
+SALES, L.B.; NASCIMENTO, F.R. Geomorfologia e fragilidade ambiental na classificação de 
+paisagens em bacias hidrográficas.  Revista Equador (UFPI), v. 9, n. 1,  p.246  – 265, 2020. 
+Disponível em: https://revistas.ufpi.br/index.php/equador/article/download/9500/5645. Acesso 
+em 05 jan. 2022. 
+
+SANTOS, J.G.; OLIVEIRA, L.A. Fragilidade ambiental da bacia hidrográfica do ribeirão São 
+Bento  da  ressaca,  município  de  Frutal  –  MG.  OBSERVATORIUM:  Revista  Eletrônica  de 
+Geografia, 
+em: 
+http://www.observatorium.ig.ufu.br/pdfs/5edicao/n15/01.pdf. Acesso  em 05 jan. 2022. 
+
+Disponível 
+
+02-23, 
+
+2013. 
+
+n.15, 
+
+v.5, 
+
+p. 
+
+SANTOS,  J.R.U.;  MARCHIORO,  E.  Análise  empírica  da  fragilidade  ambiental  da  bacia 
+hidrográfica  do  rio  Duas  Bocas,  Espírito  Santo,  Brasil.  Revista  do  departamento  de 
+geografia, 
+em: 
+https://www.revistas.usp.br/rdg/article/view/160946. Acesso em 05 jan. 2022. 
+
+Disponível 
+
+72-87, 
+
+2020. 
+
+39, 
+
+n. 
+
+p. 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+37 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+SCHIAVO, B.N.V.; HENTZ, A.M.K.; CORTE, A.P.D.; SANQUETTA, C.R. Caracterização da 
+fragilidade  ambiental  de  uma  bacia  hidrográfica  urbana  no  município  de  Santa  Maria  –  RS.  
+Revista Eletrônica em Gestão, Educação e Tecnologia Ambiental, v. 20, n. 1, p. 464−474, 
+2016.    Disponível  em:  https://periodicos.ufsm.br/reget/article/download/19981/pdf/101942. 
+Acesso em 05 jan. 2022. 
+
+SILVA, G.A.; COSTA, R.A. Paisagem e fragilidade ambiental natural da bacia hidrográfica do 
+ribeirão São Lourenço, Ituiutaba/Prata – MG. Caminhos de Geografia, v. 12, n. 39, p. 151 – 
+166, 
+em: 
+https://seer.ufu.br/index.php/caminhosdegeografia/article/view/16635.  Acesso  em  05  jan. 
+2022. 
+
+Disponível 
+
+2011. 
+
+SILVA,  T.A.;  DUARTE,  M.L.;  GATO,  L.C.;  GUANDIQUE,  M.E.G.  Mapeamento  da 
+fragilidade ambiental na bacia hidrográfica do rio Candeias, RO. Journal of Environmental 
+em: 
+Analysis 
+https://journals.ufrpe.br/index.php/JEAP/article/view/2702. Acesso em 05 jan. 2022. 
+
+2020.  Disponível 
+
+and  Progress, 
+
+58-68, 
+
+01, 
+
+n. 
+
+v. 
+
+5 
+
+p 
+
+SOUZA, E.G.S.; REBELATO, M.G. Avaliação da fragilidade ambiental da bacia hidrográfica 
+do Baixo Mogi com uso da geotecnologia. Brazilian Journal of Animal and Environmental 
+Research, 
+em: 
+https://ojs.brazilianjournals.com.br/ojs/index.php/BJAER/article/view/23890.  Acesso  em  05 
+jan. 2022. 
+
+Disponível 
+
+411-426, 
+
+2021. 
+
+1, 
+
+n. 
+
+p. 
+
+4, 
+
+v. 
+
+ 
+
+SUTIL,  S.  C.;  GONÇALVES,  J.A.C.;  VIEIRA,  E.  M.  Análise  comparativa  da  fragilidade 
+ambiental  da  bacia  do  rio  Piracicaba  a  partir  da  aplicação  de  dois  modelos  metodológicos: 
+suporte para o estabelecimento e proposição de Corredores Ecológicos.  Revista Brasileira de 
+em: 
+Disponível 
+Geografia 
+https://periodicos.ufpe.br/revistas/rbgfe/article/view/248969. Acesso em 05 jan. 2022. 
+
+3060-3077, 
+
+Física, 
+
+2020. 
+
+v.13, 
+
+n.6, 
+
+p. 
+
+TEIXEIRA, T. M. A.; OLIVEIRA, V. P. V.; TEIXEIRA, A. C. O. Fragilidade ambiental da baia 
+hidrográfica do rio São João de Tiba, extremo sul da Bahia. Revista Brasileira de Geografia 
+Física, 
+em: 
+https://periodicos.ufpe.br/revistas/rbgfe/article/view/249413. Acesso em 05 jan. 2022. 
+
+1941-1956, 
+
+Disponível 
+
+2021. 
+
+v.14, 
+
+n.4, 
+
+p. 
+
+VALLE,  I.C.;  FRANCELINO,  M.R.;  PINHEIRO,  H.S.K.  Mapeamento  da  Fragilidade 
+Ambiental na Bacia do Rio Aldeia Velha, RJ. Floresta e Ambiente, v. 23, n.2, p. 295-308, 2016.  
+Disponível 
+em: 
+https://www.scielo.br/j/floram/a/CLKFqFSkdjXRDgvZ6VmdPBj/?format=pdf&lang=pt. 
+Acesso 05 jan. 2022. 
+
+VIEIRA,  R.S.,  FERREIRA,  E.P.,  FERREIRA,  ROLIM  NETO,  F.C.,  OLIVEIRA,  E.  M., 
+BRAGA, S. E. Fragilidade ambiental emergente da bacia hidrográfica do rio Santa Maria do 
+Doce  –  ES,  Brasil.  Revista  Brasileira  de  Geografia  Física,  v.14,  n.3,  p.  1253-1267,  2021. 
+Disponível em https://periodicos.ufpe.br/revistas/rbgfe/article/view/249403. Acesso em 05 jan. 
+2022. 
+
+VITTE, A.C.; MELLO, J.P. Mapeamento da fragilidade ambiental na bacia do rio Verde, região 
+Nordeste do estado de São Paulo, Brasil. GEOUSP – Espaço e Tempo, n. 35, p. 192-222, 2013. 
+Disponível em https://www.revistas.usp.br/geousp/article/view/75447. Acesso em 05 jan. 2022. 
+
+Pereira; Rocha; Aquino, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+38 
+
+ 
+
+ 
+
+

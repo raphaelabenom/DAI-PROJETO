@@ -1,0 +1,848 @@
+DOSSIÊ 
+
+CANTEIRO DE OBRAS: OPERÁRIOS, ENGENHEIROS E TENSÕES NA CONSTRUÇÃO CIVIL  
+
+CONSTRUCTION SITE: WORKERS, ENGINEERS AND TENSIONS IN CIVIL CONSTRUCTION 
+
+(DÉCADAS 1880 E 1890) 
+
+(1880S AND 1890S) 
+
+Alexandra Aguiar∗ 
+alexaaguiar13@gmail.com 
+Rodrigo Rosistolato∗∗ 
+rodrigo.rosistolato@gmail.com 
+RESUMO:  A  partir  de  1870  o  Estado  intensificou  o  incentivo  aos  empreendimentos  em  serviços  de 
+transporte  e  de  construção  habitacional,  promovendo  a  ressignificação  do  espaço  urbano  pela 
+expansão das linhas de bondes e intervindo nas moradias populares através de incentivos fiscais para 
+edificação  de  casas  higiênicas.  A  atuação  destas  empresas  na  reconfiguração  urbana  permite 
+vislumbrar uma esfera ainda pouco explorada na história do mundo do trabalho: a da construção civil. 
+Este  artigo  propõe  refletir  sobre  os  conflitos  surgidos  no  cotidiano  do  trabalho  de  operários  e 
+engenheiros  em  empresas  concessionárias  nas  décadas  de  1880  e  1890.  O  cenário  em  que  tais 
+trabalhadores se movimentam é o Rio de Janeiro, Corte imperial e depois capital federal no primeiro 
+quinquênio republicano. 
+PALAVRAS-CHAVE: Construção civil; Engenheiros e operários; Reforma urbana. 
+ABSTRACT: From the 1870s, the State intensified the incentive for enterprises in transport services and 
+housing construction, promoting the redefinition of urban space through the expansion of tram lines 
+and intervening in popular housing through tax incentives for the construction of hygienic houses. The 
+performance of these companies in urban reconfiguration allows us to glimpse a sphere  still little 
+explored in the history of the world of work: that of civil construction. This article proposes to reflect 
+on the conflicts that emerged in the daily lives of workers and engineers in concessionary companies 
+in the 1880s and 1890s. The scenario in which such workers move is Rio de Janeiro, the Imperial Court 
+and later the federal capital in the first republican quinquennium. 
+KEYWORDS: Civil construction; Engineers and workers; Urban reform. 
+
+Introdução 
+
+A Corte imperial transitou para capital da República levando consigo questões que 
+afetavam, sobretudo, a população de baixa renda – o déficit de habitações, a concentração 
+nas áreas de maior oferta de emprego e a insuficiência de transportes coletivos – cenário de 
+intensa  atuação  das  empresas  concessionárias.  Por  um  lado,  as  intervenções  no  espaço 
+
+ 
+
+∗ Pós-doutorado pela Universidade Federal do Estado do Rio de Janeiro (UNIRIO), doutorado em História Política 
+pela Universidade do Estado do Rio de Janeiro, mestrado em História Social pela Universidade do Estado do Rio 
+de Janeiro. 
+∗∗ Antropólogo especializado em temas educacionais. Graduado em Ciências Sociais pela Universidade Federal 
+do Rio de Janeiro (UFRJ), Mestre e Doutor em Ciências Humanas (Antropologia) pelo Programa de Pós-Graduação 
+em  Sociologia  e  Antropologia  (PPGSA-UFRJ),  Professor  Associado  de  Antropologia  no  Departamento  de 
+Fundamentos  da  Educação  e  Professor  Permanente  no  Programa  de  Pós-Graduação  em  Educação-PPGE,  da 
+Faculdade de Educação da UFRJ-RJ/Brasil. Bolsista de produtividade em pesquisa do CNPq. 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 25–43, jan./abr. 2022 
+
+Recebido em 31 de agosto de 2022 
+
+Aprovado em 14 de dezembro de 2022 
+
+DOSSIÊ 
+
+26 
+
+público operadas por tais empresas e a consequente valorização das regiões central e norte 
+forçou a migração dos mais pobres para as periferias, acentuando o processo de segregação 
+social  e  espacial.  Os  espaços  eram  ressignificados  como  áreas  de  empreendimentos  de 
+habitação, mobilidade, eletrificação e saneamento, serviços pouco acessíveis para a maioria 
+expressiva da população.  Por outro lado, as mesmas empresas fomentavam o mercado de 
+trabalho urbano ligado ao setor da construção civil. Estas proporcionavam trabalho de forma 
+direta  e  indireta  para  as  parcelas  pobres  nacionais  e  imigrantes,  apenas  instruídas  ou 
+analfabetas, e para os grupos médios portadores de escolaridade superior ou intermediária.  
+
+O artigo ressalta as tensões no cotidiano de trabalho na construção civil vivenciadas 
+por operários e engenheiros atuantes na expansão das linhas de ferro carril, no interior das 
+empresas de construção de moradias populares e nos terrenos de obras públicas. Situações 
+explicitadas  nos  diálogos  entre  pares,  ou  com  grupos  diversos  e  autoridades  das  esferas 
+pública  e  privada.    Tais  recortes  apontam  perspectivas  de  reflexão  sobre  o  exercício  das 
+funções como resistência na (im)possibilidade de ruptura com o quadro conflituoso dentro do 
+trabalho. Nesse sentido, os protagonistas ora são os operários durante uma disputa entre as 
+companhias de bonde São Cristóvão e Vila Isabel e, depois, no confronto ocorrido no terreno 
+das obras da Vila Rodolfo Dantas, ora são os engenheiros em meio aos desentendimentos 
+surgidos durante o processo de falência da Companhia Evoneas Fluminense. 
+
+Na pesquisa de estágio pós-doutoral que deu origem a este artigo foram analisados 
+requerimentos, ofícios e legislação sobre a atuação dos concessionários na Construção Civil 
+entrecruzados aos periódicos da época. Devido à escassez de documentação específica sobre 
+a Companhia Evoneas Fluminense nos arquivos, também persegui suas atividades através dos 
+jornais e em diversas seções: atas de assembleias de acionistas e divulgação de eventos sociais 
+e  políticos  com  os  atores  mencionados  neste  trabalho.  Este  artigo  como  um  recorte  da 
+pesquisa  se  ampara  na  análise  dos  periódicos  como  fontes,  que  possibilitaram  trazer  os 
+trabalhadores anônimos das obras através de publicações de notas a pedido e de ocorrências 
+policiais, o Memorial de Antonio Jannuzzi (O Século, 1913) e os relatórios dos engenheiros que 
+exerceram a função de síndicos na falência da companhia Evoneas Fluminense. 
+
+O  conflito  entre  as  companhias  de  bonde  e  o  processo  de  falência  da  Evoneas 
+Fluminense são molduras que enquadram os distintos cenários e momentos na construção 
+civil. Para situar o leitor sobre tais empresas é necessário mencionar a trajetória profissional 
+
+Alexandra Aguiar, Rodrigo Rosistolato. CANTEIRO DE OBRAS 
+
+27 
+
+DOSSIÊ 
+ 
+
+de Américo de Castro, que por sua vez nos conduz ao construtor-licenciado Antonio Jannuzzi, 
+ambos  protagonistas  nos  cenários  descritos.  Américo  de  Castro  foi  concessionário  da 
+Companhia Ferro Carril Niteroiense (1871) e no primeiro projeto de construção do túnel do 
+Morro do Livramento (1875), entre outros empreendimentos em serviços coletivos e obras 
+públicas. Castro também articulou junto ao Estado a fusão da Companhia Ferro Carril Vila 
+Isabel e da Companhia Ferro Carril São Cristóvão (1884) e, concomitante à sua atuação na 
+expansão das linhas de bondes, ele foi o primeiro a conseguir incentivos do Estado para a 
+construção de habitações higiênicas para a classe trabalhadora (1882), difundidas pelo próprio 
+como “evoneas” ao longo das décadas de 1870 e 1880. Esta concessão obtida por Castro atraiu 
+outros  empresários  para  o  ramo  de  construção  de  moradias  higiênicas,  interessados  no 
+mesmo  privilégio  de  acesso  a  recursos  públicos  inaugurado  a  partir  dele.  Ainda  em  1882, 
+Castro  incluiria  as  “evoneas”  como  parte  do  projeto  de  criação  da  Grande  Companhia  de 
+Melhoramentos Materiais do Império do Brazil, cuja proposta era empreender uma reforma 
+urbana  ampla  na  Corte;  contudo,  desta  proposta  apenas  a  construção  das  habitações 
+higiênicas se concretizaria em 1890 com a fundação da Companhia Evoneas Fluminense.  
+
+Américo de Castro faleceu poucos meses após a fundação da Evoneas Fluminense, e 
+a partir desse momento os relatos de Antonio Jannuzzi como diretor técnico da companhia 
+nos  permitem  acompanhar  a  Evoneas  Fluminense  até  a  falência.  Jannuzzi  era  construtor-
+licenciado renomado, membro do Clube de Engenharia, e foi convidado para a direção da 
+empresa para ser responsável pelos projetos de construção, pela administração do material 
+para  as  obras  e  pela  remuneração  dos  operários  e  assuntos  afins.  Jannuzzi  escreveu  um 
+Memorial e uma carta sobre esse período de sua vida profissional. Ambos foram publicados 
+em periódicos e traziam a sua defesa contra a acusação que lhe foi imputada: administração 
+deficiente que contribuiu para a falência da Evoneas Fluminense.  Através destes registros, 
+conseguimos compreender aspectos das relações cotidianas desenvolvidas por trabalhadores 
+em uma companhia de construção civil.  
+
+Operários e embates nas linhas de ferro carril 
+
+ Em  1881  o  matadouro  público  foi  removido  de  São  Cristóvão,  intensificando  o 
+interesse de empresários pelo bairro, conhecido devido à concentração de indústrias. De área 
+desabitada até o período joanino, passou a ser identificada à aristocracia que orbitava ao 
+redor da Quinta da Boa Vista, residência imperial, e beneficiada por recursos que a tornaram 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 25–43, jan./abr. 2022 
+
+DOSSIÊ 
+
+28 
+
+atraente  para  o  investimento  empresarial:  fornecimento  de  água  e  circulação  regular  de 
+transporte, disponibilidade de terrenos extensos e possibilidade de escoamento da produção 
+por ser zona portuária (CARVALHO, 1995, p. 126-127). Esta feição de São Cristóvão começaria 
+a partir da década 1870 com o estabelecimento da fábrica de tecidos São Lázaro, da América 
+Fabril,  da  Marcenaria  Brasileira,  a  Fábrica  de  Vidros  Esberard,  da  Companhia  de  Vidros  e 
+Cristais do Brasil. (ANDREATTA, 2006, p. 143; ARAUJO, 2018, p. 171).  
+
+Antes mesmo de ser incluído na rota das companhias de carris urbanos, São Cristóvão 
+possuía linhas de ônibus e de diligência. A última era concessão de Carlos Alberto Morsing e 
+levava aos bairros Tijuca (Andaraí Pequeno), Saco de Alferes, Catumbi e Rio Comprido. Em 
+1868,  Manoel  Gomes  de  Carvalho  (barão  do  Rio  Negro)  estava  entre  os  capitalistas  que 
+revitalizaram o transporte da região. Ao lado de Quintino Bocaiuva, ele obteve permissão para 
+restaurar a linha de carris urbanos no trajeto do Centro à Quinta da Boa Vista; logo depois, 
+Quintino  repassou  sua  parte  na  concessão  para  Bernardo  Caymari.  No  ano  seguinte,  os 
+concessionários americanos Silvester S. Batin e Albert H. Hager adquiriram as concessões de 
+Morsing e de Bernardo Caymari, iniciando a companhia de bonde The Rio de Janeiro Street 
+Railway Co., operando a partir de março de 1870. Três anos depois a companhia foi comprada 
+e renomeada como Companhia Ferro Carril de São Cristóvão (VON DER WEID, 2004; SANTOS, 
+1996, p. 197-198).  
+
+Também nessa mesma época, em 1872, João Baptista de Viana Drummond, o barão 
+de Drummond, obteve a concessão para implantação do serviço de bondes por tração animal 
+e foi o principal concessionário da Companhia Ferro Carril de Vila Isabel, que circularia entre 
+o Andaraí Grande e os bairros São Francisco e Engenho Novo e a rua Uruguaiana, no Centro 
+do Rio.  
+
+Em 1883 a Companhia Vila Isabel obteve também o privilégio de instalar linhas de 
+bonde  na  Rua  do  Matoso;  contudo,  essa  concessão,  literalmente,  cruzava  o  caminho  da 
+concorrência, pois é uma rua transversal da Rua Haddock Lobo, onde já transitavam os bondes 
+da  Companhia  São  Cristóvão.  A  situação  já  havia  sido  reclamada  pelos  acionistas  que 
+denunciavam  aquela  concessão  como  favorecimento  à  Vila  Isabel  em  detrimento  da  São 
+Cristóvão que já operava ali, portanto, considerava-se detentora do direito de exploração do 
+serviço de bonde naquela área (Gazeta de Notícias, 1883).  
+
+Alexandra Aguiar, Rodrigo Rosistolato. CANTEIRO DE OBRAS 
+
+29 
+
+DOSSIÊ 
+ 
+
+Nesse mesmo ano a disputa sairia das discussões legais e transitaria para o terreno 
+das obras onde o assentamento dos trilhos estava sendo realizado pela companhia Vila Isabel. 
+De  acordo  com  a  versão  do  barão  de  Drummond,  a  companhia  Vila  Isabel  conseguiu  a 
+concessão para instalar a linha de ferro carril até o final da Rua do Matoso  (O Globo, 1883), 
+uma  demanda  dos  próprios  moradores.  Assim  que  a  colocação  dos  trilhos  se  iniciou,  a 
+Companhia São Cristóvão embargou a obra; porém, a Vila Isabel havia pago caução como 
+concessionária e obteve a permissão judicial para prosseguir. Tal decisão não foi aceita pela 
+São Cristóvão e, na noite seguinte, os operários que executavam o prolongamento dos trilhos 
+foram impedidos de trabalhar mais uma vez. A companhia de Drummond “foi surpreendida 
+por uma intimação do gerente da Companhia São Cristóvão, que não consentiria que a Vila 
+Isabel assentasse trilhos naquela rua [...] para esse fim apresentando-se acompanhado de 60 
+empregados daquela companhia, a maior parte deles armados de grandes cacetes”.  
+
+Diante da interrupção forçada, a companhia Vila Isabel recorreu ao subdelegado, que 
+ficou intimidado “pelo avultado número de capangas”. Por sua vez, o subdelegado levou o 
+caso ao delegado Pedro Macedo de Aguiar, que, após verificar a autorização da companhia de 
+Drummond, intimou o gerente da companhia São Cristóvão a retirar “uma barricada que ali 
+tinha estacionado, composta de vagões cheios de empregados dispostos a resistirem contra 
+os direitos da Vila Isabel”. Além dos vagões com operários, a companhia São Cristóvão ainda 
+colocou cerca de “50 ou 60 carros vazios nas ruas em obra até às 2 horas da madrugada” para 
+impedir a continuação do trabalho e só os retirou mediante outra intimação contra o gerente 
+(O Globo, 1883). 
+
+Na  narrativa  de  Drummond  percebe-se  que  todas  as  ações  são  atribuídas  aos 
+operários  da  concorrente,  em  que  as  identificações  “empregados”  e  “capangas”  são 
+assemelhadas e as ameaças são atribuídas como voluntárias contra a Companhia Ferro Carril 
+Vila  Isabel,  ainda  que  estas  tenham  sido  ordenadas  pela  companhia  São  Cristóvão  por 
+intermédio  de  seu  gerente.  Não  há  qualquer  menção  sobre  as  reações  dos  operários  da 
+companhia  de  Drummond,  tornados  invisíveis  no  cenário  em  que  eram  sujeitos,  sua 
+resistência ocorria na execução da própria função, como veremos na narrativa seguinte.   
+
+Em outra versão sobre o enfrentamento, intitulada “A infusão das duas companhias”, 
+o autor traz ao cenário as reações dos operários. Nela, conseguimos ver os sujeitos neste 
+confronto e não apenas as companhias. Há convergência entre as duas narrativas sobre as 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 25–43, jan./abr. 2022 
+
+DOSSIÊ 
+
+30 
+
+tentativas do gerente da companhia São Cristóvão de criar obstáculos para as obras da Vila 
+Isabel. Contudo, nesta matéria o foco está sobre os empregados, demonstrando a tensão que 
+envolveu os trabalhadores durante aquelas horas.  
+
+Segundo esta última versão, publicada no periódico Gazeta de Notícias, o gerente 
+ordenou  aos  operários  que  colocassem  dois  vagões  no  meio  da  linha  para  impedir  a 
+continuidade das obras pela companhia Vila Isabel e que os mesmos fossem removidos nas 
+horas de trânsito do bonde da companhia São Cristóvão: “de cada vez que tinha de passar um 
+de seus bondes de ida e de volta, fazia carregar a braços os vagões, dava passagem ao bonde 
+e em seguida fazia coloca-los  de novo em frente à Rua do Matoso” (Gazeta de Notícias, 1883).  
+Enquanto isso, a multidão cercava o local e em pouco tempo começou o conflito “a pau, e em 
+plena rua” pelos trabalhadores que utilizavam seus instrumentos de trabalho como armas. 
+Havia  também  aqueles  que  portavam  cacetes.  Ambos  “estavam  dispostos  o  que  desse  e 
+viesse”. Esse trecho da matéria conclui, assim como Drummond, que os trabalhadores agiam 
+movidos  pela  vontade,  desconsiderando  a  esfera  reduzida  de  ação  voluntária  de  grupos 
+pobres nacionais e imigrantes, sujeitos à ausência de garantias de sustento fora, e mesmo 
+dentro, de suas funções. A vulnerabilidade social contribuía para a indefinição das fronteiras 
+entre a atividade contratada e aquela escusa sob as ordens do empregador indivíduo e/ou 
+empresa.    
+
+No momento em que a violência parecia emergir de fato pela entrada em cena dos 
+trabalhadores armados, o subdelegado Godinho foi chamado. E ele não conseguiu controlar 
+a situação e pediu auxílio ao delegado e também a “um corpo militar de polícia”. As notícias 
+sobre  o  enfrentamento  já  se  espalhavam,  “sangue,  morte,  ferimentos,  uma  hecatombe 
+enfim... de picaretas e alviões” (Gazeta de Notícias, 1883) e a cavalaria rondava o local. De um 
+lado dos trilhos, na Rua do Matoso, estavam Drummond e seus amigos representantes dos 
+interesses de companhia - Américo de Castro entre estes - do outro lado, na Rua Haddock 
+Lobo, os operários da Vila Isabel continuavam a obra: 
+
+Ao passo que os trabalhadores da outra companhia estendiam-se ao longo 
+de  sua  linha  em  construção,  batendo  com  indiferentismo  as  pedras  na 
+calçada.  
+Nos  vagões  da  S.  Cristóvão  assentavam-se  os  trabalhadores  desta, 
+conversando  baixinho  e  aguardando  as  ordens  do  gerente  Silva  Porto,  ali 
+presente. ( Gazeta de Notícias, 1883)  
+
+Alexandra Aguiar, Rodrigo Rosistolato. CANTEIRO DE OBRAS 
+
+31 
+
+DOSSIÊ 
+ 
+
+O autor da matéria destaca no cenário desse enfrentamento a multidão de curiosos, 
+“o calor era de rachar”, o subdelegado “prepotente”, o impasse. Cada um desses elementos 
+banais pode ser pensado como fator de agravamento da tensão para os trabalhadores em 
+ambos os lados, para aqueles que receberam ordens para prosseguir com a colocação dos 
+trilhos sob qualquer condição, e para aqueles da companhia São Cristóvão instados a impedir 
+a continuidade da obra, por conseguinte, o trabalho de outros.  
+
+A situação começou a se apaziguar quando o delegado chegou, à uma hora da manhã, 
+e ordenou a remoção dos vagões, considerando que o embargo apresentado pelo gerente 
+estava  fora  do  prazo  de  intimação.  Mesmo  após  a  chegada  da  autoridade,  os  bondes  da 
+companhia São Cristóvão continuaram a circular para atrasar o trabalho da concorrência, que 
+deu  continuidade  à  obra  ainda  assim  (Gazeta  de  Notícias,  1883).  No  ano  seguinte  a  esse 
+episódio encontraremos Américo de Castro em diálogo com autoridades do Estado imperial, 
+representando os interesses do barão de Drummond e de outros capitalistas na fusão entre a 
+Companhia Ferro Carril de São de Cristóvão e a Companhia Ferro Carril de Vila Isabel.  
+
+Operários em conflito e no cotidiano na Companhia Evoneas Fluminense 
+
+Passando ao ano de 1890, Castro concretizaria seu principal projeto, a criação da 
+Companhia Evoneas Fluminense, cuja proposta era a construção de habitações higiênicas para 
+as  classes  trabalhadoras  pobres.  A  Evoneas  foi  fundada  durante  o  governo  provisório  do 
+generalíssimo  Marechal  Deodoro  da  Fonseca,  sob  o  primeiro  “pacote  econômico”  da 
+República, elaborado por Rui Barbosa, Ministro da Fazenda. O Decreto nº 164 de 17 de janeiro 
+de 1890, mais conhecido como “política do encilhamento”, autorizava determinados bancos 
+a  emitir  papel-moeda  com  base  nos  títulos  públicos.  Tal  política  tinha  como  propósito  a 
+solução  da  dívida  interna,  a  valorização  dos  títulos  e  o  aumento  da  circulação  de  moeda 
+através do fornecimento de créditos para dinamizar a economia incerta após o golpe civil-
+militar de 15 de novembro de 1889 que implantou o regime republicano (BOTELHO JÚNIOR, 
+2002, p. 40-41). 
+
+A Companhia Evoneas Fluminense surgiu nesse quadro de entusiasmo pela facilidade 
+de empréstimos, incentivos financeiros pelo Estado, investimento em ações e inauguração de 
+empreendimentos diversos. Personalidades da política e dos negócios – remanescentes do 
+Império  ao  lado  de  emergentes  da  República  –  integraram  sua  diretoria:  Rodolfo  Dantas, 
+Barão do Rio Negro, Conde de Sebastião de Pinho, Barão de Werneck, o próprio Américo de 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 25–43, jan./abr. 2022 
+
+DOSSIÊ 
+
+32 
+
+Castro  e  Antonio  Jannuzzi.  Castro  faleceria  em  março  de  1891  e  a  partir  desse  ponto  a 
+narrativa de Jannuzzi se torna o fio condutor para outros cenários de trabalho na construção 
+civil sob a moldura da Evoneas Fluminense.  
+
+Antonio Jannuzzi foi convidado a tomar parte da criação da companhia devido aos 
+seus projetos de moradia higiênica para a classe operária. Inicialmente, ele seria um prestador 
+de serviço, mas a primeira diretoria propôs a incorporação de seu escritório e sua nomeação 
+como diretor técnico. A inauguração da Evoneas Fluminense ocorreu em 05 de julho de 1890. 
+O cotidiano da companhia emerge através da análise da movimentação dos funcionários. O 
+desligamento do empregado José Lúcio, revela disputas relacionadas à imagem pública que a 
+companhia desejava construir. O ex-funcionário, preocupado em tornar público que sua saída 
+foi  voluntária,  realizou  uma  publicação  na  qual  dizia  que  ele  abandonou  e  empresa 
+voluntariamente  e  “não  despedido  conforme  dizem”  (Diário  do  Commercio,  1890).  Esta 
+declaração  foi  contestada  por  Jannuzzi,  ao  publicar  que:  “declaro  mais  que  a  companhia 
+despediu esse indivíduo porque não prestou contas exatas do que lhe havia confiado” (Gazeta 
+de Notícias, 1890).  
+
+Episódios do cotidiano dos trabalhadores da Evoneas emergem através dos jornais, 
+como  o  falecimento  do  empregado  Henrique  Carlos  em  decorrência  de  um  acidente  na 
+estação  São  Francisco  Xavier  e  sepultado  com  auxílio  dos  companheiros  da  oficina  de 
+fundição.  O  irmão  do  funcionário  falecido  publicou  uma  nota  pela  qual  agradecia:  “pelo 
+acolhimento que teve por ocasião de ser promovida uma subscrição para ocorrer as despesas 
+necessárias  ao  seu  enterramento”  (O  Paiz,  1890).  Tais  cenas  relacionadas  às  interações 
+desenvolvidas  entre  a  Evoneas  e  seus  funcionários  indicam  que  a  companhia  estava 
+funcionando e era vista como legítima, pelo menos por parte dos funcionários. Esse contexto 
+perdurou até que a diretoria recebeu a informação de que a concessão obtida por Américo de 
+Castro seria cancelada e que a empresa deveria importar o máximo de material de construção 
+dentro do menor tempo possível. Jannuzzi foi contrário a essa decisão; porém, ele foi voto 
+vencido e a companhia começou a sofrer uma série de prejuízos desde então.  
+
+ 
+
+Os  problemas  financeiros  cresciam;  todavia,  as  construções  não  podiam  parar. 
+Através de notas nos periódicos foi possível mapear eventos do dia-a-dia dos trabalhadores 
+da  construção  civil  empregados  na  Evoneas.  Um  desses  eventos  foi  a  queda  do  operário 
+Antonio  Valente  da  pedreira  da  companhia.  O  trabalhador  teve  contusões  na  cabeça,  no 
+
+Alexandra Aguiar, Rodrigo Rosistolato. CANTEIRO DE OBRAS 
+
+33 
+
+DOSSIÊ 
+ 
+
+tronco  e  fratura  das  costelas  (O  Paíz,  1892),  além  de  “comoção  cerebral”  e  “enfisema 
+pulmonar” devido ao acidente, conforme o periódico Diário de Notícias (1892). Também foi 
+identificada  uma  nota  de  felicitações  ao  funcionário  aniversariante,  Francisco  de  Souza 
+Fausto. Aposentado da fábrica de armas da Conceição, ele trabalhava como guarda-livros da 
+companhia,  “cidadão  honesto,  honrado  e  sempre  laborioso  pai  de  família,  integérrimo 
+cumpridor dos seus deveres e digno de todos os encômios, já pelo seu caráter extremamente 
+bondoso, já pela sua grande filantropia e caridade” (Diário de Notícias, 1892).  
+
+Havia  também  outro  tipo  de  preocupação  dentre  os  empregados.  Alguns  deles 
+desejavam salvaguardar a sua reputação para que não tivessem problemas com a empresa. 
+Eles entendiam que ter o nome associado a problemas com a justiça poderia resultar em 
+demissão. Antônio Piston foi um deles. Ele publicou a seguinte nota no jornal “O Paiz”: “Casos 
+policiais.  Eu  abaixo-assinado,  declaro  que  não  se  entende  comigo  a  prisão  que  se  deu 
+anteontem na rua do Regente. Antonio Piston, morador na rua da Saúde e operário na olaria 
+Pantanal, Companhia Evoneas Fluminense” (O Paíz, 1891).  
+
+Em 1891 a Evoneas novamente se tornou notícia devido a um confronto dos seus 
+operários com moradores vizinhos das obras do primeiro conjunto de edifícios, a Vila Rodolfo 
+Dantas. A matéria publicada no Jornal do Commercio foi redigida como denúncia contra os 
+imigrantes, neste caso os operários, acusando-os de incomodar as famílias vizinhas. Segundo 
+o autor, o subdelegado recebia com frequência reclamações contra a conduta desrespeitosa 
+dos operários italianos da Evoneas, e sempre procurava adverti-los sem uso de violência. Certa 
+tarde, uma família moradora na vizinhança passava em frente ao canteiro de obras e “na 
+forma de costume, foi maltratada pelos operários”. O chefe de família decidiu reagir e chamou 
+Manoel  Joaquim  Lisboa,  “administrador  do  Cemitério  da  Venerável  Ordem  Terceira”, 
+possivelmente  amigo  ou  conhecido,  para  ajuda-lo  contra  os  “malfeitores”  que,  diante  do 
+enfrentamento,  se  esconderam  na  obra.  Após  alguns  minutos,  o  operário  italiano  Vedra 
+Giovanni saiu à rua e ameaçou o administrador com uma faca. Como a situação se agravou, o 
+subdelegado foi chamado para ir até o local onde o conflito se acirrou entre a polícia e os 
+trabalhadores, com registro de disparo de revólver por um dos operários. O redator concluiu 
+a  matéria  pedindo  reforço  policial  para  o  bairro  de  São  Cristóvão  sob  a  alegação  de  que 
+“existem centenas de fábricas e, portanto é fácil de haver desordens constantemente” (Diário 
+do Commercio, 1891).  
+
+Hist. R., Goiânia, v. 27, n. 1, p. 25–43, jan./abr. 2022 
+
+DOSSIÊ 
+
+34 
+
+A  matéria  descreve  os  operários  imigrantes  usando  vocabulário  que  remete  à 
+ilegalidade:  “malfeitores”,  “desordeiros”,  “aqueles  indivíduos”,  e  constrói  a  imagem  do 
+canteiro de obra como perigoso: “no capinzal contiguo ao terreno das obras encontraram 
+alguns criminosos, que felizmente foram capturados”. Segundo a visão do autor deste relato, 
+a tensão estava relacionada ao adquirido caráter fabril do bairro, o que tornou as fronteiras 
+indistintas entre a ordem, personificada nas famílias, e a desordem, os pobres imigrantes e 
+nacionais que transitavam por ali devido ao mercado de trabalho desenvolvido naquela área. 
+
+Jannuzzi tentou reverter a repercussão negativa e fez publicar nos periódicos Diário 
+do  Commercio  e  Gazeta  de  Notícia  (1891)  a  versão  do  assistente  de  obras,  Augusto 
+Campobassi1, presente durante os conflitos. A versão do assistente evidencia o cotidiano de 
+animosidade entre os operários imigrantes e a vizinhança, tanto que sua narrativa começa por 
+outro  desentendimento  ocorrido  pouco  antes.  Campobassi  conta  que  estava  em  seu 
+alojamento no terreno da obra, quando o local foi invadido por duas praças com espadas em 
+riste, exigindo que lhes entregasse o operário Novara Giovanni. Os agentes afirmavam que ele 
+havia  “tido  questões”  com  pescadores  brasileiros.    Campobassi  acalmou  os  policiais  e  se 
+comprometeu a conversar com o operário e entrega-lo para averiguar o ocorrido.  
+
+Contudo, na saída, as duas praças provocaram o porteiro da obra, o espanhol Lopez 
+Antonio que, cumprindo ordens, impedira a entrada dos agentes, sem sucesso, pois, como 
+oficiais da lei eles possuíam permissão. O porteiro reagiu à provocação e os três entraram em 
+luta corporal, resultando na prisão e ferimento de Lopez, Campobassi relatou que uma das 
+praças estava “tão embriagada que nem podia conservar-se em pé”. Os operários reagiram à 
+prisão injusta e violenta do companheiro de trabalho enquanto transeuntes se juntaram à 
+confusão, “os gritos operários foram contestados pela gente ociosa que estava tomando sua 
+parte ativa e que invadia a rua, por quantidade de pedras, que ocasionaram a quebra de quase 
+todos os vidros da casa, arruinando completamente o jardim que a circunda”. O assistente 
+tentou retomar o controle da situação e pediu que os operários voltassem aos alojamentos, 
+enquanto  ele  iria  à  polícia  intervir  por  Lopez.  Quando  Campobassi  chegou  à  delegacia  de 
+polícia, ele soube que começara nova confusão e retornou à obra acompanhando as forças 
+policiais.  O  local  estava  cercado  de  curiosos;  porém,  os  operários,  segundo  o  assistente, 
+estavam “plácidos”.  No entanto, com a entrada do delegado e do subdelegado, a população 
+
+1 O mesmo nome aparece escrito como Augusto Campo Cassi no Diário do Commercio. 
+
+ 
+
+Alexandra Aguiar, Rodrigo Rosistolato. CANTEIRO DE OBRAS 
+
+35 
+
+DOSSIÊ 
+ 
+
+invadiu o alojamento e usou “pedras e bengalas” para agredir os operários, que foram levados 
+presos. Campobassi denunciou a ação violenta da polícia contra os operários e a agressão 
+pelas pessoas que se aproveitaram da confusão: 
+
+Após o assalto deu-se o saque, não só pela polícia como pela turba de todos 
+os intrusos que “invadiu” [sic] o edifício em construção, teatro de todas estas 
+façanhas, que dificilmente se pode descrever.  
+Basta  dizer  que  todos  os  operários  foram  roubados,  desaparecendo  suas 
+economias em dinheiro, relógios, roupas, tendo sido quebrados seus baús 
+que guardavam tudo quando lhes pertencia. 
+[...] Se houve resistência da parte dos nossos operários, onde estão os feridos 
+por parte da polícia e por parte do povo invasor?! (Diário do Commercio, 
+1891). 
+
+O assistente das obras encerrava seu depoimento comparando a atuação da polícia 
+e da população à ação de saqueadores, pois roubaram os poucos bens dos operários, incluindo 
+roupas do corpo, amealhados através de trabalho. Seu relato também nos permite conhecer 
+o  expressivo  número  de  estrangeiros  empregados  naquela  obra,  eram  69  operários, 
+compostos  de  48  italianos,  09  espanhóis,  08  belgas  e  04  franceses.  A  ausência  de 
+trabalhadores nacionais pode ser um motivo de antipatia por parte dos locais contra o grupo 
+de operários da Evoneas. Podemos inferir também que Jannuzzi talvez tivesse predileção por 
+contratar  mão  de  obra  estrangeira,  devido  a  sua  própria  trajetória  como  imigrante,  pois 
+preservava vínculos com a comunidade italiana. Em 1890, Jannuzzi tornou-se um dos dois 
+incorporadores, além de membro do Conselho fiscal, do Banco Italia-Brasile, cujo propósito 
+era  promover  relações  comerciais  e  financeiras  entre  os  dois  países,  considerando  “neste 
+progressivo aumento de imigração italiana, para o qual o Banco prestará o seu concurso” 
+(Gazeta de Notícias, 1890).  
+
+Engenheiros entre disputas de saberes e de hierarquias  
+
+Na medida em que a crise financeira da companhia se agravava, Jannuzzi procurou 
+dar continuidade às obras contratadas. No entanto, após frustradas tentativas de alterações 
+contratuais com o Estado e desentendimentos com a diretoria e com os acionistas, em 1892, 
+ele  pediu  demissão  e  retomou  seu  próprio  escritório  de  construção.  Nessa  época  houve 
+sucessivas trocas de diretoria em curto tempo, e, por fim, o último diretor-presidente, Barão 
+de Werneck, apresentou os números negativos da companhia aos acionistas e culpabilizou a 
+direção integrada por Jannuzzi pela situação de eminente falência da Evoneas. Entre outros 
+registros, o balanço divulgado por Werneck apontava uma dívida deixada por Jannuzzi, além 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 25–43, jan./abr. 2022 
+
+DOSSIÊ 
+
+36 
+
+de  deficiente  administração  do  patrimônio  em  material  de  construção,  função  sob 
+responsabilidade  do  construtor,  e  que  fora  avaliada  pelo  último  engenheiro  da  Evoneas, 
+Augusto Belin. 
+
+Para defesa da própria atuação profissional, Jannuzzi publicou uma longa carta no 
+periódico O Tempo (1893) através da qual conhecemos um pouco mais sobre as atividades e 
+as  ocorrências  no  interior  de  uma  construtora,  e  apontando  os  procedimentos  técnicos 
+equivocados  na  companhia  após  sua  saída.  De  acordo  com  ele,  o  arrolamento  das 
+propriedades da companhia foi executado por pessoas leigas, exemplificado pelo inventário 
+na fundição, “feito por um indivíduo que nunca viu uma oficina e desconhecia completamente 
+os  artigos  desta  e  seus  respectivos  nomes,  sendo  preciso  a  cada  passo  pergunta-los  aos 
+operários, e isso fez sem ao menos estar presente o chefe da seção!” (O Tempo, 1893) Ele 
+lembrou  o  legado  da  primeira  diretoria,  a  valorização  de  áreas  por  meio  de  propriedades 
+montadas, obras iniciadas e terrenos preparados, contestando o argumento sobre o prejuízo 
+generalizado  passado  adiante,  admitindo  que  as  perdas  financeiras  eram  previsíveis  em 
+qualquer construção.  
+
+Ao  entrar  em  assuntos  técnicos  da  construção  civil,  seu  principal  alvo  foi  o  novo 
+diretor  de  obras  na  Evoneas,  o  engenheiro  Augusto  Belin,  revelando  a  disputa  entre  os 
+conhecimentos  práticos  em  edificação  de  Jannuzzi  em  oposição  aos  conhecimentos  de 
+formação do engenheiro Belin. Sua primeira crítica foi contra a observação de Belin sobre ele 
+ter assumido a direção das obras paralisadas e com os proprietários descontentes. Sobre essa 
+situação, Jannuzzi demonstrou sua influência sobre os trabalhadores, 
+
+Respondo  a  S.  S.  que  esse  fato  foi  devido  a  desorganização  do  serviço, 
+produzida pela retirada de grande número de operários, que aterrados pela 
+minha  demissão,  e  não  tendo  confiança  no  pessoal  da  companhia,  não 
+obstante meus conselhos em contrário, abandonaram as obras assim que saí 
+da companhia. (O Tempo, 1893) 
+
+ 
+Contudo,  cabe  lembrar  que  Jannuzzi  era  o  responsável  pela  remuneração  dos 
+operários e sua saída pode ter gerado insegurança nos trabalhadores. Griego (2005) também 
+aponta  a  relação  de  proximidade  que  o  construtor  estabelecia  com  os  operários, 
+exemplificada na presença deles em eventos sociais de Jannuzzi, como a inauguração de seu 
+escritório na Avenida Central alguns anos depois (GRIEGO, 2005, p. 62). Em 1886, o periódico 
+O Mequetrefe enfatizou a identificação do construtor às camadas trabalhadoras, homenageou 
+os irmãos Jannuzzi, dedicando-lhes um retrato na capa e exaltou a trajetória dos dois, “se há 
+
+Alexandra Aguiar, Rodrigo Rosistolato. CANTEIRO DE OBRAS 
+
+37 
+
+DOSSIÊ 
+ 
+
+pessoas a quem se pode aplicar acertadamente o self made man dos ingleses são certamente 
+estes dois cavalheiros que, filhos de operários, operários e chefes de operários, souberam 
+granjear-se uma brilhante posição na sociedade” (O Mequetrefe, 1886). 
+
+Cabe lembrar que Jannuzzi ressentia-se por se perceber desconsiderado pelos outros 
+membros da diretoria Evoneas a respeito de suas avaliações na administração da companhia. 
+Pode-se pensar que ele fosse depreciado pelos diretores por não possuir educação formal na 
+construção  civil  ou  em  outra  área.  Cappelli  ressalta  que  Jannuzzi  ingressou  no  Clube  de 
+Engenharia, em 1883, “aos vinte e sete anos e sem um diploma de nível superior” e terá um 
+papel proeminente na comunidade italiana, presidindo a Sociedade Italiana de Beneficência 
+(CAPPELLI,  2014).  O  ingresso  no  Clube  de  Engenharia  significava  participar  de  seleta 
+agremiação composta por engenheiros e empresários do ramo de obras públicas, fundado em 
+dezembro de 1880, com o propósito de conjugar ideias e ações de interesse da categoria em 
+diálogo com a sociedade política (MARINHO, 2008).2  
+
+Segundo Belin, seria possível reduzir os custos da vila Barão do Rio Negro apenas não 
+construindo o segundo pavimento que constava na planta. Jannuzzi buscou descontruir esse 
+argumento, ressaltando que o engenheiro não conseguia compreender o potencial de retorno 
+financeiro da vila e pretendia apenas cortar gastos: 
+
+Pondo de parte o laconiano da exposição, pelo qual ninguém faz ideia dos 
+trabalhos  executados  no  grupo  iniciado,  não  pode  passar  sem  reparo  a 
+asseveração de S. S.  de que a eliminação de um pavimento, em um grupo de 
+casas, traz para o preço de sua construção uma diferença  para menos  da 
+metade.  
+De forma que o terreno, alicerces, cobertura, que são os mesmos para casas 
+de um ou dois pavimentos, não merecem ser contemplados na sua avaliação. 
+O que S. S. deveria dizer é que o que fica reduzido à metade com a eliminação 
+de um pavimento nas casas é a renda que elas podiam dar, visto que cada 
+pavimento é destinado à residência de uma família. (O Tempo, 1893) 
+
+São muitas as críticas de Jannuzzi ao relatório e uma delas se refere à organização da 
+ 
+mão de obra nas oficinas por empreitada. Segundo a administração de Belin, o corte de custos 
+com pessoal foi realizado através da contratação restrita e temporária para a execução dos 
+trabalhos,  o  que  reduziu  o  número  de  operários  e  extinguiu  seções  desnecessárias  sem 
+prejudicar  o  desenvolvimento  das  obras.  Jannuzzi  atacou  essa  forma  de  contrato  por 
+“empreitada”,  pois  considerava  os  resultados  ruins  com  aumento  de  despesa  para 
+
+2 Ver seção “O Clube de Engenharia: um novo partido ideológico”. 
+Hist. R., Goiânia, v. 27, n. 1, p. 25–43, jan./abr. 2022 
+
+ 
+
+DOSSIÊ 
+
+38 
+
+reconstrução, além de criar uma relação de trabalho dúbia, exemplificando com a contratação 
+do gerente da marmoraria da Evoneas pelo Belin para trabalhar por empreitada na colocação 
+de mármore “na fachada da rua Primeiro de Março n. 47”, ao mesmo tempo em que ele 
+recebia  também  seu  ordenado  pela  companhia.  O  ex-diretor-técnico  concluiu  que  não 
+pretendia contestar a eficiência do engenheiro, pois, Belin possuía um título respeitável e 
+“pelo que tenho visto, pois forçoso é confessar que em matéria de construção S. S.  até hoje 
+só tem se revelado habilíssimo engenheiro... de estradas de ferro”. [Itálico do próprio] (O 
+Tempo, 1893). 
+
+A falência forçada da Evoneas ocorreria em 16 de março de 1893, decretada pelo juiz 
+Salvador Antônio Moniz Barreto de Aragão (O Tempo, 1893), juiz da Câmara Comercial do 
+Tribunal  Civil  e  Criminal  da  Capital  Federal.  No  ano  seguinte,  o  mesmo  juiz  assinaria  um 
+acórdão pelo qual determinou a inventariação e balanço da empresa, suspendendo medidas 
+da ação de nulidade, que corria em paralelo. Ele queria evitar a alteração da condição de 
+credores por meio de inclusão e exclusão de nomes nessa categoria no processo. Portanto, o 
+juiz assegurou a liquidação com base estritamente em “medidas assecuratórias do acervo 
+arrecadado, até que decidida seja a espécie de nulidade” (O Tempo, 1894). Este acórdão, 
+datado  de  18  de  maio  de  1894,  seria  utilizado  contra  o  magistrado,  sobre  esta  mesma 
+liquidação, em um processo movido pelos engenheiros civis Olympio da Silva Leão e João 
+Eugênio Emílio Berla. 
+
+Olympio e João Eugênio foram contratados como síndicos para realizar a liquidação 
+da Evoneas Fluminense. De forma resumida, eram responsáveis pela guarda e fiscalização do 
+acervo, do balanço e do inventário dos bens, pela conclusão de obras pendentes e repartição 
+dos terrenos, tudo com a finalidade de garantir o ressarcimento para os credores da empresa 
+falida. Após incidentes e divergências, os engenheiros foram destituídos por Salvador Muniz, 
+e  consideraram  a  demissão  injusta,  defendendo-se  através  da  publicação  “Companhia 
+Evoneas Fluminense”, em que denunciavam ações impróprias pelo juiz em comunhão com os 
+diretores Barão de Werneck e Claudio Silva.  
+
+Os  diretores  acusaram  os  engenheiros  de  terem  recebido  percentual  de 
+remuneração indevido e pelo pagamento de honorários ao advogado Carlos Silveira Martins, 
+contratado na liquidação, sem a realização do trabalho, pois nesse período ele estava “detido 
+pelo  Estado”  em  meio  a  Revolta  da  Armada.  Os  engenheiros  argumentavam  que  este 
+
+Alexandra Aguiar, Rodrigo Rosistolato. CANTEIRO DE OBRAS 
+
+39 
+
+DOSSIÊ 
+ 
+
+impedimento  pelos  diretores  da  Evoneas  prejudicava  os  credores.  Olympio  alegava  que  o 
+desempenho  da  função  era  dificultado  pela  ação  de  nulidade  da  companhia,  e  que  ele 
+trabalhou  diretamente  em  “muitas  obras  concluídas  pela  liquidação  e  dos  serviços  que 
+entendiam com a sua profissão de engenheiro, e atendendo ainda que a porcentagem que 
+nos cabia era considerada pro labore”. Para tanto, o pagamento acertado fora 5% do balanço 
+a ser repartido entre os dois profissionais, contudo, Salvador Muniz determinou o pagamento 
+apenas  após  a  conclusão  da  liquidação,  “depois  de  prestadas  as  respectivas  contas  e 
+precedendo o devido computo e a expedição do mandado!!!” Os engenheiros afirmavam que 
+foram  autorizados  a  receber  a  comissão  durante  o  processo  de  apuração,  incluindo-se  os 
+balanços mensais e que eram submetidos ao juiz (Jornal do Commercio, 1895).  
+
+Sobre os honorários impróprios pagos ao advogado Carlos Silveira Martins, Olympio 
+alegava que constava no processo o pagamento ao substituto Eugênio Alves da Silva Porto, 
+entretanto, de acordo com o relato do engenheiro, depreende-se que o primeiro advogado 
+apelou à justiça e ganhou a causa porque se concluiu que Carlos foi impedido de trabalhar 
+devido ao episódio da prisão. A permanência de apenas um advogado na liquidação também 
+foi utilizada pelo juiz e pelos denunciantes para a destituição de Olympio e de João Eugênio, 
+visto que havia obrigatoriedade da contratação de dois advogados.  Diante da impossibilidade 
+de Carlos assumir o caso, o advogado Silva Porto, que trabalhou na liquidação, recorreu ao 
+Salvador Muniz para receber integralmente os honorários e não repartir com o colega que 
+esteve detido, e seu pedido foi aceito.  
+
+Olympio e João Eugênio consideravam que Salvador Muniz, o Barão de Werneck e 
+Claudio Silva uniram-se contra os credores,3 “cavalheiros respeitáveis e de maior distinção da 
+nossa sociedade”, para obstaculizar o ressarcimento pela liquidação. Como estratégia para 
+dificultar o processo o juiz impôs aos “credores debenturistas” o depósito dos títulos no Banco 
+da República, desta forma tornava o processo oneroso, pois era preciso pagar comissão ao 
+banco. Diante da persistência dos credores, o juiz criou outra maneira de retardar a liquidação. 
+Decidiu trocar os síndicos e para isso criou suspeitas sobre a atuação dos engenheiros no 
+processo:  
+
+ 
+
+3 Credores da Evoneas: Domingos Teodoro Azevedo Junior, Pinto & C., Raul de Carvalho & C., Tomás José 
+Coelho de Almeida, Nicolau Pentagna, J. V. Miranda, João Evangelista Teixeira Leite, Bernardes da Silva. Jornal 
+do Commercio, 27 de agosto de 1895, nº 238. 
+Hist. R., Goiânia, v. 27, n. 1, p. 25–43, jan./abr. 2022 
+
+DOSSIÊ 
+
+40 
+
+É  preciso  saber-se  que  nossa  destituição  coincidiu  inocentemente,  talvez, 
+com um protesto judicial por danos e perdas que contra ele promovemos 
+pelo fato de opor-se de certo tempo em diante, às vendas em leilão público 
+do que era no acervo de fácil deterioração e de difícil e custosa  conservação. 
+[itálico do próprio] (Jornal do Commercio, 1895) 
+
+A liquidação prosseguiu até que Salvador Muniz suspendeu os trabalhos, justificando 
+ 
+a decisão com o acórdão de 18 de maio de 1894. Frente a mais este golpe, os engenheiros 
+reagiram contra a medida do juiz por meio de pedido de vistoria judicial na qual indicaram o 
+Barão de Werneck e Claudio Silva como os solicitantes da suspensão. Após esse episódio o 
+próprio  juiz  ordenou  a  venda  particular  de  alguns  itens  do  acervo,  “semelhante  decisão 
+pareceu-nos sem qualificação, quando ainda depois deste procedimento continuou o mesmo 
+juiz a opor-se às vendas dos bens por leilões públicos” (Jornal do Commercio, 1895). 
+
+A venda particular prejudicava os credores, e o juiz justificava essa permissão sob o 
+argumento de que o material era de baixo valor, afirmação negada pelos engenheiros, cuja 
+avaliação  do  que  fora  comercializado  estava  “em  centenas  de  réis”.  Tendo  em  vista  as 
+irregularidades cometidas na liquidação, inclusive a própria demissão, Olympio e João Eugênio 
+decidiram começar um “protesto judicial” contra aquela situação e, por conseguinte, contra 
+Salvador Muniz. O engenheiro descreve sua saga com protesto: 
+
+Foi um judeu errante de porta em porta dos Srs. Juízes, sem que nenhum dos 
+que procurávamos quisesse aceitá-lo! 
+O pretor da freguesia da Lagoa onde moramos todos, nós os síndicos, e o Sr. 
+Dr.  Salvador  Muniz,  não  o  recebeu  sob  o  fundamento  de  ser  o  protesto 
+contra  juiz  de  categoria  superior  a  sua.  O  juiz  da  Câmara  Civil,  o  Sr.  Dr. 
+Segurado, não o aceitou por ser incompetente e finalmente o Sr.  Juiz da 3ª 
+pretoria porque não éramos residentes na sua circunscrição; mas isto depois 
+de haver sido tomado o respectivo termo e à vista da dúvida sobre nossa 
+residência  só  levantada  pelo  respectivo  escrivão,  quando  se  promovia 
+diligências das citações  requeridas! Os documentos 3 e 4 provam quanto 
+expomos com tristeza sobre esta justiça que ninguém entende. (Jornal do 
+Commercio, 1895)  
+
+O juiz Salvador Muniz havia autorizado o leilão do patrimônio da companhia ainda 
+em 1893, sob o martelo de J. Dias. Os engenheiros expuseram os infortúnios que viveram 
+durante a liquidação da Companhia Evoneas Fluminense, comprovando o relato por meio da 
+publicação de documentos do processo, e, por fim, a denúncia contra a injusta destituição da 
+função de síndico era ao mesmo tempo “a resistência que temos oposto a tanta gente a quem 
+ela há parecido uma baleia que deu à costa”.  
+
+Alexandra Aguiar, Rodrigo Rosistolato. CANTEIRO DE OBRAS 
+
+41 
+
+DOSSIÊ 
+ 
+
+Os embates travados entre Jannuzzi e os outros engenheiros revelam disputas sobre 
+formas de ver e se relacionar com o mundo da engenharia, além da força de imposição das 
+credenciais  acadêmicas  no  mundo  prático  do  trabalho.  Jannuzzi  não  era  engenheiro  de 
+formação. Ele construiu a sua carreira nos canteiros de obra e no acúmulo de um conjunto de 
+conhecimentos  práticos  em  edificação.  Seus  opositores,  todos  engenheiros  de  formação, 
+embora  ignorantes  com  relação  à  uma  série  de  aspectos  técnicos  do  trabalho  cotidiano, 
+argumentavam tendo como principal alicerce os diplomas que portavam. Ao final, conforme 
+descrito, as credenciais venceram as disputas.  
+
+Ao  compararmos  as  experiências  dos  operários  e  dos  engenheiros  no  contexto 
+analisado, temos um gradiente que segue da total invisibilidade à plenitude da legitimidade 
+social. Os operários, conforme demonstramos, envolviam-se em disputas e confrontos físicos, 
+todos  pautados  e  coordenados  pelos  empresários,  sem  que  nem  mesmo  tivessem  a 
+possibilidade de não participar e/ou de ser ouvidos com relação às suas razões próprias para 
+participar  de  tais  eventos  violentos.  Os  engenheiros,  por  outro 
+lado,  ainda  que 
+desconhecessem o cotidiano de trabalho de sua própria profissão, agiam salvaguardados por 
+seus diplomas e credenciais. Jannuzzi é um personagem significativo deste período porque ele 
+não era totalmente invisibilizado como os operários e tampouco era plenamente legitimado 
+como  os  engenheiros.  Tratava-se  de  um  homem  que  construiu  sua  carreira  na  interseção 
+entre o universo do chão das obras e o mundo conceitual das engenharias. A sua posição 
+liminar fazia com que a sua voz e as suas perspectivas fossem ouvidas, mas somente até o 
+momento em que contrastavam diretamente com os engenheiros. Quando o atrito estava 
+posto, venciam as credenciais. Há também, conforme vimos, um conjunto de articulações 
+entre  os  engenheiros  e  o  judiciário.  Percebe-se,  ali,  níveis  de  diálogos  pautados  por 
+credenciais. Jannuzzi perde em suas argumentações não pela fraqueza dos seus argumentos, 
+mas por ser ele “apenas” um conhecedor de edificações e não um engenheiro formado. 
+
+Considerações finais 
+
+O artigo se propôs a colocar o foco sobre trabalhadores da construção civil através 
+de  cenários  do  cotidiano  com  suas  ações,  diálogos  e  conflitos  inerentes  a  esse  espaço  do 
+mundo  do  trabalho.  Através  das  narrativas  publicadas  sob  forma  de  ocorrências  policiais, 
+cartas em defesa da própria atuação profissional e denúncias de demissões injustas cometidas 
+pelo poder público percebemos formas de exploração, discriminação e de marcadores sociais 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 25–43, jan./abr. 2022 
+
+DOSSIÊ 
+
+42 
+
+desenvolvidos  no  exercício  das  funções,  situações  contra  as  quais  a  resistência  ocorre  no 
+âmbito da gestão das atividades cotidianas.  
+
+Os  casos  analisados  oferecem  possiblidades  de  reflexão  sobre  a  negação  dos 
+trabalhadores  como  sujeitos  ao  serem  invisibilizados  diante  das  demandas  criadas  por 
+organizações, nas quais aqueles são destituídos de voz e de movimento próprios. Assim como 
+pensar a invisibilidade sob a forma de subordinação como recurso para resistir dentro da 
+situação de tensão. Outra proposta de reflexão sobre a resistência no mundo do trabalho recai 
+sobre a discriminação contra trabalhadores, sejam imigrantes ou nacionais, em parte devido 
+a  ressignificação  do  espaço  pela  ocupação  das  fábricas  e  de  moradias  para  os  grupos 
+desfavorecidos  e  a  consequente  apropriação  daquele  espaço  pela  classe  trabalhadora.  A 
+resistência se impõe pela reafirmação da identidade de trabalhador em distinção aos sujeitos 
+associados à marginalidade e à desordem.  
+
+A resistência também se torna evidente na disputa de saberes através do diálogo 
+entre categorias  prestigiadas  pela educação  formal,  como os  engenheiros,  e em  denúncia 
+contra as marcações de distinção social que emergem no interior da atuação profissional. 
+Assim  como  a  dinâmica  da  profissão  a  serviço  do  Estado  constrói-se  em  meio  a 
+hierarquizações a partir dos poderes públicos e privados que impõem limitações e distorções 
+ao exercício do trabalho em seus níveis técnico e intelectual. As configurações destes cenários 
+hierarquizados  convertem-se  em  objeto  privilegiado  para  análise  historiográfica, 
+especialmente relacionada à progressiva legitimidade dos engenheiros e da engenharia no 
+Brasil como um dos campos de atuação profissionais mais prestigiados e disputados até a 
+atualidade.   
+
+FONTES 
+
+Decreto n. 8489 de 22 de abril de 1883.  
+
+Diário de Notícias, 15 de março de 1892, n. 2439; 17 de novembro de 1892, n. 26984. 
+
+Diário do Commercio, 09 de outubro de 1890, n. 672; 19 de janeiro de 1891, n. 774; 20 de janeiro de 
+1891, nº 775. 
+
+Gazeta de Notícias, 14 de agosto de 1890, n. 226; 16 de outubro de 1890, n. 290; 21 de janeiro de 
+1883, n. 021; 25 de janeiro de 1883, n. 025. 
+
+Jornal do Commercio, 27 de agosto de 1895, n. 238; 31 de agosto de 1895, n. 244. 
+
+Alexandra Aguiar, Rodrigo Rosistolato. CANTEIRO DE OBRAS 
+
+43 
+
+O Globo, 25 de janeiro de 1883, n. 436. 
+
+O Mequetrefe, 30 de dezembro de 1886, n. 423. 
+
+DOSSIÊ 
+ 
+
+O Paíz, 09 de agosto de 1891, n. 3408; 17 de novembro de 1892, n. 3851; 28 de outubro de 1890, n. 
+3.108. 
+
+O Tempo, 17 de março de 1893, n. 650; 19 de janeiro de 1893, n. 596; 28 de maio de 1894, n. 1156. 
+
+REFERÊNCIAS BIBLIOGRÁFICAS 
+
+ANDREATTA, Verena. Cidades quadradas, paraísos circulares: os planos urbanísticos do Rio de Janeiro 
+no século XIX. Rio de Janeiro: Mauad Editora Ltda, 2006.  
+
+ARAÚJO,  Raquel  Aquino.  Identidades  e  territórios  culturais:  subsídios  para  a  área  de  proteção  do 
+ambiente cultural de São Cristóvão. Tese de Doutorado. 2018. 
+
+BOTELHO  JÚNIOR,  Cid  de  Oliveira.  Instabilidade  Financeira  na  Primeira  Década  Republicana. 
+Dissertação de Mestrado, UNICAMP, Curso de Mestrado em Economia, Campinas, fevereiro, 2002.  
+
+CAPPELLI, Vittorio. Pequenas pátrias, a Pátria, outras pátrias: as complexas identidades dos italianos 
+no Brasil e na América Latina. Naveg@mérica, n. 13, 2014. 
+
+CARVALHO, Lia de Aquino. Contribuição ao estudo das habitações populares: Rio de Janeiro: 1866-
+1906. Rio de Janeiro: Secretaria Municipal de Cultura, Turismo e Esportes, Departamento Geral de 
+Documentação e Informação Cultural, Divisão de Editoração, 1995. 
+
+GRIECO,  Bettina  Zellner.  A  arquitetura  residencial  de  Antônio  Jannuzzi.  Ideias  e  realizações. 
+Dissertação, Universidade Federal do Rio de Janeiro. Faculdade de Arquitetura e urbanismo. Programa 
+de Pós-graduação em Arquitetura, 2005. 
+
+MARINHO, Pedro Eduardo Mesquita de Monteiro. Ampliando o Estado Imperial: os engenheiros e a 
+organização da cultura no Brasil oitocentista (1874-1888). Niterói: UFF, 2008. 
+
+SANTOS, Noronha. Meios de transporte no Rio de Janeiro: história e legislação. 2 ed. Rio de Janeiro: 
+Secretaria Municipal de Cultura, Departamento Geral de Documentação e Informação Cultural, Divisão 
+de Editoração, 1996. 
+
+VON DER WEID, Elisabeth. O bonde como elemento de expansão urbana no Rio de Janeiro. Setor de 
+História da Fundação Casa de Rui Barbosa, 2004.  
+
+ 
+
+ 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 25–43, jan./abr. 2022 
+
+

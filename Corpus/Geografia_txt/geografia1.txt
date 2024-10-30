@@ -1,0 +1,3867 @@
+DOI: 10.5216/bgg.v43i01.64421 
+
+ 
+
+ 
+
+ 
+Microcentralidades e a integração urbana 
+através de novas conexões viárias 
+ 
+Microcentralities and urban integration  
+through new road connections 
+ 
+Microcentrales e integración urbana  
+através de nuevas conexiones viales 
+ 
+
+ 
+
+  Antonio Guarda 
+
+Universidade Federal de Santa Catarina, Santa Catarina, 
+Florianópolis, Brasil 
+atguarda@gmail.com  
+ 
+
+ 
+
+independe  das  diretrizes  de 
+Resumo:  O  crescimento  geralmente 
+zoneamento ditadas pelo poder público e ocorre através de um sentimento 
+de apropriação do espaço, ocorrendo muitas vezes áreas de exclusão dentro 
+da comunidade e pode ser demonstrado através da espacialização de dados 
+estatísticos. A Teoria da Sintaxe Espacial é uma das ferramentas que ajuda a 
+simular  alterações  na  configuração  urbana  e  prognosticar  as  influências 
+desta alteração. Seria possível, através da análise de sintaxe espacial e das 
+microcentralidades existentes, predicar a melhoraria da integração social e 
+urbana através de novas conexões viárias? Os resultados obtidos mostram 
+que  a  integração  da  comunidade  é  possível,  através  das  ferramentas 
+utilizadas,  em  uma  escala  local,  permitindo  fazer  uma  prospecção  de 
+possíveis evoluções. Este estudo não exauriu a compreensão da evolução da 
+comunidade escolhida, sendo necessárias pesquisas mais aprofundadas no 
+local.  Não  foi  analisado  o  aspecto  da  resiliência  social  ou  o  impacto  das 
+microcentralidades existentes. 
+Palavras-chave: 
+Espacialização de dados Estatísticos; Sintaxe Espacial. 
+ 
+ 
+ 
+
+Microcentralidades; 
+
+Aglomerações 
+
+Humanas; 
+
+DOI: 10.5216/bgg.v43i01.64421 
+
+ 
+
+ 
+
+Abstract 
+Growth is generally independent of the zoning guidelines dictated by public 
+administration bodiesand occurs through the appropriation of space, having 
+been observed the occurrence of exclusion areas within a givencommunity 
+whichcan be demonstrated through the spatialization of statistical data. The 
+Space Sintax theory is one of the tools that helps simulate changes in the 
+urban configuration and predict the influences of this  change. Would it be 
+possible to predictthe improvement of social and urban integration through 
+the planning of new road connections by the analysis of Space Syntax and 
+micro-centralities? The results indicatesthat the integration of the community 
+is possible through the mentioned tools in a local scale and allow prospecting 
+its evolution over time. This study did not exhaust the understanding of the 
+evolution of the chosen community, which requiresmore in-depth research 
+in  local  scale.  The  aspect  of  social  resilience  or  the  impact  of  the  existing 
+micro-centralities werenot analyzed. 
+Keywords:  Human  Agglomerations;  Microcentralities;  Spatialization  of 
+statistical data; Space Syntax. 
+ 
+Resumen 
+El  crecimiento  generalmente  es 
+las  directrices  de 
+zonificación  dictadas  por  el  poder  público  y  se  produce  a  través  de  un 
+sentimiento  de  apropiación  del  espacio,  a  menudo  ocurriendo  áreas  de 
+exclusión  dentro  de  la  comunidad  y  esto  puede  demostrarse  mediante  la 
+espacialización de datos estadísticos. La Teoría de la Sintaxis Espacial es una 
+de las herramientas que ayuda a simular cambios en la configuración urbana 
+y  pronosticar  las  influencias  de  este  cambio.  ¿Sería  posible,  a  través  del 
+análisis de la sintaxis espacial y las microcentralidades existentes, predecir la 
+mejora  de  la  integración  social  y  urbana  a  través  de  nuevas  conexiones 
+viarias?  Los  resultados  obtenidos  muestran  que  la  integración  de  la 
+comunidad es posible, a través de las herramientas utilizadas, a escala local, 
+permitiendo hacer una prospección de posibles evoluciones. Este estudio no 
+agotó  la  comprensión  de  la  evolución  de  la  comunidad  elegida,  siendo 
+necesaria  una  investigación  más  profunda  en  el  lugar.  No  se  analizó  el 
+aspecto  de  la  resiliencia  social  ni  el  impacto  de  las  microcentralidades 
+existentes. 
+Palabras 
+Espacialización de datos estadísticos; Sintaxis espacial. 
+ 
+
+humanas;  Microcentralidades; 
+
+independiente  de 
+
+Aglomeraciones 
+
+clave: 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Introdução 
+
+Como  ocorre  a  ocupação  das  aglomerações  humanas  e  sua 
+evolução em determinadas áreas, independente de ações e políticas 
+públicas?  
+
+Diz Andrade Castro (2000), que o sentido de lugar aumenta à 
+medida que o homem interage e se familiariza com o espaço e vai 
+transportando para ele suas expectativas e emoções, e que difere 
+do  espaço,  cujo  conceito  é  mais  amplo  e  ao  qual  atribuímos 
+qualidades físicas e funcionais. Diz ainda que o lugar é um ambiente 
+físico  determinado  por  um  significado  psicológico,  cultural  e/ou 
+histórico.  Como  acontece  com  os  animais,  o  lugar  está  ligado  à 
+disponibilidade  de  elementos  que  possibilitam  a  satisfação  de 
+necessidades  biológicas  como  a  alimentação  e  a  reprodução, 
+conforme  determinam  as  regras  fundamentais  da  natureza.  Isto 
+significa  que  as  referências  de 
+familiaridade,  as 
+especificidades  territoriais,  são  determinadas,  a  princípio,  por 
+relações afetivas interpessoais, em que as gerações de uma família 
+precisam de espaço, optando por residir próximo a sua origem e 
+como um grupo de pessoas com a mesma origem cultural, tendem 
+a residir próximas umas das outras. 
+
+limite  e 
+
+Há um consenso entre diversos autores no sentido que estas 
+contradições  que  conduzem  a  diferentes  ações,  às  quais  são 
+atribuídos inúmeros significados, não são atos individuais apenas 
+construídos,  ao  contrário,  dependem  de  uma  série  de  fatores 
+condicionantes, entre outros, a cultura e a estrutura social e familiar 
+dentro da qual o indivíduo opera. 
+
+Andrade  Castro  (2000)  também  nos  diz  que  o  processo  da 
+transformação  do  espaço  natural  é  a  materialização  dos  ideais 
+humanos que resultam em diferentes formas de apropriação e uso, 
+visando garantir sobrevivência, bem-estar, perpetuação da espécie. 
+Desta forma podemos dizer que as aglomerações humanas iniciam 
+com  a  necessidade  da  ocupação  do  espaço  por  um  grupo  de 
+pessoas  ou  famílias  e  os  crescimentos  destas  aglomerações 
+ocorrem por conseqüência de necessidades, abrindo oportunidades 
+comerciais. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Para  analisarmos  como  ocorrem  o  desenvolvimento  das 
+aglomerações  humanas  ou  comunidades  e  as  respectivas 
+centralidades  utilizamos  estatísticas  oficiais  e  a  relação  deste 
+desenvolvimento com a sintaxe espacial. 
+
+Área de Estudo 
+
+O bairro Tapera, do distrito do Ribeirão da Ilha, do município 
+de Florianópolis, Santa Catariana, tem características incomuns em 
+termos de localização no espaço e constituição social. Possui dois 
+acessos  terrestres:  um  através  da  Av.  Santos  Dumont  por  dentro 
+Base Aérea, área militar pertencente à Força Aérea Brasileira e que 
+também está ao lado do Aeroporto Internacional de Florianópolis - 
+este acesso  é restrito a militares ou civis que possuem um passe 
+especial de trânsito; o outro acesso se dá pela da Rua José Olimpio 
+da Silva. Desta forma podemos dizer que a conectividade com a área 
+central do município e cidade é restritiva, conforme demonstrado 
+na figura 1. 
+
+  Figura 1 – Localização do Bairro Tapera 
+
+ 
+
+ 
+
+Fonte: autoria própria, com informações e imagem de fundo obtidas 
+
+do Google Earth (2018). 
+
+ 
+
+A  ocupação  da  área  foi  iniciada  por pescadores  no  início  na 
+década  de  1960,  por  um  processo  de  invasão,  não  havendo 
+nenhuma empresa incorporadora ou venda através de um projeto 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+de loteamento planejado. Os lotes no geral não possuem medidas 
+ou  formas  regulares,  não  obedecendo  muitas  vezes  às  regras  do 
+Plano Diretor ou Código de Obras do município, inclusive em relação 
+às  construções,  que  em  quase  sua  totalidade  são  de  um  ou  dois 
+pavimentos. As vias no geral possuem uma largura média de três 
+metros, com exceção das três vias principais, a Rodovia Açoriana, a 
+Rua  das  Areias  ou  Barreira  e  a  Rua  José  Correa  ou  do  Juca,  que 
+possuem em média  9  metros. O bairro  não  possui  área de  lazer, 
+praças ou áreas verdes - a área utilizada pela população para lazer 
+é a praia da Tapera. 
+
+ 
+
+Espacialização dos Dados Estatísticos da Área de Estudo 
+
+Pelos conceitos do IBGE (2010a), este bairro é constituído por 
+nove  setores  censitários,  sendo  que  quatro  são  considerados 
+aglomerados subnormais; parte do bairro é considerada, pelo poder 
+público municipal, área de interesse social.  
+
+Figura 2 – Mapa de calor dos pontos dos estabelecimentos comerciais, 
+
+demonstrando três microcentralidades 
+
+ 
+Fonte: De autoria própria, com dados do IBGE (2010c), Censo 2010, Cadastro 
+Nacional de Endereços para Fins Estatístico e imagem de fundo obtidas do Google. CN 
+
+Satellite 50% de transparência (2018). 
+
+Conforme  Guarda  (2004  e  2010),  o  setor  censitário  é  uma 
+unidade territorial de logística operacional que não têm por objetivo 
+representar  características  qualitativas,  estas  são  informações 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+estatísticas que podem ser vinculadas a ele, porém em função do 
+conceito,  algumas  vezes  ele  poderá  ter  referências  qualitativas  e 
+quantitativas.  
+
+Os dados do IBGE (2010b), Censo 2010 mostram que no bairro 
+havia  3279  domicílios  particulares  ocupados  e  10740  habitantes, 
+com  uma  densidade  domiciliar  de  3,27  habitantes  por  domicílio. 
+Este indicador destoa do município que fica em 2,84 habitantes por 
+domicílio. Quanto à renda per capita, o Censo 2010, em IBGE (2010b) 
+aponta  um  valor  de  R$  608,14  para  o  bairro,  enquanto  a  do 
+município é R$ 827,84.  
+
+Figura 3 – Densidade populacional (hab./km2) por setor censitário 
+
+Fonte: De autoria própria, com dados do IBGE (2010b), Censos 2010, 
+
+Resultados do Universo \ Agregados por Setores Censitários \ Básico e imagem de 
+
+fundo obtidas do Google.CN Satellite 50% de transparência (2018). 
+
+ 
+
+ 
+
+Já  o  CNEFE  –  Cadastro  Nacional  de  Endereços  para  Fins 
+Estatísticos do IBGE, em IBGE (2010c) diz que no Censo de 2010 havia 
+243  estabelecimentos  considerando  que:  144  estabelecimentos 
+comerciais;  65  galpões,  depósitos  ou  rancho  de  canoa;  25 
+estabelecimentos  religiosos;  quatro  associações  e  conselhos 
+comunitários;  duas  creches  municipais;  um  posto  de  saúde;  um 
+consultório dentário particular; e uma escola. 
+
+A  disposição  dos  estabelecimentos  citados,  através  da 
+localização  dos  pontos,  nos  demonstra  a  existência  de  três 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+microcentralidades, conforme demonstrado na figura 2; a figura 3 
+mostra a densidade populacional por setor censitário; e a figura 4 a 
+renda per capita por setor censitário. 
+
+Figura 4 – Renda per capita por setor censitário 
+
+Fonte: De autoria própria, com dados do IBGE (2010b), Censos 2010, 
+
+Resultados do Universo\Agregados por Setores Censitários\Básico e imagem de fundo 
+
+obtidas do Google.CN Satellite 50% de transparência (2018). 
+
+ 
+
+ 
+
+Uma das informações estatísticas obtida no Censo 2010, em 
+IBGE  (2010d)  através  da  pesquisa  de  entorno,  é  o  número  de 
+domicílios  particulares  ocupados  que  estão  em  logradouros  que 
+possuem, no entorno destes domicílios, as seguintes características: 
+existência  de  identificação  do  logradouro,  iluminação  pública, 
+pavimentação, calçada, meio-fio/guia, bueiro/boca-de-lobo, rampa 
+para  cadeirante,  arborização,  a  não  existência  de  esgoto  a  céu 
+aberto  e  lixo  acumulado  nos  logradouros.  Estas  informações  são 
+fornecidas por setor censitário. 
+
+Agregando estas informações com algumas das informações 
+de características dos domicílios particulares ocupados, tais como 
+abastecimento de água da rede geral, banheiro de uso exclusivo dos 
+moradores  ou  sanitário,  esgotamento  sanitário  via  rede  geral  de 
+esgoto  ou  pluvial,  lixo  coletado  e  energia  elétrica,  foi  possível 
+construir  um  indicador  de  urbanização,  que  seria  a  média  dos 
+percentuais de cada variável acima apresentada.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Figura 5 – Grau de urbanização por setor censitário 
+
+Fonte: De autoria própria, com dados do IBGE (2010d), Censos 2010, 
+
+Resultados do Universo\Agregados por Setores Censitários\Entorno e imagem de 
+
+fundo obtidas do Google.CN Satellite 50% de transparência (2018). 
+
+ 
+
+A representação gráfica da construção deste indicador está na 
+figura 5. Os dados nos mostram que os setores com menor grau de 
+urbanização são também os de menor renda per capita e os que 
+possuem as maiores taxas de densidade populacional. 
+
+ 
+
+ 
+
+Sintaxe Espacial da Área de Estudo 
+
+A  Sintaxe  Espacial  é  uma  teoria  desenvolvida  no  final  da 
+década  de  70  por  Bill  Hillier,  Julienne  Hanson  e  outros  sobre 
+configurações espaciais e consiste em técnicas de análise do espaço, 
+através  da  forma  de  seu  traçado  em  relação  à  interação  social. 
+Saboya  (2007,  s.  n.)  diz  que  a  “Teoria  da  Sintaxe  Espacial  busca 
+descrever  a  configuração  do  traçado  e  as  relações  entre  espaço 
+público  e  privado  através  de  medidas  quantitativas,  as  quais 
+permitem entender aspectos importantes do sistema urbano, tais 
+como  a  acessibilidade  e  a  distribuição  de  usos  do  solo”.  Já  PINA 
+(2011, s. n.) diz que “A sintaxe espacial, por sua vez, é uma teoria de 
+análise  espacial  que  procura  ver  a  cidade-espaço  e  a  cidade-
+sociedade como uma só”. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+A  lógica  desta  teoria  é  a  forma  como  é  desenvolvido  um 
+traçado  no  espaço,  que  pode  ser  interno  a  uma  edificação  ou 
+externo, como o traçado das vias. Esta forma pode ser representada 
+por  grafos,  uma  rede  de 
+influências  ou  escolhas,  onde  a 
+conectividade de cada linha tem relação com as outras. Esta relação 
+não  é  uma  medida  métrica,  mas  sim  de  conexões  ou  passos 
+topológicos.  
+
+Os principais elementos utilizados por esta teoria da análise do 
+
+espaço são:  
+
+a. 
+
+Linhas Axiais – as linhas axiais são eixos que ligam os 
+diversos ambientes de um espaço. Em uma rede urbana representa 
+o eixo do sistema viário. Estas linhas tendem a conectar os espaços 
+mais largos ou convexos. PINA (2011, s. n.) apud HILLIER (1999, s. n.), 
+diz que “O mapa axial é constituído pelo menor número de linhas 
+retas  que  atravessam  cada  espaço  convexo  e  realizam  todas  as 
+ligações axiais”; 
+
+b. 
+
+Conectividade  –  é  a  ligação  entre  as  diversas  linhas 
+axiais.  Representaria  os  cruzamentos  entre  as  vias,  ou  a  ligação 
+entre os caminhos para cada ambiente de uma construção. Linhas 
+ou  eixos  com  alta  conectividade  demonstram  que 
+têm 
+acessibilidade a um grande número de outras linhas ou eixos. 
+
+c. 
+
+Distância  ou  Profundidade  –  à  distância  aqui  referida 
+não é uma medida métrica, e sim topológica, assim como em um 
+grafos  é  a  medida  de  conexões  existentes,  aqui  é  quantos 
+segmentos percorro de um segmento a outro, ou qual é o caminho 
+mínimo de uma linha para outra. Assim, quanto mais profunda é 
+uma linha em relação à outra, quer dizer o quão distante está. 
+
+d. 
+
+Integração – é a relação de aproximação de uma linha 
+em relação a outras, como diz SABOYA (2007, s. n.), “Linhas menos 
+distantes às outras (em média) são chamadas de mais integradas”. 
+Já PINA (2011, s. n.) diz que “Pode ser pensada como uma medida do 
+movimento-para, já que representa o potencial de acessibilidade de 
+cada elemento da estrutura em relação ao todo”. 
+
+e. 
+
+Escolha  –  cada  segmento  possui  uma  quantidade  de 
+conexões com outros segmentos, logo, certos segmentos possuirão 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+uma carga maior, oriunda de outros segmentos conectados a ele. O 
+conceito  de  escolha  está  relacionado  à  relação  de  hierarquia  de 
+conexões. Conforme SABOYA (2007, s. n.), a “Escolha” diz respeito à 
+frequência com que um espaço faz parte dos caminhos entre outros 
+pares  de  espaços.  E  PINA  (2011,  s.  n.),  diz  que  “em  oposição  à 
+integração que está associada a movimento-para, a escolha associa-
+se a movimento-através”. 
+
+f. 
+
+Segmento – é uma fração ou parcela de uma linha ou 
+eixo,  em  função  da  sinuosidade  de  uma  linha,  onde  cada  nó 
+representa uma alteração no ângulo de um percurso; o segmento 
+será os vários trechos entre dois nós que representam a alteração 
+do ângulo. Turner (2001) sugeriu uma inovação na forma de análise 
+da  Teoria:  a  Análise  Angular  de  Segmentos.  A  ideia  consegue 
+diminuir algumas das falhas antagônicas na análise axial  clássica, 
+como a quebra da linearidade de vias tortuosas, representadas por 
+vários eixos. 
+
+Resultados da Sintaxe Espacial da Área de Estudo 
+
+As figuras abaixo representam os diversos modelos da análise 
+
+da sintaxe espacial: 
+
+Linhas axiais conectividade; 
+
+Linhas axiais escolha global e raio 3; 
+
+Linhas axiais integração global e raio 3; 
+
+Mapa de segmentos escolha global e raio 2000m; 
+
+Mapa de segmentos integração global e raio 2000m; 
+
+Mapa de segmentos escolha Normalizados raio 2000m; 
+
+Mapa  de  segmentos  integração  Normalizados  raio 
+
+A figura 6 mostra que as concentrações dos estabelecimentos 
+
+comerciais estão nas linhas com maior conectividade.   
+
+a. 
+
+b. 
+
+c. 
+
+d. 
+
+e. 
+
+f. 
+
+ 
+
+ 
+
+ 
+
+g. 
+2000m. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Figura 6 – Mapa de calor dos pontos dos estabelecimentos comerciais e 
+
+conectividade 
+
+ 
+Fonte: De autoria própria, com dados do IBGE (2010c), Censo 2010, Cadastro 
+
+Nacional de Endereços para Fins Estatísticos (2018). 
+
+ 
+
+A figura 7 mostra um grau elevado de integração para algumas 
+vias  em  que  não  existe  representatividade  de  estabelecimentos 
+comerciais.  
+
+Figura 7 – Mapa de calor dos pontos dos estabelecimentos comerciais, e 
+
+linha axial de integração global. 
+
+ 
+Fonte: De autoria própria, com dados do IBGE (2010c), Censo 2010, Cadastro 
+
+Nacional de Endereços para Fins Estatísticos (2018). 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+A  figura  8  mostra  uma  análise  das  linhas  axiais  de  escolha 
+global, mostrando uma via com alto grau de escolha, coincidindo 
+com  algumas  ruas  que  possuem  concentração  comercial,  mas 
+sendo insuficiente quanto às outras. 
+
+Também  foi  feita  análise  das  linhas  axiais  de  raio  3  para 
+escolha e integração, demonstradas nas figuras 9 e 10, sendo que 
+estas também representaram a mesma deficiência. 
+
+Utilizando  o  DepthmapX[net]  Version  0.35b  -  2017,  em 
+conjunto com o plugin Space Syntax Toolkit para o QGis para fazer 
+as  análises  de  sintaxe  espacial,  foi  gerada  uma  tabela  com  os 
+seguintes atributos: 
+
+a.CH - Escolha global; 
+
+b.CHr3 - Escolha raio 3; 
+
+c.CONN- Conectividade; 
+
+d.INT - Integração global; 
+
+e.INTr3  -  Integração  raio 
+3; 
+
+ 
+
+ 
+
+ 
+
+f.LEN - Comprimento da linha; 
+
+-  Profundidade  média 
+
+g.MD 
+global; 
+
+h.MDr3  -  Profundidade  média 
+raio 3; 
+
+i.NC - Contagem de nós global; 
+
+j.NCr3 - Contagem de nós raio   
+
+Figura 8 – Mapa de calor dos pontos dos estabelecimentos comerciais e linha 
+axial de escolha global  
+
+Fonte: De autoria própria, com dados do IBGE (2010c), Censo 2010, 
+Cadastro Nacional de Endereços para Fins Estatísticos (2018). 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Figura 9 – Mapa de calor dos pontos dos estabelecimentos comerciais e linha axial 
+
+de escolha raio 3 
+
+Fonte: De autoria própria, com dados do IBGE (2010c), Censo 2010, Cadastro 
+
+Nacional de Endereços para Fins Estatísticos (2018). 
+
+Figura 10 – Mapa de calor dos pontos dos estabelecimentos comerciais e linha 
+
+ 
+
+axial de integração raio 3 
+
+ 
+
+ 
+
+Fonte: De autoria própria, com dados do IBGE, Censo 2010, Cadastro Nacional de 
+
+Endereços para Fins Estatísticos(2018). 
+
+ 
+
+Foi  realizada  uma  análise  espacial  a  fim  de  incluir  na  tabela 
+gerada pelo DepthmapXo atributo quantidade de estabelecimentos 
+por linha. Através desta tabela realizou-se uma análise de correlação 
+entre  as  diversas  análises  de  linhas  axiais.  A  tabela  1  mostra  o 
+resultado desta análise, em que podemos observar que a escolha 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+raio 3 (CHr3) tem alta conectividade (CONN), coincidindo com as vias 
+de  maior  concentração  de  estabelecimentos,  assim  como  a 
+integração (INT) é inversamente proporcional à profundidade (MD). 
+E que a integração raio 3 possui alta correlação com a quantidade 
+de nós. 
+
+Tabela 1 – Análise de correlação da tabela de linhas axiais da sintaxe 
+
+espacial. 
+
+ 
+
+CH 
+
+CHr3 
+
+CONN 
+
+axid 
+
+INT 
+
+INTr3 
+
+LEN 
+
+MO  MDr3  NC 
+
+NCr3 
+
+1 
+0,542 
+
+  
+1 
+
+0,561 
+
+0,805 
+
+0,029 
+0,236 
+0,380 
+0,254 
+-0,183 
+-0,052 
+#DIV/0
+! 
+
+-0,003 
+0,245 
+0,466 
+0,378 
+-0,164 
+-0,026 
+#DIV/0
+! 
+
+  
+  
+
+1 
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+0,100 
+0,282 
+0,672 
+0,367 
+-0,210 
+-0,152 
+#DIV/0
+! 
+
+1 
+-0,263 
+-0,106 
+-0,203 
+0,234 
+-0,337 
+#DIV/0
+! 
+
+  
+1 
+0,658 
+0,386 
+-0,938 
+0,661 
+#DIV/0
+! 
+
+  
+  
+1 
+0,437 
+-0,540 
+0,339 
+#DIV/0
+! 
+
+  
+  
+  
+1 
+-0,301 
+0,210 
+#DIV/0
+! 
+
+  
+  
+  
+  
+1 
+-0,606 
+#DIV/0
+! 
+
+  
+  
+  
+  
+  
+1 
+#DIV/0
+! 
+
+0,286 
+
+0,445 
+
+0,471 
+
+-0,226 
+
+0,736 
+
+0,877 
+
+0,495 
+
+-0,566 
+
+0,496 
+
+0,843 
+
+0,681 
+
+0,022 
+
+0,298 
+
+0,423 
+
+0,388 
+
+-0,224 
+
+Fonte: De autoria própria, (2018). 
+
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+Nº 
+ESTA
+B 
+
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+
+1 
+
+0,542 
+
+1 
+#DIV/0
+! 
+0,019  #DIV/0
+! 
+
+1 
+
+0,38
+5 
+
+As  figuras  de  11  a  17  nos  mostram  os  mapas  de  segmento  da 
+sintaxe espacial. Podemos observar que, no geral, a análise por segmento 
+demonstra um melhor resultado e que as que mais se destacaram foram: 
+CHr2000, 
+INTr2000,  NACH,  NACHr2000,  NAIN,  NAINr2000. 
+Considerando que: 
+
+INT, 
+
+CH 
+CHr3 
+CON
+N 
+axid 
+INT 
+INTr3 
+LEN 
+MD 
+MDr3 
+
+NC 
+
+NCr3 
+Nº 
+ESTA
+B 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+1.angCONN - Conectividade 
+angular; 
+2.axCONN - Conectividade 
+axial; 
+3.axLEN - Comprimento axial; 
+4.CONN – Conectividade; 
+5.segLEN - Comprimento do 
+segmento; 
+6.CH - Escolha Global; 
+7.CHr2000m - Escolha raio 
+2000 metros; 
+8.INT - Integração Global; 
+9.INTr2000m - Integração raio 
+2000 metros; 
+
+ 
+
+10.NC - Contagem de Nó Global; 
+11.NCr2000m - Contagem de Nó raio 2000 
+metros; 
+
+12.TD - Profundidade Total Global; 
+13.TDr2000m - Profundidade Total raio 2000 
+metros; 
+14.NACH - Escolha Normalizada Global; 
+15.NACHr2000m - Escolha Normalizada raio 
+2000 metros; 
+
+16.NAIN - Integração Normalizada Global; 
+17.NAINr2000m  -  Integração  Normalizada 
+raio 2000 metros; 
+
+18.Nº_Estab - Número de Estabelecimentos. 
+
+ 
+
+ Ainda  assim,  muitos  segmentos  são  mostrados  com  um 
+grau  de  importância  equivocada  quando  comparados  com  o 
+mapa de calor dos estabelecimentos.  
+
+Figura 11 – Mapa de calor dos pontos dos estabelecimentos comerciais e de 
+
+segmentos conectividade 
+
+Fonte: De autoria própria, com dados do IBGE, Censo 2010, Cadastro Nacional 
+
+de Endereços para Fins Estatísticos(2018). 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Figura 12 – Mapa de calor dos pontos dos estabelecimentos comerciais e 
+
+mapa de segmentos escolha global 
+
+Fonte: De autoria própria, com dados do IBGE, Censo 2010, Cadastro Nacional 
+
+de Endereços para Fins Estatísticos(2018). 
+
+Figura 13 – Mapa de calor dos pontos dos estabelecimentos comerciais e 
+
+mapa de segmentos escolha raio 2000m 
+
+ 
+
+ 
+
+Fonte: De autoria própria, com dados do IBGE, Censo 2010, Cadastro Nacional 
+
+de Endereços para Fins Estatísticos(2018). 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Figura 14 – Mapa de calor dos pontos dos estabelecimentos comerciais e 
+
+mapa de segmentos integração global 
+
+Fonte: De autoria própria, com dados do IBGE, Censo 2010, Cadastro Nacional 
+
+de Endereços para Fins Estatísticos(2018). 
+
+Figura 15 – Mapa de calor dos pontos dos estabelecimentos comerciais, e 
+
+mapa de segmentos integração raio 2000m. 
+
+ 
+
+ 
+
+Fonte: De autoria própria, com dados do IBGE, Censo 2010, Cadastro Nacional 
+
+de Endereços para Fins Estatistico (2018) 
+
+Figura 16 – Mapa de calor dos pontos dos estabelecimentos comerciais, e 
+
+mapa de segmentos escolha Normalizados raio 2000m. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Fonte: De autoria própria, com dados do IBGE, Censo 2010, Cadastro Nacional 
+
+de Endereços para Fins Estatistico (2018) 
+
+Figura 17 – Mapa de calor dos pontos dos estabelecimentos comerciais, e 
+
+mapa de segmentos integração Normalizados raio 2000m 
+
+ 
+
+ 
+
+Fonte: De autoria própria, com dados do IBGE, Censo 2010, Cadastro Nacional 
+
+de Endereços para Fins Estatistico (2018) 
+
+ 
+
+Realizando  uma  análise  de  correlação  com  a  tabela  gerada 
+inserção  do  atributo  número  de 
+pelo  DepthmapX  e  a 
+estabelecimentos  por  segmento,  podemos  observar  que  a  maior 
+correlação  com  o  número  de  estabelecimentos  é  Escolha  raio 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+2000m, integração global, Integração raio 1000 m, Integração raio 
+2000  m, 
+Integração  Normalizada  Global, 
+Integração Normalizada raio 1000 metros, e Integração Normalizada 
+raio 2000 metros, como podemos ver na tabela 2. 
+
+Integração  500  m, 
+
+Tabela 2 - Análise de correlação da tabela de mapa de segmentos da sintaxe 
+espacial. 
+
+ 
+
+ 
+
+N
+N
+O
+C
+g
+n
+a
+
+ 
+
+N
+N
+O
+C
+x
+a
+
+ 
+
+N
+E
+L
+x
+a
+
+ 
+
+N
+N
+O
+C
+
+ 
+
+N
+E
+L
+g
+e
+s
+
+ 
+
+H
+C
+
+ 
+
+m
+0
+0
+0
+1
+r
+H
+C
+
+ 
+
+m
+0
+0
+0
+2
+r
+H
+C
+
+ 
+
+m
+0
+0
+5
+r
+H
+C
+
+ 
+
+T
+N
+
+I
+
+ 
+
+m
+0
+0
+0
+1
+r
+T
+N
+
+I
+
+ 
+
+m
+0
+0
+0
+2
+r
+T
+N
+
+I
+
+ 
+
+m
+0
+0
+5
+r
+T
+N
+
+I
+
+ 
+
+C
+N
+
+ 
+
+m
+0
+0
+0
+1
+r
+C
+N
+
+ 
+
+m
+0
+0
+0
+2
+r
+C
+N
+
+ 
+
+m
+0
+0
+5
+r
+C
+N
+
+ 
+
+D
+T
+
+ 
+
+m
+0
+0
+0
+1
+r
+D
+T
+
+ 
+
+m
+0
+0
+0
+2
+r
+D
+T
+
+ 
+
+m
+0
+0
+5
+r
+D
+T
+
+ 
+
+H
+C
+A
+N
+
+ 
+
+m
+0
+0
+0
+1
+r
+H
+C
+A
+N
+
+ 
+
+m
+0
+0
+0
+2
+r
+H
+C
+A
+N
+
+ 
+
+m
+0
+0
+5
+r
+H
+C
+A
+N
+
+ 
+
+I
+
+N
+A
+N
+
+ 
+
+m
+0
+0
+0
+1
+r
+N
+A
+N
+
+I
+
+ 
+
+m
+0
+0
+0
+2
+r
+N
+A
+N
+
+I
+
+ 
+
+m
+0
+0
+5
+r
+N
+A
+N
+
+I
+
+ 
+
+B
+A
+T
+S
+E
+ 
+º
+N
+
+angCO
+
+NN 
+
+axCON
+
+N 
+
+axLEN 
+
+CONN 
+
+segLEN 
+
+CH 
+
+CHr100
+
+0m 
+
+CHr200
+
+0m 
+
+CHr500
+
+INTr100
+
+INTr200
+
+INTr500
+
+m 
+
+INT 
+
+0m 
+
+0m 
+
+m 
+
+NC 
+
+NCr100
+
+0m 
+
+NCr200
+
+0m 
+
+NCr500
+
+m 
+
+TDr100
+
+0m 
+
+TDr200
+
+0m 
+
+TDr500
+
+m 
+
+NACHr1
+000m 
+
+NACHr2
+000m 
+
+NACHr5
+
+00m 
+
+NAINr1
+000m 
+
+NAINr2
+000m 
+
+NAINr5
+00m 
+
+Nº 
+
+ESTAB 
+
+  
+
+1 
+
+0,686 
+0,457 
+-0,099 
+0,470 
+
+  
+
+  
+
+1 
+0,304 
+0,442 
+0,245 
+
+  
+
+  
+
+  
+
+  
+
+  
+1 
+-0,097 
+0,230 
+
+  
+  
+1 
+-0,112 
+
+  
+
+  
+
+  
+  
+  
+1 
+
+0,274 
+
+-0,001 
+
+0,254 
+
+-0,184 
+
+0,586 
+
+  
+
+  
+
+  
+  
+  
+  
+
+1 
+
+-0,141 
+
+0,486 
+
+0,191 
+
+0,288 
+
+-0,154 
+
+0,879 
+
+0,881 
+
+0,204 
+
+0,471 
+
+0,495 
+
+-0,126 
+
+0,410 
+
+0,382 
+
+0,260 
+
+0,358 
+
+0,370 
+
+-0,258 
+
+0,113 
+
+0,083 
+
+0,410 
+
+0,551 
+
+0,449 
+
+1 
+
+0,124 
+
+0,146 
+0,695 
+0,012 
+-0,148 
+
+-0,138 
+
+-0,139 
+
+0,078 
+
+0,092 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+1 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+0,842 
+
+0,499 
+
+0,562 
+
+0,807 
+
+#DIV/
+0! 
+
+0,683 
+
+0,605 
+
+0,600 
+
+0,755 
+
+#DIV/
+0! 
+
+1 
+
+0,372 
+
+0,426 
+
+0,748 
+
+#DIV/
+0! 
+
+1 
+
+0,920 
+
+0,696 
+
+#DIV/
+0! 
+
+0,094 
+
+0,469 
+
+0,380 
+
+0,347 
+
+0,096 
+
+0,515 
+
+0,492 
+
+0,590 
+
+0,376 
+
+0,974 
+
+0,940 
+
+1 
+
+-0,004 
+
+#DIV/
+0! 
+
+0,455 
+
+#DIV/
+0! 
+
+0,113 
+
+#DIV/
+0! 
+
+0,392 
+
+#DIV/
+0! 
+
+-0,233 
+
+#DIV/
+0! 
+
+0,530 
+
+#DIV/
+0! 
+
+0,748 
+
+#DIV/
+0! 
+
+0,701 
+
+#DIV/
+0! 
+
+1 
+
+#DIV/
+0! 
+
+0,036 
+
+0,057 
+
+0,028 
+
+0,168 
+
+0,064 
+
+0,238 
+
+0,454 
+
+0,397 
+
+0,387 
+
+0,691 
+
+0,809 
+
+0,743 
+
+0,591 
+
+0,106 
+
+0,244 
+
+0,217 
+
+0,182 
+
+0,118 
+
+0,278 
+
+0,210 
+
+0,310 
+
+0,168 
+
+0,695 
+
+0,716 
+
+0,820 
+
+0,404 
+
+0,041 
+
+0,185 
+
+-0,097 
+
+0,263 
+
+-0,288 
+
+0,252 
+
+0,603 
+
+0,480 
+
+0,707 
+
+0,430 
+
+0,530 
+
+0,472 
+
+0,788 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+TD 
+
+-0,102 
+
+-0,334 
+
+-0,323 
+
+-0,301 
+
+-0,119 
+
+-0,391 
+
+-0,385 
+
+-0,440 
+
+-0,313 
+
+-0,931 
+
+-0,825 
+
+-0,888 
+
+-0,585 
+
+-0,054 
+
+-0,347 
+
+-0,319 
+
+-0,149 
+
+-0,007 
+
+-0,082 
+
+0,116 
+
+0,017 
+
+0,137 
+
+0,046 
+
+0,200 
+
+0,141 
+
+0,129 
+
+-0,010 
+
+-0,200 
+
+-0,165 
+
+-0,191 
+
+0,014 
+
+-0,208 
+
+-0,275 
+
+-0,240 
+
+-0,227 
+
+-0,365 
+
+0,238 
+
+-0,183 
+
+-0,316 
+
+0,025 
+
+-0,119 
+
+-0,251 
+
+-0,009 
+
+-0,239 
+
+-0,075 
+
+0,195 
+
+0,066 
+
+0,386 
+
+0,022 
+
+0,131 
+
+0,083 
+
+0,324 
+
+NACH 
+
+0,012 
+
+0,461 
+
+0,243 
+
+0,566 
+
+-0,119 
+
+0,644 
+
+0,591 
+
+0,688 
+
+0,562 
+
+0,483 
+
+0,467 
+
+0,452 
+
+0,561 
+
+0,040 
+
+0,472 
+
+0,225 
+
+0,595 
+
+-0,157 
+
+0,568 
+
+0,606 
+
+0,653 
+
+0,598 
+
+0,435 
+
+0,442 
+
+0,407 
+
+0,572 
+
+0,024 
+
+0,446 
+
+0,220 
+
+0,578 
+
+-0,132 
+
+0,605 
+
+0,614 
+
+0,678 
+
+0,591 
+
+0,461 
+
+0,457 
+
+0,429 
+
+0,573 
+
+0,025 
+
+0,415 
+
+0,023 
+
+0,561 
+
+-0,389 
+
+0,510 
+
+0,573 
+
+0,595 
+
+0,631 
+
+0,304 
+
+0,314 
+
+0,295 
+
+0,560 
+
+NAIN 
+
+0,078 
+
+0,471 
+
+0,410 
+
+0,358 
+
+0,113 
+
+0,551 
+
+0,499 
+
+0,605 
+
+0,372 
+
+1,000 
+
+0,920 
+
+0,974 
+
+0,696 
+
+0,127 
+
+0,713 
+
+0,585 
+
+0,426 
+
+0,089 
+
+0,471 
+
+0,425 
+
+0,540 
+
+0,306 
+
+0,878 
+
+0,857 
+
+0,854 
+
+0,634 
+
+0,068 
+
+0,479 
+
+0,479 
+
+0,407 
+
+0,374 
+
+0,083 
+
+0,527 
+
+0,616 
+
+0,426 
+
+0,968 
+
+0,887 
+
+0,915 
+
+0,733 
+
+-0,022 
+
+0,562 
+
+0,360 
+
+0,430 
+
+-0,022 
+
+0,622 
+
+0,583 
+
+0,678 
+
+0,412 
+
+0,735 
+
+0,682 
+
+0,677 
+
+0,700 
+
+0,005 
+
+0,379 
+
+0,336 
+
+0,171 
+
+0,201 
+
+0,320 
+
+0,396 
+
+0,426 
+
+0,255 
+
+0,416 
+
+0,465 
+
+0,410 
+
+0,419 
+
+Fonte: De autoria própria (2018). 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+#DIV/
+0! 
+#DIV/
+0! 
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+#DIV/
+0! 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+0,71
+8 
+0,61
+2 
+-
+0,68
+0 
+
+0,71
+2 
+
+-
+0,00
+3 
+
+0,40
+2 
+
+0,27
+9 
+
+0,24
+0 
+
+0,27
+5 
+
+0,14
+4 
+
+0,69
+1 
+
+0,42
+2 
+
+0,63
+0 
+
+0,34
+0 
+
+0,27
+0 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+0,36
+2 
+-
+0,63
+9 
+
+0,40
+7 
+
+0,36
+0 
+
+0,18
+9 
+
+0,22
+0 
+
+0,16
+6 
+
+0,18
+7 
+
+0,08
+9 
+
+0,69
+5 
+
+0,53
+5 
+
+0,53
+9 
+
+0,29
+0 
+
+0,22
+9 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+-
+0,41
+6 
+
+0,40
+5 
+
+-
+0,12
+6 
+
+0,81
+2 
+
+0,37
+5 
+
+0,40
+0 
+
+0,39
+7 
+
+0,39
+2 
+
+0,43
+0 
+
+0,31
+5 
+
+0,44
+7 
+
+0,21
+1 
+
+0,25
+2 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+-
+0,08
+2 
+
+0,46
+5 
+
+-
+0,10
+1 
+-
+0,37
+0 
+-
+0,34
+0 
+-
+0,35
+8 
+-
+0,22
+0 
+-
+0,93
+1 
+-
+0,80
+2 
+-
+0,92
+0 
+-
+0,60
+1 
+-
+0,30
+8 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+0,42
+4 
+
+0,52
+3 
+
+-
+0,06
+0 
+-
+0,09
+8 
+-
+0,06
+0 
+-
+0,10
+9 
+
+0,04
+6 
+
+-
+0,28
+2 
+-
+0,03
+2 
+-
+0,22
+8 
+-
+0,04
+6 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+0,10
+4 
+
+-
+0,23
+0 
+-
+0,25
+6 
+-
+0,25
+1 
+-
+0,20
+6 
+-
+0,36
+5 
+-
+0,41
+7 
+-
+0,52
+3 
+-
+0,45
+0 
+-
+0,16
+2 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+0,02
+5 
+
+0,04
+8 
+
+0,04
+6 
+
+0,05
+6 
+
+0,02
+2 
+
+-
+0,09
+4 
+
+0,01
+3 
+
+-
+0,31
+0 
+
+0,00
+7 
+
+1 
+
+0,98
+4 
+
+0,99
+6 
+
+0,86
+9 
+
+0,48
+3 
+
+0,46
+7 
+
+0,49
+6 
+
+0,58
+0 
+
+0,30
+3 
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+0,99
+4 
+
+0,90
+3 
+
+0,43
+5 
+
+0,46
+4 
+
+0,47
+0 
+
+0,56
+2 
+
+0,29
+6 
+
+1 
+
+0,88
+5 
+
+0,46
+1 
+
+0,45
+4 
+
+0,48
+7 
+
+0,57
+1 
+
+0,30
+1 
+
+1 
+
+0,30
+4 
+
+0,34
+1 
+
+0,35
+2 
+
+0,53
+4 
+
+0,16
+6 
+
+1 
+
+0,87
+8 
+
+0,96
+8 
+
+0,73
+5 
+
+0,41
+6 
+
+1,00
+0 
+
+0,88
+6 
+
+0,74
+9 
+
+0,45
+3 
+
+1 
+
+0,78
+3 
+
+0,41
+8 
+
+1 
+
+0,37
+6 
+
+1 
+
+Simulação  de  integração  através  da  inserção  de  novas 
+conexões viárias pela Sintaxe Espacial 
+
+Os segmentos dos logradouros entre as vias “Rua das Areias 
+ou Barreira” e a “Rua José Correa ou do Juca” possuem em média 
+750m,  dimensão  exagerada  tendo  em  vista  que  Jacobs  (2011)  diz 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+que  para  haver  maior  integração  há  necessidade  de  quadras 
+menores.  
+
+Logo foi simulada uma nova via eqüidistante entre essas duas 
+vias. Em conjunto, também foi simulada uma via ao longo da cerca 
+da Base Aérea e Aeroporto, criando, desta forma, um anel viário ao 
+redor do bairro, permitindo uma melhor circulação.   
+
+Comparando as figuras 18 a 21, as quais mostram a integração 
+normalizada em um raio 2000 metros das linhas axiais existentes 
+sem  as  novas  vias  (figura  18)  e  com  as  novas  vias  (figura  19) 
+podemos verificar que as vias propostas geram maior integração. 
+
+Figura 18 – Mapa de segmentos integração normalizados raio 2000m, sem 
+
+sugestão de novas vias 
+
+Fonte: De autoria própria (2018). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Figura 19 – Mapa de segmentos integração normalizados raio 2000m, com 
+
+sugestão de novas vias 
+
+Fonte: De autoria própria  (2018). 
+
+Figura 20 – Mapa de segmentos escolha normalizados raio 2000m, sem 
+
+sugestão de novas vias 
+
+ 
+
+ 
+
+Fonte: De autoria própria  (2018). 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Figura 21 – Mapa de segmentos escolha normalizados raio 2000m, com 
+
+sugestão de novas vias 
+
+Fonte: De autoria própria  (2018). 
+
+ 
+
+Como  podemos  verificar,  na  figura  19  possuímos  uma 
+menor integração – quantidade de linhas vermelhas e amarelas, 
+e ao inserirmos a sugestão das duas vias, e prolongamento das 
+vias até as vias sugeridas para obter conectividade, obtemos uma 
+melhor  integração,  maior  quantidade  de  linhas  vermelhas  e 
+amarelas. Já as figuras 19 e 21, se referem à escolha: na figura 19 
+é o nível de escolha sem a sugestão de novas vias e a 21 com a 
+inserção da sugestão de novas vias. Percebemos que obtemos 
+um quantitativo de escolha maior. 
+
+ 
+
+ 
+
+Considerações finais 
+
+estatísticos compreendem: 
+
+a) 
+em uma comunidade; 
+
+Respostas  positivas  quanto  à  espacialização  dos  dados 
+
+Conhecer a inferência das ações das políticas públicas 
+
+b) 
+Conhecer a estrutura organizacional do espaço criado 
+pela comunidade, identificando as deficiências e qualidades; 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Proporciona  uma  visualização  cognitiva  de  fácil 
+
+Respostas  positivas  quanto  à  sintaxe  espacial 
+
+c) 
+leitura.  
+
+d) 
+compreendem: 
+
+Métricas  claras  e  alguns  resultados  possuem  uma 
+
+a. 
+interpretação correta; 
+
+b. 
+Confiabilidade  quanto  aos  resultados  positivos  ao 
+comparar-se  à  experiência  de  vida  ou  intuição  de  muitos 
+especialistas e stakeholder; 
+
+Prognósticos  na 
+
+c. 
+configuracionais a partir das análises realizadas; 
+
+inserção  de  novas  alternativas 
+
+d. 
+
+Visualização cognitiva de fácil leitura.  
+
+Respostas  negativas  quanto  à  espacialização  de 
+
+e) 
+dados estatísticos compreendem: 
+
+A  escala  da 
+
+a. 
+informação  não  é  suficiente  para 
+conhecer a dinâmica local (relação entre a resolução espacial 
+e da informação); 
+
+Informações  que  não  tem  uma  resolução  temporal 
+b. 
+(informação desatualizada), os dados do Censo são decenais. 
+
+Respostas  negativas  quanto  à  sintaxe  espacial 
+
+f) 
+compreendem: 
+
+A  modelagem  dos  resultados  é  sugestiva  e  muitas 
+
+a. 
+vezes levam à tomada de decisões equivocadas; 
+
+b. 
+A  construção  ou  correção  das  linhas  e  segmentos 
+axiais é moroso, pois quando utilizamos arquivos existentes, 
+a ferramenta encontra muitos erros topológicos;  
+
+Podemos obter bons resultados para tomada de decisão em 
+estudos de revitalização de áreas e análise de integração de áreas 
+segregadas quando utilizamos em conjunto à sintaxe espacial e a 
+espacialização  de  dados  estatísticos.  A  utilização  destas 
+ferramentas  em  conjunto  nos  possibilita  prognosticar  a  forma 
+configuracional e a melhor maneira em alterá-la. Para utilizarmos 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+as  ferramentas  em  conjunto  teremos  que  ter  dados  com  uma 
+resolução temporal atualizada, bem como a resolução espacial. 
+Para isso será necessário fazer pesquisas direcionadas ao estudo 
+de interesse vinculado a estatísticas oficiais.  
+
+ 
+
+Referências  
+
+ANDRADE CASTRO, C. R.; NASCIMENTO J. A. F. O Homem e Seu Espaço. 
+Revista  Assentamentos  Humanos,  Marília,  v2,  n.  1,  p81-95,  2000. 
+Disponível em:  
+<http://www.unimar.br/publicacoes/assentamentos/assentamentos.ht
+m>.  Acesso em 10 out. 2018. 
+ 
+GUARDA, A. Cadastro Técnico Multifinalitário Urbano versus Setores 
+Censitário para Tomada de Decisão, Universidade Federal de Santa 
+Catarina,  Centro  de  Filosofia  e  Ciências  Humanas,  Departamento  de 
+Geociências. Florianópolis, 2004. 
+ 
+GUARDA,  A.  Avaliação  Metodológica  para  Determinar  a 
+Dinamicidade de Dados do Censo Demográfico, Universidade Federal 
+de Santa Catarina, Centro Tecnológico, Programa de Pós-Graduação em 
+Engenharia Civil. Florianópolis, 2010. 
+ 
+HILLIER,  B.  Centrality  as  a  process:  accounting  for  attraction 
+inequalities  in  deformed  grids.  URBAN  DESIGN  International  (1999) 
+4(3-4), 107-127. 
+ 
+IBGE  –  INSTITUTO  BRASILEIRO DE  GEOGRAFIA  E  ESTATÍSTICA.  Censos 
+2010.  IBGE  Recortes  para  fins  estatísticos  \  Malha  de  setores 
+censitários \ Censo 2010 \ Base de faces de logradouros verão 2010. 
+Rio 
+em: 
+<https://www.ibge.gov.br/geociencias/downloads-geociencias.html>.  
+Acesso em: 30 de maio, 2018. 
+ 
+IBGE  –  INSTITUTO  BRASILEIRO DE  GEOGRAFIA  E  ESTATÍSTICA.  Censos 
+2010. Resultados do Universo \ Agregados por Setores Censitários \ 
+Básico. 
+em: 
+<https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html>. 
+Acesso em: 30 de maio, 2018. 
+ 
+IBGE  –  INSTITUTO  BRASILEIRO DE  GEOGRAFIA  E  ESTATÍSTICA.  Censos 
+
+2010b.  Disponível 
+
+Disponível 
+
+Janeiro: 
+
+Janeiro: 
+
+2010a. 
+
+IBGE, 
+
+IBGE, 
+
+Rio 
+
+de 
+
+de 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+de 
+
+Rio 
+
+IBGE, 
+
+IBGE, 
+
+2010c. 
+
+Janeiro: 
+
+Disponível 
+
+2010d.  Disponível 
+
+2010. Cadastro Nacional de Endereços para fins Estatístico. Rio de 
+Janeiro: 
+em: 
+<https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html> 
+Acesso em: 30 de maio, 2018.. 
+ 
+IBGE  –  INSTITUTO  BRASILEIRO DE  GEOGRAFIA  E  ESTATÍSTICA.  Censos 
+2010. Resultados do Universo \ Agregados por Setores Censitários \ 
+Entorno. 
+em: 
+<https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html>  
+acesso em: 30 de maio, 2018.. 
+ 
+JACOBS, J. The death and life of great american cities - Morte e vida 
+de grandes cidades, São Paulo, 2011. 
+ 
+PINA,  C.O.  A  forma  Urbana  no  fenómeno  de  Exclusão  Social  - 
+Aplicação  de  análise  sintáctica  à  Cidade  do  Porto.  Dissertação  de 
+Mestrado  em  Engenharia  Civil,  Especialização  em  Planejamento, 
+Universidade do Porto, Portugal, 2011. 
+ 
+SABOYA, R. Sintaxe Espacial. Urbanidades - Urbanismo, Planejamento 
+Urbano  e  Planos  Diretores.  UFSC,  2007.  Disponível  em: 
+<http://urbanidades.arq.br/2007/09/sintaxe-espacial>. acesso em: 30 de 
+maio, 2018. 
+ 
+TURNER,  A.  Angular  Analysis.  Proceedings  of  the  3rd  Space  Syntax 
+Symposium, Atlanta, 2001. 
+ 
+UCL  -  Space  Syntax.  Overview,  Software  &  tutorials,  Glossary 
+Applying  space  syntax.  Disponível  em:  <http://otp.spacesyntax.net/>  
+acesso em: 30 de maio, 2018. 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+Microcentralidades e a integração urbana através de novas conexões viárias 
+Antonio Guarda 
+
+Federal  de  Goiás. 
+
+Instituto  de  Estudos 
+Universidade 
+Socioambientais.  Programa  de  Pós-graduação  em  Geografia. 
+Publicação no Portal de Periódicos UFG. 
+
+As  ideias  expressadas  neste  artigo  são  de  responsabilidade  de 
+seus autores, não representando, necessariamente, a opinião dos 
+editores ou da universidade. 
+
+Publisher 
+
+ 
+Autor  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Antonio Guarda-  Graduação em Geografia pela Universidade Federal 
+de  Santa  Catarina,  Mestrado  em  Engenharia  Civil  pela  Universidade 
+Federal  de  Santa  Catarina  em  Cadastro  Técnico  Multifinalitário, 
+Doutorado em Arquitetura e Urbanismo pela Universidade Federal de 
+Santa  Catarina  em  Comportamento  Ambiental  do  Espaço  Urbano  e 
+das  Edificações,  estágio  de  doutorado  na  Universidade  Nova  de 
+Lisboa,  na  Faculdade  de  Ciências  Sociais  e  Humanas  /  FCSH  em 
+Urbanismo  e  Planejamento  Territorial.  Aposentado  da  Fundação 
+Instituto Brasileiro de Geografia e Estatística, onde atuou por mais de 
+40  anos, é atualmente Analista e Consultor do UNFPA Angola/INE e 
+UNFPA Brasil/IBGE. Com experiência em Ciência de Dados na área de 
+Geociências,  Geocartografia,  Geoprocessamento,  Geomarketing, 
+Cadastro Técnico Multifinalitário, Cartografia Censitária, Demografia, 
+Planejamento Territorial e Urbano, Cidades Inteligentes, Estatística, e 
+SIG.  Atua  principalmente  com  temas  relacionados  à  tomada  de 
+decisão, Krigagem, lógica Fuzzy, teoria de Grafos e Processo Analítico 
+Hierárquico  (AHP)  através  de  microdados  de  informações  oriundas 
+das pesquisas do IBGE e outros produtores de informações. 
+  
+ 
+  
+  
+
+ 
+
+Data de recebimento: 13 de julho de 2023 
+
+Aceite: 16 de agosto de 2023 
+
+Publicação: 02 de novembro de 2023 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 64421 
+
+ 
+
+ 
+
+

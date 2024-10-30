@@ -1,0 +1,1148 @@
+DOI: 10.5216/BGG.v 43. 71874 
+
+ 
+
+Prospecção de água subterrânea  
+a partir da análise estrutural do 
+município de Bagé, RS. 
+ 
+Groundwater prospection  
+from the structural analysis 
+ of the municipality of Bagé, RS. 
+ 
+Prospección de agua subterránea 
+por medio del análisis estructural del 
+municipio de Bagé, RS 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+  Rafael Lima Dessart  
+
+Universidade Federal do Rio Grande do Sul- Rio Grande 
+do Sul – Brasil  
+ rldessart@gmail.com  
+
+  Jacson Gosman Gomes de Lima  
+
+Instituto  Federal  de  Santa  Catarina  –  Santa 
+Catarina   - Brasil  
+jacson.gosman@ifsc.edu.br  
+  Henrique Garcia Pereira  
+
+Universidade  Federal  do  Paraná-  Paraná  -  Brasil  - 
+ique_garcia@hotmail.com    
+ 
+
+ 
+
+ 
+
+Resumo Este artigo apresenta as análises das imagens sombreadas do 
+Shuttle Radar Topography Mission (SRTM) da NASA para o município de 
+Bagé/RS, onde é possível evidenciar a influência de estruturas geológicas 
+na distribuição do relevo e de unidades geomorfológicas, em um estudo 
+voltado para a prospecção de água subterrânea. Foram identificados os 
+lineamentos negativos, que apresentam duas direções preferenciais das 
+morfoestruturas:  NW  e  NE.  Estas  direções  preferenciais  estão 
+relacionadas com as litologias ocorrentes na região e relacionadas com 
+o sistema de recarga do Sistema Aquífero Embasamento Cristalino II. A 
+ocorrência  destes  dois  sistemas  de  morfoestruturas  está  relacionada 
+com as diferentes litologias, sendo responsável pela morfologia de Bagé. 
+
+DOI: 10.5216/BGG.v 43. 71874 
+
+ 
+
+imagens  do  Shuttle  Radar 
+
+Palavras-chave:  análise  estrutural; 
+Topography Mission (SRTM); lineamentos positivos e negativos. 
+ 
+Abstract  This  paper  presents  the  analysis  of  shaded  images  from 
+NASA's Shuttle Radar Topography Mission (SRTM) for the municipality of 
+Bagé / RS, where it is possible to evidence the influence of geological 
+structures in the distribution of relief and geomorphological units, in a 
+study  aimed  at  groundwater  prospecting.  Negative  lineaments  were 
+identified,  which  have  two  preferred  directions  of  morphostructures: 
+NW  and  NE.  These  preferred  directions  are  related  to  the  lithologies 
+occurring in the region and related to the recharge system of the Aquifer 
+System Embasamento Cristalino II. The occurrence of these two systems 
+of  morphostructures  is  related  to  the  different  lithologies,  being 
+responsible for the morphology of Bagé. 
+Keywords:  structural  analysis;  Shuttle  Radar  Topography  Mission 
+images (SRTM); positive and negative lineaments. 
+ 
+Resumen Este artículo presenta el análisis de imágenes sombreadas de 
+Shuttle Radar Topography Mission (SRTM) de la NASA para el municipio 
+de  Bagé  /  RS,  con  las  cuales  es  posible  evidenciar la influencia de  las 
+estructuras geológicas en la distribución del relieve y de las unidades 
+geomorfológicas,  en  un  estudio  dirigido  a  la  prospección  de  agua 
+subterránea.  Se  identificaron  lineamientos  negativos,  que  tienen  dos 
+direcciones  preferentes  de  las  morfoestructuras:  NW  y  NE.  Estas 
+direcciones  preferentes  están  relacionadas  con  las  litologías  que 
+ocurren en la región y con el sistema de recarga del Sistema Acuífero 
+Embasamento  Cristalino  II.  La  aparición  de  estos  dos  sistemas  de 
+morfoestructuras  está  relacionada  con  las  diferentes  litologías  y  es 
+responsable de la morfología de Bagé. 
+Palabras llave: análisis estructural; imágenes Shuttle Radar Topography 
+Mission (SRTM); lineamientos positivos y negativos. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Introdução 
+
+A porção meridional  do Estado do Rio Grande do Sul, em 
+específico a cidade de Bagé - RS, passa por recorrentes períodos 
+de estiagem, com isso, prejudicando o abastecimento público e 
+irrigação  das 
+lavouras.  Desta  forma,  visando  diminuir  os 
+impactos desse problema, a população busca a captação da água 
+da  chuva  e  de  nascentes,  por  meio  da  construção  de 
+reservatórios  e  açudes.  Já  na  área  urbana  de  Bagé,  que  tem 
+abastecimento urbano realizado por empresa pública, busca por 
+meio  da  perfuração  de  poços  tubulares  a  captação  da  água 
+gerada  pelo 
+subterrânea  para 
+abastecimento,  bem  como  pelas  atividades 
+industriais, 
+comerciais e agrícolas. 
+
+a  demanda 
+
+atender 
+
+Conforme Varone et al. (2010), a análise dos totais anuais de 
+chuva através do método dos quantis, em Bagé/RS, mostrou que 
+eventos  de  secas  são  recorrentes  na  região.  Entre  os  anos  de 
+1912 e 1960 ocorreu a maior parte dos casos, e nas últimas três 
+décadas, somente seis anos apresentaram valores referentes aos 
+intervalos  de  secos  ou  muitos  secos.  Já  a  taxa  de  retorno  de 
+eventos de seca foi de 2,8 anos. Também foi observado que, na 
+última  década,  somente  dois  anos  (2005  e  2006)  foram 
+classificados como secos. 
+
+Conforme  Lisboa  et  al  (2004),  a  geomorfologia  é  fator  de 
+primeira ordem no modo de ocorrência das águas subterrâneas, 
+influi no zoneamento da pluviometria, na distribuição das áreas 
+de  recarga,  confinamento  e  descarga  dos  aquíferos.  Existem 
+quatro  fatores  geológicos  fundamentais  que 
+influem  nas 
+características  dos  aquíferos:  material  (composição,  textura, 
+estruturas internas), estratigrafia (variações verticais e laterais de 
+fácies) estruturas (falhas, diaclases, dobras, intrusões, estruturas 
+circulares),  e  geomorfologia  (graus  de  dissecação  do  relevo, 
+posições altimétricas, regolito, superfície basal de intemperismo). 
+Conforme o IBGE (1986, in Santos, 2011), a área de estudo está 
+localizada  na 
+caracterizada  por 
+superfícies  pediplanadas  com  área  de  topo  plano  e  com  fraca 
+
+região  Geomorfológica 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+atuação da drenagem. A altitude varia de 310 a 380m (média de 
+350m) e a declividade média é de 4%. As superfícies do Planalto 
+Rebaixado  Marginal  apresentam  um  modelado  de  dissecação 
+fluvial com densidade de drenagem fina e média, são superfícies 
+que possuem um relevo suave ondulado a ondulado. 
+
+Na  área  deste  estudo,  ocorre  o  Sistema  Aquífero 
+Embasamento  Cristalino  II,  que  é  caracterizado  por  aquíferos 
+fraturados que estão associados ao Complexo Grano-Gnáissico 
+Bagé,  sendo  composto  por  ortognaisses  e  granitóides  a 
+granodiorítos 
+rochas 
+supracrustais  (Tambara,  2013).  A  captação  de  água  neste 
+aquífero é feita por meio de poços tubulares profundos, sendo a 
+mesma utilizada para diferentes fins (DAEB, 2018). 
+
+com  megaxenólitos  de 
+
+foliados, 
+
+Conforme Machado e Freitas (2005), os aquíferos fraturados 
+de Bagé estão associados às rochas graníticas, gnáissicas e filitos, 
+com  capacidade  específica  inferior  a  0,5  m3/h/m,  e  quando  os 
+poços  ocorrem  em  rochas  graníticas  podem  apresentar 
+enriquecimento em flúor. 
+
+Neste  tipo  de  associação  litológica,  o  sistema  aquífero 
+ocorre em estruturas tectônicas (fraturas e falhas), que podem 
+ser  conectadas,  bem  como  compartimentadas  pelos  grandes 
+lineamentos  ocorrentes  na  região  estudada.  Com 
+isso,  a 
+circulação  da  água  subterrânea  vai  estar  condicionada  a 
+ocorrência  destas  estruturas  e  de  suas  características 
+(MACHADO; FREITAS, 2005).  
+
+Sendo  assim,  este  estudo  teve  por  objetivo  fazer  uma 
+análise e avaliação da ocorrência de compartimentos estruturais, 
+que  podem  ter  influência  nos  processos  de  formação  dos 
+aquíferos  fraturados  e  da  capacidade  de  produção  dos  poços 
+tubulares. Essa avaliação foi realizada por meio da integração dos 
+dados  estruturais 
+(lineamentos  morfoestruturais),  analise 
+geomorfológica e hidrogeológica (capacidade específica e vazão). 
+
+ 
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Localização e Caracterização da Área de Estudo 
+
+O município de Bagé está localizado na região sudoeste do 
+Rio  Grande  do  Sul,  sendo  que  sua  economia,  conforme 
+informações  da  Prefeitura  municipal  de  Bagé,  está  centrada 
+principalmente na agricultura, na pecuária, e no desenvolvimento 
+de  atividades  industriais  (predominantemente  do  benefício  de 
+laticínios) e comerciais (Figura 1). 
+
+  
+
+Figura 1– Localização do município de Bagé com os limites da área de estudo 
+
+delineados em vermelho. 
+
+Fonte: elaborada pelos autores. 
+
+ 
+
+Com base na Geomorfologia, a área está inserida em duas 
+principais unidades (IBGE, 1995), a Depressão Central Gaúcha e o 
+Planalto  de  Caçapava  do  Sul.  A  Depressão  Central  Gaúcha 
+consiste em vasta depressão periférica suportada por rochas da 
+sequência  permotriássica  da  Bacia  do  Paraná.  O  Planalto  de 
+Caçapava  do  Sul  se  caracteriza  por  um  vasto  arqueamento 
+crustal, gerando um planalto desnudado em formato dômico ou 
+uma paleoabóboda (AB’SABER, 1998), regionalmente englobado 
+na denominada Campanha Gaúcha.  
+
+Conforme  Camozzato  et  al  (2014),  a  região  de  estudo  é 
+composta pelo Complexo Granitico-Gnaissico Bagé (ortognaisses 
+e  granitóides  monzo  a  granodioríticos 
+com 
+megaxenofilitos  de  rochas  supracrustais)  e  a  Formação  Santo 
+
+foliados, 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Afonso 
+(granodioritos  e  monzogranitos  dominantes,  com 
+sienogranitos  e  tonalitos  subordinado).  Também  há  ocorrência 
+de  rochas  sedimentares  que  estão  associadas  as  formações 
+geológicas  Rio  Bonito,  Palermo,  Irati  e  Santa  Tecla,  bem  como 
+depósitos aluviais (FREITAS, 2010). 
+
+De  acordo  com  Trainini  et  al.  (2005),  a  hidrogeologia  da 
+região  de  estudo  é  caracterizada  pela  ocorrência  do  Aquiclude 
+Eo-Proterozóico (poços secos ou com vazões insignificantes), do 
+Sistema Aquífero Embasamento Cristalino II (aquíferos limitados 
+de baixa possibilidade para ocorrência de água subterrânea), dos 
+Aquitardos Permianos e do Sistema Aquífero Palermo/Rio Bonito. 
+Esse último sistema é considerado como aquíferos com baixa a 
+média possibilidade para ocorrência de água subterrânea, sendo 
+que as capacidades específicas são inferiores a 0,5 m3/h/m e as 
+salinidades  variam  entre  800  e  1500mg/l 
+(em  grandes 
+profundidades  as  águas  podem  apresentar  sólidos  totais 
+dissolvidos superiores a 10.000 mg/l). Em função disso, o Sistema 
+Aquífero  Embasamento  Cristalino  II  passa  a  ser  o  principal 
+sistema, que é utilizado na região de ocorrência do município de 
+Bagé. 
+ 
+
+Geomorfologia 
+
+Geomorfológicamente, a região do município de Bagé, e a 
+área  de  estudo,  compreendem  quatro  unidades,  sendo  elas  o 
+Planalto Residual Sul Rio-grandense, Planalto Rebaixado Sul Rio-
+grandense,  Planície  Aluvial-coluvionares  e  Depressão  do  Rio 
+Ibicuí (Figura 2).  
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Figura 2: Mapa Geomorfológico do município de Bagé, com destaque para a 
+
+área de estudo (IBGE, 2019). 
+
+Fonte: adaptado pelos autores. 
+
+ 
+
+Na  área  de  estudo  ocorre  um  predomínio  da  direção  NE 
+para os maiores lineamentos reconhecidos na escala 1:500.000. 
+Os 
+lineamentos  menores  ocorrem  predominantemente  na 
+direção geral NW. 
+
+remanescentes  de  uma  antiga 
+
+Conforme  o  IBGE  (2019),  o  Planalto  Residual  Sul  Rio-
+grandense apresenta altitudes gerais que variam de 200 a 400 m 
+(Figura  3).  Se  caracteriza  por  um  relevo  dissecado  com  topos 
+predominantemente  convexos,  ocorrendo  isoladamente  topos 
+planos, 
+superfície  de 
+aplainamento.  Presença  de  alguns  topos  aguçados,  vales 
+estruturais  e  escarpas  de 
+influência 
+falha,  evidenciando 
+litológica/estrutural.  Relevo  esculpido  em  rochas 
+ígneas  e 
+metamórficas, pertencentes ao Escudo Sul Rio-Grandense, sendo 
+o principal processo formador a dissecação homogênea. 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Figura 3: Mapa altimétrico da área de estudo. 
+
+Fonte: adaptado pelos autores. 
+
+ 
+
+O  Planalto  Rebaixado  Sul  Rio-grandense  (IBGE,  2019) 
+apresenta  altitudes  gerais  que  variam  de  100  a  200  m.  Sua 
+característica  geral  é  de  um  relevo  dissecado  com  topos 
+predominantemente. Presença de algumas linhas de cumeada e 
+influenciadas  pela 
+barras  de  relevo  dobrado,  fortemente 
+estrutura  geológica.  Formas 
+tipo  pontão 
+disseminadas por toda unidade. Eventualmente ocorrem morros 
+testemunhos. Predominam solos de profundidade média de 1 a 
+2 m, dos tipos Argissolo Vermelho e Argissolo Vermelho-Amarelo, 
+textura média e argilosa. Nas áreas de maior declive, ocorrência 
+de solos rasos com menos que 1 m, do tipo Neossolo Litólico, e 
+presença  de  alguns  afloramentos.  Relevo  resultante  da 
+dissecação generalizada de rochas pré-cambrianas, pertencentes 
+ao Escudo Sul Rio-Grandense. 
+
+residuais  do 
+
+Segundo  o  IBGE  (2019),  a  Planície  Aluvial-coluvionare 
+apresenta  altitudes  gerais  que  variam  de  5  a  20  m.  Sua 
+característica  geral  são  superfície  de  terras  baixas,  levemente 
+inclinada para o leste, podendo apresentar pequenas rampas em 
+alguns pontos. No contato com os planaltos, presença de vários 
+leques de espraiamento e cones de dejeção. Estes terrenos foram 
+formados  por  processos  fluviais  e  gravitacionais.  Na  porção 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+sudoeste  da  unidade  predominam  processos 
+fluviais, 
+responsáveis  pelo  transporte  e  acumulação  de  material 
+proveniente dos planaltos adjacentes, dando origem a depósitos 
+de enxurrada. Na parte norte, ao pé da Serra Geral, predominam 
+processos gravitacionais do tipo rápido (deslizamentos), gerando 
+depósitos grosseiros (tálus). 
+
+A Depressão do Rio Ibicuí (IBGE, 2019) apresenta altitudes 
+gerais que variam de 100 a 200 m. Sua característica geral é um 
+relevo  com  formas  alongadas  de  topo  convexo  ou  plano  e 
+encostas  com  baixa  declividade.  Altitude  raramente  superior  a 
+200 m. Em alguns locais, ocorrência de dissecação mais intensa e 
+encostas  mais  íngremes.  Caracterização  geral  das  formações 
+superficiais compreende solos de profundidade média, de 1 a 1,5 
+m, dos tipos Chernossolo e Argissolo com textura argilosa. Estes 
+são  terrenos  sedimentares  dissecados  pela  rede  de  drenagem 
+comandada pelo rio Ibicuí. 
+
+Estas informações são importantes para compreender se as 
+estruturas  estão  relacionadas  com  áreas  de  carga  ou  recarga. 
+Como foi possível evidenciar, o município de Bagé apresenta uma 
+relação horizontal/vertical de suas elevações, pouco variada para 
+distâncias  horizontais  de  quilômetros  e  verticais  em  metros. 
+Assim,  a  região  se  apresenta  como  relativamente  plana  com 
+poucas variações verticais. 
+
+A  área  de  estudo  apresenta,  em  sua  maior  distância  no 
+sentido SW-NE, uma variação horizontal de 47,7 km para 215 m 
+na  vertical.  Assim,  se  comportando  como  uma  região 
+relativamente  plana  e  as  estruturas  interpretadas,  nos  dados 
+SRTM, ocorrem encaixadas em vales e regiões baixa. 
+
+ 
+
+Abordagem metodológica 
+
+Sabendo-se da variedade de litologias, ocorrentes na área 
+de  estudo,  e  suas  diferentes  resistências  aos  agentes 
+intempéricos, a primeira metodologia aplicada para os estudos 
+relacionais a influência estrutural foi a análise de feições lineares 
+(negativas).  Os 
+lineamentos  negativos  constituem  trechos 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+retilíneos de canais de drenagem (O’Leary et al., 1976). Conforme 
+Soares;  Fiori  (1976),  a  análise  da  rede  de  drenagem  fornece 
+informações 
+importantes  sobre  a  estrutura  geológica  e 
+comportamento das estruturas, pois o padrão das drenagens é 
+particularmente sensível e condicionado à estas estruturas.  
+
+Esta análise é muito utilizada para os lineamentos (negativos 
+ou positivos), pois podem representar os reflexos dos fenômenos 
+de  subsuperfície  associados  com  o  movimento  diferencial  de 
+blocos  falhados  ou  fraturados  da  ordem  de  milímetros  a 
+quilômetros  (Andrade  Filho;  Fonseca,  2009).  O  movimento  dos 
+blocos pode ser observado através do deslocamento lateral de 
+zonas  homólogas,  rupturas  e  arrastos  das  feições  lineares  ao 
+longo destes alinhamentos (Sant’Anna; Santos, 1996). O azimute 
+dos lineamentos positivos e negativos pode estar correlacionado 
+com a orientação de estruturas tectônicas regionais reconhecidas 
+(Lima; Pontelli, 2013). Assim, se destacam as imagens de radar, 
+pois a análise dessas imagens permite associar feições do relevo 
+e áreas de sombra, devido ao azimute de iluminação solar e os 
+demais elementos indicativos de lineamentos estruturais, como 
+o  padrão  de  drenagem  (Andrade  Filho;  Fonseca,  2009).  Desta 
+forma, a análise dessas feições pode ajudar no entendimento do 
+comportamento morfoestrutural de uma área a ser estudada. 
+
+Para  a  extração  dos  lineamentos  morfoestruturais,  foram 
+utilizadas as imagens SRTM (Shuttle Radar Topography Mission - 
+NASA),  com  resolução  de  30m  (USGS).  Após  o  download  das 
+imagens, foi gerado o modelo de elevação do terreno nas escalas 
+1:1.000.000, 1:500.000 e 1:250.000, obtidas a partir do software 
+QGIS. Para a interpretação e extração das estruturas foi utilizada 
+a  técnica  de  falsa  iluminação,  nas  direções  NW  e  NE,  tendo 
+gerado imagens de relevo sombreado com azimute de 45º e 315º 
+(Santos et al., 2006). Os diagramas de rosetas dos lineamentos 
+positivos e negativos foram gerados no software Spring 5. 5. 1. 
+
+O  levantamento  de  dados  hidrogeológicos  resultou  na 
+identificação  de  257  poços  tubulares,  sendo  que  174  destes 
+possuíam dados do teste de bombeamento, que foram utilizadas 
+na  avaliação  dos  dados  de  produtividade  dos  poços.  A 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+identificação e cadastro de poços foi feita junto ao DRH/FEPAM 
+(Departamento de Recursos Hídricos da Secretaria Estadual do 
+Meio  Ambiente),  Corsan 
+(Companhia  Riograndense  de 
+Saneamento),  SIAGAS 
+Informações  de  Águas 
+Subterrâneas) e empresas de perfuração (Hidrogeo e Georepp). 
+Para  a  avaliação  da  produção  dos  poços,  foram  utilizados  os 
+parâmetros de capacidade específica e vazão. 
+
+(Sistema  de 
+
+A  compartimentação  hidrogeológica  foi  realizada  a  partir 
+das  morfoestruturas interpretadas,  em  diferentes  escalas,  mas 
+principalmente  na  escala  1:1.000.000,  onde 
+foi  possível 
+evidenciar a sua continuidade. 
+
+Foram gerados os mapas de vazão e capacidade específica, 
+que  foram  cruzados  com  os  dados  dos  compartimentos 
+estruturais para avaliar a relação desses compartimentos com os 
+dados dos poços. 
+
+ 
+
+Resultados 
+
+Análise e Interpretação de Lineamentos Morfoestruturais 
+O Modelo de Elevação do Terreno (MET) foi utilizado com a 
+finalidade de compreender as variações do relevo e identificar a 
+ocorrência  de 
+lineamentos  morfoestruturais.  Conforme  o 
+modelo (Figura 4), as variações ocorrem no intervalo de 122 a 391 
+m,  sendo  as maiores  elevações  na  porção  norte  e  com  declive 
+suave. 
+ 
+
+Lineamentos em escala 1:1.000.000 
+
+Na  interpretação  dos  lineamentos  negativos  do  mapa  em 
+escala 1:1.000.000 (Figura 4), foram identificados 57 lineamentos, 
+com  maior  destaque  para  aqueles  com  direção  NE  (N20-40E), 
+seguida de ENE (N80-90E), com ocorrências secundárias NNE (N0-
+10E)  e  NW  (N30-40W  e  N60-70W),  conforme  o  diagrama  da 
+frequência acumulada. Assim, foi possível observar que ocorrem 
+14  lineamentos  na  área  de  estudo  com  10  a  30km,  com 
+predomínio de suas direções para Nordeste. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+  
+
+  
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Segundo  estas  informações,  foi  possível  identificar  cinco 
+lineamentos principais com extensões variando de 8,62 a 30 km, 
+sendo  estes  concordantes  ou  encaixados  em  canais  de  baixa 
+ordem hierárquica, como arroios. 
+
+Figura 4 – Mapa de lineamentos interpretados na escala1:1.000.000. 
+
+Fonte: elaborada pelos autores. 
+
+ 
+
+ 
+Lineamentos em escala 1:500.000 
+
+Na interpretação do mapa em escala 1:500.000, foi possível 
+identificar  97  lineamentos  negativos  (Figura  5),  com  maior 
+destaque  para  NE  (N30-50E),  seguida  de  ENE  (N70-80E),  com 
+ocorrências  secundárias  NNW  (N0-20W)  e  NW  (N50-70W), 
+conforme o diagrama da frequência acumulada. 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Figura 5 - Mapa de lineamentos interpretados na escala 1:500.000. 
+
+Fonte: elaborada pelos autores. 
+
+ 
+Lineamentos em escala 1:250.000 
+
+Na  interpretação  do  mapa  em  escala  1:250.000,  foram 
+marcados  cerca  de  260  lineamentos  negativos  (Figura  6).  Foi 
+possível  observar  uma  maior  dispersão  das  direções  de 
+lineamentos,  diferentemente  dos  mapas  anteriores,  além  do 
+predomínio ENE (N70-90E) e NE (N40-60E), também ocorrem com 
+grande destaque as direções NNW (N10-20W) e NW (N50-70W), 
+conforme o diagrama da frequência acumulada. 
+
+ Figura 6 - Mapa de lineamentos interpretados na escala 1:250.000. 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Fonte: elaborada pelos autores. 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Compartimentação estrutural  
+
+A  análise  estrutural  foi  realizada  com  a  interpretação  dos 
+lineamentos  negativos  das  imagens  SRTM  na  escala  1:500.000, 
+das  morfoestruturais,  pois  esta  é  melhor  para  o  uso  da 
+compartimentação e caracterização estrutural com os dados de 
+SRTM, para a área de estudo. 
+
+O produto apresenta predomínio de estruturas na direção 
+NE, o que revela que esta é a principal direção estrutural na área 
+de estudo. 
+
+resultado  da 
+
+A  partir  da  integração  dos  dados  das  imagens  SRTM,  foi 
+possível  evidenciar  a  compartimentação  estrutural  da  área  de 
+estudo,  como 
+interpretação  dos  grandes 
+lineamentos. Essa compartimentação foi definida com base nos 
+lineamentos  interpretados  na  escala  1:1.000.000,  com  isso 
+dividindo a área em blocos denominados de zonas: Z1, Z2, Z3, Z4 
+e Z5 (Figura 7 e Figura 8). 
+
+  
+Figura 7 - Mapa das Zonas Estruturais feitos com base na análise de 
+
+lineamentos. 
+
+Fonte: elaborada pelos autores. 
+
+ 
+
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+ 
+
+Figura 8 - Diagramas de Roseta por zonas. 
+
+Fonte: elaborada pelos autores. 
+
+ 
+A análise das diferentes zonas permitiu a identificação das 
+
+ 
+
+seguintes características: 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+em 
+
+porte, 
+
+relação 
+
+Zona  1:  caracteriza-se  por  lineamentos  de  médio  a 
+que 
+pequeno 
+aos 
+compartimentaram  a  área  de  estudo, 
+com 
+predomínio  na  direção  NE  (Figura  8).  Os  principais 
+trends para esta porção da área de estudo são N80-
+90E (12 lineamentos), N60-70E (7 lineamentos) e N50-
+60E (4 lineamentos). 
+Zona  2:  apresenta  uma  maior  quantidade  de 
+estruturas de médio porte em relação as de pequeno 
+porte.  Esta  área  apresenta  direção  preferencial  das 
+estruturas  para  NE,  com  os  principais  trends  para 
+N20-30E (5 lineamentos), N40-50E (6 lineamentos) e 
+N50-60E (4 lineamentos). 
+Zona  3:  apresenta  uma  homogeneidade  nas 
+estruturas  de  médio  e  pequeno  porte,  com 
+prodominio  para  a  direção  geral  NE.  As  direções 
+preferenciais são N50-60E (12 lineamentos), N40-50E 
+(9 lineamentos) e N30-40E (8 lineamentos). 
+Zona 4: composta por predomínio de lineamentos de 
+pequeno porte, em relação aos de médio porte. Esta 
+área tem direção geral principal para nordeste, com 
+os  principais  trends  para  N70-80E  (12  lineamentos), 
+N20-30E (6 lineamentos) e N80-90E (5 lineamentos). 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+5. 
+
+Zona 5: composto principalmente por lineamentos de 
+médio  porte  e  secundariamente  de  pequeno  porte. 
+Este  compartimento  apresenta  predomínio  da 
+direção geral nordeste, mas com um pico na direção 
+norte-noroeste,  com  os  principais  trends  para  N70-
+80E (12 lineamentos), N20-30E (4 lineamentos) e N00-
+10W (3 lineamentos). 
+ 
+
+Caracterização Estrutural e Hidrogeológica das Zonas. 
+
+2. 
+
+1. 
+
+Com base nos dados apresentados nos itens anteriores, foi 
+possível avaliar e caracterizar cada uma das zonas definidas, com 
+relação aos aspectos estruturais e hidrogeológicos (figuras 6 e 7): 
+Zona  1:  apresenta  comportamento  estrutural 
+nordeste  e  predomínio  para  as  direções  N80-90E, 
+seguido  de  N60-70E.  Com  relação  a  hidrogeologia, 
+não  há  como  fazer  maiores  avaliações,  pois  nessa 
+área  só  há  ocorrência  de  um  poço  que  apresentou 
+uma capacidade específica baixa de 0,005m3/h/m;  
+Zona  2:  apresenta  comportamento  estrutural 
+predominante  para  nordeste,  com  trend  principal 
+N20-30E.  Esta  se  caracteriza  por  uma  capacidade 
+específica máxima de 6,933 m3/h/m e pela ocorrência 
+de valores mais elevados, acima de 2m3/h/m; 
+Zona 3: composta por direção geral preferencial para 
+nordeste,  com  predomínio  para  N50-60E,  seguidas 
+pelas  orientações  N40-50E  e  N30-40E.  Essa  zona  é 
+caracterizada  por  apresentar  valores  de  média  e 
+mediana capacidade específica iguais a 0,411 e 0,175 
+m3/h/m, respectivamente. Embora a maior parte dos 
+valores  de  capacidade  específica  seja  inferior  a 
+1m3/h/m,  há  ocorrência  de  poços  que  apresentam 
+valores entre 1 e 3 m3/h/m; 
+Zona  4:  caracteriza-se  por  estruturas  gerais  na 
+direção  nordeste,  principalmente  para  N70-80E, 
+seguidas  de  orientações  para  N20-30E.  As 
+
+4. 
+
+3. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+5. 
+
+capacidades específicas encontradas indicam valores 
+de média igual a 0,424 m3/h/m e de mediana igual a 
+0,157m3/h/m. Essa zona possui a maior distribuição 
+de  valores  de  capacidade  específica  inferiores  a 
+1m3/h/m, mas apresenta poços com valores entre 2 e 
+3m3/h/m; 
+Zona  5:  apresenta  comportamento  estrutural  para 
+nordeste, com orientações para N70-80E, seguido de 
+outras  orientações  para  N20-30E  e  N00-10W.  Essa 
+zona  apresenta  os  maiores  valores  de  média 
+(0,556m3/h/m)  e  mediana 
+(0,255m3/h/m)  da 
+capacidade  especifica.  No  entanto,  há  maior 
+ocorrência  para  valores  inferiores  a  1m3/h/m  e 
+ausência para intervalos maiores. 
+
+Conclusão 
+
+Os  métodos  aqui  empregados,  como  o  levantamento  de 
+lineamentos  em  imagem  SRTM  e  análise  hidrogeológica  e 
+geomorfológica, permitiram compreender o padrão e o controle 
+estrutural  e  a  compartimentação  hidrogeológica  da  área  de 
+estudo no Sistema Aquífero Embasamento Cristalino II. 
+
+A  área  de  estudo  foi  dividida  em  cinco  compartimentos 
+morfoestruturais  e  hidrogeológicos,  a  partir  da  integração  dos 
+dados  superficiais  (SRTM),  através  do  reconhecimento  dos 
+grandes  lineamentos.  Estes  dois  métodos  apresentaram  boa 
+correlação  dos  lineamentos  morfoestruturais,  mapeados  nas 
+escalas utilizadas neste trabalho, com os dados de produtividade 
+dos  poços.  No  entanto,  apresenta  pouca  relação  direta  com  a 
+geomorfologia,  visto  que  esta  ocorre  como  uma  região 
+relativamente  plana  e  as  estruturas  interpretadas  ocorrem 
+encaixadas em vales e regiões baixa. Desta forma, estes dados 
+forneceram indicações de trends preferenciais que condicionam 
+a  ocorrência  de  aquíferos  fraturados,  sendo  os  mesmos 
+localizados  na  direção  geral  nordeste,  preferencialmente  N30-
+40E e N70-80E, e noroeste N60-70W, mas com relação direta com 
+os poços.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Com base na análise hidrogeológica foi possível ordenar as 
+zonas  mais  favoráveis  à  perfuração  de  poços  tubulares 
+profundos.  A  partir  da  análise  dos  valores  de  capacidade 
+específica,  observa-se  que  as  zonas  que  apresentam  maior 
+produtividade  dos  poços,  são  em  ordem  decrescente  de 
+importância as zonas 2, 3, 4, 5 e 1. Em relação a estruturas que 
+estão  associadas  a  poços  mais  produtivos,  observa-se  que  na 
+zona 2, localizada nas unidades geomorfológicas da Depressão 
+do Rio Ibicuí e Planalto Rebaixado Sul Rio-Grandense, a principal 
+orientação é N20-30E, na zona 3 é N60-70W e N50-60E, enquanto 
+que na zona 4, as orientações são N70-80E e N20-30E e na zona 
+5 a principal orientação é N70-80E. 
+
+Ainda  assim,  compreende-se  a  necessidade  de  um 
+reconhecimento geológico (mapeamento) de detalhe associado a 
+métodos indiretos de investigação como eletrorresistividade ou 
+eletromagnético  para  avaliar  melhor  as  estruturas,  a 
+possibilidade  de  ocorrência  de  água  subterrânea  e  definir  no 
+campo, os locais mais favoráveis para a perfuração de poços mais 
+produtivos.  
+
+ 
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Referências 
+
+AB’SABER, A. N. Mega geomorfologia do território brasileiro. In: 
+CUNHA, S. B.; GUERRA, A. J. T. Geomorfologia do Brasil. Rio de 
+Janeiro: Bertrand Brasil, 1998. p. 71-106. 
+
+ANDRADE  FILHO,  C.  O.;  FONSECA,  L.  M.  G.  Lineamentos 
+estruturais a partir de imagem Landsat TM e dados SRTM. In: XIV 
+SIMPÓSIO BRASILEIRO DE SENSORIAMENTO REMOTO - SBSR, 
+2009, NATAL. Anais... Natal: INPE, 2009, p. 3151-3158. 
+
+CAMOZZATO,  E.;  KLEIN,  C.;  IGLESIAS,  C.  M.  da  F.  Bagé,  Folha  S 
+H.21-ZD-III  BAGÉ.  Estado  do  RS.  Porto  Alegre:  CPRM.  Carta 
+Geológica, Escala 1:100.000. Programa Geologia do Brasil - PGB. 
+2014. 
+
+DAEB  –  Departamento  de  Água,  Arroio  e  Esgoto  de  Bagé. 
+Disponível  em:  http://www.daeb.com.br/7/Agua.html  .  Acesso 
+em: 22/08/2018. 
+
+DRH/FEPAM – Sistema de Outorga de Água Subterrânea do Rio 
+Grande 
+em: 
+Disponível 
+http://www.siout.rs.gov.br/#/ . Acesso em: 14/08/2018.  
+
+(SIOUT). 
+
+Sul 
+
+do 
+
+FREITAS, M. A. Recursos Hídricos Subterrâneos. Geodiversidade 
+do  estado  do  Rio  Grande  do  Sul.  CPRM,  Porto  Alegre,  71-87, 
+2010. 
+
+IBGE.  Mapa  geomorfológico  do  Brasil.  Escala1:5.000.000.  Rio 
+de Janeiro: IBGE, 1995. 
+
+-  Banco  de 
+
+IBGE 
+(BDIA) 
+https://bdiaweb.ibge.gov.br/#/home , documento obtido em 02 
+de Agosto de 2019. 
+
+Informações  Ambientais 
+
+LIMA, J. G. G.; PONTELLI, M. E. Determinantes morfoestruturais na 
+gênese do relevo no Planalto de Palmas (PR)/Água Doce (SC) – Sul 
+do Brasil. Revista de Geografia (UEL), Londrina, v.22, n.3. p. 81-
+92, 2013. 
+
+LISBOA,  N.A.;  DANI,  N.;  REMUS,  M.V.D.;  CASTRO,  J.  Síntese  da 
+Ocorrência Geológica das Águas Subterrâneas do Rio Grande do 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Sul. In: XIII Congresso Brasileiro de Águas Subterrâneas. 2004. 
+Cuiabá. Anais do XIII CABAS, 2004. 
+
+MACHADO, J. L. F., FREITAS, M. A. Mapa Hidrogeológico do Rio 
+Grande  do  Sul.  CPRM  –  Projeto  Mapa  Hidrogeológico  do  Rio 
+Grande do Sul. Escala 1: 750.000, 2005. 
+
+O’LEARY, D. W.; FRIEDMAN, D. D.; POHN, A. A. Lineament, linear, 
+lineation: some proposed new standards for old terms. Bulletin 
+Geological Society of America, New York, v. 87, p. 1207-1248, 
+1976. 
+
+SANT’ANNA,  M.  V.;  SANTOS,  A.  R.  Identificação  e  análise  de 
+estruturas  tectônicas  rúpteis  e  rúpteis-dúcteis  em  parte  do 
+Quadrilátero  Ferrífero  e  Serra  do  Espinhaço  Meridional,  Minas 
+Gerais, Brasil, utilizando técnicas de sensoriamento remoto. In: 
+VIII  SIMPÓSIO  BRASILEIRO  DE  SENSORIAMENTO  REMOTO, 
+1996, Salvador. Anais... Salvador: INPE, 1996, p. 659-662. 
+
+SANTOS, F. J. Dinâmica espaço temporal do carbono do solo 
+na Bacia do Arroio Piraizinho em Bagé,RS. Pelotas, 2011.-160f. 
+;  il..-  Tese  (Doutorado)  –Programa  de  Pós-  Graduação  em 
+Agronomia. Faculdade de Agronomia Eliseu Maciel. Universidade 
+Federal de Pelotas. Pelotas, 2011. 
+
+SOARES,  P.  C.;  FIORI,  A.  P.  Lógica  e  sistemática  na  análise  e 
+interpretação  de  fotografias  aéreas  em  geologia.  Notícia 
+Geomorfológica, Campinas, v. 32, n. 16, p. 71-104, 1976. 
+
+SANTOS, J. C.; OKA-FIORI, C.; CANALI, N. E.; FIORI, A. P.; SILVEIRA, 
+C. T.; SILVA, J. M. F.; ROSS, J. L. S. Mapeamento geomorfológico do 
+estado  do  Paraná.  Revista  Brasileira  de  Geomorfologia, 
+Brasília, v. 7, n. 2, p. 3-12, 2006. 
+
+TAMBARA, G. B. Geologia dos Granitóides Sanga Rasa, Terreno 
+Taquarembó, Bagé, RS. Trabalho de Conclusão de Curso, UFRGS, 
+Instituto de Geociências. Porto Alegre, 75p., 2013. 
+
+TRAININI et.al. Mapa hidrogeológico do Estado do Rio Grande 
+do Sul, Escala 1: 750.000. Companhia de Pesquisa de Recursos 
+Minerais, Poro Alegre, RS. 2005. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+VARONE, F.; FERREIRA, S., ALVES, R. Análise de anos com estiagem 
+na  região  de  Bagé/RS.  In:  IV  Simpósio  Internacional  de 
+Climatologia. João Pessoa. 2010. 
+
+ 
+ Publisher 
+
+Federal  de  Goiás. 
+
+Universidade 
+Instituto  de  Estudos 
+Socioambientais.  Programa  de  Pós-graduação  em  Geografia. 
+Publicação no Portal de Periódicos UFG. 
+As  ideias  expressadas  neste  artigo  são  de  responsabilidade  de 
+seus autores, não representando, necessariamente, a opinião dos 
+editores ou da universidade. 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+Prospecção de água subterrânea a partir da análise estrutural do município de Bagé, RS. 
+Rafael Lima Dessart .  Jacson Gosman Gomes de Lima . Henrique Garcia Pereira 
+
+Contribuições dos autores 
+
+Todos  os  autores  realizaram  substanciais  contribuições  científicas  e 
+intelectuais ao estudo. As tarefas de análise das imagens sombreadas 
+(MDE),  a  extração  de  lineamentos  e  produção  dos  mapas  foram 
+realizadas pelos autores Rafael Lima Dessart e Henrique Garcia Pereira. 
+A  interpretação  dos  dados,  correlação  dos  resultados,  preparação  e 
+redação do manuscrito foram desenvolvidas em grupo. O autor Jacson 
+Gosman  Gomes  de  Lima  foi  responsável  pela  revisão  crítica  e 
+ortográfica. 
+.     .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rafael Lima Dessart - Formado em Geologia pela Universidade 
+do Vale do Rio dos Sinos em 2003, mestrado em Geologia pela 
+Universidade do Vale do Rio dos Sinos (2009), Pós-Graduação - 
+Especialização em Informações Espaciais Georreferenciadas pela 
+Universidade  do  Vale  do  Rio  dos  Sinos  (2013)  e  Doutorado  p 
+Universidade  Federal  do  Rio  Grande  do  Sul  -  Instituto  de 
+Pesquisas  Hidráulicas  (2022).  Tem  experiência  na  área  de 
+Geociências,  com  ênfase  em  Estratigrafia  de  Sequencias, 
+Geofísica e SIG.  
+ 
+Jacson  Gosman  Gomes  de  Lima  –  Graduado  em  Geografia 
+Licenciatura Plena e Mestre  e Doutor em Geografia – linha de 
+pesquisa Dinâmica, Utilização e Preservação do Meio Ambiente 
+pela  Universidade  Estadual  do  Oeste  do  Paraná.  Membro  do 
+grupo  de  pesquisa  Gênese  e  evolução  de  Superfícies 
+Geomórficas e Formações Superficiais da Universidade Estadual 
+do  Oeste  do  Paraná.  Possui  conhecimentos  na  área  de 
+geociências,  principalmente  sobre:  geologia,  geomorfologia, 
+pedologia e mapeamento.  
+ 
+ 
+Henrique  Garcia  Pereira 
+-  Doutor  em  Geologia  pela 
+Universidade Federal do Paraná PPGG/UFPR (2021). Mestre em 
+Geociências  e  Meio  Ambiente  pela  Universidade  Estadual 
+Paulista Júlio de Mesquita Filho IGCE/UNESP (2015). Bacharel em 
+Geofísica  pela  Universidade  Federal  do  Pampa  (2011).  Atuou 
+como  geofísico  de  campo  no  setor  de  qualidade  de  dados 
+potenciais  do  Grupo  Georadar  (2012).  Possui  experiência  em 
+aquisições de campo e no processamento de dados potenciais, 
+elétricos  e  eletromagnéticos.  Expertise  na  utilização  do 
+programa de processamento de dados geofísicos Oasis Montaj. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Data de recebimento: 14 de fevereiro de 2022 
+Aceite: 18 de julho de 2023 
+Publicação: 31 de agosto de 2023 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e71874 
+
+ 
+
+ 
+
+

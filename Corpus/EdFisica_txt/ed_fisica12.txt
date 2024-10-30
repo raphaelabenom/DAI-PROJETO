@@ -1,0 +1,726 @@
+Nível de inteligência tática entre atletas das categorias sub-14 e 
+sub-16 de um clube de futebol
+
+https://doi.org/10.11606/issn.1981-4690.2023e37194626
+
+Marcelo Santos Lopes*
+Felipe Ferreira Barros Carneiro**
+Murilo Eduardo dos Santos Nazário*
+
+*Universidade Vila 
+Velha, Vila Velha, ES, 
+Brasil.
+**Instituto Federal 
+do Espirito Santo, 
+Campus Centro 
+Serrano, Santa Maria 
+de Jetibá, ES, Brasil.
+
+Resumo
+
+Esta pesquisa assume como objetivo analisar a inteligência tática (IT) de atletas sub 14 e sub 16 da 
+categoria de base de um clube de futebol. Em um primeiro momento, foi realizada uma pesquisa 
+bibliográfica a partir de artigos publicados em dois periódicos específicos da área do futebol, "Revista 
+Brasileira de Futebol” e “Revista Brasileira de Futebol e Futsal”, com o intuito de investigar como a 
+questão tática no futebol é discutida na área acadêmica. A partir dos descritores: “tática” e “tático”, 
+empregados na ferramenta de busca dessas revistas, foram encontrados 30 artigos científicos ligados 
+à tática no futebol entre os anos de 2008 a 2015. Dentre eles, a análise tática, a IT e a valorização do 
+treinamento técnico-tático foram os aspectos mais abordados pelos autores. Apesar disso, a tática 
+enquanto objeto de estudo no campo acadêmico, nas fontes selecionadas, apresenta uma condição 
+incipiente quando se compara com outras estruturas componentes do futebol, tais como técnica, 
+preparação física e iniciação esportiva. A partir desta lacuna na produção científica brasileira, foi 
+aplicado o teste FUT-SAT nos jogadores sub-16 e sub-14. Os resultados apontaram uma discrepância 
+entre os Índices de Performance Tática (IPT) Ofensivos e Defensivos. Nas duas categorias as ações 
+ofensivas foram mais efetivas que as defensivas. Já em relação à comparação entre os grupos de 
+jogadores, no IPT Ofensivo houve similaridade entre as categorias, mas com ligeira vantagem do 
+sub-14. Na questão defensiva os números também apontaram uma melhor performance dos mais 
+jovens. A partir da análise, faz-se necessário aplicar um treinamento tático no sentido mais coletivo, 
+trabalhando princípios como Unidade Ofensiva, Concentração e Unidade Defensiva, fundamentais 
+para o equilíbrio e desempenho de uma equipe. 
+
+Palavras-chave: Futebol; Tática; Inteligência tática; FUT-SAT.
+
+Introdução
+
+A  busca  pela  otimização  e  potencialização  do 
+rendimento  esportivo  no  contexto  do  futebol 
+tem  se  constituído  interesse  recorrente  entre  os 
+diferentes  sujeitos  que  atuam  com  esse  esporte. 
+Uma das estruturas mais significativas advém do 
+diálogo  com  as  diferentes  ciências.  Aspecto  que 
+fez dessa modalidade objeto de pesquisas nas áreas 
+da  psicologia,  fisiologia,  aprendizagem  motora, 
+matemática e tecnologia Greco1 e de Garganta2. 
+Aspectos que tem contribuído para o jogo sair 
+de uma condição empirista, saudosista e romântica, 
+
+que  se  convencionou  chamar  de  futebol-arte 
+para  algo  mais  sistematizado3.  A  partir  dos  anos 
+oitenta, segundo Garganta2, tomaram-se diversas 
+iniciativas no intuito de estruturar de modo mais 
+racional  os  conhecimentos  sobre  as  estruturas 
+inerentes ao futebol.
+
+A sistematização no futebol surge então nesse 
+embate envolvendo de um lado o cientificismo 
+burocrático, negando os aspectos subjetivos que 
+integram o esporte, e do outro um praticismo 
+exacerbado,  considerando  os  resultados  e 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194626  •  1
+
+nuances  do  futebol  baseados  em  crenças, 
+tradições e preconceitos2. Ribeiro3 afirma que 
+um dos grandes entraves ao desenvolvimento da 
+produção científica do futebol no Brasil, refere-se 
+a esse embate, que por vezes apresentam-se, de 
+modo errôneo, como antagonistas.  
+
+Nesse sentido, um dos elementos que compõem 
+o  cenário  das  discussões  sobre  o  futebol  são  os 
+princípios táticos. Estrutura que tem se constituído 
+um  objeto  profícuo  para  o  desenvolvimento  de 
+novos estudos no âmbito dessa modalidade esportiva, 
+inclusive no contexto da formação de atletas. 
+
+As demandas táticas são partes fundamentais na 
+estrutura dinâmica do esporte atual, porque durante 
+uma partida, segundo Garganta4, surgem situações 
+imprevistas que exigirão dos jogadores a utilização 
+da capacidade de adaptação em busca de respostas 
+imediatas às ações do jogo. 
+
+Para agregar informações e elementos adequados 
+que possibilitarão uma melhor decisão a respeito 
+de tudo o que acontece durante uma partida de 
+futebol é preciso conhecimento sistêmico do jogo, 
+conhecê-lo como um todo, diagnosticando todas 
+as  ações  previstas  ou  imprevistas  dentro  de  uma 
+partida, para poder responder da forma mais eficaz 
+em campo5. De acordo com Greco1, que buscou 
+
+embasamento na Psicologia cognitiva, existem dois 
+tipos de conhecimento, o declarativo, em que dentro 
+de um grupo organizado de informações e fatos, 
+se determina a melhor escolha, ou o que fazer e o 
+processual, que são procedimentos possíveis de ser 
+executados e concretizados através da função motora, 
+determinando o melhor gesto e decisão que deverá 
+ser executada em uma situação de jogo, ou como 
+fazer. Dentro do Conhecimento Processual, Greco1 
+acrescenta  ainda  que  existem  dois  parâmetros:  o 
+divergente, neste caso a criatividade tática, quando 
+o  jogador  produz  diversas  alternativas  para  uma 
+determinada situação, e o convergente, que seria a 
+inteligência tática, em que o jogador seleciona entre as 
+diversas alternativas, uma única, considerada ótima.
+Castelo6 considera que o ritmo dos jogos de 
+futebol está se tornando cada vez mais intenso e é 
+necessário que o jogador reaja e tome decisões de 
+maneira adequada. Com isso, ter um bom raciocínio 
+tático é essencial para ser bem-sucedido.
+
+Nesse  sentido,  a  presente  pesquisa  assume 
+como questão a ser discutida: qual é o nível de 
+inteligência tática de atletas sub-14 e sub-16 de 
+futebol de campo? Assume como objetivo discutir 
+e analisar o comportamento tático de atletas de 
+categoria de base de futebol. 
+
+Método
+
+O trabalho se propôs a realizar o teste FUT-SAT, 
+validado por Costa et al.7, que foi desenvolvido para 
+possibilitar aos treinadores e professores uma forma 
+específica de avaliar qual o nível de performance 
+tática  de  seus  atletas.  A  partir  dessa  pesquisa  de 
+campo,  esperamos  encontrar  algumas  respostas 
+para  corrigir  deficiências  no  padrão  de  jogo  dos 
+atletas desde a base e contribuir para a melhora de 
+desempenho do futebol.
+
+O FUT-SAT foi desenvolvido por Costa et al.7 e 
+os princípios táticos que regem o método também 
+foram pensados pelo mesmo autor e colaboradores 
+no ano de 2009 sob o título "Princípios táticos 
+do jogo de futebol: Conceitos e aplicação"8. Os 
+Princípios Táticos  aplicados  ao  teste  dividem-se 
+em Ofensivos (com a posse de bola) e Defensivos 
+(sem a posse de bola). Quanto aos ofensivos, na 
+fase do ataque, analisa-se:
+
+- Penetração: atacar diretamente o adversário em 
+
+direção ao gol;
+
+-  Cobertura  Ofensiva:  Dar  apoio  ao  jogador 
+
+em  posse  da  bola  para  dar  opções  a  este,  dando 
+sequência ao jogo;
+
+-  Mobilidade:  Criar  opções  para  ter  linhas  de 
+
+passe em profundidade;
+
+- Espaço: Criar opções para ter linhas de passe 
+
+longas, ampliando o espaço do campo;
+
+- Unidade Ofensiva: Ataque em bloco.
+Já os princípios táticos defensivos dividem-se em:
+- Contenção: Atrasar ou parar o oponente ou um 
+
+contra-ataque do adversário;
+
+-  Cobertura  Defensiva:  Fazer  a  cobertura  do 
+jogador de contenção caso este seja superado pelo 
+adversário;
+
+- Equilíbrio: Fazer a marcação dos jogadores com 
+
+possibilidades de receber a bola;
+
+- Concentração: Induzir o adversário a jogar nas 
+
+zonas de campo de menor risco;
+
+- Unidade Defensiva: Defender em bloco.
+O teste é desenvolvido em um espaço de campo 
+de 36 metros de comprimento por 27 de largura, 
+com  a  configuração  de  GR  +  3  vs  GR  +  3,  ou 
+
+2  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194626
+
+seja,  três  jogadores  mais  um  goleiro.  Após  uma 
+explicação da dinâmica do jogo para os atletas, a 
+partida se desenvolve por 4 minutos com as mesmas 
+regras definidas pela instituição máxima que rege o 
+futebol mundial, a FIFA (Federação Internacional de 
+Futebol)9. A exceção fica por conta do impedimento, 
+não considerado ao longo das atividades.
+
+Para realizar o teste FUT-SAT foram necessárias 
+3 semanas, sendo avaliadas 1833 ações táticas, com 
+834 ofensivas e 999 defensivas, com 30 jogadores 
+de linha (defensores, meio campistas e atacantes) 
+pertencentes às categorias sub-14 (18) e sub-16 (12) 
+de um clube de futebol do estado do Espirito Santo. 
+Nenhum dos jogadores apresentava qualquer lesão 
+ou desconforto no momento da avaliação. 
+
+Os atletas submetidos ao teste estavam período 
+competitivo e os treinos, em regra, duravam de 1h a 
+1h30m. Os jogadores estavam treinando duas vezes 
+por semana, porém antes do início de competições a 
+frequência de treinos é de quatro vezes por semana.
+
+Os  jogadores  participantes  do  teste  foram 
+divididos em 10 equipes, sendo 4 da categoria sub-
+16 e 6 da sub-14, com 3 jogadores de linha mais o 
+goleiro, que não foi avaliado. Os atletas já tinham 
+contato com jogos reduzidos, porém não haviam 
+realizado o FUT-SAT. Apesar disso os jogadores, 
+após as instruções, entenderam bem a dinâmica do 
+teste e realizaram a atividade de forma satisfatória.
+Para o registro dos dados foi utilizada uma câmera 
+GoPro Hero 3, posicionada na diagonal do campo, 
+enquanto para a análise houve o emprego de um 
+Notebook modelo HP Pavilion dv4 com processador 
+Pentium (R) Dual Core CPU 2,10 GHz. Já para a 
+compilação  das  informações  e  cálculos  das  ações 
+táticas foi utilizado o software Excel. 
+
+Além das ações analisadas pontualmente no teste 
+FUT-SAT, há o cálculo do Índice de Performance Tática, 
+dividido em Ofensivo e Defensivo. Na FIGURA 1 pode 
+ser observada como é feito o cálculo do teste FUT-SAT 
+para avaliar o IPT Ofensivo e Defensivo dos atletas. 
+
+FIGURA 1 - Exemplo da aplicação dos cálculos.
+
+Nota-se  que  o  cálculo  para  se  chegar  a  este 
+índice é o produto da Realização do Princípio (RP) 
+x Qualidade do Princípio (QP) x Localização da 
+Ação (LA) x Resultado da ação (RA). Cada item 
+tem uma pontuação específica, mensurada de acordo 
+
+com a fórmula proposta e validada por Costa et al.7, 
+e o número máximo a ser obtido no cálculo é de 100 
+pontos. Esta pesquisa foi aprovada pelo comitê de ética 
+da Universidade Vila Velha parecer nº 1.471.828, 
+CAAE: 501471616.1.0000.5064.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194626  •  3
+
+Resultados e Discussão
+
+Inicialmente, apresenta-se as médias gerais 
+das estruturas avaliadas nas duas categorias a 
+
+partir  da  aplicação  do  FUT  SAT,  conforme 
+TABELA 1. 
+
+TABELA 1 - 
+
+Média do Número de Ações (NA), Percentual de Acerto (% A) e Índice de Performance Tática (IPT) 
+dos princípios do teste FUT-SAT por jogadores das categorias sub-14 e sub16.
+
+Princípios táticos
+
+Número de ações/jogo (NA)
+
+Percentual de Acerto (%A)
+
+Índice de Performance Tática 
+
+Fonte: Adaptado de 
+Silva et al.10.
+
+Penetração
+Cobertura Ofensiva
+Mobilidade
+Espaço
+Unidade Ofensiva
+Fase Ofensiva
+Contenção
+Cobertura Defensiva
+Equilíbrio
+Concentração
+Unidade Defensiva
+Fase Defensiva
+
+9,7
+22,5
+4,8
+4,3
+5
+46,3
+18,8
+5,8
+14,8
+6,2
+9,8
+55,4
+
+62%
+82,2%
+89,6%
+80,7%
+83,3%
+79,6%
+74,3%
+57,1%
+24,7%
+45,9%
+49,1%
+50,22%
+
+(IPT)
+45,5
+46,1
+70,6
+60,1
+70,8
+58,6
+33,8
+39,1
+26,6
+23,7
+29
+30,4
+
+De  acordo  com  os  resultados  encontrados  na 
+TABELA 2, mesclando as duas categorias observa-
+se que a cobertura ofensiva e a contenção, na parte 
+defensiva foram os princípios mais utilizados pelos 
+jogadores, porém o índice de performance tática (IPT), 
+mostram que a eficácia da ação em sua execução fica 
+comprometida. Na literatura os resultados também 
+apontam  para  grande  utilização  nestes  quesitos, 
+tanto que no teste FUT-SAT de Silva et al.10, os dois 
+princípios aparecem no segundo lugar no número de 
+ações por jogo na parte ofensiva e defensiva. 
+
+Ainda no estudo de Silva et al.10 os melhores 
+resultados  na  categoria  sub-15  foram  os  dos 
+princípios de Cobertura Ofensiva, que também 
+obteve bom percentual de acerto no teste na equipe 
+capixaba, e Espaço. Estes princípios buscam criar 
+linhas  de  passe  respectivamente  próximas  e 
+distantes, aumentando as possibilidades de toque 
+
+e lançamento, logo deixando a defesa em dúvida 
+sobre  qual  ação  realizar  para  conter  as  futuras 
+ações de seus oponentes.
+
+Já na parte defensiva, nota-se um desempenho 
+satisfatório na contenção e cobertura defensiva, porém 
+o resultado pode indicar um pensamento defensivo 
+mais individual, pensando mais especificamente no 
+portador da bola. Os piores resultados, Equilíbrio e 
+Concentração, tratam respectivamente da forma com 
+que o jogador marca o possível recebedor do passe e da 
+maneira de condicionar o adversário para uma zona de 
+campo com menor perigo ao gol. 
+
+Do  mesmo,  modo  é  significativo  analisar  os 
+elementos  em  específicos  para  as  categorias  sub 
+16 e sub 14, como sinalizam as TABELAS 2 e 3.  
+Não obstante é preciso situar as médias gerais de 
+IPT ofensivo e defensivo em ambas as categorias, 
+conforme FIGURA 2. 
+
+4  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194626
+
+TABELA 2 - 
+
+Média do Número de Ações (NA), Percentual de Acerto (% A) e Índice de Performance Tática (IPT) 
+dos princípios do teste FUT-SAT na categoria sub-16.
+
+Número de Ações / Jogo (NA)
+
+Percentual de Acerto (%A)
+
+Índice de Performance Tática 
+
+Princípios táticos
+
+Penetração
+Cobertura Ofensiva
+Mobilidade
+Espaço
+Unidade Ofensiva
+Fase Ofensiva
+Contenção
+Cobertura Defensiva
+Equilíbrio
+Concentração
+Unidade Defensiva
+Fase Defensiva
+
+Penetração
+Cobertura Ofensiva
+Mobilidade
+Espaço
+Unidade Ofensiva
+Fase Ofensiva
+Contenção
+Cobertura Defensiva
+Equilíbrio
+Concentração
+Unidade Defensiva
+Fase Defensiva
+
+13
+30
+5
+7
+6
+61
+25
+7
+18
+8
+10
+66
+
+8
+25
+6,3
+4
+6
+52
+21
+7
+19
+7
+13
+67
+
+38%
+86,6%
+100%
+86,6%
+86,6%
+79,6%
+48%
+57,1%
+12,5%
+50%
+40%
+41,5%
+
+81%
+79%
+84,2%
+75%
+83,3%
+80,5%
+95%
+57,1%
+31,5%
+42,8%
+53,8%
+56%
+
+Fonte: Adaptado de 
+Silva et al.10.
+
+Fonte: Adaptado de 
+Silva et al.10.
+
+(IPT)
+35
+43,3
+88
+72,8
+77,5
+52
+32,8
+30,8
+17,5
+28,7
+28
+27,7
+
+(IPT)
+56,1
+48,9
+53,1
+47,5
+64,2
+52,5
+34,8
+47,1
+35,8
+18,6
+30
+33,7
+
+TABELA 3 - 
+
+Média do Número de Ações (NA), Percentual de Acerto (% A) e Índice de Performance Tática (IPT) 
+dos princípios do teste FUT-SAT na categoria sub-14.
+
+Príncípios táticos
+
+Número de Ações / Jogo (NA)
+
+Percentual de Acerto (%A)
+
+Índice de Performance Tática 
+
+FIGURA 2 - Média do Número de Ações (NA), Percentual de Acerto (% A) e Índice de Performance Tática (IPT) 
+
+dos princípios do teste FUT-SAT na categoria sub-14.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194626  •  5
+
+De acordo com os dados das tabelas acima se 
+percebe  grande  similaridade  do  IPT  Ofensivo 
+nas  Categorias  sub-16  e  sub-14,  com  ligeira 
+predominância  do  último,  porém  não  é  possível 
+inferir  qualquer  conclusão  definitiva  que  possa 
+balizar tais números. Um número significativo, que 
+demonstrou certa diferença entre as categorias foi 
+na diferença dos princípios que obtiveram maior 
+sucesso. Na equipe sub-16 houve grande sucesso 
+no fator Mobilidade, que possibilita criar linhas 
+de  passes  em  profundidade,  demonstrando 
+a  desenvoltura  ofensiva  dos  jogadores  desta 
+categoria.  Já  em  relação  aos  jogadores  sub-14 
+os  principais  destaques  ficam  por  conta  da 
+Penetração,  o  que  pode  significar  a  vocação 
+ofensiva  de  jogadores  de  categorias  de  menor 
+idade  em  busca  do  ataque  e  do  drible,  porém 
+observa-se de forma positiva o IPT de 64,2 na 
+parte ofensiva das equipes sub-14, demonstrando 
+bom entrosamento entre os jogadores.
+
+Por outro lado, na parte defensiva, houve certa 
+predominância  da  equipe  sub-14  em  relação  a 
+sub-16 na média, com 27,7 de média de IPT para 
+os  jogadores  da  categoria  superior  e  33,7  para  a 
+categoria com menor idade. Este resultado difere 
+de alguns estudos de investigação tática como os 
+de Aburachid et al.11 e Macedo12, que apontam um 
+
+desempenho tático mais eficiente nas categorias mais 
+avançadas. Um dos aspectos observados no momento 
+da pesquisa foi uma abordagem mais incisiva e em 
+bloco  dos  jogadores  sub-14,  principalmente  no 
+ataque, roubando a bola da equipe que estava na 
+fase ofensiva. Estas recuperações por algumas vezes 
+precedeu um drible ou um passe mais arriscado da 
+equipe adversária, que cometia o erro. Os jogadores 
+da categoria sub-16 em sua maioria adotaram uma 
+postura mais conservadora, não arriscando o roubo 
+de bola.
+
+O IPT da cobertura defensiva da equipe sub-14 
+evidencia  a  questão  exposta  anteriormente,  com 
+os times tendo bastante atenção ao jogador que 
+tentava a penetração. O destaque a este princípio 
+encontra similaridade com o estudo de Souza 
+et al.13. Já os jogadores sub-16 tiveram melhor 
+desempenho na contenção, evitando ou parando 
+o contra-ataque adversário.
+
+Ainda  é  cedo  para  se  tirar  conclusões  do 
+desempenho  tático  dos  jogadores  submetidos  ao 
+teste,  porém  ao  observar  o  baixo  desempenho 
+no  princípio  Equilíbrio  e  Unidade  Defensiva, 
+principalmente  no  percentual  de  acerto,  mostra 
+a  necessidade  de  um  melhor  trabalho  na  visão 
+periférica  defensiva  dos  atletas,  observando  mais 
+que apenas o portador da bola.
+
+Conclusão
+
+O  teste  FUT-SAT,  constitui-se  como  um 
+instrumento de análise do nível de performance 
+tática  dos  atletas,  que  constitui-se  em  uma 
+ferramenta  de  fundamental  importância  para 
+entender  em  que  nível  tático  se  encontram 
+os  jogadores  com  quem  os  profissionais  do 
+futebol  trabalham.  A  partir  dessas  observações 
+encontradas,  os  treinadores  terão  elementos 
+específicos  para  trabalhar  em  seus  atletas, 
+redefinindo seus treinos e métodos para aprimorar 
+os princípios táticos com maior deficiência.
+
+Nesse sentido, princípios que envolvem a equipe 
+de forma mais coletiva, como a Unidade Ofensiva, e 
+outros dois propostos e aperfeiçoados no trabalho de 
+Costa et al.14, respectivamente os de Concentração 
+e Unidade Defensiva, podem contribuir tanto para a 
+parte ofensiva quanto a defensiva do jogo, agregando 
+maior conhecimento tático aos jogadores. 
+
+Os  métodos  investigativos  para  avaliar  o 
+nível  tático  dos  atletas  são  variados,  desde  os 
+
+de  conhecimento  tático  declarativo,  como  o  de 
+Giacomini  et  al.15  aos  de  conhecimento  tático 
+processual.  Dentre  estes,  o  de  Bezerra  et  al.16, 
+aplicando o teste de KORA O.O., e o teste FUT-
+SAT,  apresentado  por  este  estudo  acadêmico. 
+Para os profissionais que trabalham com futebol, 
+é  necessário  que  se  entenda  qual  o  método  que 
+melhor se adequa ao nível e perfil de seus atletas 
+para desenvolver o atleta e deixá-lo preparado para 
+a exigência tática do futebol atual. 
+
+A resposta encontrada sobre o nível de inteligência 
+tática dos jogadores sub-16 e sub-14 da Desportiva 
+Ferroviária apontou uma discrepância entre os Índices 
+de Performance Tática (IPT) Ofensivos e Defensivos. 
+Nas duas categorias as ações ofensivas foram mais 
+efetivas que as ofensivas. Já em relação à comparação 
+entre os grupos de jogadores, no IPT Ofensivo houve 
+similaridade entre o sub-16 e o sub-14, com ligeira 
+vantagem do sub-14. Porém na questão defensiva, 
+os números apontaram uma melhor performance da 
+
+6  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194626
+
+equipe da categoria mais nova. 
+
+De forma geral o teste aplicado ilustrou de modo 
+significativo a utilização dos princípios ofensivos, 
+como  Mobilidade  e  Unidade  Ofensiva.  Porém 
+faz-se  necessário  aplicar  um  trabalho  tático  no 
+sentido mais coletivo, como o próprio princípio de 
+Unidade Ofensiva, para que possa ser aprimorado 
+e mais utilizado, assim como no aspecto defensivo, 
+trabalhar os princípios de Concentração e Unidade 
+Defensiva,  que  apresentaram  números  baixos  e 
+são de fundamental importância para o balanço 
+
+defensivo de uma equipe de futebol. 
+
+O   t r a b a l h o   a p o n t a   c a m i n h o s   p a r a 
+o  aprimoramento  da  base  da  Desportiva 
+Ferroviária,  inclusive  com  a  reavaliação  dos 
+dados  posteriormente  para  verificação  da 
+evolução dos jogadores, mas é preciso ampliar o 
+escopo da pesquisa para outros clubes capixabas, 
+bem como comparar os dados com de outros 
+estados  para  podermos  identificar  o  nível  de 
+desenvolvimento tático do futebol capixaba e 
+galgar novos horizontes.
+
+Abstract
+
+Level of tactical intelligence between athletes of the u-14 and u-16 categories of a football club.
+
+This research aims to analyze the tactical intelligence (IT) of athletes under 14 and sub 16 of the basic 
+category of a football club. At first, a bibliographic research was carried out from articles published in 
+two specific journals in the area of football, "Revista Brasileira de Futebol" and "Revista Brasileira de 
+Futebol e Futsal", in order to investigate how the tactical issue in football is discussed in the academic 
+area. From the descriptors: "tactical" and "tactical", used in the search tool of these journals, 30 scientific 
+articles related to tactics in football between 2008 and 2015 were found. Among them, tactical analysis, 
+IT and the valorization of technical-tactical training were the aspects most addressed by the authors. 
+Nevertheless, the tactic as an object of study in the academic field, in the selected sources, presents an 
+incipient condition when compared with other components of soccer structures, such as technique, 
+physical preparation and sports initiation. From this gap in Brazilian scientific production, the FUT-SAT 
+test was applied to the under-16 and under-14 players. The results indicated a discrepancy between 
+the Offensive and Defensive Tactical Performance Indexes (IPT). In both categories, offensive actions 
+were more effective than defensive actions. In relation to the comparison between the groups of 
+players, in the Offensive IPT there was similarity between the categories, but with a slight advantage 
+of the under-14. On the defensive issue the numbers also pointed to a better performance of the 
+younger ones. From the analysis, it is necessary to apply tactical training in the most collective sense, 
+working principles such as Offensive Unit, Concentration and Defensive Unit, fundamental for the 
+balance and performance of a team.
+
+Keywords: Football; Tactic; Tactical intelligence; FUT-SAT.
+
+Referências
+
+1. Greco PJ. Conhecimento tático-técnico: eixo pendular da ação tática (criativa) nos jogos esportivos coletivos. Rev Bras 
+Educ Fís Esporte. 2006;20:210-212.
+2. Garganta, JM. Futebol e Ciência. Ciência e Futebol. EFDeportes. 2001;7(40).
+3. Ribeiro LC. O futebol no campo afetivo da história. Movimento. 2004;10(3):99-111.
+4. Garganta JM. Estudo da organização da fase ofensiva em equipas de alto rendimento [tese]. Porto: Universidade do 
+Porto; 1997.
+5. Garganta JM, Gréhaigne JF. Abordagem sistêmica do jogo de futebol: moda ou necessidade? Movimento. 1999;(10).
+6. Castelo J. O exercício de treino desportivo. A unidade lógica da programação e estruturação do treino desportivo. Lisboa: 
+Faculdade de Motricidade Humana; 2002.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194626  •  7
+
+7. Costa IT, Garganta JM, Greco PJ, Mesquita I, Maia J. Sistema de avaliação táctica no Futebol (FUT-SAT): desenvolvimento 
+e validação preliminar. Motricidade.  2011;7(1):69-84.
+8. Costa IT, Silva JMG, Greco PJ, Mesquita I. Princípios táticos do jogo de futebol: Conceitos e aplicação. Motriz. 
+2009;15(3): 657-668.
+9. Fédération Internationale de Football Association. Regras do Jogo de Futebol de Campo da FIFA. Fédération Internationale 
+de  Football  Association  [internet].  2016.  Disponível  em  http://www.fifa.com/development/education-and-technical/
+referees/laws-of-the-game.html. Acesso em: 20 out 2016.
+10. Silva BRN et al. Desempenho tático de jogadores sub-15 do São Paulo Futebol Clube a partir do teste FUT-SAT. Educ 
+Fís Deportes. 2015;34(1):181-199. 
+11. Aburachid lMC, Silva SR, Greco PJ. Nível de conhecimento tático de jogadores e avaliação subjetiva dos treinadores 
+de futebol. Rev Bras Futsal Futebol. 2013;5(18):322-330.
+12. Macedo TL. Comparação do conhecimento tático declarativo de jogadores de futsal das categorias de base. Rev Bras 
+Futsal Futebol. 2015;7(24):141-147.
+13. Souza RBC, Muller ES, Costa IT, Graça ABS. Quais comportamentos táticos de jogadores de futebol da categoria 
+sub-14 podem melhorar após 20 sessões de treino? Rev Bras Ciênc Esporte. 2014;36(1):71-86. 
+14. Costa IT, Silva JMG, Greco PJ, Mesquita I. Princípios táticos do jogo de futebol: conceitos e aplicação. Motriz. 
+2009;15(3):657-668.
+15. Giacomini DS, Silva EG, Greco PJ. Comparação do conhecimento tático declarativo de jogadores de futebol de 
+diferentes categorias e posições. Rev Bras Ciênc Esporte. 2011;33(2):445-463.
+16. Bezerra EL, Neto EOC, Galatti IR, Rodrigues ALL, Lopes CR. Catálogo de testes para jovens jogadores de futebol: análise 
+da avaliação subjetiva e perspectivas para acompanhamento em longo prazo. Rev Bras Futsal Futebol. 2013;5(16):111-121.
+
+Endereço
+Marcelo Santos Lopes
+Rua Genserico Encarnação, 101 - Mata da Praia
+ 29065-420 - Vitória - ES - Brasil 
+E-mail: marcelozacche@gmail.com
+
+Submetido: 03/02/2022
+Revisado: 21/04/2022
+Aceito: 18/08/2022
+
+8  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194626
+
+

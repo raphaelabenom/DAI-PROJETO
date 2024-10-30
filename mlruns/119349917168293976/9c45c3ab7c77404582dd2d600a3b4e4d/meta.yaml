@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/9c45c3ab7c77404582dd2d600a3b4e4d/artifacts
+deleted_time: 1730154652089
+end_time: 1730152017802
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: 9c45c3ab7c77404582dd2d600a3b4e4d
+run_name: thoughtful-ray-638
+run_uuid: 9c45c3ab7c77404582dd2d600a3b4e4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730152012996
+status: 4
+tags: []
+user_id: rapha

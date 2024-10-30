@@ -1,0 +1,601 @@
+Efeito do aumento no nível de atividade física sobre a 
+ansiedade e depressão em idosas
+
+https://doi.org/10.11606/issn.1981-4690.2023e37176929
+
+Igor Félix Miziara*
+Anthoni Lemos*
+Thiago Cândido Alves*
+
+*Universidade do 
+Estado de Minas 
+Gerais, Belo Horizonte, 
+MG, Brasil.
+
+Resumo
+
+O objetivo do estudo foi avaliar a prevalência de ansiedade e depressão em idosas da Universidade 
+Aberta à Maturidade (UNABEM); e verificar o impacto de um programa de exercícios físicos sobre os 
+níveis de ansiedade e depressão delas. Na sede da UNABEM foram promovidos exercícios físicos duas 
+vezes por semana, com duração aproximada de uma hora, durante quatro meses. Foram analisados 
+os níveis de atividade física, de ansiedade, e de depressão das idosas, por meio do Questionário 
+Internacional de Atividade Física - Versão Curta (IPAQ), do Inventário de Ansiedade de Beck (BAI), e do 
+Inventário de Depressão de Beck (BDI), respectivamente, no início e no final do programa. Resultados: 
+na amostra dos 21 indivíduos, a quantidade de idosas fisicamente ativas passou de 6, para 12, com 
+a implementação do programa de atividade física. Da mesma forma, a quantidade de idosas com 
+ansiedade categorizada como mínima foi de 11 para 15; e de depressão mínima de 15 para 17.  Os 
+níveis de ansiedade e depressão não demonstraram diferença significativa entre idosas fisicamente 
+ativas e sedentárias, e houve uma melhora clínica dos níveis de ansiedade, e uma melhora clínica e 
+estatística dos níveis de depressão, após o programa de exercícios físicos.
+
+Palavras-chave: Educação Física; Psiquiatria; Saúde mental; Prevenção primária.
+
+Introdução
+
+Os avanços da ciência têm proporcionado uma 
+transição demográfica e aumento da expectativa 
+de  vida  no  século  XXI,  resultando  em  maior 
+número de indivíduos idosos1. O envelhecimento 
+é  um  processo  natural,  progressivo,  dinâmico  e 
+irreversível, regido por fatores genéticos, orgânicos, 
+psíquicos,  econômicos  e  de  estilo  de  vida.  Este 
+processo  afeta  as  diversas  dimensões  humanas  e 
+em conjunto com um estilo de vida sedentário, 
+pode  levar  a  ocorrência  de  doenças  crônico 
+degenerativas2. Durante o envelhecimento ocorre 
+diminuição de aproximadamente 10% da massa 
+cerebral  e  após  os  60  anos,  impactos  cognitivos 
+e psicoafetivos negativos podem ocorrer3. Dentre 
+as  consequências,  a  ansiedade  e  a  depressão  são 
+doenças  que  podem  surgir  nessa  etapa  da  vida, 
+gerando  consequências  tanto  somáticas,  quanto 
+
+psíquicas,  como  agravar  o  risco  de  doenças 
+cardiovasculares, endócrinas, neurológicas, renais, 
+oncológicas e de síndromes de dor crônica4. 
+
+A  depressão  e  a  ansiedade  em  idosos  podem 
+surgir  devido  a  diversos  fatores,  dentre  eles, 
+ao  uso  de  medicamentos,  em  comorbidade 
+a  outros  distúrbios  psiquiátricos,  ou  mesmo 
+alterações  fisiopatológicas  devido  à  senescência 
+neurobiológica. Concomitantemente à depressão, 
+a  insônia  surge  em  40%  dos  pacientes  e,  com 
+ela,  entre  35  a  50%  dos  portadores  de  insônia 
+desenvolvem distúrbios de humor ou ansiedade5. 
+O  processo  natural  de  senescência,  que  causam 
+mudanças  físicas  e  psicossociais  e  as  patologias 
+relacionadas à idade avançada podem gerar agravos 
+à saúde do idoso, como a ansiedade e a depressão, 
+que têm sido consideradas importantes problemas 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37176929  •  1
+
+de Saúde Pública, pois essa associação gera grande 
+sofrimento emocional e diminuição da qualidade 
+de vida. Assim, é importante que esses indivíduos 
+evitem  nessa  etapa  da  vida  um  estilo  de  vida 
+sedentário,  pois  indivíduos  ativos  fisicamente 
+experimentam menos comorbidades6. 
+
+A  prática  regular  atividade  física,  pode 
+proporcionar melhor qualidade de vida aos idosos, 
+prevenindo  ou  reduzindo  déficits  fisiológicos, 
+motores,  além  de  proporcionarem  benefícios 
+biopsicossociais7. Além do mais, a atividade física 
+promove a regulação de vários neurotransmissores, 
+como a serotonina, que exerce um papel importante 
+na melhoria do humor e na redução de sintomas 
+associados  à  ansiedade  e  à  depressão,  além  de 
+melhorar a autoestima e a autoeficácia. Há também, 
+a  melhoria  do  sistema  endócrino  de  regulação 
+de  estresses,  quando  pessoas  mais  treinadas  se 
+apresentam mais reativas e regeneram-se mais rápido 
+quando se encontram frente a eventos estressantes8. 
+
+Em 2000, a população brasileira com 65 anos 
+ou mais representava 7,9%; em 2020 a estimativa 
+é  de  que  seja  14%;  e  em  2050,  a  previsão  é  de 
+que esse número chegue a 29,4% dos brasileiros9. 
+Considerando  que  a  população  brasileira  tem 
+envelhecido, e que isso demandará cada vez mais 
+serviços  públicos  especializados  ao  cuidado  do 
+idoso e custos para os sistemas de saúde do País1, 
+políticas de ampliação da prevenção primária em 
+saúde, como o aumento do nível de atividade física, 
+podem ser importantes para evitar morbidades nessa 
+população10. Dessa forma, os objetivos do estudo 
+foram: a) comparar a prevalência de ansiedade e de 
+depressão entre idosas fisicamente ativas, e idosas 
+sedentárias; b) verificar o impacto de um programa 
+de exercícios físicos sobre os níveis de ansiedade e 
+depressão  na  população  em  questão.  A  hipótese 
+desse estudo foi de que o programa de exercícios 
+físicos ofertado melhoraria os níveis de ansiedade e 
+de depressão na população estudada. 
+
+Método
+
+A pesquisa foi um estudo de coorte prospectivo 
+feito entre agosto e novembro de 2019, e realizada na 
+Universidade do Estado de Minas Gerais (UEMG), 
+unidade Passos, município localizado no sudoeste 
+de Minas Gerais. Foram convidadas a participar do 
+estudo, idosas matriculadas na Universidade Aberta 
+à Maioridade (UNABEM), que assinaram o Termo 
+de Consentimento Livre e Esclarecedor (TCLE). 
+Todos os procedimentos da pesquisa estão de acordo 
+com a Resolução nº 196/9, do Ministério da Saúde11 
+e com a Declaração de Helsinque.
+
+Foram  incluídas  no  estudo  idosas  com  idade 
+igual  ou  superior  a  60  anos  de  idade,  que  não 
+apresentavam  doenças  que  as  incapacitassem 
+fisicamente  para  a  prática  de  exercício  físico,  ou 
+que apresentassem contraindicações para tal. Foram 
+excluídos  do  estudo  os  indivíduos  que  tiveram 
+frequência nas atividades menor que 50% durante 
+o  período  da  pesquisa,  medida  por  uma  lista  de 
+presença feita pelos professores da UNABEM. Esse 
+recrutamento ocorreu no primeiro dia de aula, no 
+início de agosto do mesmo ano.
+
+Dados Antropométricos
+
+Os dados antropométricos coletados foram altura 
+em metros (m), por meio de um estadiômetro de 
+
+parede; massa corporal (MC), em quilogramas (kg), 
+por  meio  de  uma  balança  eletrônica  e  Índice  de 
+Massa Corporal (IMC=kg/m2).
+
+Nível de Atividade Física
+
+Para  determinar  o  Nível  de  Atividade  Física 
+(NAF), foi utilizado o Questionário Internacional 
+de Atividade Física – Versão Curta (IPAQ). Ele é um 
+instrumento validado, publicado em Versão Curta 
+e em Versão Longa, com 8 e com 27 perguntas, 
+respectivamente, porém ambos possuem o mesmo 
+objetivo, que é estimar o NAF ou o sedentarismo da 
+pessoa pesquisada, a classificando em “Muito Ativo”, 
+“Ativo”, “Irregularmente Ativo A”, “Irregularmente 
+Ativo B”, e em “Sedentário”12.
+
+Posteriormente,  os  grupos  foram  separados 
+em  Fisicamente  Ativas  (“Muito  Ativa”,  “Ativa”) 
+e  Sedentárias  (“Irregularmente  Ativa  A”, 
+“Irregularmente Ativa B” e “Sedentária”).
+
+Nível de Ansiedade e Depressão
+
+Para  determinar  o  nível  de  ansiedade  e  de 
+depressão,  foram  utilizados  o  Inventário  de 
+Ansiedade  de  Beck  (BAI)  e  o  Inventário  de 
+Depressão  de  Beck  (BDI),  respectivamente.  O 
+
+2  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37176929
+
+BAI é composto por 21 itens, escalonados em 4 
+níveis em ordem crescente de gravidade (estado de 
+ansiedade em mínima, leve, moderada ou severa)13. 
+Já o BDI, é composto por 21 itens, enumerados de 
+0 a 3, avaliando sintomas e atitudes, os quais são: 
+tristeza,  pessimismo,  sensação  de  fracasso,  falta 
+de satisfação, sentimento de culpa, sentimento de 
+punição,  autodepreciação,  autoacusações,  ideias 
+suicidas,  crises  de  choro/pranto,  irritabilidade, 
+retração  social,  indecisão,  distorção  da  imagem 
+corporal,  inibição  para  o  trabalho,  distúrbio  do 
+sono, fatigabilidade, perda de apetite, perda de peso, 
+preocupação somática e diminuição da libido14. 
+
+Aplicação dos questionários
+
+Os  três  questionários  foram  aplicados, 
+conjuntamente  com  a  coleta  dos  dados 
+antropométricos,  em  agosto  de  2019,  no  início 
+do  programa  de  promoção  de  exercícios  físicos, 
+e  no  final  de  novembro  de  2019,  momento  em 
+que  se  encerraram  as  atividades  do  projeto.  Os 
+questionários foram aplicados em datas nas quais 
+não houve promoção de exercício físico, evitando, 
+assim, vícios de pesquisa. 
+
+Nas terças-feiras foram desenvolvidos exercícios 
+para os membros superiores, utilizando uma garrafa 
+de água com areia, em cada mão, para substituir os 
+halteres, com massa aproximada de 1 kg cada:
+
+● Elevação frontal - 3 séries de 10 repetições, com 
+
+intervalo de 1 min;
+
+intervalo de 1 min;
+
+● Elevação lateral - 3 séries de 10 repetições, com 
+
+● Remada com halteres - 3 séries de 10 repetições 
+
+com intervalo de 1 min;
+
+● Flexão e extensão do cotovelo - 3 séries de 10 
+
+repetições com intervalo de 1 min.
+
+Nas quintas-feiras foram desenvolvidos exercícios 
+para os membros inferiores, utilizando o próprio 
+peso corporal:
+
+●  Agachamentos  na  cadeira  -  3  séries  de  10 
+
+repetições com intervalo de 1 min e 30 s;
+
+●  Extensão  do  joelho  sentado  -  3  séries  de 
+10  repetições  com  intervalo  de  1  min  e  30  s, 
+intercalando as pernas;
+
+● Flexão plantar com as duas pernas - 3 séries de 
+
+10 repetições com intervalo de 1 min e 30 s.
+
+De  maneira  lúdica,  eram  realizadas  aulas  de 
+danças, conjuntamente a exercícios aeróbicos, pelo 
+menos uma vez por mês.
+
+Programa de Exercícios Físicos
+
+Análise Estatística
+
+As  atividades,  promovidas  pela  UNABEM, 
+ocorreram de agosto a novembro de 2019, duas vezes 
+por semana, nas terças-feiras e quintas-feiras (60 
+minutos cada sessão). Foram realizados exercícios 
+aeróbicos,  exercícios  para  força  e  resistência 
+muscular,  para  flexibilidade  e  para  equilíbrio, 
+promovidos por profissionais de Educação Física e 
+estudantes de Educação Física, da UEMG, divididas 
+da seguinte forma:
+
+● 10 min de alongamentos;
+● 10 min de caminhada;
+●  30  min  da  execução  dos  exercícios  para  o 
+desenvolvimento da força e da resistência muscular; 
+●  E,  pra  finalizar,  10  min  de  alongamentos, 
+
+novamente.
+
+Inicialmente,  foi  realizada  uma  checagem  dos 
+dados para verificar a existência de outliers, seguido 
+do teste de normalidade para indicar o tratamento 
+estatístico  das  variáveis  do  estudo.  Em  seguida, 
+foi  realizada  a  estatística  descritiva  dos  dados. 
+Após a classificação do NAF foi realizado o teste 
+t  para  variáveis  independentes  para  verificar  se 
+existia diferença entre a prevalência de ansiedade 
+e depressão entre idosas fisicamente ativas e idosas 
+sedentárias.  Posteriormente foi realizado o teste t 
+pareado para verificar o impacto de um programa 
+de exercícios físicos sobre os níveis de ansiedade e 
+depressão na população em questão. Todas as análises 
+foram realizadas com o uso do software SPSS 21.0, 
+assumindo significância estatística prévia de p<0,05.
+
+Resultados
+
+Dentre as 56 idosas participantes da UNABEM, 
+23 idosas eram potencialmente elegíveis, de acordo 
+com  os  critérios  de  elegibilidade,  e  aceitaram 
+participar do estudo. Foram excluídas duas idosas 
+
+que  apresentaram  menos  de  50%  de  frequência 
+nas  atividades  promovidas  pelo  projeto.  Assim, 
+a  amostra  final,  de  idosas  que  terminaram  o 
+acompanhamento, e foram efetivamente analisadas, 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37176929  •  3
+
+foi de 21 idosas (75,0±6,1 anos; 1,57±0,09 cm). 
+A  FIGURA  1  apresenta  a  alteração  do  NAF 
+das idosas entre os períodos pré e pós o programa 
+de  exercícios  físicos.  Antes  do  programa  de 
+exercícios  físicos,  somente  6  idosas  (28,6%) 
+
+foram classificadas pelo IPAQ como ativas, e após 
+a  participação  no  participação  no  programa  de 
+exercícios físicos do presente estudo houve uma 
+melhora no NAF de 6 idosas (28,6%), totalizando, 
+segundo o IPAQ, 12 idosas ativas (57,1%). 
+
+FIGURA 1 - Nível de atividade física antes e após o programa de exercícios físicos.
+
+A  comparação  entre  os  grupos  “Ativo”  e 
+“Sedentário”  antes  do  período  de  intervenção, 
+não  demonstrou  diferença  estatisticamente 
+significante nos níveis de ansiedade (p=0,478) e 
+níveis de depressão (p=0,251). 
+
+A TABELA  1  apresenta  o  comportamento 
+das  variáveis  estudadas  durante  o  período  do 
+estudo e demonstra que os níveis de depressão 
+apresentaram  diminuição  estatisticamente 
+significativa após o período de intervenção.
+
+TABELA 1 - Comparação das variáveis antropométricas e dos níveis de ansiedade e depressão entre os períodos 
+pré e pós programa de exercícios físicos.
+
+Variáveis
+MC (kg)
+MC Pós (kg)
+IMC
+IMC Pós
+BAI
+BAI Pós
+BDI
+BDI Pós
+
+N
+14
+14
+14
+14
+21
+21
+21
+21
+
+Média/DP
+74,5±9,5
+75,9±9,4
+29,5±4,0
+30,3±3,6
+10,0±7,7
+7,1±6,7
+10,1±8,1
+6,6±5,4
+
+IC 95%
+57,3 a 89,2
+57,0 a 90,0
+20,9 a 34,8
+23,7 a 34,8
+0 a 26,0
+0 a 25,0
+0 a 29,0
+0 a 22,0
+
+p
+
+0,476
+
+0,501
+
+0,059
+
+0,032
+
+A  FIGURA  2  apresenta  a  alteração  dos 
+níveis  de  ansiedade  (2A)  e  níveis  de  depressão 
+(2B). Em relação à quantidade de idosas antes 
+classificadas  com  níveis  de  ansiedade  “Leve”  e 
+“Moderada”, essa diminuiu de sete idosas para 
+cinco,  e  de  três  para  uma,  respectivamente, 
+no  pós-teste.  A  classificação  de  ansiedade 
+“Mínima” foi de 11 idosas, para 15. Enquanto 
+
+isso, a quantidade de idosas antes classificadas 
+com níveis de depressão “Moderado” e “Grave” 
+diminuiu  de  duas  idosas  para  uma,  e  de  uma 
+para nenhuma, respectivamente, no pós-teste. A 
+quantidade de idosas classificadas com níveis de 
+depressão “Leve” se manteve inalterado (n=3), e 
+a classificação de nível de depressão “Mínimo” 
+foi de 15 para 17.
+
+4  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37176929
+
+FIGURA 2  (2A e 2B) - Nível de ansiedade e depressão antes e após o programa de exercícios físicos.
+
+Discussão
+
+O  principal  achado  do  nosso  estudo  foi 
+que  o  aumento  do  NAF,  trouxe  uma  melhora 
+nos  indicadores  de  ansiedade  e  de  depressão 
+em  idosas.  Embora,  essa  diferença  mostrou-se 
+significativa apenas para o nível de depressão, a 
+melhora  limítrofe  do  nível  de  ansiedade,  pode 
+ser  significante  do  ponto  de  vista  clínico,  onde 
+pequenas melhoras clínicas das idosas pode evitar 
+a  ocorrência  de  outras  comorbidades.  Além  do 
+mais,  o  programa  de  exercícios  físicos  fez  com 
+que a maioria das idosas, analisadas no estudo, se 
+tornassem  fisicamente  ativas,  considerando  que 
+antes eram as sedentárias a maioria dessas. 
+
+Essa mudança pode ser explicada pelos benefícios 
+da  prática  do  exercício  físico  que,  de  acordo 
+com  Strasser  e  Fuchs8,  regula  uma  gama  de 
+neurotransmissores,  inclusive  a  serotonina,  que 
+regulam as emoções, e ajudam no enfrentamento aos 
+estresses. Tomando como base o que Tribess7 disse em 
+seu estudo, a mudança do estilo de vida das idosas, se 
+tornando fisicamente ativas, pode ter proporcionado 
+uma  melhora  da  qualidade  de  vida,  amenizando 
+problemas fisiológicos, motores, e proporcionando 
+benefícios biopsicossociais, incluindo a melhora dos 
+níveis de depressão e de ansiedade. As principais 
+regiões do sistema nervoso central, nas quais ocorre 
+esse  controle  do  processamento  das  emoções,  na 
+cognição e no sistema autônomo, estão localizadas 
+no sistema límbico15.
+
+Em  um  estudo  feito  por  Couto  et  al.16, 
+foi  encontrado  que  idosos  mais  fisicamente 
+ativos  apresentaram,  na  percepção  subjetiva  das 
+
+necessidades psicológicas básicas satisfatórias, uma 
+melhor  qualidade  dos  preditores  de  felicidade 
+subjetiva, e de vitalidade subjetiva. Isso pode ser 
+relacionado aos achados dessa pesquisa, que verificou 
+que, com a transição do NAF geral das idosas, de 
+maioria sedentária, para maioria fisicamente ativa, 
+houve  melhora  estatística  significativa  do  ND  e, 
+significativa clinicamente do NA.
+
+Dessa  forma,  considerando  a  literatura,  pode-
+se afirmar que essa mudança no estilo de vida das 
+idosas  pesquisadas,  reduzindo  o  sedentarismo, 
+provavelmente promoveu uma maior regulação dos 
+neurotransmissores, regulando o sistema límbico e, 
+consequentemente, uma melhoria dos níveis clínicos 
+de ansiedade e de depressão. Além do mais, essa 
+mudança do NAF, obtendo uma maior quantidade 
+de  idosas  fisicamente  ativas  pós-teste,  pode  ter 
+melhorado  a  percepção  individual  de  felicidade 
+subjetiva, e de vitalidade subjetiva.
+
+O  ponto  forte  do  estudo  foi  a  utilização 
+de  instrumentos  validados,  traduzidos  para  o 
+português, que analisaram os níveis de ansiedade e 
+depressão em conjunto com a avaliação do nível de 
+atividade física, de maneira quantitativa, permitindo 
+uma análise estatística mais fiel à realidade. 
+
+A  quantidade  de  idosas  pesquisadas  foi  uma 
+limitação  do  presente  estudo,  pois  um  número 
+amostral  maior  possibilita  maior  poder  para 
+que  os  testes  estatísticos  encontrem  diferenças 
+estatisticamente significantes. O número amostral 
+e sua limitação se dão devido à quantidade de aulas 
+por semana e à impossibilidade de serem pesquisadas 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37176929  •  5
+
+mais de uma turma ao mesmo tempo, uma vez que 
+seria necessário um maior número de professores 
+e  pesquisadores.  Entretanto,  mesmo  com  um 
+número reduzidos de participantes, pode-se notar 
+a importância do exercício físico, principalmente 
+sobre os níveis de depressão.
+
+Dessa  forma,  recomenda-se  que,  durante  o 
+processo de mudança de estilo de vida dos idosos, 
+em geral, fossem tomadas medidas para se reduzir o 
+sedentarismo, com a prática de duas ou mais sessões 
+de exercícios semanais. É importante ressaltar que 
+nessas sessões de treino sejam realizados exercícios 
+
+para  desenvolver  a  capacidade  cardiovascular  e  a 
+força e resistência muscular, além da flexibilidade. 
+Como  nesse  estudo  foi  possível  perceber  uma 
+melhora  nos  níveis  de  ansiedade  e  de  depressão, 
+com o aumento do nível de atividade física, e que 
+isso foi analisado de maneira global, dentre as idosas 
+pesquisadas, sem analisar outros fatores, em futuras 
+pesquisas,  devem  ser  desenvolvidos  estudos  que 
+abordem mais os aspectos biopsicossociais, como 
+as limitações físicas, demências, e transtornos de 
+humor e de personalidade, e relacioná-los ao acesso 
+e à prática de exercícios físicos dos idosos.
+
+Conclusão
+
+Conclui-se que os níveis de ansiedade e depressão 
+melhoram com o aumento dos níveis de atividade 
+física  e,  com  isso,  pode-se  inferir  que  é  possível 
+melhorar a qualidade da Saúde Mental de idosas, e 
+possivelmente dos idosos em geral, promovendo a 
+atividade física regular, e adaptada, a essa faixa etária.
+
+É recomendado, então, que os profissionais de 
+Saúde,  ou  mesmo  os  mais  próximos  dos  idosos, 
+estejam sempre atentos ao Nível de Atividade Física, 
+e  à  Saúde  Mental  desses,  de  forma  a  manter  ou 
+promover boas condições de Saúde Geral, além de 
+evitarem danos e agravos à pessoa idosa.  
+
+Agradecimentos
+
+Agradecemos à Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) pela concessão de 
+bolsa para o acadêmico de Medicina, pesquisador, para a realização da pesquisa. Além do mais, agradecemos 
+aos discentes da Universidade do Estado de Minas Gerais (UEMG), dos cursos de Educação Física, Fernanda 
+Bernardo Carvalho, João Vinicius Alves Oliveira, Pabliene Cesar Marques, Rafaela Eugênia Silva, e Tainá Garcia 
+Silva; e de Medicina, Ítalo Boaventura Mendes Batista, que foram voluntários durante a realização do projeto, 
+ajudando com a promoção de atividade física.
+
+Conflito de interesses
+
+Não há conflito de interesses.
+
+6  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37176929
+
+Abstract
+
+Effect of increasing the level of physical activity on anxiety and depression in elderly women.
+
+Objectives: to evaluate the prevalence of anxiety and depression in elderly women at the Universidade 
+Aberta à Maturidade (UNABEM); and to verify the impact of a physical exercise program on their 
+anxiety and depression levels. At UNABEM headquarters, physical exercises were promoted twice a 
+week, lasting approximately one hour, for four months. The levels of physical activity, anxiety, and 
+depression of the elderly were analyzed using the International Physical Activity Questionnaire - Short 
+Version (IPAQ), the Beck Anxiety Inventory (BAI), and the Beck Depression Inventory (BDI), respectively, 
+at the beginning and end of the program. In the sample of 21 individuals, the number of physicaly 
+active elderly women gone from 6 to 12, with the implementation of the physical active program. 
+On the same way, the numbers of elderly women with anxiety categorized as minimum gone from 
+11 to 15; and minimum depression from 15 to 17. The anxiety and depression levels didn’t show 
+significant difference between physical active and sedentary elderly women, and there were a clinical 
+improvement of the anxiety levels, and a clinical and statistical improvement of the depression levels, 
+after the physical excercise program.
+
+Keywords: Physical Education; Psychiatry; Mental health; Primary prevention.
+
+Referências
+
+1. Miranda GMD, Mendes ACG, Silva ALA. O envelhecimento populacional brasileiro: desafios e consequências 
+sociais atuais e futuras. Rev Bras Geriatr Gerontol. 2016;19(3):507-519.
+2. Kennedy BK, Berger SL, Brunet A, Campisi J, Cuervo AM, Epel ES, et al. Geroscience: linking aging to chronic 
+disease. Cell. 2014;159(4):709-713.
+3. Fechine BRA, Trompieri N. O processo de envelhecimento: as principais alterações que acontecem com o idoso 
+com o passar dos anos. InterSciencePlace. 2015;1(20).
+4. Minghelli B, Tomé B, Nunes C, Neves A, Simões C. Comparação dos níveis de ansiedade e depressão entre idosos 
+ativos e sedentários. Arch Clin Psychiatry. 2013;40(2):71-76.
+5. Cheik NC, Reis IT, Heredia RA, Lourdes Ventura M, Tufik S, Antunes HK, et al. Efeitos do exercício físico e 
+da atividade física na depressão e ansiedade em indivíduos idosos. Rev Bras Ciênc Mov. 2008;11(3):45-52.
+6.  Oliveira  DV,  Antunes  MD,  Oliveira  J.  Ansiedade  e  sua  relação  com  a  qualidade  de  vida  em  idosos:  revisão 
+narrativa. Cinergis. 2017;18(4):316-322.
+7. Tribess S. Prescriçao de exercıcios fısicos para idosos. Saúde Com. 2016;1(2).
+8. Strasser B, Fuchs D. Role of physical activity and diet on mood, behavior, and cognition. Neurol Psychiatry 
+Brain Res. 2015;21(3):118-126.
+9. Alves JED. Envelhecimento populacional no Brasil e no mundo. Rev Longeviver. 2019;
+10. Tesser CD. Por que é importante a prevenção quaternária na prevenção? Rev Saúde Pública. 2017;51:116.
+11. Brasil. Resolução nº 251, de 7 de Agosto de 1997.  Diretrizes e normas regulamentadoras de pesquisa envolvendo 
+seres  humanos  [internet].  1997.  Disponível  em:  https://bvsms.saude.gov.br/bvs/publicacoes/normas_pesquisa_
+sereshumanos.pdf
+12. Torquato E, Gerage A, Meurer S, Borges R, Silva M, Benedetti T. Comparação do nível de atividade física 
+medido por acelerômetro e questionário IPAQ em idosos. Revista Bras Ativ Fís Saúde. 2016;21(2):144-153.
+13. Oliveira Silva D, da Silva FI, Machado DZ, Passoni CR. Prevalência e correlação entre constipação intestinal 
+e ansiedade. Cadernos Escola Saúde. 2012;1(7).
+14. Gorenstein C, Andrade LHSG. Validation of a Portuguese version of the Beck Depression Inventory and State-
+Trait anxiety inventory in Brazilian subjects. Brazilian J Med Biol Res. 1996;
+15. Hiestand T, Hänggi J, Klein C, Topka MS, Jaguszewski M, Ghadri JR, et al. Takotsubo syndrome associated 
+with structural brain alterations of the limbic system. J Am Coll Cardiol. 2018;71(7):809-811.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37176929  •  7
+
+16. Couto N, Antunes R, Monteiro D, Moutão J, Marinho DA, Cid L. Impact of the basic psychological needs 
+in  subjective  happiness,  subjective  vitality  and  physical  activity  in  an  elderly  portuguese  population.  Motricidade. 
+2017;13(2):58-70.
+
+Endereço
+Igor Félix Miziara
+Rua Pintassilgo, 136 - Nossa Senhora das Graças
+37902-404- Passos - MG - Brasil
+E-mail: igorfelixmiziara@gmail.com
+
+Submetido: 30/10/2020
+Revisado: 29/12/2022
+Aceito: 31/12/2022
+
+8  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37176929
+
+

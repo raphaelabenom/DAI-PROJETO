@@ -1,0 +1,1570 @@
+ 
+
+DOI: 10.5216/BGG.v 43.63965 
+
+Vulnerabilidade socioambiental de 
+Arapiraca/AL 
+ 
+Vulnerabilidad socioambiental de  
+Arapiraca/AL 
+ 
+Socio-environmental vulnerability of  
+Arapiraca/AL 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Juliete dos Santos  
+Universidade Estadual de Alagoas- Brasil  
+juh-lietesantos1@hotmail.com    
+
+Leandro Antonio de Oliveira  
+Universidade Estadual de Alagoas- Brasil  
+leo.juh30@gmail.com    
+
+José Lidemberg de Sousa Lopes  
+Universidade Estadual de Alagoas- Brasil  
+jlidemberg@yahoo.com.br      
+
+ 
+
+ 
+
+ 
+
+ 
+
+identificar 
+
+áreas  ou 
+
+identificar  o 
+
+Resumo Os estudos sobre o nível de vulnerabilidade da população 
+longo  dos  últimos  anos  têm  se  tornado  cada  vez  mais 
+ao 
+importantes  por  buscarem 
+grupos 
+populacionais  sujeitos  ou  expostos  a  vulnerabilidades.  O  presente 
+trabalho avaliou o nível de vulnerabilidade socioambiental da cidade 
+de Arapiraca, adaptando os aspectos metodológicos das pesquisas 
+de  Lopes  (2013)  e  Adger  (2006)  para  a  criação  de  critérios  e 
+indicadores  a  fim  de 
+Índice  de  Vulnerabilidade 
+Socioambiental  (IVSA)  da  cidade.  Em  uma  escala  de  0,0  (valor 
+mínimo) a 1,0 (valor máximo), a análise dos indicadores encontrou 
+um índice de 0,35 que coloca a cidade de Arapiraca em um nível de 
+baixa  vulnerabilidade.  O  critério  que  influencia  decisivamente  no 
+Índice  de  Vulnerabilidade  Socioambiental  de  Arapiraca-AL  é  o  de 
+sensibilidade.  Esse  critério  avaliou  a  dimensão  do  risco  social  com 
+as  características  da  população  com  o  intuito  de  demostrar  a 
+fragilidade  quando  exposta  a  um  dano,  possuindo  a  maior 
+quantidade  de  indicadores,  sete  no  total.  Os  valores  obtidos  por 
+cada 
+se 
+
+satisfatórios  e 
+
+inevitavelmente 
+
+indicador 
+
+foram 
+
+ 
+
+DOI: 10.5216/BGG.v 43.63965 
+
+sobressaíram em relação aos demais. Conclui-se que na cidade de 
+Arapiraca populações socialmente vulneráveis tendem a se localizar 
+em áreas ambientalmente vulneráveis. 
+Palavras-chave: Vulnerabilidade. Indicadores. Risco social. 
+ 
+Resumen  Los  estudios  sobre  el  nivel  de  vulnerabilidad  de  la 
+población  en  los  últimos  años  han  cobrado  una  importancia 
+creciente,  ya  que  buscan  identificar  áreas  o  grupos  poblacionales 
+sujetos o expuestos a vulnerabilidades. El presente trabajo evaluó el 
+nivel  de  vulnerabilidad  socioambiental  en  la  ciudad  de  Arapiraca, 
+adaptando los aspectos metodológicos de la investigación de Lopes 
+(2013) y Adger (2006) para la creación de criterios e indicadores con 
+el fin de identificar la Vulnerabilidad Socioambiental Índice (IVSA) de 
+la  ciudad  ciudad.  En  una  escala  de  0,0  (valor  mínimo)  a  1,0  (valor 
+máximo), el análisis de los indicadores encontró un índice de 0,35, 
+que pone la ciudad de Arapiraca en un nivel de vulnerabilidad bajo. 
+El criterio que influye decisivamente en el Índice de Vulnerabilidad 
+Socioambiental  de  Arapiraca-AL  es  la  sensibilidad.  Este  criterio 
+evaluó  la  dimensión  del  riesgo  social  con  las  características  de  la 
+población  para  demostrar  fragilidad  frente  al  daño,  teniendo  el 
+mayor número de indicadores, siete en total. Los valores obtenidos 
+para  cada  indicador  fueron  satisfactorios  e  inevitablemente  se 
+destacaron en relación a los demás. Se concluye que en la ciudad de 
+Arapiraca, 
+las  poblaciones  socialmente  vulnerables  tienden  a 
+ubicarse en zonas ambientalmente vulnerables. 
+Palabras-clave: Vulnerabilidad. Indicadores. Riesgo social. 
+ 
+Abstract Studies on the level of vulnerability of the population over 
+the last few years have become increasingly important as they seek 
+to  identify  areas  or  population  groups  subject  to  or  exposed  to 
+vulnerabilities.  The  present  work  evaluated  the  level  of  socio-
+environmental  vulnerability  of  the  city  of  Arapiraca,  adapting  the 
+methodological aspects  of  the  research  of  Lopes  (2013)  and  Adger 
+(2006) for the creation of criteria and indicators to identify the Socio-
+environmental Vulnerability Index (IVSA) of the city. On a scale of 0.0 
+(minimum  value)  to  1.0  (maximum  value),  the  analysis  of  the 
+indicators found an index of 0.35 that places the city of Arapiraca at 
+a low vulnerability level. The criterion that decisively influences the 
+Socio-environmental Vulnerability Index of Arapiraca-AL is   the from 
+sensitivity. This criterion evaluated the dimension of social risk with 
+the  characteristics  of  the  population  in  order  to  demonstrate  the 
+fragility  when  exposed  to  harm,  having  the  largest  number  of 
+indicators,  seven  in  total.  The  values  obtained  by  each  indicator 
+were satisfactory and inevitably stood out in relation to the others. It 
+is  concluded  that  in  the  city  of  Arapiraca  they  could  be  socially 
+independent to be located in environmentally independent areas. 
+Keywords: Vulnerability. Indicators. Social risk. 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+Introdução 
+
+Os problemas socioambientais urbanos têm, nos últimos anos, 
+ganhado ênfase nos debates acadêmicos, tendo em vista o rápido 
+crescimento dos grandes centros habitacionais. Mendonça e Leitão 
+(2008)  afirmam  que  essa  urbanização  generalizada  que  marca  o 
+presente  momento  da  humanidade  promove  a  acumulação  de 
+homens  e  atividades  em  espaços  restritos,  fazendo  das  cidades 
+lugares altamente vulneráveis a qualquer agente perturbador, quer 
+seja exógeno ou endógeno, natural ou técnico. 
+
+Nesse 
+
+contexto,  observamos  o  notório 
+
+crescimento 
+populacional  que  vivencia  a  cidade  de  Arapiraca.  Conforme 
+apresentam as pesquisas desenvolvidas por Morais et. al. (2014), a 
+cultura  do  fumo  teve  um  importante  papel  no  desenvolvimento 
+municipal. Todavia, as várias crises do setor fumageiro, decorrentes 
+da  política  antitabagista,  provocou  o  declínio  dessa  atividade.  No 
+entanto,  com  o  posterior  declínio  dessas  produções,  o  município 
+vislumbrou na sua localização central do estado uma forma de suprir 
+as necessidades deixada pela agricultura, o comércio. 
+
+Esse  destaque  apresenta  uma  nova  realidade  para  o 
+município, segundo o último Censo (IBGE, 2010), o município possui 
+214.006 habitantes, sendo que 84,8% da população encontra-se na 
+zona  urbana,  ou  seja,  181.481  mil  pessoas.  Já  a  porção  menor,  os 
+32.525 habitantes estão localizados na zona rural. Comparando com 
+os dados dos censos anteriores, observamos que no Censo dos anos 
+2000, o município tinha 186.755 habitantes; destes, 152.354 estavam 
+na zona urbana (IBGE, 2000). Já no Censo de 1991, Arapiraca possuía 
+166.351  habitantes,  sendo  130.963  pessoas  localizadas  na  zona 
+urbana (IBGE, 1991). Esse aumento populacional se depara muitas 
+vezes  com  um  cenário  evidenciado  por  Mendonça  e  Leitão  (2008), 
+segundo  os  quais,  no  Brasil,  as  populações  menos  favorecidas, 
+devido  a  problemas  decorrentes  da  especulação  imobiliária,  são, 
+muitas  vezes,  impelidas  a  ocupar  locais  insalubres  e  expostos  a 
+vulnerabilidade. 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+A  cidade  de  Arapiraca  está  localizada  na  porção  central  do 
+Estado de Alagoas a cerca de 130 km da capital, Maceió. De acordo 
+com os dados do IBGE (2010), o município ocupa uma área de cerca 
+de  345,655Km2  (1,32%  de  Alagoas)  e  está  situada,  segundo  a  PMA 
+(2007), a 9º 75’ 25’’ de latitude sul e 36º 60’ 11’’ de longitude oeste. A 
+figura1,  demonstra  a  localização  da  zona  urbana  de  Arapiraca  e, 
+respectivamente, a divisão de seu território em 38 bairros, no ano de 
+2010.  
+
+Figura 1: Mapa de localização da Zona Urbana de Arapiraca-AL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Autores (2018). 
+
+Ao longo dos anos, os estudos sobre o nível de vulnerabilidade 
+da população são importantes por buscar identificar os sujeitos ou 
+as áreas que, segundo Deschamps (2009, p.11), são mais propensas 
+a enfrentar circunstâncias adversas. Logo, o crescimento acelerado 
+da população desencadeia vários problemas, tendo em vista que as 
+populações mais carentes às margens dos serviços públicos ocupam 
+regiões  impróprias  à  habitação.  Com  base  nessa  análise,  Souza 
+(2005)  explica  que  o  fato  de  a  população  urbana  aumentar  em 
+proporção  e  em  tamanho  absoluto,  faz  com  que  as  atenções  se 
+voltem para os problemas urbanos. Segundo o autor, “[...] em uma 
+sociedade 
+em 
+desenvolvimento, os impactos ambientais são de difícil domesticação 
+
+principalmente 
+
+capitalista 
+
+países 
+
+em 
+
+e 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+e  resultam  de  uma  necessidade  de  produzir  cada  vez  mais  [...]” 
+(SOUZA, 2005: p. 94/95). 
+
+Nessa  perspectiva,  Deschamps  (2009)  evidencia  que  é  de 
+extrema  importância  desenvolver  uma  análise  que  não  se  atente 
+apenas às desigualdades sociais, mas, que verifique como estas se 
+associam com situações de desigualdade ambiental, ou seja, tratar 
+da  questão  mais  específica  de  vulnerabilidade  socioambiental.  No 
+entanto, para sua efetivação, é imprescindível delimitar e identificar 
+as  regiões  que  apresentam  essas  características,  uma  vez  que 
+populações com um menor poder aquisitivo historicamente tendem 
+a ocupar áreas que são ambientalmente vulneráveis, o que para a 
+autora  seria  “expô-las  a  um  outro  processo  intra-urbano:  o  da 
+segregação ambiental” (DESCHAMPS, 2009). 
+
+É  nesse  aspecto  que  trabalhos  recentes  como  os  estudos 
+elaborados  por  Lopes  (2013),  Adger  (2006)  e  Deschamps  (2004) 
+trazem  novas  perspectivas  e  metodologias  que  permitem  uma 
+melhor compreensão desse ambiente complexo em que se tornaram 
+os espaços urbanos. 
+
+Portanto, o presente estudo avaliou o nível de vulnerabilidade 
+socioambiental da cidade de Arapiraca/AL. Paralelamente, a pesquisa 
+elaborou  um  Índice  de  Vulnerabilidade  Socioambiental  (IVSA), 
+mapeou  as  áreas  vulneráveis  e  comparou  os  dados  dos  Censos 
+demográficos dos anos 2000 e 2010. 
+
+ 
+
+Entendendo a Vulnerabilidade socioambiental 
+
+A  vulnerabilidade  é  defendida  por  Mitchell  (1989)  como  o 
+potencial de perda de um sistema. Nesse contexto, se observa que 
+vários aspectos podem influenciar direta ou indiretamente os riscos 
+em que o ser humano, em grupo ou individual, está exposto no seu 
+dia a dia. Assim, “a vulnerabilidade envolve um conjunto de fatores 
+que pode diminuir ou aumentar os riscos aos quais o ser humano, 
+individualmente  ou  em  grupo,  está  exposto  em  diversas 
+circunstâncias  de  sua  vida  [...]”  (LOPES,  2013,  p.  28-29).  Segundo 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+Zanella  et  al.  (2009),  a  vulnerabilidade  se  encontra  diretamente 
+relacionada  com  grupos  vulneráveis 
+(populações)  que,  por 
+determinadas  contingências  são  mais  propensos  a  uma  resposta 
+negativa quanto à ocorrência de algum evento adverso. 
+
+Devido ao caráter interdisciplinar apresentado pelos autores, 
+é  importante,  antes  de  analisar  a  vulnerabilidade,  questionar-se 
+sobre  os  sujeitos  que  farão  parte  de  sua  pesquisa.  Por  isso,  para 
+Liverman (1994), é necessário entender vulnerabilidade a quê? Onde 
+e quem está ou é vulnerável? 
+
+Dentro do nosso artigo, trabalhamos a vulnerabilidade em três 
+dimensões:  social,  ambiental  e  socioambiental.  A  primeira,  nos 
+últimos anos, tem sido utilizada por muitos estudiosos e organismos 
+internacionais que trabalham analisando a perspectiva da pobreza. 
+Nesse  contexto,  Marandola  Jr.  e  Hogan  (2005)  observaram  que  as 
+características socioeconômicas das populações nas áreas de risco 
+consistem  em  um  componente  fundamental  quando  estamos 
+discutindo  sobre  vulnerabilidade  social.  Para  os  autores,  “fatores 
+como a distribuição de renda, escolaridade, raça, tipo de ocupação, 
+entre  outros,  são  de  extrema 
+importância  para  analisar  a 
+vulnerabilidade em seu caráter social. 
+
+Deste modo, Zanella et al. (2009) destaca que esses fatores vão 
+tornar as pessoas ou grupos mais ou menos vulneráveis, ou seja, com 
+capacidade  de  superar  ou  minimizar  as  dificuldades  e  riscos  e  de 
+aproveitar as oportunidades para melhorar a sua situação de bem-
+estar.  E  essa  relevância  vincula-se  em  uma  correlação  forte  entre 
+áreas  de  risco  ambiental  e  grupos  de  renda  mais  baixa  e  com 
+consideráveis níveis de dificuldades sociais. Para Zanella et al. (2009): 
+
+“[...]  Os  grupos  sociais  de  maior  renda  ocupam  os 
+ambientes de amenidade sociais e ambientais e com 
+melhor    infraestrutura  e  serviços,  enquanto  os  de 
+menor poder aquisitivo, os mais vulneráveis, tendem 
+a se localizar nas chamadas áreas de risco, ou seja, 
+áreas  de  maior  exposição  a  situações  insalubres 
+(contaminação de água, do solo, e do ar) e inseguras 
+(riscos de acidentes de diversos tipos)” (ZANELLA ET 
+AL., 2009, p. 193). 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+Para  a  autora,  a  vulnerabilidade  social  está  relacionada  a 
+grupos vulneráveis que por determinadas questões (poder aquisitivo, 
+localização,  educação  etc.)  são  menos  propensos  a  uma  resposta 
+positiva sobre a ocorrência de um evento adverso. 
+
+Já para entender a perspectiva ambiental, Lopes (2013) expõe 
+que  a  “vulnerabilidade  a  nível  ambiental  pode  ser  compreendida 
+como o risco a degradação do meio ambiente”. Segundo o autor, há 
+necessidade  de  analisar  fatores,  como  erosão  do  solo,  perda  da 
+biodiversidade,  assoreamento  de  rios,  contaminação  dos  recursos 
+hídricos e solos, para que se possa fazer um estudo mais apurado do 
+espaço socioambiental que se deseja pesquisar.  
+
+A vulnerabilidade ambiental analisa a gênese dos problemas a 
+que  os  sistemas  ambientais  são  expostos,  sob  uma  ótica  da 
+intervenção humana. Visto que são as ações antrópicas que, direta 
+ou indiretamente, mudam a dinâmica ambiental e, geralmente, essas 
+ações  estão  associadas  a  questões  econômicas,  bem  como 
+habitacionais, desde o período em que o homem passa a fixar-se em 
+espaços específicos. Necessitando, portanto, manipular os sistemas 
+ambientais (solo, vegetação) para garantir sua sobrevivência. 
+
+Dessa forma, é notória a relação entre as dimensões sociais e 
+ambientais  da  vulnerabilidade,  tendo  em  vista  que  não  existe 
+sociedade  sem  natureza  e  nem  natureza  sem  sociedade.  Assim, 
+identificando  as  áreas  socialmente  vulnerais  e  analisando  se  estas 
+sofrem  algum  problema  de  caráter  ambiental,  temos  um  estudo 
+acerca da Vulnerabilidade Socioambiental. 
+
+Os  problemas  socioambientais  são  mais  expressivos  nas 
+cidades. No  entanto,  Deschamps (2009)  evidencia  a  dificuldade  ou 
+ineficiência da administração das cidades em lidar com os problemas 
+ambientais decorrentes de processos de urbanização, que resultam 
+de  uma  ocupação  inadequada  e  o  uso  indevido  de  áreas  de  risco. 
+Seguindo  esse  pressuposto,  a  autora  enfatiza  a  necessidade  de 
+analisar  não  só  as  “desigualdades  sociais,  mas  também  verificar 
+como estas se associam às situações de desigualdades ambientais”. 
+
+Segundo Mendonça (2002):  
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+[...] o emprego da terminologia socioambiental não 
+explicita  somente  a  perspectiva  de  enfatizar  o 
+envolvimento  da 
+como  elemento 
+processual, mas é também decorrente da busca de 
+cientistas  naturais  a  preceitos  filosóficos  da ciência 
+social  para  compreender  a 
+realidade  numa 
+abordagem inovadora (MENDONÇA, 2002, p.126). 
+
+sociedade 
+
+Ao analisar essa nova visão sobre vulnerabilidade, Deschamps 
+(2004) a define como aquela que ocorre quando há a coincidência de 
+vulnerabilidade social e ambiental em uma mesma área ou para uma 
+mesma  população.  A  autora  destaca  ainda  que  há  uma  estreita 
+relação  entre  a  localização  espacial  dos  grupos  que  apresentam 
+desvantagens sociais e aquelas áreas onde há risco de ocorrer algum 
+evento  adverso,  ou  seja,  populações  socialmente  vulneráveis  se 
+localizam em áreas ambientalmente vulneráveis (DESCHAMPS, 2004, 
+p. 140). 
+
+Assim, a vulnerabilidade socioambiental, de acordo com o que 
+considera  a  autora,  pode  ser  definida  como  uma  área  onde 
+coexistem  riscos  ambientais  e  populações  em  situação  de 
+vulnerabilidade social. Ou seja, grupos socialmente vulneráveis estão 
+mais susceptíveis a ocuparem áreas ambientalmente vulneráveis. 
+
+O  presente  estudo  analisou  o  nível  de  vulnerabilidade 
+socioambiental  na  cidade  Arapiraca.  Para  isso,  foram  utilizadas 
+pesquisas  desenvolvidas  pelo  Atlas  da  vulnerabilidade  social  nas 
+regiões  metropolitanas  brasileiras  (IPEA,  2015)  e  os  trabalhos  de 
+Lopes  (2013)  e  Adger  (2006).  Ambos  os  trabalhos  evidenciam  a 
+criação  de  critérios  e 
+indicadores  para  chegar  ao  resultado, 
+denominado Índice de Vulnerabilidade Socioambiental (IVSA). 
+
+Posteriormente,  para  identificar  as  áreas  sociovulneráveis, 
+foram utilizados os dados secundários dos Censos Demográficos de 
+2000 e 2010 disponibilizados pelo Instituto Brasileiro de Geografia e 
+Estatística (IBGE), sendo que o recorte espacial escolhido foram os 
+bairros. Essa escolha ocorreu pelo fato de o órgão não divulgar as 
+Já  para  a  análise  das 
+informações  por  setores  censitários. 
+
+Materiais e métodos 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+características  ambientais,  foram  utilizadas  imagens  de  satélites 
+utilizando  o  software  arcgis  10.0.  O  mapa  de  relevo  e  das  bacias 
+hidrográficas foi o produto cartográfico utilizado para a delimitação 
+dos  indicadores  (ocupação  da  vegetação  e  ocupação  de  planícies 
+fluviais) em que, a partir da identificação visual, é possível mensurar 
+as  áreas  que,  porventura,  foram  ocupadas  por  residências,  sendo 
+viável  calcular  a  vulnerabilidade  de  cada  área  para  os  indicadores 
+desse critério. 
+
+Para dar suporte à metodologia, utilizaram-se os parâmetros 
+de seleção de indicadores de Adger (2006), no qual o autor classifica 
+os 
+indicadores  em  três  critérios:  exposição  do  sistema;  a 
+sensibilidade do sistema e a capacidade de resposta ou adaptativa 
+do meio. 
+
+1)  A  exposição  do  sistema:  em  que  foram  avaliados  os 
+indicadores que compreendem o risco ambiental, mostra a pressão 
+antropogênica exercida no sistema, como ocupação da vegetação e 
+ocupação da planície fluvial. 
+
+2) A sensibilidade do sistema às pressões exercidas: no qual 
+foram avaliados os indicadores da dimensão risco social (quadro 1), 
+que mostram as características da população (educação, renda, entre 
+outras), sendo essas as características que demonstram a fragilidade 
+que um grupo apresentará a um evento que poderá causar um dano. 
+
+3)  A  capacidade  de  resposta  do  meio:  avalia  a  dimensão 
+infraestrutura  urbana  dada  pela  relação  entre  as  condições 
+estruturais urbanas e a conservação ou preservação ambiental, que 
+tem  influência  significativa  nos  possíveis  efeitos  das  pressões 
+exercidas na área analisada. 
+
+Adger (2006) ressalta que, quanto maior for a exposição e as 
+pressões que o ambiente esteja sofrendo ou venha a sofrer, maior 
+será a sua sensibilidade e menor a sua capacidade de resposta, o que 
+indica que a área em estudo está vulnerável a problemas, tanto de 
+cunho  social  como  ambiental.  O  quadro  1  mostra  a  relação  dos 
+indicadores, bem como a qual dimensão e critério cada um pertence. 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+Quadro 1. Relação das Dimensões, Indicadores e Critérios a serem mensurados 
+para a Vulnerabilidade Socioambiental da cidade de Arapiraca/AL. 
+
+Dimensões 
+
+Indicadores 
+
+Risco ambiental 
+
+•  Ocupação da vegetação– OV; 
+•  Ocupação  da  planície  fluvial  – 
+
+Critérios 
+
+Exposição 
+
+Risco social 
+
+Sensibilidade 
+
+OPF;  
+
+• 
+
+• 
+
+• 
+• 
+• 
+
+• 
+
+Crianças entre 5 – 9 anos sem 
+estar na escola – CSE; 
+Jovens  entre  10  –  14  anos 
+sem estar na escola - JSE; 
+Pessoas analfabetas – PA; 
+Domicílios Próprios – DP; 
+Relação  de  Dependência  – 
+RD; 
+Razão  de  Moradores  por 
+domicílio – RM; 
+Renda per capita – R.  
+
+• 
+•  Abastecimento de Água – AA; 
+•  Rede de esgoto – RE; 
+•  Coleta de Lixo – CL.  
+
+Infraestrutura 
+
+urbana 
+
+Capacidade de 
+
+resposta 
+
+ 
+
+Fonte: LOPES (2013). Adaptação autores (2018). 
+
+Com o estabelecimento dos indicadores, foi mensurada uma 
+média aritmética para cada um, sendo extraída pela relação do valor 
+atribuído para cada bairro dividido pelo valor total da cidade, como 
+mostra a equação a seguir: 
+
+ 
+       
+𝑉𝐼𝐵 =
+
+𝑇𝐼𝐵
+
+𝑇𝐶
+
+ 
+
+ 
+
+   
+
+           
+
+ 
+
+ 
+
+(Equação 1): 
+
+Onde: 
+VIB= Valor do Indicador do Bairro 
+TIB= Total do Indicador do Bairro 
+TC= Total da Cidade  
+
+Após  a  normatização  de  cada  critério  e  seus  respectivos 
+indicadores, foi atribuído o valor em escala que varia de 0,01 (valor 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+mínimo)  e  1,00  (valor  máximo).  A  normalização  dos  indicadores 
+proposta  nessa  pesquisa  recebeu  uma  escala  de  valores  para 
+mensurar os resultados, como é apresentado no quadro 2. 
+
+Quadro 2. Níveis, valores e cores para o nível de vulnerabilidade da cidade de 
+
+Níveis  
+
+Muito baixa 
+
+Baixa 
+Média 
+Alta 
+
+Muito alta 
+
+ 
+
+Arapiraca/AL. 
+
+Valores 
+
+0,81 – 1,00 
+0,61 – 0,80 
+0,41 – 0, 60 
+0,21 – 0,40 
+0,01 - 0,20 
+
+Fonte: Autores (2018). 
+
+Cores  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Como  mostra  o  quadro  2,  os  valores  próximos  a  0,0  (zero) 
+correspondem a uma vulnerabilidade muito alta e quando os valores 
+estiverem  próximos  a  1,0  (um)  equivalem  a  uma  vulnerabilidade 
+muito baixa. 
+
+Tomando como base a equação 1, o nível de vulnerabilidade 
+do critério exposição estão elencados como indicadores ambientais: 
+a ocupação da vegetação – que corresponde a áreas ocupadas por 
+vegetações remanescentes sejam elas nativas ou não; a ocupação da 
+planície fluvial – que corresponde a áreas em torno de rios ocupadas 
+pelo homem para os seus diversos fins. Para o cálculo desse indicar 
+foi realizada a soma do valor encontrado para os indicadores (OV e 
+OPF), dividido pelo número total de indicadores 2 (dois), como mostra 
+a equação 2: 
+
+𝐼𝑉𝑆𝐴 =
+
+𝑂𝑉+𝑂𝑃𝐹
+
+   
+
+ 
+
+2
+
+ 
+
+ 
+
+(Equação 2): 
+
+IVSAe=  Índice  de  Vulnerabilidade  Socioambiental  do  critério  de 
+exposição a riscos ambientais. 
+
+OV – Ocupação da Vegetação. 
+
+OPF – Ocupação da Planície Fluvial. 
+
+Onde:  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+Os  valores  para  análise  da  vulnerabilidade  desse  critério 
+seguiram os parâmetros: IVSAe =0,01-0,20 muito alta; 0,21-0,40 alta; 
+0,41-0,60 média; 0,61-0,80 baixa; e 0,81-1,00 muito baixa. 
+
+Para obtenção dos valores, os indicadores da dimensão risco 
+social  (CSE,  JSE,  PA,  DP,  RD,  RM,  R),  que  fazem  parte  da  classe  de 
+vulnerabilidade  social,  foi  utilizada  a  equação  3,  que  apresenta  a 
+soma do valor encontrado para cada indicador dividido pelo número 
+total de indicadores 7 (sete). 
+
+𝐼𝑉𝑆𝐴𝑠 =  
+
+𝐶𝑆𝐸+𝐽𝑆𝐸+𝑃𝐴+𝐷𝑃+𝑅𝐷+𝑅𝑀+𝑅
+
+   
+
+ 
+
+(Equação 3): 
+
+7
+
+Onde:  
+
+IVSAs  – 
+sensibilidade.  
+
+Índice  de  Vulnerabilidade  Socioambiental  do  critério 
+
+CSE – Crianças entre 5 – 9 anos sem estar na escola. 
+
+JSE – Jovem entre 10 – 14 anos sem estar na escola. 
+
+PA – Pessoas analfabetas. 
+
+DP – Domicílios próprios. 
+
+RD – Relação de dependência. 
+
+RM – Razão de moradores por domicílios. 
+
+R – Renda per capita. 
+
+ 
+
+Entretanto, é importante destacar que, diferente do critério de 
+exposição  e  capacidade  de  respostas,  a  sensibilidade  tem  seus 
+valores  invertidos,  foi  feita  uma  adaptação,  sendo  considerada 
+vulnerabilidade muito alta quando os valores estão próximos a 1,0 
+(um) e vulnerabilidade muito baixa próximo a 0,0 (zero). Para analisar 
+o 
+IVSAs,  é  feita  uma  adaptação,  considerando  os  seguintes 
+parâmetros: IVSAs =0,01-0,20 muito baixa; 0,21-0,40 baixa; 0,41-0,60 
+média; 0,61-0,80 alta; 0,81-1,00 muito alta. 
+
+Assim como as demais equações, o Índice de Vulnerabilidade 
+Socioambiental  do  critério  capacidade  de  resposta  faz  uma 
+adaptação da fórmula da equação 1. Como mostra a equação 4, é 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+feita a soma do valor encontrado para os indicadores (AA, ES e CL), 
+dividido pelo número total de indicadores 3 (três). 
+
+𝐼𝑉𝑆𝐴𝑟 =
+
+𝐴𝐴+𝐸𝑆+𝐶𝐿
+
+   
+
+3
+
+ 
+
+ 
+
+ (Equação 4): 
+
+Onde: 
+
+IVSAr  –  Índice  de  Vulnerabilidade  Socioambiental  do  critério  de 
+capacidade de resposta.  
+
+AA – Abastecimento de água. 
+
+RE – Rede de esgoto. 
+
+CL – Coleta de lixo. 
+
+Os  valores  para  análise  da  vulnerabilidade  desse  critério 
+seguiram os parâmetros estabelecidos como: IVSAr =0,01-0,20 muito 
+alta; 0,21-0,40 alta; 0,41-0,60 média; 0,61-0,80 baixa; 0,81-1,00 muito 
+baixa. 
+
+Por 
+
+fim,  para  construir  o 
+
+Índice  de  Vulnerabilidade 
+Socioambiental (IVSA) de Arapiraca, foi mensurado, a partir da média 
+aritmética dos índices de vulnerabilidade em cada dimensão, critério 
+e classe, conforme a equação 5. Conforme a equação abaixo, é feita 
+uma soma dos valores encontrados para cada critério (IVSAe + IVSAs 
++  IVSAcr),  dividido  pelo  número  total  de  critérios  estabelecidos  no 
+caso 3 (três). 
+
+𝐼𝑉𝑆𝐴 =
+
+𝐼𝑉𝑆𝐴𝑒+𝐼𝑉𝑆𝐴𝑠+𝐼𝑉𝑆𝐴𝑐𝑟
+
+   
+
+ 
+
+ 
+
+(Equação 5): 
+
+3
+
+Onde: 
+
+IVSA = Índice de Vulnerabilidade Socioambiental.  
+
+IVSAe  =  Índice  de  Vulnerabilidade  Socioambiental  do  critério  de 
+exposição a riscos ambientais. 
+
+Índice  de  Vulnerabilidade  Socioambiental  do  critério 
+
+IVSAs  = 
+sensibilidade.  
+
+IVSAcr  =  Índice  de  Vulnerabilidade  Socioambiental  do  critério 
+Capacidade de Resposta.    
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+O cálculo dessa última equação atribuiu o valor final da análise 
+da vulnerabilidade socioambiental da cidade. Os valores, assim como 
+o critério de sensibilidade, têm seus valores invertidos, isto é, após 
+cálculos  de  alguns  indicadores  verificou-se  que  nos  resultados 
+aferidos  alguns  indicadores  tiveram  valores  invertidos.  Segundo  o 
+quadro  2,  os  indicadores  se  dividiam  em  classes  e  valores  que 
+variavam de 0,00 (muito baixa) a 1,00 (muito alta) vulnerabilidade.  
+
+Entretanto,  devido  ao  fato  de  trabalharmos  com  valores  do 
+IBGE  por  bairros  e  não  por  setores  censitários,  alguns  indicadores 
+tiveram seus valores modificados, e os autores necessitaram adaptar 
+alguns  valores  para  classes  e  valores  para  não  comprometer  o 
+resultado da pesquisa. Assim, o IVSA seguiu os seguintes parâmetros: 
+IVSA =0,01-0,20 muito baixa; 0,21-0,40 baixa; 0,41-0,60 média; 0,61-
+0,80 alta;  0,81-1,00 muito alta. 
+
+Finalizado o cálculo e com a construção do IVSA da cidade, o 
+poder  público  e  as  entidades  que  demonstrarem  interesse  pela 
+cidade terão na presente proposta uma forma de subsídio para que 
+possam direcionar suas ações e a aplicação de políticas públicas, com 
+o  intuito  de  promover  o  desenvolvimento  para  a  comunidade  sob 
+investigação.  
+
+A  criação  do  IVSA  da  cidade de  Arapiraca  foi  o  resultado  da 
+análise conjunta de cada indicador distribuído entre os três critérios 
+estabelecidos  por  Adger 
+(2006):  sensibilidade,  exposição  e 
+capacidade  de  resposta.  De  acordo  com  o  autor,  esses  critérios 
+podem  sintetizar  o  quão  é  vulneral  uma  localidade,  através  da 
+associação e relação entre eles, pois quanto maior for a exposição e 
+as pressões que o ambiente esteja sofrendo ou venha a sofrer, maior 
+será  a  sua  sensibilidade  e  menor  a  sua  capacidade  de  resposta 
+(ADGER, 2006).  
+
+Concomitantemente  observou-se  que  os  indicadores  em 
+situação crítica, são aqueles dos critérios de exposição e capacidade 
+de  resposta,  especificamente  os  indicadores  de  área  com  menor 
+ocupação de vegetação, área com maior ocupação de construções 
+
+Resultados e Discussões 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+em planícies fluvial (critério de exposição)  e esgotamento sanitário 
+(critério de capacidade de resposta).  
+
+Os indicadores área com menor ocupação de vegetação e área 
+com  maior  ocupação  de  construções  em  planícies  fluviais,  são  os 
+únicos do critério de “exposição”, logo, esse critério foi o que mostrou 
+o  nível  mais  elevado  de  vulnerabilidade.  A  figura  2,  espacializa  a 
+ocupação da vegetação na cidade de Arapiraca. 
+
+Figura 2:Mapa de cobertura Vegetal do Município de Arapiraca- AL (2010). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Autores (2018). 
+
+Um fator responsável pela retirada da vegetação segundo Leite 
+(2012), como mostra o mapa, é a especulação imobiliária, vinculada 
+ao  crescimento  populacional  da  cidade  de  Arapiraca,  fenômeno 
+posterior ao caráter agrícola que a cidade possuiu durante o auge da 
+produção de fumo. A falta de vegetação e ocupação inadequada das 
+vertentes dos córregos que corta a região urbana de Arapiraca gera 
+problemas ambientais e social como inundações.   
+
+Paralelamente  à  situação  do  critério  de  exposição,  os  sete 
+indicadores  do  critério  de  sensibilidade,  apontaram  para  uma 
+variação positiva na série comparativa entre os anos estudados. Em 
+2000, para o critério de sensibilidade, a cidade encontrava-se no nível 
+de  Média  Vulnerabilidade;  em  contrapartida,  após  dez  anos  com 
+adoção  de  medidas  de  melhoria  na  oferta  de  serviços  públicos 
+(saúde,  educação,  entre  outros)  e  programas  de  distribuição  de 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+renda,  em  2010,  Arapiraca  já  se  encontrava  no  nível  de  Baixa 
+Vulnerabilidade. 
+
+Conforme os resultados obtidos pelo critério de capacidade de 
+resposta  da  dimensão 
+infraestrutura  urbana,  que  avaliaram  a 
+qualidade  habitacional  da  população,  o  indicador  Esgotamento 
+Sanitário  evidenciou  as  condições  precárias  na  oferta  do  serviço, 
+sendo  constado  que  a  maioria  dos  bairros  não  possui  seu  esgoto 
+ligado a uma rede geral. Porém esse critério na sua conjuntura não é 
+preocupante,  visto  que  dos  quatro 
+indicadores  apenas  o 
+esgotamento sanitário foi avaliado negativamente. Assim, o nível de 
+vulnerabilidade  para  o  critério  de  capacidade  de  resposta  foi  de 
+Média Vulnerabilidade. 
+
+Para entender de que forma os resultados foram impactados 
+vale ressaltar que o ordenamento territorial é necessário ao pleno 
+cumprimento da “função social, como consequência de um processo 
+histórico  de  sucessão  de  modelos  socioeconômicos  pautados,  em 
+boa parte, pela supressão da maioria” (PEREIRA, 2009, p. 20), com a 
+premissa  de  minimizar  as  desigualdades  espaciais  do  ambiente 
+urbano e aperfeiçoar a ação do poder público local. 
+
+Pereira  (2009)  enfatiza  que  o  crescimento  desordenado  das 
+cidades  causa  diversos  problemas  de  ordem  social  que  vão, 
+impreterivelmente,  interferir  nas  questões  ambientais.  Todo  esse 
+contingente e correlação evidenciam a dificuldade ou ineficiência da 
+administração das cidades em lidar com os problemas ambientais e 
+sociais  advindos  da  oferta  ineficiente  da  infraestrutura  urbana 
+necessária. 
+
+Em consequência da avaliação quantitativa dos três critérios, é 
+possível  aferir,  a  partir  do  mapa 
+final  da  Vulnerabilidade 
+Socioambiental  de  Arapiraca,  que  a  cidade  não  apresenta  níveis 
+elevados  de  vulnerabilidade  socioambiental.  A  seguir,  em 
+decorrência da apreciação comparativa das figuras 3 e 4, é possível 
+identificar o referido fato: 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+Figura 3:Mapa de Indicador Percentual de Vulnerabilidade (2000). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Autores (2018). 
+
+Em 2000, como exposto na figura 3, dos 33 bairros, 6 estavam 
+inseridos no nível de Média Vulnerabilidade, estando os demais 27 
+bairros no nível de Baixa Vulnerabilidade. É possível observar que os 
+bairros  que  estavam  inseridos  nos  níveis  de  valores  menores  são 
+bairros  periféricos  que  ainda  possuem  características  e  traços  da 
+zona rural, ou seja, bairros que ainda necessitam de investimentos 
+em  diversas  áreas,  símbolo  do  processo  gradual  e  contínuo  de 
+expansão e atualização da zona urbana de Arapiraca. 
+
+No ano de 2010 foi registrado o aumento no perímetro urbano, 
+bem como a mudança de nomenclatura de alguns bairros. O único 
+bairro  que  estava  na  classe  de  Média  vulnerabilidade  era  o  bairro 
+Massaranduba que, em 2000, não fazia parte do perímetro urbano 
+de Arapiraca. 
+
+Ou seja, é um bairro que está em processo de estruturação e 
+que,  inevitavelmente,  apresenta  algumas  dificuldades  resultantes 
+desse  processo  de  estruturação.  A  figura  4,  retrata  a  evolução  do 
+município se comparado com o ano de 2000. 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+Figura 4: Mapa de Indicador Percentual de Vulnerabilidade (2010). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Autores (2018). 
+
+Comparando  os  dados  dos  anos  estudados,  é  possível 
+perceber  que  Arapiraca  é  uma  cidade  que  apresenta  baixa 
+vulnerabilidade,  de  acordo  com  os  indicadores  verificados.  No 
+entanto,  é  visível  a  intensa  relação  e  influência  do  processo  de 
+crescimento populacional e a dinâmica urbana nos indicadores que 
+avaliam  a  dimensão  risco  ambiental  (ocupação  da  vegetação  e 
+ocupação da planície fluvial). A degradação do meio se estabelece a 
+partir  do  desenvolvimento  das  atividades  humanas,  como  o  uso  e 
+ocupação do solo. 
+
+É  perceptível  que  aos  bairros  que  apresentaram  mais 
+problemas  com  relação  aos  indicadores  das  três  dimensões  (risco 
+ambiental,  risco  social  e  infraestrutura  urbana)  são  bairros  que 
+possuem criação mais recente, que ainda não conseguem atender às 
+necessidades  da  população,  ou  seja,  estão  em  processo  de 
+estruturação.  
+
+Conclusão 
+
+O critério que influencia decisivamente o Índice Vulnerabilidade 
+Socioambiental  de  Arapiraca-  AL  é  o  de  sensibilidade.  Esse  critério 
+avalia a dimensão risco social, com as características da população, 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+com  o  intuito  de  demonstrar  a  fragilidade,  quando  exposto  a  um 
+dano, possui a maior quantidade de indicadores: sete no total. Os 
+valores  obtidos  por  cada 
+foram  satisfatórios  e 
+inevitavelmente se sobressaíram em relação aos demais, mediante o 
+aferimento  dos  dados  e  principalmente  devido  a  sua  forma  de 
+divulgação,  porque  o  IBGE  disponibiliza  os  dados  da  cidade  de 
+Arapiraca por bairro e não por setor censitário.  
+
+indicador 
+
+apresenta, 
+
+Os resultados obtidos neste estudo constataram que a cidade 
+de  Arapiraca 
+de 
+vulnerabilidade socioambiental de baixo a médio (com valores entre 
+0,21  a  0,40  de  Baixa  Vulnerabilidade  a  0,41  a  0,60  de  Média 
+Vulnerabilidade).  Decorrente  de  fatores  sociais  e  ambientais,  a 
+mensuração final do IVSA foi de 0,35. 
+
+predominantemente, 
+
+níveis 
+
+Conclui-se que Arapiraca apresenta a relação enfatizada por 
+Deschamps  (2004),  em  que  populações  socialmente  vulneráveis 
+tendem  a  se  localizar  em  áreas  ambientalmente  vulneráveis  e 
+estando susceptíveis a riscos e perigos. Esses casos expõem que tal 
+condição de vulnerabilidade, em alguns aspectos, está condicionada 
+ao  uso  que  se  faz  da  área,  sendo  ou  não  de  interesse  social  e 
+principalmente econômico. Esse fato pode evidenciar o importante 
+papel  da  dinâmica  econômica  na  modificação  dos  aspectos 
+socioambiental da cidade. 
+
+A  respeito  da  metodologia  aplicada,  foi  possível  mapear  e 
+traçar um perfil de Arapiraca com relação à sua cobertura vegetal, 
+condição  social  e  infraestrutura  dos  bairros  que  necessitam  de 
+intervenção,  que  pode  ser  importante  instrumento  para  o  poder 
+público  local  na  elaboração  de  políticas  públicas  voltadas  ao 
+ordenamento territorial. Verificou-se, a partir de uma sobreposição 
+de  dados,  uma  análise  sistêmica  a  respeito  da  exposição  física  aos 
+perigos  naturais  e  a  susceptibilidade  social  a  esses  processos 
+(BIRKMANN,  2006).  Assim,  o 
+Índice  de  Vulnerabilidade 
+Socioambiental (IVSA) está longe de ser um trabalho que represente 
+de fato a real dimensão das classes de vulnerabilidade, necessitando 
+de aprimoramentos e alternativas de operacionalização do conceito 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+de  vulnerabilidade,  assim  como  a  inclusão  de  outras  variáveis  de 
+avaliação desse fenômeno.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+Referências 
+
+16, 
+
+ADGER, William. N. Vulnerability. Global Environmental Change, 
+v. 
+em: 
+https://www.geos.ed.ac.uk/~nabo/meetings/glthec/materials/sim
+pson/GEC_sdarticle2.pdf. Acesso em: 14 de janeiro de 2019.  
+
+Disponível 
+
+268-281, 
+
+2006. 
+
+p. 
+
+BIRKMANN, Jorn. Measuring Vulnerability to Natural Hazards: 
+Towards Disaster Resilient Societies. UNU-Press, Tokyo, New York 
+e Paris, 2006. 
+
+DESCHAMPS,  Marley.  V.  OBSERVATÓRIO  DAS  METRÓPOLES  – 
+
+IPPUR/FASE, 2009. 
+
+______________________.  Vulnerabilidade  socioambiental  na 
+Região  Metropolitana  de  Curitiba.  Tese  (Doutorado  em  Meio 
+Ambiente e Desenvolvimento) - Universidade Federal do Paraná-
+
+UFPR, Curitiba, 2004. 
+
+Censo 
+
+IBGE. 
+http://www.ibge.gov.br/. Acesso em: 12 dez. 2016. 
+
+Demográfico, 
+
+2010. 
+
+Disponível 
+
+em: 
+
+_____. 
+
+Censo 
+
+Demográfico, 
+
+2000. 
+
+Disponível 
+
+em: 
+
+http://www.ibge.gov.br/. Acesso em: 12 dez. 2016. 
+
+Censo 
+
+_____. 
+http://www.ibge.gov.br/. Acesso em: 12 dez. 2016. 
+
+Demográfico, 
+
+1991. 
+
+Disponível 
+
+em: 
+
+IPEA.  Atlas  da  vulnerabilidade  social  nos  municípios 
+
+brasileiros.  Editores:  Marco  Aurélio  Costa,  Bárbara  Oliveira 
+Marguti. 
+em: 
+http://ivs.ipea.gov.br/images/publicacoes/Ivs/publicacao_atlas_iv
+s.pdf. Acesso em: 12 dez. 2016. 
+
+Disponível 
+
+Brasília, 
+
+2015. 
+
+– 
+
+LEITE,  Ângela.  M.  A  –  O  Município  de  Arapiraca/AL  e  sua 
+Dinâmica Histórica de Ocupação e Renda, 2012. 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+LIVERMAN,  Diana.  M.  Vulnerability  to  global  environmental 
+change. 
+(Ed.).  Environmental 
+
+In:  CUTTER,  Susan. 
+
+L. 
+
+risksandhazards. London: Prentice-Hall, 1994. p. 326-342. 
+
+LOPES, José. L. S. Proposta de indicadores de sustentabilidade 
+aplicado para o estudo da vulnerabilidade da comunidade de 
+Batoque-Aquiraz/CE. Tese (Doutorado em Geografia) – Curso de 
+
+Geografia, Universidade Federal do Ceará, Fortaleza, 2013. 
+
+MARANDOLA JR., Eduardo.; HOGAN, Daniel. J. Vulnerabilidades e 
+riscos:  entre  geografia  e  demografia.  Revista  Brasileira  de 
+Estudos de População. São Paulo, v. 22, n. 1, pp. 29-53, jan/jun. 
+
+Francisco.  Geografia 
+
+MENDONÇA, 
+In: 
+MENDONÇA,  Francisco.;  KOZEL,  Salete.  (Orgs).  Elementos  de 
+epistemologia  da  geografia  contemporânea.  Curitiba:  UFPR, 
+
+socioambiental. 
+
+2005. 
+
+2002. 
+
+MENDONÇA,  Francisco.;  LEITÃO,  Sanderson.  A.  M.  Riscos  e 
+vulnerabilidade socioambiental urbana: uma perspectiva a partir 
+dos recursos hídricos. GeoTextos. v. 4, n. 1 e 2, p. 145-163, 2008. 
+
+MITCHELL,  James.  K.  Hazards  research.  In:  GAILE,  Gary.  L.; 
+WILLMOTT,  Cort.  J.  Geography  in  America.  Columbus,  OH: 
+Merrill, 410-424, 1989. 
+
+MORAIS,  Odilon.  M.  Et.  al.  Uso  Corporativo  do  Território  e  a 
+
+Industrialização em Arapiraca – AL. In: VII Congresso Brasileiro de 
+Geógrafos, 2014, Vitória/ES. Anais. Vitória: AGB, 2014.  
+
+PEREIRA,  Rafaela.  R.  Planejamento  Territorial:  suas  implicações 
+para  apromoção  da  saúde  e  da  justiça  ambiental.  GEOUSP: 
+
+Espaço e Tempo, São Paulo, Nº 26, pp. 19 - 27, 2009. Disponível 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+http://www.revistas.usp.br/geousp/article/view/74125. 
+
+em: 
+Acesso em: 20 de outubro de 2018. 
+
+PMA.  Prefeitura  Municipal  de  Arapiraca.  Coordenação  para 
+Elaboração  da  Agenda  21.  Relatório  das  características 
+ambientais  do  município  de  Arapiraca-AL.  SECRETARIA 
+MUNICIPAL DE DESENVOLVIMENTO URBANO E MEIO AMBIENTE – 
+
+SEDUMA, 2007. 114p. 
+
+SOUZA, Marcelo. L. ABC do Desenvolvimento Urbano. 2ª. Ed. Rio 
+de Janeiro: Bertrand Brasil, 2005. 192p. 
+
+Publisher 
+
+Federal  de  Goiás. 
+
+Instituto  de  Estudos 
+Universidade 
+Socioambientais.  Programa  de  Pós-graduação  em  Geografia. 
+Publicação no Portal de Periódicos UFG. 
+As  ideias  expressadas  neste  artigo  são  de  responsabilidade  de 
+seus autores, não representando, necessariamente, a opinião dos 
+editores ou da universidade. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+Vulnerabilidade socioambiental de Arapiraca/AL 
+Juliete dos Santos.     Leandro Antonio de Oliveira. José Lidemberg de Sousa Lopes 
+
+Contribuições dos autores 
+
+Todos  os  autores  ofereceram  substanciais  contribuições 
+científicas e intelectuais ao estudo. As tarefas de concepção do 
+estudo, preparação e redação do manuscrito, bem como, revisão 
+crítica foram desenvolvidas em grupo. O autor Leandro Antonio 
+pelo 
+de  Oliveira 
+desenvolvimento  teórico-conceitual;  o  segundo  autor 
+José 
+Lidemberg  de  Sousa  Lopes,  pelos  procedimentos  técnicos  e 
+produção dos mapas e a terceira autora Juliete dos Santos, pela 
+aquisição de dados e suas interpretações e análise. 
+
+especialmente 
+
+responsável 
+
+ficou 
+
+.     .  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Juliete dos Santos, Mestre(a) em Dinâmicas Territoriais e Cultura pela 
+Universidade Estadual de Alagoas. Especialista em Ensino de Geografia e 
+Meio Ambiente pela Faculdade Venda Nova do Imigrante. Graduada em 
+Geografia  Licenciatura  pela  mesma  IES.  Membra  e  Pesquisadora  do 
+Laboratório  de  Estudos  sobre  Vulnerabilidades  Socioambientais. 
+Participação  como  Bolsista  no  projeto  de  pesquisa:  Mapeamento 
+socioambiental  do  Estado  de  Alagoas.  Desenvolve  Pesquisa  na  área  da 
+Geografia  Física  voltadas  para  compreensão  da  Vulnerabilidade 
+Socioambiental,  riscos  e  desastres  naturais,  desenvolvendo  trabalhos 
+direcionados  as  Geociências  e  Ciências  Ambientais  (Vulnerabilidade 
+Socioambiental;  Conservação  e  Manejo  dos  Solos;  Meio  Ambiente  e 
+Natureza). 
+ 
+Leandro  Antonio  de Oliveira,  Mestre  em  Dinâmicas  Territoriais  e 
+Cultura  pelo  Programa  de  Pós-Graduação  da  Universidade  Estadual  de 
+Alagoas.  Membro  do  Laboratório  De  Estudos  Sobre  Vulnerabilidade 
+Socioambiental.  Especialista  em  Meio  Ambiente,  Desenvolvimento  e 
+Sustentabilidade pela UCAMPROMINAS. Graduado em Licenciatura plena 
+em Geografia pela Universidade Estadual de Alagoas. Desenvolve Pesquisa 
+na  área  da  Geografia  voltadas  para  compreender  os  processos  de 
+Vulnerabilidade Social e Violência no Nordeste do Brasil. 
+ 
+José Lidemberg de Sousa Lopes, Pós-Doutor pelo Programa de Pós-
+graduação  em  Desenvolvimento  e  Meio  Ambiente  -  PRODEMA/UFC. 
+Doutor  em  geografia  pela  Universidade  Federal  do  Ceará.  Mestre  pela 
+Universidade Federal do Rio Grande do Norte. Licenciatura e Bacharelado 
+pela Universidade Federal do Ceará. Atualmente é Professor Adjunto da 
+Universidade  Estadual  de  Alagoas  -  Campus  V  de  Zumbi  dos  Palmares. 
+Professor  Permanente  do  Programa  de  Pós-graduação  em  Dinâmicas 
+Territoriais  e  Cultura.  Coordenador  do  Laboratório  de  Estudos  sobre 
+Vulnerabilidade  Socioambiental.  Tem  experiência  na  área  de  Geografia 
+Física, com ênfase em Paisagem Integrada, Modelagens e Sistemas para 
+Indicadores de Vulnerabilidade, Cartografia, Geoprocessamento e Ensino 
+de Educação Ambiental. 
+
+Data de recebimento 19 de junho de 2020 
+Aceite em 10 de abril de 2023 
+Publicação em 31 de agosto de 2023 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e63965 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

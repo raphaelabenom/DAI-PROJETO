@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/268b3c0cbc7b4268b58f15f0e5d61262/artifacts
+deleted_time: 1730139257811
+end_time: 1730139152172
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: 268b3c0cbc7b4268b58f15f0e5d61262
+run_name: judicious-wolf-664
+run_uuid: 268b3c0cbc7b4268b58f15f0e5d61262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730139147541
+status: 3
+tags: []
+user_id: rapha

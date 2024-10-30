@@ -1,0 +1,757 @@
+Artigos Originais
+
+A formação de uma rede de solidariedade 
+como estratégia de apoio ao futebol 
+praticado por mulheres em meio a 
+pandemia da covid-191
+
+The construction of a solidarity network as a strategy 
+to support women’s football in the midst of the covid-19 
+pandemic
+
+La formación de una red de solidaridad como estrategia 
+de apoyo al fútbol femenino durante la pandemia del 
+covid-19
+
+Ana Laura Eckhardt de Lima 
+Universidade Federal do Rio Grande (FURG), Rio Grande do Sul, Brasil
+analaura_eck@hotmail.com
+
+Raquel Pereira Quadrado 
+Universidade Federal do Rio Grande (FURG), Rio Grande do Sul, Brasil
+raquelquadrado@hotmail.com
+
+Resumo:  Este  artigo  objetivou  analisar  campanhas  e  ações  em 
+prol do futebol de mulheres desencadeadas durante a pandemia 
+da covid-19. As análises apresentadas são fruto de um recorte de 
+pesquisa que tomou os sites de notícias como local de produção 
+de  dados.  Utilizando  o  buscador  do  Google,  produzimos  um  le-
+vantamento  de  notícias  a  partir  do  termo  “futebol  feminino”  no 
+período  entre  fevereiro  a  dezembro  de  2020  e  realizamos  a  ca-
+tegorização temática para proceder com as análises. A partir dos 
+
+1 Esta pesquisa recebeu apoio financeiro da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) através do 
+Programa Demanda Social. Este artigo trata-se um recorte da dissertação de mestrado defendida no Programa de Pós-Gradu-
+ação em Educação da Universidade Federal do Rio Grande.
+
+conceitos de acontecimento (FOUCAULT, 2014) e bio(necro)política 
+(GALLO, 2021), analisamos a emergência de uma rede de solidarie-
+dade como estratégia de apoio ao futebol praticado por mulheres 
+através de campanhas e ações que visaram auxiliar a modalidade 
+a mitigar os efeitos da pandemia da covid-19. 
+Palavras-chave: 
+SARS-CoV-2. 
+
+campanhas 
+
+solidárias; 
+
+feminino; 
+
+futebol 
+
+Abstract: This article aimed to analyze social enterprises and ac-
+tions that were triggered by the covid-19 pandemic, and supported 
+women’s football during the health crisis. The analyses discussed 
+here are the outcome of a data analysis that considered relevant 
+news websites as a place of data production. Using the Google sear-
+ch engine, we produced a news survey based on the term “futebol 
+feminino”  in  the  period  between  February  and  December  2020 
+and carried out the thematic categorization to proceed with the 
+analyses. We employed the concepts of event (FOUCAULT, 2014) 
+and bio(necro)politics (GALLO, 2021) to discuss the emergence of 
+these networks, in order to help the sport to mitigate the effects of 
+the covid-19 pandemic. 
+Keywords: solidarity enterprises; women’s football; SARS-CoV-2.
+
+Resumen: Este artículo tuvo como objetivo analizar las campañas 
+y acciones de apoyo al fútbol femenino desencadenadas durante 
+la  pandemia  del  covid-19.  Los  análisis  presentados  son  el  resul-
+tado de un recorte de investigación que tuvo como lugar de pro-
+ducción de datos los sitios web de noticias.  Utilizando el busca-
+dor de Google, elaboramos una encuesta de noticias en base al 
+término  “futebol  feminino”  en  el  período comprendido entre fe-
+brero y diciembre de 2020 y realizamos la categorización temática 
+para proceder con los análisis. A partir de los conceptos de evento 
+(FOUCAULT, 2014) y bio(necro)política (GALLO, 2021) analizamos 
+el surgimiento de una red solidaria como estrategia de apoyo al 
+
+fútbol  practicado  por  mujeres  a  través  de  campañas  y  acciones 
+que pretendían ayudar a la modalidad a mitigar los efectos de la 
+pandemia del covid-19. La movilización y el compromiso alrededor 
+a estas campañas contribuyeron a mantener el deporte visible y 
+vivo en la escena brasileña en medio de la crisis.
+Palabras clave: campañas solidarias; fútbol femenino; SARS-CoV-2.
+
+Submetido em: 2022-07-25 
+Aceito em: 2022-12-01
+
+Introdução
+
+A participação das mulheres no universo cultural do futebol 
+remete à própria história desse esporte no país (ALMEIDA, 2020), 
+o que significa dizer que as mulheres sempre estiveram presen-
+tes, de uma forma ou de outra, na modalidade. Essa participação 
+era mais notável na assistência esportiva, mas, com o passar do 
+tempo,  elas  foram  conquistando  visibilidade  na  própria  prática 
+em festas esportivas, picadeiros circenses e campos suburbanos, 
+no período que antecede a proibição de 19412 (BONFIM, 2019), e, 
+também, nas várzeas e nas praias, sendo essa presença intensifi-
+cada no período de revogação da proibição, a partir da década de 
+1980 (ALMEIDA, 2020). Consequentemente, também será a partir 
+desse período que teremos mais registros disponíveis sobre a his-
+tória das mulheres no futebol. 
+
+De acordo com Caroline Almeida (2020), embora a lei que proi-
+biu as mulheres de jogarem futebol no Brasil por quase 40 anos 
+tenha sido revogada em 1979, isso não significou a “liberação” da 
+prática. Sem a regulamentação da categoria, as mulheres podiam 
+jogar  futebol  e  organizar-se  em  equipes,  porém  a  recém-criada 
+Confederação Brasileira de Futebol (CBF) não só negava apoio a 
+elas, como proibia qualquer disputa entre mulheres nos estádios 
+ditos oficiais, como afirma a autora. Esse cenário passou por uma 
+gradativa mudança a partir de abril de 1983, quando o Conselho 
+Nacional  dos  Desportos  (CND)3  regulamentou  a  modalidade  no 
+país (ALMEIDA, 2020).
+
+Ainda  assim,  foram  necessários mais  de  30  anos  para  a  en-
+tidade máxima do futebol brasileiro desenvolver uma política de 
+inserção das mulheres no futebol. Isso porque, no início do ano 
+de  2017,  a  CBF  divulgou  um  novo  Regulamento  de  Licenças  de 
+Clubes necessárias para a disputa das competições coordenadas 
+pela  entidade,  assim  como  para  a  participação  em  competições 
+continentais  coordenadas  pela  Confederação  Sul-Americana  de 
+
+2 O futebol praticado por mulheres foi proibido no Brasil, no período entre 1941 a 1979. Essa proibição também se estendeu a 
+outras modalidades esportivas como as lutas, polo, halterofilismo e beisebol (LIMA; QUADRADO, 2022, p. 11-12). 
+3 O Conselho Nacional dos Desportos (CND) foi extinto em 1993.
+
+Futebol  (CONMEBOL).  Neste  documento,  a  CBF  exige  que  o  clu-
+be requerente à licença deve contar com uma equipe principal de 
+“futebol feminino” ou manter parceria/associação com um clube 
+que possua uma equipe de futebol de mulheres (CBF..., 2017). Essa 
+normativa passou a vigorar a partir de 2019, após um período de 
+quase dois anos para os clubes realizarem as adequações.
+
+Vale ressaltar, no entanto, que essa medida foi adotada após a 
+Federação Internacional de Futebol (FIFA) introduzir o princípio da 
+igualdade de gênero em seu Estatuto, divulgado no ano anterior 
+(FIFA, 2016). No mesmo período, a CONMEBOL, no nível em que 
+lhe compete, já havia publicado um novo regulamento de licenças 
+tornando  obrigatório  aos  clubes  que  desejassem  participar  das 
+competições organizadas pela entidade a manutenção ou associa-
+ção com uma equipe de “futebol feminino” (CLUBES..., 2016). Isso 
+indica que o futebol praticado por mulheres, até muito recente-
+mente, não tinha a atenção da principal entidade futebolística do 
+país  e  que,  quando  a  CBF  passou  a  olhar  para  a  modalidade,  o 
+fez em virtude de exigências de organizações superiores, como a 
+CONMEBOL e a FIFA (MENDONÇA, 2019 apud GOELLNER, 2020). 
+A despeito dos anos de negligência da CBF com o futebol prati-
+cado por mulheres, a história delas no futebol brasileiro é rechea-
+da de títulos e conquistas. Silvana Goellner (2020) associa os bons 
+resultados alcançados, em meio aos desafios impostos diariamen-
+te às mulheres que jogam futebol, a requisitos como amor, dedica-
+ção e resiliência. A resiliência, aliás, também foi identificada como 
+uma possibilidade de adesão e permanência no futebol praticado 
+por  mulheres  num  estudo  realizado  por  Carlos  Borges,  Simone 
+Lopes, Claudia Alves e Fábio Alves (2006) com praticantes da mo-
+dalidade na cidade de Viçosa-MG. Esse comportamento resiliente 
+das mulheres que jogam futebol no Brasil talvez tenha ganhado 
+novos contornos com a chegada da pandemia da covid-19, a qual 
+assolou o mundo como um todo e teve desdobramentos impor-
+tantes no futebol, sobretudo no futebol praticado por mulheres. 
+Em  virtude  das  dificuldades  impostas  pela  emergência  sani-
+tária,  federações  e  confederações,  assim  como  clubes  e  atletas, 
+
+tiveram  de  se  reinventar  para  enfrentar  as  crises  que  afetaram 
+o  futebol.  Com  a  paralisação  dos  campeonatos  nacionais,  mui-
+tos clubes perderam parte de suas receitas, seja com a bilheteria 
+dos estádios, seja com os patrocinadores. Como identificou Rayne 
+Oliveira, da Revista AzMinas (2021), mesmo com as obrigações im-
+postas pelas entidades futebolísticas, a pandemia da covid-19 difi-
+cultou com que os resultados dessas medidas se concretizassem, 
+e com a queda na receita dos clubes, as equipes femininas foram 
+jogadas para escanteio, com salários atrasados e o encerramento 
+de departamentos. No entanto, mesmo frente a esse cenário de 
+crises imposto pela pandemia, observamos que as organizações 
+esportivas do país não foram tão atuantes, como poderiam ser, 
+para mitigar os efeitos da emergência sanitária no futebol de mu-
+lheres, fazendo emergir uma rede de solidariedade como estraté-
+gia de apoio à modalidade.
+
+Diante do exposto, este artigo tem por objetivo analisar cam-
+panhas e ações em prol do futebol praticado por mulheres que fo-
+ram desencadeadas durante a pandemia da covid-19. Este trabalho 
+encontra-se organizado do seguinte modo: inicialmente, delinea-
+mos o contexto em que a pesquisa foi desenvolvida, a pandemia 
+da covid-19, a partir dos conceitos de acontecimento (FOUCAULT, 
+2014) e bio(necro)política (GALLO, 2021); na sequência, apresenta-
+mos nossas decisões metodológicas; em seguida, desenvolvemos 
+as nossas análises e pontuamos algumas considerações.
+
+A  pandemia  da  covid-19:  entre  o  acontecimento  e  a  
+bio(necro)política
+
+A  covid-19  (coronavirus  disease)  é  uma  síndrome  respiratória 
+aguda grave provocada pelo vírus SARS-CoV-2 da família dos coro-
+navírus e foi responsável pela “pandemia da covid-19” ou “pandemia 
+do coronavírus”, como ficou conhecida. O início da epidemia ocor-
+reu em dezembro de 2019, na cidade de Wuhan (China), mas foi em 
+março de 2020 que a covid-19 foi caracterizada como, de fato, uma 
+
+pandemia4 pela Organização Mundial da Saúde (OMS). Em função 
+dessa emergência sanitária, novas e drásticas mudanças afetaram 
+a vida de milhões de pessoas por todo o mundo. De medidas mais 
+simples, como o uso de máscaras de proteção facial e a higiene das 
+mãos com álcool em gel, a medidas mais extremas, como a restri-
+ção de circulação de pessoas em ambientes abertos e fechados, as-
+sim como o distanciamento e o isolamento social, passaram a ser 
+adotadas numa tentativa de frear a disseminação do vírus. 
+
+Considerando  a  singularidade  dessa  emergência  e  sua  ca-
+pacidade  de  produzir  efeitos,  compreendemos  a  pandemia  da 
+covid-19  como  um  acontecimento.  Para  tanto,  revisitamos  aqui 
+os  sentidos  que  o  termo  assume  para  o  filósofo  francês  Michel 
+Foucault. Edgardo Castro (2009) distingue dois sentidos: aconte-
+cimento como novidade/diferença ou “acontecimento arqueológi-
+co”, que busca dar conta da novidade histórica; e acontecimento 
+como prática histórica ou “acontecimento discursivo”, o qual per-
+segue  a  regularidade  histórica  das  práticas.  Todavia,  ambos  os 
+sentidos  estão  em  relação,  pois  “as  novidades  instauram  novas 
+formas de regularidades” (CASTRO, 2009, p. 24). Conforme Castro 
+(2009), para encontrar um equilíbrio entre o acontecimento como 
+novidade e o acontecimento como regularidade, Foucault pensa 
+essa  relação  assumindo  as  descontinuidades  das  regularidades, 
+o acaso das suas transformações e a materialidade das suas con-
+dições de existência. A partir disso, o termo acontecimento assu-
+me outros dois sentidos: acontecimento como relação de forças e 
+como “acontecimentalização”.
+
+Para  este  trabalho,  os  sentidos  de  acontecimento  como  no-
+vidade histórica e “acontecimentalização” assumem centralidade. 
+Com  o  primeiro,  argumentamos  que  a  pandemia  da  covid-19  é 
+um acontecimento por se tratar da irrupção de uma singularida-
+de histórica, ou seja, é uma novidade histórica, já que, em nossos 
+tempos  não  havíamos  vivenciado  algo  semelhante,  de  tamanho 
+impacto sanitário, social, político  e econômico  e que  repercutiu, 
+de uma forma ou de outra, no mundo todo. Com o segundo sen-
+tido, “acontecimentalização”, buscamos fugir das explicações que 
+
+4 De acordo com o site da Organização Pan-americana da Saúde (OPAS, [202-]), “pandemia” é um termo que se refere à dis-
+tribuição geográfica de uma doença, reconhecendo que existem surtos dessa doença em vários países e regiões do mundo.
+
+atribuem a uma única causa a emergência de um acontecimento, 
+assim como implica em uma fuga a continuidade histórica.
+
+Nesse sentido, entendendo a pandemia da covid-19 como um 
+acontecimento, podemos afirmar que ela produz outros aconteci-
+mentos, ao mesmo tempo em que reverbera de modos distintos 
+em cada sociedade, em cada contexto e na vida de cada pessoa. 
+Assim, não estamos e nunca estivemos num “mesmo barco”, como 
+se ouviu muitas vezes ao longo do período pandêmico, pois com-
+preendemos que as interseccionalidades entre gênero, raça/etnia, 
+classe social, sexualidade, espaço geográfico, geração etc. acarre-
+taram, e ainda acarretam, em experiências individuais para cada 
+sujeito,  embora  algumas  aproximações  entre  grupos  que  viven-
+ciam situações similares possam ser possíveis. 
+
+Como nos diz Judith Butler (2020), o vírus nos trata por igual, 
+nos coloca igualmente no risco de adoecer ou de perder alguém 
+próximo, nos deixa em constante ameaça e nos mostra como a co-
+munidade humana é igualmente frágil. A autora elenca, no entan-
+to, uma série de ações que fizeram, e ainda fazem, com que o vírus 
+“discrimine”, como ela pontua, ou seja, que fazem com que esse 
+mesmo vírus afete alguns grupos mais do que outros. Como exem-
+plo, Butler (2020) cita a incapacidade de estados e regiões em se 
+preparar com antecedência quando do anúncio da circulação do 
+vírus, o recrudescimento das políticas nacionais, o fechamento das 
+fronteiras, o racismo (assim como a xenofobia) e a presença de 
+um empresariado ávido para capitalizar o sofrimento global, como 
+algumas das estratégias que testemunham como a desigualdade 
+radical  encontrou  maneiras  de  se  reproduzir  e  se  fortalecer  em 
+territórios pandêmicos.
+
+Nesse movimento, Butler (2020) nos move a pensar em duas 
+direções, que longe de serem opostas, se complementam. Ao citar 
+diferentes ações que potencializaram a crise global, assentada nas 
+desigualdades mundiais, sobretudo sociais e econômicas, a autora 
+foge das explicações que atribuem a uma única causa a irrupção 
+da emergência sanitária e lança luz para acontecimentos disper-
+sos no tempo que constituem o “acontecimento pandemia”, e que 
+
+também são efeitos desse acontecimento. Por outro lado, ao men-
+cionar algumas estratégias adotadas por diversos Estados com vis-
+tas a contenção do vírus da covid-19 (estas modeladas pelos pode-
+res entrelaçados do nacionalismo, do racismo, da xenofobia e do 
+capitalismo, como destaca a autora), Butler (2020) nos provoca a 
+pensar sobre o acionamento de tecnologias de poder, no qual se 
+afirma o direto à vida de uns às custas da morte de outros.
+
+Nesse sentido, o filósofo brasileiro Sílvio Gallo (2021) destaca 
+que o que passamos a vivenciar no Brasil, a partir da emergên-
+cia da pandemia da covid-19, é da ordem de uma novidade polí-
+tica, nomeada por ele como bio(necro)política, isto é, tecnologias 
+necropolíticas  operando  no  interior  de  uma  biopolítica.  O  autor 
+explica que vimos assumir-se como necessária a morte de algu-
+mas populações, sobretudo os/as idosos/as, os/as negros/as e os/
+as pobres, em nome da liberdade de comércio de circulação de 
+outras pessoas, principalmente da classe média, jovens e brancos/
+as. Nessa lógica, as mortes são compreendidas como inevitáveis 
+e,  então,  devem  ser  aceitas  como  o  preço  pago  pelo  bem-estar 
+dos que sobrevivem e pelo equilíbrio econômico do país. Assim, 
+na  maquinaria  bio(necro)política,  “afirmação  da  vida  para  uns  e 
+afirmação da morte para outros são as duas faces de uma mesma 
+moeda” (GALLO, 2021, p. 49). 
+
+Tirar a vida, no entanto, é apenas um modo de operação dessa 
+tecnologia de poder, embora seja a mais brutal. A bio(necro)polí-
+tica também opera nas estruturas sociais por meio de uma mor-
+te  simbólica  ou  assassínio  indireto  (FOUCAULT,  1999),  expondo 
+determinados grupos à morte, ao risco de morte ou adoecimen-
+to; expondo, ainda, a vida do/a outro/a a perigos diversos. Nesse 
+sentido, desigualdades perversas ganharam novas nuances, prin-
+cipalmente no que diz respeito às mulheres e a forma com que 
+pandemia da covid-19 afetou suas vidas. No futebol, no entanto, 
+vimos emergir uma rede de solidariedade por meio de campanhas 
+e ações destinadas às mulheres que jogam futebol e que foram 
+afetadas pela crise sanitária como uma estratégia de apoio à mo-
+dalidade no cenário nacional. 
+
+Decisões metodológicas
+
+Os dados e as análises apresentadas neste artigo compõem 
+uma pesquisa de mestrado que tomou os sites de notícias como 
+local de produção de dados. Diante disso, nossa primeira decisão 
+de método compreendeu a escolha dos descritores a partir dos 
+quais  realizamos  as  buscas  na  internet.  Optamos  por  produzir 
+nosso levantamento a partir do descritor “futebol feminino”, por 
+entender que as relações possíveis entre as mulheres e o fute-
+bol são (re)produzidas nas mídias por meio deste termo, com o 
+intuito de distinguir o futebol praticado por mulheres do futebol 
+praticado por homens.
+
+A partir desta decisão, lançamos o termo “futebol feminino” na 
+aba do Google e aplicamos o primeiro filtro, direcionando os re-
+sultados para as notícias, as quais constituíram o nosso interesse 
+de pesquisa. Diante do grande volume de notícias com o qual nos 
+deparamos,  recorremos  às  ferramentas  do  Google  para  aplicar 
+novos filtros e personalizar um intervalo mensal para as buscas. 
+Importante salientar que esse levantamento foi produzido ao lon-
+go dos anos de 2020 e 2021. O período investigado foi de fevereiro 
+a dezembro de 2020, tomando como referência o primeiro caso 
+confirmado  da  covid-19  pelo  Ministério  da  Saúde  no  Brasil,  em 
+26 de fevereiro de 2020, e a finalização do principal campeonato 
+da modalidade (Campeonato Brasileiro de Futebol Feminino A1). 
+Como forma de registro, criamos uma planilha no Excel com as se-
+guintes informações: data da pesquisa no Google, data da notícia, 
+título da notícia, site em que foi publicada e link de acesso.
+
+Das 1.976 notícias sobre “futebol feminino” que constam em 
+nosso  levantamento  inicial,  500  notícias  foram  excluídas  por  se 
+tratarem de notícias internacionais, notícias em vídeos e podcasts 
+e notícias disponíveis apenas para assinantes, além daquelas em 
+que a URL não estava mais disponível e as que o futebol de mulhe-
+res era apenas citado, como pano de fundo para outro assunto. 
+Assim, constituíram nosso interesse de pesquisa as notícias que 
+falavam sobre o futebol praticado por mulheres no Brasil, divulga-
+
+das em formato escrito e de acesso livre. Desse modo, das 1.476 
+notícias restantes emergiram 12 eixos de análise. Devido ao gran-
+de volume de material empírico, optamos por dedicar nosso re-
+corte analítico ao eixo 5, intitulado “Acontecimento pandemia da 
+covid-19”. Essa decisão se ancora na compreensão de que a pan-
+demia é um acontecimento em sentido foucaultiano, como discuti-
+do no tópico anterior, e, também, por esse eixo ser o segundo com 
+o maior número de notícias, 368 ao total.
+
+Em virtude da quantidade de notícias e da diversidade de as-
+suntos que compõem esse eixo, procedemos uma nova categori-
+zação temática da qual emergiram 8 categorias de análise. Desse 
+modo, esse artigo foi produzido a partir de um recorte de dados 
+da  categoria 7,  intitulada  “Ações e  campanhas  solidárias”. Neste 
+trabalho, analisamos as notícias que abordavam ações e campa-
+nhas que tinham como alvo as jogadoras de futebol ou clubes de 
+futebol de mulheres. A partir da seleção das notícias, realizamos a 
+leitura de cada uma e elaboramos pequenos resumos sobre o as-
+sunto abordado. No caso em que a notícia apresentava um artigo 
+de opinião, optamos por mantê-la na íntegra para as análises, que 
+serão apresentadas no tópico a seguir.
+
+A solidariedade como estratégia de apoio ao futebol de 
+mulheres
+
+Diante das crises desencadeadas ou potencializadas pela pan-
+demia  da  covid-19,  destacamos,  a  partir  dos  sites  de  notícias,  o 
+aparecimento de campanhas e ações solidárias em prol das mu-
+lheres que jogam futebol, sobretudo àquelas que enfrentaram di-
+ficuldades para manter suas necessidades básicas de sobrevivên-
+cia. Assim, num primeiro momento, observamos a emergência de 
+campanhas que tinham por objetivo a arrecadação e a doação de 
+alimentos para atletas e suas famílias. 
+
+Nesta  seara,  a  primeira  iniciativa  identificada  foi  cearense, 
+como noticiado pelo site Diário do Nordeste e escrita por Vladimir 
+
+Marques (2020). Jogadores e jogadoras das equipes do Ceará e do 
+Fortaleza  se  uniram  em  uma  ação  idealizada  pelo  Sindicato  dos 
+Atletas  de  Futebol  do  Estado  do  Ceará  (SAFECE)  e  contribuíram 
+com cerca de 150 cestas básicas, as quais foram doadas a outros/
+as atletas de futebol, entre homens e mulheres, que estavam sem 
+clube naquele momento. 
+
+Em seguida, foi a vez da Federação Paraense de Futebol (FPF) 
+que,  em  parceria  com  o  governo  do  Pará,  promoveu  a  entrega 
+de cestas básicas para as equipes de futebol de mulheres e cate-
+gorias  de  base  do  estado.  A  solidariedade  também  se  estendeu 
+à arbitragem, gandulas e maqueiros que trabalham nos dias de 
+jogos (RELVAS, 2020). O clube do Remo-PA também adotou uma 
+ação própria de distribuição de cestas básicas para seus/suas atle-
+tas das categorias de base e do futebol feminino. A arrecadação 
+das doações foi realizada na segunda edição do “Remo Live Fest”, 
+em parceria com o clube Tuna Luso Brasileira, conforme o site GE 
+(REMO..., 2020).
+
+A  solidariedade  também  tomou  conta  dos  campos  do  Rio 
+de  Janeiro  através  da  equipe  do  Flamengo-RJ,  que  organizou  a 
+campanha Nação Solidária e apoiou atletas das séries B1 e B2 do 
+Campeonato Carioca, trabalhadores/as informais do Maracanã e 
+moradores/as  de  comunidades  carentes,  sendo  estendida,  pos-
+teriormente,  às  jogadoras  que  atuam  na  equipe  do  Greminho 
+Futebol  Clube-RJ.  A  campanha,  que  ocorreu  em  parceria  com  o 
+SOS  Favela/Viva  Rio5,  realizou  a  entrega  de  vale-alimentação  no 
+valor  de  R$  80,00  e  álcool  em  gel  a  20  jogadoras  da  equipe  do 
+Greminho. Também foi doada uma camisa do Flamengo autogra-
+fada, a qual poderia ser leiloada pelo time, segundo noticiou o site 
+Lance (CAMPANHA..., 2020). 
+
+Observamos  que,  além  da  solidariedade,  essas  campanhas 
+têm em comum a preocupação com as necessidades básicas das 
+jogadoras, como já mencionado. Muitas passavam por dificulda-
+
+5 A SOS Favela é uma rede solidária que tem por objetivo minimizar os efeitos da pandemia sobre a população em situação 
+de fome e pobreza extrema, centrando suas ações na distribuição de alimentos entre famílias em insegurança alimentar, com 
+destaque para jovens mães e gestantes, conforme menciona o site da organização. Disponível em: http://sosfavela.org.br/. 
+Acesso em: 29 jun. 2022.
+
+des financeiras antes da chegada da pandemia e de seus efeitos 
+(FOUCAULT, 2014), mas tiveram a situação agravada com a emer-
+gência sanitária e o acionamento das tecnologias bio(necro)polí-
+ticas  (GALLO,  2021)  em  território  brasileiro.  A  formação de  uma 
+rede de solidariedade, assim, pode ser compreendida como uma 
+estratégia para minimizar a violência simbólica que expõe essas 
+mulheres ao risco, ao perigo e ao sofrimento dos tempos pandê-
+micos, quando não torna possível a manutenção de condições mí-
+nimas para o enfrentamento deste acontecimento.
+
+As campanhas também se destinaram aos clubes de futebol 
+que  passaram  a  enfrentar  crises  financeiras  em  seus  departa-
+mentos, as quais reverberaram ainda em suas atletas. Situações 
+que já eram difíceis antes da pandemia da covid-19 foram poten-
+cializadas pela emergência sanitária, como no caso da equipe do 
+Iranduba, do Amazonas. Para tanto, um grupo composto por dez 
+mulheres engajadas com o “futebol feminino” criou a campanha 
+“Avante Hulk”, como é popularmente conhecida a equipe, a qual 
+visou arrecadar doações para o clube por meio de sorteios de ca-
+misas oficiais (AZEVEDO, 2020). Vale lembrar que o Iranduba foi 
+destaque em 2017, quando mais de 25 mil pessoas comparece-
+ram à Arena da Amazônia para assistir ao jogo Iranduba X Santos 
+na semifinal do Campeonato Brasileiro Série A1 (COM PÚBLICO..., 
+2017). No entanto, a equipe já vinha enfrentando uma crise finan-
+ceira desde 2019, em função de problemas com a patrocinadora 
+máster Vegan Nation (AZEVEDO, 2020), e que foi agravada com a 
+paralisação dos campeonatos. 
+
+A equipe do Vitória, da Bahia, também enfrentou uma situa-
+ção  financeira  delicada  em  2020,  mobilizando  um  grupo  de  tor-
+cedores/as a criar uma campanha para ajudar as jogadoras. Em 
+maio, algumas atletas denunciaram atraso de três meses no paga-
+mento das ajudas de custo. Isso mobilizou a torcida Frente Vitória 
+Popular, que criou a campanha Eu apoio as leoas para arrecadar 
+recursos para as jogadoras, visando a autocontenção do time e o 
+auxílio para as despesas das atletas (TORCIDA..., 2020). O dinheiro 
+foi arrecadado por meio da venda de camisetas com temas relacio-
+
+nados ao Leão, como o clube é popularmente conhecido, e dividi-
+do entre as 27 jogadoras. Os recursos seriam destinados para aju-
+dar na manutenção da equipe, assim como para contribuir com as 
+despesas,  como  deslocamento,  alimentação,  equipamentos  etc., 
+uma vez que, devido à pandemia, as atletas haviam sido afastadas 
+do clube e estavam passando por dificuldades (GALDEA, 2020).
+
+Vale lembrar que a equipe do Vitória compunha, na época, a 
+elite do futebol brasileiro, tendo recebido uma ajuda de R$ 120 mil 
+da CBF destinada a todos os clubes da Série A1 do Campeonato 
+Brasileiro de Futebol Feminino, mas, ainda assim, as jogadoras tive-
+ram os salários atrasados. O presidente do clube, Paulo Carneiro, 
+chegou a declarar, em uma entrevista divulgada pelo site GE, que 
+“fazia com o dinheiro o que quisesse” (BARLEM, 2020, n. p.) e que 
+assumiria as responsabilidades perante o conselho fiscal, afirman-
+do que o clube possuía outros problemas e que não estava preo-
+cupado com o futebol feminino (BARLEM, 2020), evidenciando o 
+descaso do clube com a modalidade.
+
+Outro  clube  que  contou  com  a  solidariedade  foi  o  Íbis,  de 
+Pernambuco.  De  acordo  com  a  reportagem  escrita  por  Júlia 
+Rodrigues para a Folha de Pernambuco, a equipe tinha o objeti-
+vo de angariar o máximo de recursos possíveis por meio de uma 
+“vaquinha”  online  para  viabilizar  a  participação  no  Campeonato 
+Pernambucano de 2020, sendo os valores arrecadados destinados 
+ao  pagamento  de  transporte,  alimentação,  inscrições  e  transfe-
+rências de atletas. Além disso, outra dificuldade enfrentada pela 
+equipe foram as despesas com os testes rápidos para a detecção 
+da covid-19, exigidos quando do retorno presencial das atividades. 
+Importante ressaltar que as atividades do departamento feminino 
+não são remuneradas e a equipe também não possuía patrocina-
+dores/as para o pagamento das despesas do time. Quem arcava 
+com o custeio da equipe era o treinador e coordenador do depar-
+tamento feminino, Cristiano Recife, com a ajuda dos/as familiares 
+e  das  próprias  atletas,  além  do  executivo  do  clube,  Ozir  Ramos 
+(RODRIGUES, 2020). 
+
+Já  em  Minas  Gerais,  a  equipe  do  Ipatinga  precisou  “ir  para 
+o  sinal”6  pedir  dinheiro  quando  do  retorno  das  competições. 
+Disputando  o  Campeonato  Mineiro,  o  Ipatinga  não  possuía  re-
+cursos  para  viajar  à  capital  do  estado,  Belo  Horizonte,  para  um 
+confronto  contra  a  equipe  do  América.  A  solução  encontrada 
+pelo time foi sair às ruas para pedir dinheiro dois dias antes do 
+jogo. Conforme relatou a coordenadora e treinadora da equipe, 
+Kethleen  Azevedo,  à  reportagem  de  Laura  Rezende  e  Leonardo 
+Almeida  para  o  site  GE,  as  dificuldades  financeiras  enfrentadas 
+pelo Ipatinga passavam por deslocamento, hospedagem e alimen-
+tação,  até  os  exames  para  detecção  da  covid-19.  Além  disso,  as 
+jogadoras da equipe mineira não recebem salários, apenas algu-
+mas atletas recebem ajuda de custo. Quanto aos patrocínios, são 
+em forma de permuta, como academia e fisioterapia (REZENDE; 
+ALMEIDA,  2020).  Para  a  sequência  do  campeonato,  a  equipe  do 
+Ipatinga precisou criar uma “vaquinha” online com o objetivo de 
+arrecadar recursos para custear as despesas com a competição. 
+A situação compartilhada por esses clubes, dentro das pecu-
+liaridades e particularidades de cada um, evidencia o descaso da 
+entidade máxima do futebol brasileiro com o futebol praticado por 
+mulheres. Vale salientar que a CBF realizou um repasse de verbas 
+aos 52 clubes que disputam o Campeonato Brasileiro de Futebol 
+Feminino, sendo R$ 120 mil reais para cada uma das equipes da 
+Série A1 e R$ 50 mil reais para cada uma das equipes da Série A2. 
+Esses mesmos valores foram os destinados às Séries C e D do fu-
+tebol praticado por homens, respectivamente. Ou seja, ainda em 
+se tratando da elite do futebol praticado por mulheres, o auxílio 
+recebido se equivale àquele destinado à 3ª e 4ª divisão do futebol 
+masculino. 
+
+Outro ponto a ser destacado é que a CBF não impôs condições 
+para o uso do dinheiro, nem exigiu contrapartida das equipes, ape-
+nas informou que o montante equivaleria à média de duas folhas 
+salariais  dos/as  atletas  de  cada  competição  (CBF,  2020),  abrindo 
+
+6 “Ir para o sinal” é uma expressão usada quando pessoas vão às ruas, próximo aos semáforos, para pedir doações ou vender 
+produtos para os/as motoristas que param seus veículos quando o sinal está vermelho.
+
+brechas  para  inúmeros  problemas  no  repasse  do  dinheiro  às  jo-
+gadoras, como ocorrido, por exemplo, com a equipe do Vitória-BA, 
+aqui já mencionada. Nesse sentido, compreendemos que enquan-
+to gestora do futebol no país, caberia à CBF ser vigilante com a si-
+tuação financeira das equipes, para que o futebol de mulheres não 
+sofresse  retrocessos  em  tempos  pandêmicos.  Para  isso,  além  de 
+destinar verbas para alguns clubes, é preciso acompanhar se os re-
+cursos chegam ao destino. Como pontua Ana Thaís Matos (2020, n. 
+p.): “afinal, no futebol brasileiro o problema não é só financeiro, é de 
+gestão (como está bem claro com a situação de dezenas de clubes)”. 
+Assim, ter um plano de ações coordenado com as federações 
+e  os  clubes,  bem  como  possuir  comissão  própria  para  acompa-
+nhar o desenvolvimento da modalidade, com um conselho técni-
+co, ético e financeiro específico e um departamento formado com 
+profissionais  que  conhecem  as  especificidades  do  ramo,  como 
+reivindica Matos (2020), seriam estratégias para mitigar os efeitos 
+do “acontecimento pandemia” (FOUCAULT, 2014) no futebol prati-
+cado por mulheres. Neste contexto, observamos que a formação 
+de uma rede de solidariedade envolvendo atletas, torcedores/as e 
+algumas federações de futebol foi uma estratégia para manter a 
+modalidade visível em tempos pandêmicos. Importante salientar 
+que a solidariedade no futebol praticado por mulheres extrapola 
+as reportagens aqui apresentadas, estando presente no dia a dia 
+da modalidade. No entanto, esta ganhou novos contornos com a 
+emergência da pandemia da covid-19.
+
+Entendemos, ainda, que a mobilização e o engajamento em 
+torno das campanhas, seja de jogadoras, torcedoras/es, dirigen-
+tes ou federações, não permitiu que a modalidade caísse, uma 
+vez  mais,  nas  zonas  de  sombras.  Além  disso,  compreendemos 
+que a resiliência assumiu, nestes tempos, um papel importante, 
+uma vez que muitas mulheres que jogam futebol no Brasil são 
+capazes de desenvolver essa capacidade, individualmente ou no 
+grupo em que convivem, como uma possibilidade de permane-
+cer no esporte. Ser resiliente em tempos pandêmicos e em meio 
+a  tantas  crises  que  emergiram  como  efeito  do  “acontecimento 
+
+pandemia” e do acionamento das bio(necro)políticas talvez tenha 
+sido a linha que costurou essa rede que manteve vivo o futebol 
+praticado por mulheres no país. 
+
+Referências
+
+ALMEIDA, C. S. de. Nas praias e nas várzeas: o movimento de 
+retorno do Futebol Feminino entre os fins da década de 1970 e 
+início de 1980. In: KESSLER, C. S.; COSTA, L. M. da; PISANI, M. da 
+S. (org.). As mulheres no universo do futebol brasileiro. Santa 
+Maria: Editora UFSM, 2020. E-book. p. 263-298. 
+
+AZEVEDO, L. Avante Hulk: campanha criada por grupo de dez 
+mulheres em prol de arrecadar doações. Acrítica.com. [s. l.], 16 
+jun. 2020. Disponível em: https://www.acritica.com/channels/
+esportes/news/avante-hulk-campanha-criada-por-grupo-de-de-
+z-mulheres-em-prol-de-arrecadar-doacoes. Acesso em: 25 maio 
+2022.
+
+BARLEM, C. Presidente do Vitória diz que “faz com o dinheiro o 
+que quiser” sobre repasse da CBF ao feminino; diretor jurídico 
+afirma que foi desabafo. GE, Rio de Janeiro, 15 jun. 2020. Dona 
+do Campinho. Disponível em: https://ge.globo.com/blogs/dona-
+-do-campinho/post/2020/06/15/presidente-do-vitoria-diz-que-faz-
+-com-o-dinheiro-o-que-quiser-sobre-repasse-da-cbf-ao-feminino-
+-diretor-juridico-diz-que-foi-apenas-desabafo.ghtml. Acesso em: 
+20 maio 2022.
+
+BONFIM, A. F. Football Feminino entre festas esportivas, 
+circos e campos suburbanos: uma história social do futebol 
+praticado por mulheres da introdução à proibição (1915-1941). 
+2019. 217 f. Dissertação (Mestrado em História, Política e Bens 
+Culturais) – Escola de Ciências Sociais, Fundação Getúlio Vargas, 
+Rio de Janeiro, 2019.
+
+BORGES, C. N. F.; LOPES, S. M.; ALVES, C. A.; ALVES, F. P. 
+Resiliência: uma possibilidade de adesão e permanência na prá-
+tica do Futebol Feminino. Movimento, Porto Alegre, v. 12, n. 1, p. 
+105-131, jan./abr., 2006.
+
+BUTLER, J. El capitalismo tiene sus límites. In: AMADEO, P. 
+(ed.). Sopa de Wuhan: pensamiento contemporáneo en tiempos 
+de pandemias. 1. ed. [S. l.]: ASPO, 2020. p. 59-65.
+
+CAMPANHA ‘Nação Solidária’ do Flamengo ajuda atletas do fute-
+bol feminino do Rio de Janeiro. Lance, Rio de Janeiro, 8 ago. 2020. 
+Disponível em: https://www.lance.com.br/flamengo/campanha-
+-nacao-solidaria-ajuda-atletas-futebol-feminino-rio-janeiro.html. 
+Acesso em: 15 maio 2022.
+
+CASTRO, E. Vocabulário de Foucault – um percurso por seus 
+temas, conceitos e autores. Belo Horizonte: Autêntica Editora, 
+2009.
+
+CBF anuncia medidas de apoio financeiro aos clubes e 
+federações. CBF. [S. l.], 6 abr. 2020. Disponível em: https://www.
+cbf.com.br/a-cbf/informes/index/cbf-anuncia-medidas-de-apoio-
+financeiro-aos-clubes-e-federacoes. Acesso em: 14 out. 2021.
+
+CBF divulga Regulamento de Licença de Clubes. CBF. [S. l.], 9 fev. 
+2017. Disponível em: https://www.cbf.com.br/a-cbf/informes/
+index/cbf-divulga-regulamento-de-licenca-de-clubes. Acesso em: 
+14 out. 2021.
+
+CLUBES precisarão manter equipes femininas para jogar 
+Libertadores. GE,Rio de Janeiro, 30 set. 2016. Disponível em: 
+https://ge.globo.com/futebol/libertadores/noticia/2016/09/
+clubes-terao-que-ter-times-femininos-partir-de-2019-para-jogar-
+libertadores.html. Acesso em: 3 fev. 2022.
+
+COM PÚBLICO histórico, Santos bate Iranduba nas semis do 
+Brasileiro feminino. GE, Manaus, 29 jun. 2017. Disponível em: 
+
+https://ge.globo.com/am/futebol/noticia/com-publico-historico-
+sereias-batem-iranduba-e-abrem-vantagem-nas-semis.ghtml. 
+Acesso em: 20 maio 2022. 
+
+FIFA. FIFA Statutes. Zurich, Switzerland: FIFA, 2016. Disponível 
+em: https://digitalhub.fifa.com/m/5eb2b45e547ff39f/original/nd-
+fxogwkoukoe4dm3uk0-pdf.pdf. Acesso em: 3 fev. 2022.
+
+FOUCAULT, M. Em defesa da Sociedade: Curso no Collège de 
+France (1975-1976). São Paulo: Martins Fontes, 1999.
+
+FOUCAULT, M. Microfísica do Poder. Rio de Janeiro: Paz e Terra, 
+2014. 
+
+GALDEA, J. G. ‘Apoie as Leoas’: torcedores vendem camisas para 
+ajudar jogadoras do Vitória. Correio, [s. l.], 8 jun. 2020. Disponível 
+em: https://www.correio24horas.com.br/noticia/nid/apoie-as-
+leoas-torcedores-vendem-camisas-para-ajudar-jogadoras-do-
+vitoria/. Acesso em: 25 maio 2022.
+
+GALLO, S. Um duplo contágio, ou contágios múltiplos: do governo 
+pelo vírus e de lutas de resistências. In: COELHO, P. A. (org.). O 
+mundo pós-pandemia: retorno à “normalidade distópica”? – 
+Reflexões libertárias. São Paulo: Intermezzo, 2021. p. 31-60.
+
+GOELLNER, S. V. Futebol de Mulheres: histórias, memórias e 
+desafios. In: MARTINS, M. Z.; WENETZ, I. (org.). Futebol de mulhe-
+res no Brasil: desafios para as políticas públicas. Curitiba: Editora 
+CRV, 2020. E-book. n. p.
+
+LIMA, A. L. E. de; QUADRADO, R. P. Mulheres, futebol e práticas de 
+resistência: dialogando com conceitos foucaultianos. In: SILVEIRA, 
+J. (org.). Olhares Contemporâneos: Diversidade, Gênero, 
+Sexualidade. Formiga: Editora Real Conhecer, 2022. v. 2, p. 8-17.
+
+MARQUES, V. Futebol cearense adota solidariedade durante 
+pandemia. Diário do Nordeste, [s. l.], 31 mar. 2020. 
+Disponível em: https://diariodonordeste.verdesmares.com.
+br/jogada/futebol-cearense-adota-solidariedade-durante-
+pandemia-1.2228828. Acesso em: 25 maio 2022.
+
+MATOS, A. T. Sem controle da CBF, futebol feminino fica nas 
+mãos da má gestão dos clubes. GE, Rio de Janeiro, 11 maio 2020. 
+Disponível em: https://ge.globo.com/blogs/blog-da-ana-thais/
+post/2020/05/11/sem-controle-da-cbf-futebol-feminino-fica-nas-
+-maos-da-ma-gestao-dos-clubes.ghtml. Acesso em: 18 out. 2021.
+
+OLIVEIRA, R. Times encerrados e salários atrasados: os efeitos 
+da pandemia no futebol feminino brasileiro. Revista AzMina, [s. 
+l.], 29 jun. 2021. Disponível: https://azmina.com.br/reportagens/
+times-encerrados-e-salarios-atrasados-os-efeitos-da-pandemia-
+-no-futebol-feminino-brasileiro/. Acesso em: 14 set. 2021.
+
+OPAS. Histórico da pandemia de COVID-19. [S. l.], [202-]. 
+Disponível em: https://www.paho.org/pt/covid19/historico-da-
+-pandemia-covid-19. Acesso em: 6 jun. 2022.
+
+RELVAS, F. Federação Paraense de Futebol entrega cestas básicas 
+para as categorias de base e feminino. Zé Dudu.com.br, [s. 
+l.], 26 maio 2020. Disponível em: https://www.zedudu.com.br/
+federacao-paraense-de-futebol-entrega-cestas-basicas-para-as-
+categorias-de-base-e-feminino/. Acesso em: 25 maio 2022.
+
+REMO distribui cestas básicas para atletas do futebol feminino 
+e categorias de base. GE, Rio de Janeiro, 15 jun. 2020. Disponível 
+em: https://ge.globo.com/pa/futebol/times/remo/noticia/remo-
+distribui-cestas-basicas-para-atletas-do-futebol-feminino-e-
+categorias-de-base.ghtml. Acesso em: 15 maio 2022.
+
+REZENDE, L.; ALMEIDA, L. Atletas do Ipatinga pedem dinheiro 
+em sinal para disputa do Mineiro Feminino: “Não é vitimismo, é 
+necessidade”. GE, Rio de Janeiro, 28 nov. 2020. Disponível em: 
+https://ge.globo.com/futebol/futebol-feminino/noticia/atletas-
+do-ipatinga-pedem-dinheiro-em-sinal-para-disputa-do-mineiro-
+feminino-nao-e-vitimismo-e-necessidade.ghtml. Acesso em: 25 
+maio 2022.
+
+RODRIGUES, J. À sombra do futebol, Íbis recorre à ‘vaquinha’ para 
+sobreviver. Folha de Pernambuco, [s. l.], 25 jun. 2020. Disponível 
+em: https://www.folhape.com.br/esportes/a-sombra-do-futebol-
+
+-ibis-recorre-a-vaquinha-para-sobreviver/144937/. Acesso em: 25 
+maio 2022.
+
+TORCIDA do vitória organiza campanha para ajudar atletas do 
+time feminino. GE, Rio de Janeiro, 11 jun. 2020. Disponível em: 
+https://ge.globo.com/ba/futebol/times/vitoria/noticia/torcida-do-
+-vitoria-organiza-campanha-para-ajudar-atletas-do-time-feminino.
+ghtml. Acesso em: 20 maio 2022.
+
+Publisher
+
+Universidade Federal de Goiás. Faculdade de Educação Física 
+e Dança. Publicação no Portal de Periódicos UFG. As ideias expres-
+sadas neste artigo são de responsabilidade de seus autores, não 
+representando,  necessariamente,  a  opinião  dos  editores  ou  da 
+universidade.
+
+

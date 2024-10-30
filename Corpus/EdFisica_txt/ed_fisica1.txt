@@ -1,0 +1,934 @@
+Artigos originais
+
+Associação entre a paixão e a motivação pela prática 
+esportiva em escolares
+
+Association between passion and motivation for sports 
+in school children
+
+Asociación entre la pasión y la motivación por el deporte 
+en escolares
+
+Gabriel Lucas Morais Freire
+Universidade Estadual de Maringá, Maringá, Paraná, Brasil
+bi8el@gmail.com
+
+Kauany Maria Araújo Veras
+Universidade Federal do Vale do São Francisco, Petrolina, Pernambuco, Brasil
+kauanymariaarauj@gmail.com
+
+Luis Paulo Melo de Souza
+Universidade Federal do Vale do São Francisco, Petrolina, Pernambuco, Brasil
+luizpaulomelo10@outlook.com
+
+Ana Luiza Melo de Souza
+Universidade Federal do Vale do São Francisco, Petrolina, Pernambuco, Brasil
+meloanaluiza46@gmail.com
+
+Lenamar Fiorese
+Universidade Estadual de Maringá, Maringá, Paraná, Brasil
+lenamarfiorese@gmail.com
+
+José Roberto Andrade do Nascimento Junior
+Universidade Federal do Vale do São Francisco, Petrolina, Pernambuco, Brasil
+joseroberto.nascimentojunior@univasf.edu.br
+
+Resumo: Neste artigo analisou-se a relação entre paixão e moti-
+vação  pela  prática  esportiva  em  escolares.  Os  173  participantes 
+
+responderam  a  um  questionário  sociodemográfico,  à  Escala  da 
+Paixão  e  à  Escala  de  Motivação  para  o  Esporte  II.  Utilizaram-se, 
+na análise dos dados, testes de Kolmogorov-Smirnov, correlação de 
+Pearson e análises de regressão múltipla. Os resultados eviden-
+ciaram que a paixão harmoniosa tem associação negativa sobre a 
+regulação externa e positiva sobre a regulação introjetada, iden-
+tificada e intrínseca. Já a paixão obsessiva apresentou associação 
+positiva sobre a desmotivação e a regulação externa. Concluiu-se 
+que a paixão harmoniosa está associada de maneira positiva com 
+a motivação autônoma e controlada, enquanto a paixão obsessiva, 
+com a motivação extrínseca e a desmotivação.
+Palavras-Chave: autodeterminação; paixão; esporte; adolescentes.
+
+Abstract: The relationship between passion and motivation 
+for sports in schoolchildren was analyzed. The 173 participants 
+answered a sociodemographic questionnaire, the Passion Scale 
+and the Sport Motivation Scale II. Kolmogorov-Smirnov tests, 
+Pearson’s correlation and multiple regression analysis were used 
+for data analysis. The results showed that harmonious passion 
+has a negative association on external regulation and a positive 
+association on introjected, identified and intrinsic regulation. On 
+the other hand, obsessive passion presented a positive association 
+about demotivation and external regulation. It was concluded that 
+harmonious passion is positively associated with autonomous 
+and controlled motivation, while obsessive passion with extrinsic 
+motivation and demotivation.
+Keywords: self-determination; passion; sport; teenagers.
+
+Resumen:  Se  analizó  la  relación  entre  pasión  y  motivación  por 
+el  deporte  en  escolares.  Los  173  participantes  respondieron 
+cuestionario sociodemográfico, Escala de Pasión y de Motivación 
+Deportiva II. Para el análisis de los datos utilizaron Kolmogorov-
+Smirnov, correlación de Pearson y análisis de regresión múltiple. 
+Los  resultados  mostraron  que  la  pasión  armoniosa  tiene  una 
+
+asociación  negativa  sobre  regulación  externa  y  una  asociación 
+positiva  sobre  regulación  introyectada,  identificada  e  intrínseca. 
+Por  otro  lado,  pasión  obsesiva  presentó  una  asociación  positiva 
+sobre desmotivación y regulación externa. Concluyó que la pasión 
+armoniosa se asocia positivamente con la motivación autónoma 
+y  controlada,  mientras  que  la  pasión  obsesiva  se  asocia  con 
+motivación extrínseca y desmotivación.
+Palabras-clave: autodeterminación; pasión; deporte; adolescentes.
+
+Submetido em: 2022-06-05
+Aceito em: 2022-07-22
+
+Introdução
+
+A prática esportiva dentro do contexto escolar durante a in-
+fância e a adolescência é considerada como um dos principais pro-
+motores de capacidades psicológicas, sociais, físicas, emocionais, 
+de qualidade de vida, bem-estar e autoestima (FRASCARELI, 2008; 
+PEIXOTO  et  al.,  2018;  VIEIRA  et  al.,  2010).  A  participação  destes 
+jovens  no  âmbito  esportivo  na  escola  pode  promover um  leque 
+de benefícios, tanto dentro do contexto esportivo como fora dele 
+(OLIVEIRA et al., 2019; XAVIER et al., 2020)1.
+
+Diante disso, é necessário que os praticantes estejam motiva-
+dos para que haja uma alta adesão à prática esportiva durante a 
+infância e, consequentemente, à promoção de resultados positi-
+vos para essa população específica (OLIVEIRA et al., 2019; PEIXOTO 
+et al., 2018). A motivação é considerada como um dos principais 
+fatores  determinantes  para  as  experiências  bem-sucedidas  no 
+esporte,  tanto  na  iniciação  esportiva  como  no  alto  rendimento 
+(XAVIER et al., 2020). Assim, dentro da psicologia do esporte, a mo-
+tivação é considerada um fator que melhor elucida os motivos que 
+levam algumas pessoas a se apresentarem mais determinadas do 
+que outras em certas atividades. Por isso ela é essencial para que 
+haja adesão em longo prazo a uma prática, revelando ainda o que 
+as incentiva a começar, continuar ou até mesmo desistir de uma 
+atividade (RODRIGUES et al., 2019).
+
+Nesse contexto, um leque de teorias se propõe a entender a 
+motivação, sendo a Teoria da Autodeterminação (TAD) a mais uti-
+lizada dentro do contexto esportivo, desde a iniciação até o alto 
+rendimento (VIANA; ANDRADE; MATIAS, 2010). A TAD propõe que 
+a determinação de uma pessoa ao escolher fazer algo e continuar 
+executando  aquela  tarefa  está  relacionada  a  fatores  internos  e 
+externos, envolvendo competências adquiridas e o resultado das 
+motivações ao realizar as tarefas relacionadas às práticas esporti-
+vas (OLIVEIRA et al., 2019).
+
+1 O presente trabalho não recebeu apoio financeiro de nenhuma natureza para sua realização.
+
+Desta maneira, quanto mais aquela prática trouxer uma satis-
+fação pessoal na sua execução, mais o praticante estará propício 
+a continuar realizando aquelas ações. Por outro lado, práticas que 
+são  assimiladas  de  maneira  negativa  –  como,  por  exemplo,  sob 
+pressão externa, sem a compreensão do motivo para realizá-las, 
+ou se movido a recompensa ou ameaças – não são autodetermi-
+nadas. Por isso a TAD consegue identificar os níveis de motivação 
+do indivíduo através de regulações dadas pela teoria da autode-
+terminação, as quais vão da esquerda à direita em uma escala do 
+menos motivado ao mais motivado (NASCIMENTO JUNIOR et al., 
+2021; VIANA; ANDRADE; MATIAS, 2010).
+
+Leal,  Miranda  e  Carmo  (2013)  descrevem  a  primeira  dessas 
+regulações, a que se encontra mais à esquerda, a desmotivação, 
+como sendo a ausência de motivação. A pessoa que a possui não 
+é  proativa  e  ainda  pode  apresentar  comportamentos  de  desva-
+lorização. A regulação externa, a segunda na escala, se refere ao 
+comportamento que é regulado por recompensas externas, como 
+premiações, ou pelo reconhecimento social proveniente da práti-
+ca da atividade (TUDURY, 2012). Na regulação introjetada existe o 
+sentimento de culpa caso a atividade não seja cumprida, motivado 
+por ansiedade ou até mesmo por ego e orgulho, para demonstrar 
+a  outras  pessoas  que  está  realizando  aquela  atividade  (CUNHA, 
+2014).  A  motivação  de  identificação  é  caracterizada  por  Cunha 
+(2014) e Tudury (2012) como aquela que ocorre quando o indiví-
+duo se identifica com a atividade e a percebe como relevante para 
+a sua vida. Oliveira e Silva (2016) descrevem a quinta regulação de 
+motivação, a regulação integrada, como a forma mais autônoma de 
+motivação extrínseca. Ela é assimilada pelo indivíduo através da 
+internalização da execução das atividades, quando ações extrín-
+secas se tornam autodeterminadas. Pansera et al. (2016) explicam 
+que a sexta e última regulação, a motivação intrínseca, está associa-
+da com a satisfação de executar aquela atividade por prazer, sem 
+receber benefícios em troca.
+
+Um dos fatores que influenciam a motivação ao longo do con-
+tinnum apresentado é a paixão. Nesse sentido, o Modelo Dualístico 
+
+da Paixão (MDP), proposto por Vallerand et al. (2003), reconhece a 
+paixão como um esforço que conduz o sujeito em direção a uma 
+atividade  da  qual  goste,  que  julgue  suficientemente  importante 
+para nela investir tempo e dedicação necessários à sua execução. 
+Quanto ao contexto esportivo, a paixão pela prática apresenta duas 
+dimensões: a paixão obsessiva e a paixão harmoniosa, as quais são 
+diferentes, porém complementares enquanto elementos de inter-
+nalização na identidade do indivíduo (CID; LOURO, 2010; FARIA et 
+al., 2020). A paixão harmoniosa é aquela na qual o envolvimento 
+se dá pelo prazer obtido ao realizar a atividade; assim, a prática 
+é  realizada  por  vontade  própria,  não  por  obrigação  ou  porque 
+o  praticante  receberá  uma  recompensa  ao  realizá-la  (FRANÇA; 
+CODONHATO; FIORESE, 2020). Já oposta à harmoniosa, a paixão 
+obsessiva ocorre quando os indivíduos praticam um esporte por 
+se sentirem obrigados a praticá-lo por uma aceitação social ou por 
+dependência emocional (PEREIRA; FERREIRA; VALENTINI, 2018). A 
+literatura atual vem demonstrando que a paixão está associada à 
+motivação dentro do contexto esportivo, como pode ser visto nas 
+pesquisas de Caruzzo et al. (2020), Bezerra et al. (2019) e Ribeiro 
+(2016), com características confiáveis e positivas entre os atletas, 
+proporcionando experiências otimistas que favorecem as ativida-
+des dentro do contexto esportivo.
+
+Com base na TAD e no MDP, aqui apresentados, percebe-se 
+que a estruturação dentro do contexto esportivo escolar pode fa-
+vorecer o desenvolvimento de paixão e motivação dos jovens pra-
+ticantes, tornando imprescindível investigar a relação entre essas 
+duas variáveis dentro do contexto esportivo escolar. Assim, a pre-
+sente investigação é relevante na medida em que agrega conhe-
+cimentos e auxilia o trabalho dos educadores físicos, treinadores, 
+pais e psicólogos envolvidos no acompanhamento de jovens em 
+práticas esportivas. Desse modo, o objetivo deste estudo é anali-
+sar a relação entre a paixão e a motivação pela prática esportiva 
+em escolares.
+
+Métodos
+
+Desenho do estudo
+
+O  presente  estudo  tem  delineamento  transversal,  de  as-
+pecto  descritivo  e  de  natureza  quantitativa  (THOMAS;  NELSON; 
+SILVERMAN, 2015). O estudo buscou, com base em uma coleta de 
+dados, retratar as características do grupo escolhido, analisando 
+as relações entre as variáveis independentes e dependentes.
+
+Participantes
+
+Este estudo transversal teve a participação de 173 escolares, 
+sendo 45 meninas e 128 meninos, praticantes de modalidades co-
+letivas: basquete (n = 20), futebol (n = 41), vôlei (n = 2), futsal (n = 
+30) e handebol (n = 80). Os participantes tinham tempo de prática 
+de 3,55 ± 1,10 anos e média de idade de 14,45 ± 0,90 anos. Eles 
+foram escolhidos de forma não probabilística e por conveniência. 
+Os critérios de inclusão foram: 1) Ser praticante há no mínimo seis 
+meses; e 2) Ser integrante da equipe há no mínimo três meses. 
+Participaram da pesquisa apenas aqueles que assinaram o Termo 
+de Assentimento e cujos pais assinaram o Termo de Consentimento 
+Livre e Esclarecido.
+
+Instrumentos
+
+Paixão pela prática esportiva. Foi utilizada a Escala da Paixão 
+(Passion Scale) (VALLERAND et al., 2003), adaptada e validada para 
+o  contexto  brasileiro  por  Peixoto  et  al.  (2019).  O  instrumento  é 
+constituído por 14 itens que buscam avaliar as duas dimensões da 
+paixão por uma atividade: paixão harmoniosa (por exemplo, “mi-
+nha atividade é bem integrada na minha vida”), paixão obsessiva 
+(por exemplo, “eu tenho a impressão que a minha atividade me 
+
+controla”). A finalidade é identificar os níveis de paixão pela prá-
+tica esportiva dos adolescentes numa escala de respostas do tipo 
+Likert de sete pontos, variando entre (1) “não concordo em nada” e 
+(7) “concordo muito fortemente”. A avaliação de cada subescala é 
+realizada a partir da média das respostas obtidas nos respectivos 
+itens que a compõem.
+
+Motivação pelo esporte. Visando identificar os níveis de moti-
+vação atlética do sujeito, foi utilizada a Escala de Motivação para o 
+Esporte II (SMS-II), criada por Pelletier et al. (2013) e validada para 
+o contexto brasileiro por Nascimento et al. (2014). É formada por 
+18  itens  divididos  em  seis  subescalas:  regulação  intrínseca,  re-
+gulação integrada, regulação identificada, regulação introjetada, 
+regulação externa e desmotivação. Usa uma escala do tipo Likert 
+de sete pontos, num continuum de (1) “não corresponde nada” a 
+(7) “corresponde exatamente”. A avaliação de cada subescala é 
+feita a partir da média das respostas apanhadas nos respectivos 
+itens que a compõem.
+
+Procedimentos
+
+Os procedimentos utilizados nesta pesquisa seguiram os crité-
+rios da Ética em Pesquisa com Seres Humanos conforme Resolução 
+nº 466/12 do Conselho Nacional de Saúde (BRASIL, 2012). O estudo 
+foi aprovado pelo Comitê de Ética em Pesquisa da Universidade 
+Federal do Vale do São Francisco (Parecer nº 1.648.086). A princí-
+pio, os professores/treinadores responsáveis pelas escolas foram 
+contatados para solicitar a autorização para realização das cole-
+tas de dados com os escolares. Em seguida, as coletas dos dados 
+foram executadas nas respectivas escolas; a aplicação dos ques-
+tionários foi realizada de forma coletiva, em uma sala, com apro-
+ximadamente 15 praticantes por vez, sem a presença dos treina-
+dores. Os avaliadores ficaram todo o tempo na sala e tiraram as 
+possíveis dúvidas dos participantes a respeito dos questionários. 
+Não foram permitidas conversas entre os adolescentes enquanto 
+
+preenchiam seus respectivos questionários. Todo o processo de 
+preenchimento teve duração de aproximadamente 30 minutos.
+
+Análise de dados
+
+Os dados foram analisados através do RStudio (versão 1.2.5) 
+incluído ao software R (versão 3.6.3) (RStudio Team, 2019; R Core 
+Team, 2020) por meio de uma abordagem de estatística descritiva 
+e inferencial. A análise introdutória dos dados foi realizada através 
+do teste de normalidade de Kolmogorov-Smirnov. Em consequên-
+cia da distribuição paramétrica, considerou-se média (M) e desvio 
+padrão  (DP)  como  medidas  descritivas.  A  correlação  de  Pearson 
+(pacote stats) foi utilizada para verificar a associação entre a pai-
+xão  e  motivação  dos  estudantes  atletas.  A  análise  de  regressão 
+múltipla foi usada para determinar se a paixão combinada (paixão 
+harmoniosa e paixão obsessiva) influenciava as regulações de mo-
+tivação. Para essa análise, não houve correlações suficientemente 
+fortes entre as variáveis que indicaram problemas com multico-
+linearidade  (intervalo  VIF  =  1,22  a  1,45).  Especificamente  nesses 
+VIF, os valores estavam abaixo de 5 ou 10, considerados aceitáveis 
+(HAIR JR; GABRIEL; PATEL, 2014).
+
+A Tabela 1 expõe os valores mínimos, máximos, média e des-
+vio padrão das dimensões de paixão pela prática esportiva em es-
+colares. Nota-se que os adolescentes apresentaram maior escore 
+sobre a paixão harmoniosa (M = 3,77, DP = 0,94) em relação à pai-
+xão obsessiva (M = 3,02, DP = 1,12).
+
+Em relação às regulações de motivação, evidencia-se que os 
+adolescentes mostraram escores superiores nas regulações iden-
+tificadas (M = 5,03, DP = 1,41), integradas (M = 4,88, DP = 1,52) e 
+intrínsecas (M = 5,15, DP = 1,33) e escores inferiores na desmotiva-
+ção (M = 3,68, DP = 1,79), e nas regulações externa (M = 3,93, DP = 
+1,85) e introjetada (M = 4,52, DP = 1,55).
+
+Resultados
+
+Tabela 1 – Valores descritivos das dimensões de paixão e motivação pela 
+
+prática esportiva em escolares
+
+Mínimo
+
+Máximo
+
+M (DP)
+
+Variáveis
+
+Paixão
+
+Paixão Harmoniosa
+
+1,00
+
+Paixão Obsessiva
+
+1,00
+
+Motivação
+
+Desmotivação
+
+Regulação Externa
+
+1,00
+
+1,00
+
+Regulação Introjetada 1,00
+
+Regulação Identificada 1,00
+
+Regulação Integrada
+
+1,00
+
+Regulação Intrínseca
+
+1,00
+
+5,00
+
+5,00
+
+7,00
+
+7,00
+
+7,00
+
+7,00
+
+7,00
+
+7,00
+
+3,77 (0,94)
+
+3,02 (1,12)
+
+3,68 (1,79)
+
+3,93 (1,85)
+
+4,52 (1,55)
+
+5,03 (1,41)
+
+4,88 (1,52)
+
+5,15 (1,33)
+
+Fonte: elaborado pelos autores.
+
+Nota: M = Média; DP= Desvio Padrão.
+
+Ao  analisar  a  correlação  entre  as  dimensões  de  paixão  e  as 
+regulações de motivação dos adolescentes (Tabela 2), observou-
+-se  que  as  duas  dimensões  da  paixão  (harmoniosa  e  obsessiva) 
+apresentaram relação negativa com a desmotivação (r = -0,61 e r 
+= -0,83, respectivamente). As duas dimensões da paixão ainda se 
+relacionaram de forma positiva com a regulação externa (r = 0,76 
+para ambas), regulação introjetada (r = 0,79 e r = 0,74, respectiva-
+mente), regulação identificada (r = 0,74 e r = 0,61, respectivamen-
+te),  regulação  integrada  (r  =  0,74  e  r  =  0,62,  respectivamente)  e 
+regulação intrínseca (r = 0,76 e r = 0,86, respectivamente).
+
+Tabela 2 – Correlação entre as dimensões de paixão e as regulações de motivação em escolares
+
+Variáveis
+
+4
+
+5
+
+6
+
+7
+
+8
+
+1. Paixão Harmoniosa
+
+0,61**
+
+-0,61**
+
+0,76**
+
+0,79**
+
+0,74**
+
+0,74**
+
+0,70**
+
+-0,83**
+
+0,76**
+
+0,74**
+
+0,61**
+
+0,62**
+
+0,86**
+
+Paixão
+
+Motivação
+
+1
+
+-
+
+2
+
+-
+
+3
+
+-
+
+2. Paixão Obsessiva
+
+3. Desmotivação
+
+4. Regulação Externa
+
+5. Regulação Introjetada
+
+6. Regulação Identificada
+
+7. Regulação Integrada
+
+8. Regulação Intrínseca
+
+0,70**
+
+0,66**
+
+0,70**
+
+0,65**
+
+0,68**
+
+-
+
+0,68**
+
+0,73**
+
+0,70**
+
+0,68**
+
+-
+
+0,67**
+
+0,66**
+
+0,67**
+
+-
+
+0,76**
+
+0,55**
+
+-
+
+0,58**
+
+-
+
+Fonte: elaborado pelos autores.
+
+**p < 0,01 – Correlação de Pearson.
+
+A Tabela 3 apresenta uma análise de regressão que revela predição das variáveis da paixão sobre as regu-
+lações de motivação. A paixão harmoniosa apresentou predição negativa e significativa sobre a regulação ex-
+terna (β = -0,21, p < 0,01) e positiva e significativa sobre a regulação introjetada (β = 0,20, p < 0,05), a regulação 
+identificada (β = 0,21, p < 0,05) e a regulação intrínseca (β = 0,19, p < 0,05). Já a paixão obsessiva apresentou 
+predição positiva e significativa em relação à desmotivação (β = 0,39, p < 0,001) e à regulação externa (β = 0,50, 
+p < 0,001).
+
+Tabela 3 – Variáveis da paixão como preditores das regulações de motivação em escolares
+
+Desmotivação
+
+Regulação 
+Externa
+
+Regulação 
+Introjetada
+
+Regulação 
+Identificada
+
+Regulação 
+Integrada
+
+Regulação 
+Intrínseca
+
+β (IC)
+
+β (IC)
+
+β (IC)
+
+β (IC)
+
+β (IC)
+
+β (IC)
+
+-0,08 (-0,52; 0,18)
+
+0,20 (0,02; 0,65)* 0,21 (0,03; 
+
+0,11 (-0,14; 0,49)
+
+0,19 (-0,01; 0,54)*
+
+0,09 (-0,13; 0,39) 0,04 (-0,18; 0,30) 0,07 (-0,15; 0,37)
+
+0,01 (-0,22; 0,23)
+
+-0,21 (-0,77; 
+-0,06)**
+0,50 (0,54; 
+1,14)***
+0,16
+16,688***
+1,670
+
+0,39 (0,34; 
+0,94)***
+0,12
+11,420***
+1,509
+
+0,07
+6,8801**
+1,708
+
+0,60)*
+
+0,05
+5,471*
+1,707
+
+0,02
+2,544
+1,865
+
+0,03
+3,196*
+1,889
+
+β = coeficiente de regressão padronizado; IC = intervalo de confiança de 95%. DW = Durbin-Watson. * p < 0,05, ** p < 0,01, *** p < 0,001.
+
+Fonte: elaborado pelos autores.
+
+Preditores
+
+Paixão
+Paixão 
+Harmoniosa
+Paixão 
+Obsessiva
+R²
+F
+DW
+
+Discussão
+
+O objetivo deste estudo foi investigar a relação da paixão na 
+motivação pela prática esportiva em escolares. Os principais acha-
+dos indicaram que a paixão harmoniosa se associou de forma po-
+sitiva com as regulações de motivação autônoma (regulação intrín-
+seca e regulação identificada) e de forma negativa com a regulação 
+extrínseca e positiva com a regulação introjetada. Por outro lado, 
+a paixão obsessiva se associou de maneira positiva com as regula-
+ções da motivação e desmotivação (Tabela 3). Além disso, os jovens 
+apresentaram maior escore na paixão harmoniosa, enquanto para 
+a motivação os jovens apresentaram maiores escores nas regula-
+ções da motivação autônoma (regulação intrínseca, identificada e 
+integrada) (Tabela 1).
+
+Um dos principais achados da presente investigação demons-
+tra associações positivas entre a paixão harmoniosa e as regulações 
+de  motivação,  tanto  autônomas  quanto  controladas  (Tabela  3). 
+Assim, de acordo com o modelo dualístico da paixão (VALLERAND 
+et al., 2003), a paixão harmoniosa colabora para que a pessoa pra-
+tique a atividade pela qual é apaixonada com uma sensação segu-
+ra de motivação e, ainda, para que tenha uma abertura para ex-
+perimentar novas atividades em outros contextos (NASCIMENTO 
+JUNIOR et al., 2020; OLIVEIRA et al., 2019; CARUZZO et al., 2020). 
+Sousa (2013) observou o impacto da paixão na motivação e, se-
+gundo seus achados, os praticantes demonstraram que a paixão 
+harmoniosa estava associada a todos os tipos de motivação, mas 
+em maior evidência de forma autônoma. Portanto, os resultados 
+deste estudo reforçam o já apontado na literatura sobre o tema, 
+ou seja, que a paixão harmoniosa está associada com a motivação 
+(NASCIMENTO JUNIOR et al., 2020; OLIVEIRA et al., 2019; CARUZZO 
+et al., 2020).
+
+Já a paixão obsessiva se associou de maneira positiva com a 
+regulação externa e a desmotivação. Esses achados indicam que 
+os jovens atletas que são apaixonados obsessivamente por suas 
+práticas esportivas têm uma parte significativa de sua motivação 
+
+também resultante da busca por aprovação e orgulho, evitando a 
+culpa e a vergonha dentro do ambiente esportivo; além disso, bus-
+cam o reconhecimento social e a recompensa financeira (PEIXOTO 
+et al., 2018; XAVIER et al., 2020; NASCIMENTO JUNIOR et al., 2020). 
+Assim, esses achados podem ser explicados através da microteo-
+ria da Integração Organística (RIGBY; RYAN, 2018), que demons-
+tra que, como forma de internalizar a motivação extrínseca e tor-
+nar-se mais autodeterminada, pares sociais (por exemplo, pais e 
+treinadores) devem agir diretamente sobre os valores, as crenças 
+e os objetivos dos jovens, uma vez que o contexto social é extre-
+mamente importante para a ação comportamental exercida pelos 
+indivíduos nos diferentes contextos da vida (RIGBY; RYAN, 2018).
+
+Embora a literatura atual demonstra que a desmotivação para 
+a  prática  de  esporte  está  relacionada  também  a  fatores  como 
+excesso  de  treinamento,  lesões,  bullying  e  baixa  percepção  de 
+competências (XAVIER et al., 2020), há instituições de ensino que 
+contribuem para isso ao exigirem de seus alunos um máximo ren-
+dimento voltado para a busca de resultados (BARROS; OLIVEIRA; 
+ROSÁRIO, 2018). O contexto em que o jovem está inserido é con-
+siderado um dos principais fatores intervenientes na ausência de 
+motivação  desta  população  (PASSOS  et  al.,  2018).  Corroborando 
+os nossos achados, Vallerand et al. (2003) demonstram que a pai-
+xão obsessiva pode produzir uma alta cobrança e pressão sobre o 
+desempenho dos jovens e gerar uma desmotivação na prática do 
+esporte. Estudar a teoria da autodeterminação permite que o pro-
+fessor de Educação Física seja agente de suas ações, através do co-
+nhecimento dos componentes dos diferentes níveis motivacionais 
+e dos fatores relacionados à sua promoção (SILVA; CHIMINAZZO; 
+FERNANDES, 2021).
+
+Este estudo possui algumas limitações que precisam ser apon-
+tadas. Primeiro, foi um estudo transversal, o que dificulta investi-
+gações de causa e efeito entre as variáveis. Ademais, não foram 
+avaliadas variáveis indiretas capazes de interferir na relação entre 
+a  paixão  e  a  motivação  pela  prática  esportiva  e  nos  valores  en-
+contrados, como, por exemplo, influência do local e da estrutura 
+
+Conclusão
+
+onde são realizadas as atividades, e nível emocional dos alunos. 
+Com isso, fazem-se necessárias futuras pesquisas com escolares 
+praticantes de outros esportes, com o objetivo de comparar mo-
+dalidades coletivas com modalidades individuais, além de analisar 
+a relação de outras variáveis, como as sociais e psicológicas. Por 
+fim, estudos com design longitudinal são necessários para investi-
+gar prováveis mudanças da paixão e da motivação para a prática 
+esportiva em escolares.
+
+Pode-se  concluir  que  as  dimensões  da  paixão  harmoniosa 
+estão associadas de maneira positiva com as regulações de mo-
+tivação  autônoma  e  controlada,  enquanto  a  paixão  obsessiva 
+está associada de maneira positiva com a regulação extrínseca e 
+a desmotivação. Isso evidencia que a paixão parece ser um fator 
+propulsor para as motivações intrínseca e extrínseca, além de um 
+possível fator protetor contra a desmotivação dos atletas, indepen-
+dentemente se a paixão é harmoniosa ou obsessiva. Vale ressal-
+tar a imprescindível necessidade de projetos esportivos escolares 
+que estimulem o desenvolvimento da paixão pela prática esporti-
+va como uma forma de aumentar a adesão e o engajamento dos 
+adolescentes no esporte.
+
+Referências
+
+BARROS, G. dos S.; OLIVEIRA, P. S. P. de; ROSÁRIO, V. H. R. do. 
+Educação física e esporte: contribuições ao esporte da escola. 
+Semioses, Rio de Janeiro, v. 12, n. 1, p. 56-65, 2018. Disponível 
+em: https://revistas.unisuam.edu.br/index.php/semioses/article/
+view/58. Acesso em: 8 jul. 2022.
+
+BEZERRA, M. da S. N. et al. Relação entre motivação e paixão: 
+um estudo em praticantes de Crossfit na cidade de João Pessoa-
+PB. Diálogos em Saúde, Cabedelo, v. 1, n. 2, p. 129-143, 2019. 
+
+Disponível em: https://periodicos.iesp.edu.br/index.php/dialogo-
+semsaude/article/view/212. Acesso em: 24 maio 2022.
+
+BRASIL. Conselho Nacional de Saúde. Resolução nº 466, de 12 
+de dezembro de 2012. [Brasília, DF: CNS, 2012]. Disponível em: 
+https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf. 
+Acesso em: 24 maio 2022.
+
+CARUZZO, A. M. et al. Paixão no esporte: uma revisão sistemática 
+no contexto das modalidades individuais. Research, Society and 
+Development, [s. l.], v. 9, n. 8, e186985513, 2020. Disponível em: 
+https://rsdjournal.org/index.php/rsd/article/view/5513. Acesso 
+em: 24 maio 2022.
+
+CID, L.; LOURO, H. Praticar natação é uma paixão ou um sacrifí-
+cio? Estudo da relação entre o tipo de paixão que o atleta sente 
+pela modalidade e a sua orientação motivacional. Revista de 
+iberoamericana de psicología del ejercicio y el deporte, Las 
+Palmas de Gran Canaria, v. 5, n. 1, p. 99-114, 2010. Disponível em: 
+https://www.redalyc.org/pdf/3111/311126267008.pdf. Acesso em: 
+25 maio 2022.
+
+CUNHA, M. E. Motivação no contexto escolar e na formação de 
+professores: uma perspectiva da teoria da autodeterminação. 
+In: ANPED SUL, 10., 2014, Florianópolis. [Publicações do Evento. 
+Textos Completos]. Florianópolis: UDESC, 2014. p. 1-18.
+
+FARIA, J. G. et al. Satisfação atlética e paixão em atletas brasileiras 
+de handebol de elite. Research, Society and Development, [s. 
+l.], v. 9, n. 11, e53791110268, 2020. Disponível em: https://rsdjour-
+nal.org/index.php/rsd/article/view/10268. Acesso em: 25 maio 
+2022.
+
+FRANÇA, D. G.; CODONHATO, R.; FIORESE, L. Relação entre pai-
+xão, resiliência e desempenho no triathlon. Research, Society 
+and Development, [s. l.], v. 9, n. 9, e666997767, 2020. Disponível 
+em: https://rsdjournal.org/index.php/rsd/article/view/7767. 
+Acesso em: 25 maio 2022.
+
+FRASCARELI, L S. Interfaces entre psicologia e esporte: sobre o 
+sentido de ser atleta. 2008. Dissertação (Mestrado em Psicologia) 
+– Instituto de Psicologia, Universidade de São Paulo, São Paulo, 
+2008. Disponível em: https://www.teses.usp.br/teses/disponi-
+veis/47/47131/tde-30072009-141750/en.php. Acesso em: 25 maio 
+2022.
+
+HAIR JR, J. F.; GABRIEL, M. L. D. S.; PATEL, V. K. Modelagem de 
+Equações Estruturais Baseada em Covariância (CB-SEM) com o 
+AMOS: Orientações sobre a sua aplicação como uma Ferramenta 
+de Pesquisa de Marketing. Revista Brasileira de Marketing, São 
+Paulo, v. 13, n. 2, p. 44-55, 2014. Disponível em: https://www.re-
+dalyc.org/pdf/4717/471747340003.pdf. Acesso em: 25 maio 2022.
+
+LEAL, E. A.; MIRANDA, G. J.; CARMO, C. R. S. Teoria da autodeter-
+minação: uma análise da motivação dos estudantes do curso 
+de ciências contábeis. Revista Contabilidade & Finanças, São 
+Paulo, v. 24, n. 62, p. 162-173, 2013. Disponível em: https://www.
+scielo.br/j/rcf/a/7kJthWCTGDsH4m8XHsbWCNp/abstract/?lang=pt. 
+Acesso em: 25 maio 2022.
+
+NASCIMENTO JUNIOR, J. R. A. do et al. Adaptação transcultural 
+e análise das propriedades psicométricas da Sport Motivation 
+Scale-II no contexto brasileiro. Revista da Educação Física/UEM, 
+Maringá, v. 25, n. 3, p. 441-458, 2014. Disponível em: https://www.
+scielo.br/j/refuem/a/CbDrhGdQZHDwf6Czjn5GrZK/abstract/?lan-
+g=pt. Acesso em: 25 de maio 2022.
+
+NASCIMENTO JUNIOR, J. R. A. do et al. A motivação do atleta e 
+a qualidade do seu relacionamento com o treinador. Apunts 
+Physical Education and Sports, Barcelona, Espanha, v. 36, n. 
+142, p. 21-28, 2020. Disponível em: https://revista-apunts.com/
+la-motivacion-del-deportista-y-la-calidad-de-su-relacion-con-el-en-
+trenador/. Acesso em: 25 maio 2021.
+
+NASCIMENTO JUNIOR, J. R. A. do et al. Life Skills Development 
+Through Sport in Brazil: A Study Based on Self-Determination 
+
+Theory. Perceptual and motor skills, Thousand Oaks, v. 128, n. 
+3, p. 1017-1036, 2021. Disponível em: https://journals.sagepub.
+com/doi/full/10.1177/00315125211000860. Acesso em: 25 maio 
+2022.
+
+OLIVEIRA, D. V. de et al. Relações entre motivação e autoestima 
+de praticantes de futebol society. RBFF-Revista Brasileira de 
+Futsal e Futebol, [s. l.], v. 11, n. 46, p. 662-668, 2019. Disponível 
+em: http://www.rbff.com.br/index.php/rbff/article/view/855. 
+Acesso em: 25 maio 2022.
+
+OLIVEIRA, B. T., SILVA, V. J. Teoria da Autodeterminação na com-
+preensão da motivação da aprendizagem de Química dos alunos 
+da Educação de Jovens e Adultos. Revista Labore em Ensino de 
+Ciências, Campo Grande, v. 1, n. 1, p. 109-127, 2016. Disponível 
+em: https://desafioonline.ufms.br/index.php/labore/article/
+view/2915. Acesso em: 27 nov. 2022.
+
+PANSERA, S. M. et al. Motivação intrínseca e extrínseca: diferen-
+ças no sexo e na idade. Psicologia escolar e educacional, São 
+Paulo, v. 20, p. 313-320, 2016. Disponível em: https://www.scielo.
+br/j/pee/a/DMWDz7fw58xr38DVKSv4bsp/?lang=pt&format=html 
+Acesso em: 25 maio 2022.
+
+PASSOS, P. C. B. et al. Futsal de alto rendimento: uma fonte de 
+motivação autodeterminada e satisfação atlética. Rev. Bra. Ciê. 
+Movi., Brasília, DF, v. 26, n. 3, p. 75-82, 2018. Disponível em: 
+https://www.researchgate.net/profile/Jose-Roberto-Nascimento-
+Junior/publication/329130602_Futsal_de_alto_rendimento_uma_
+fonte_de_motivacao_autodeterminada_e_satisfacao_atletical/
+links/5bf70db9a6fdcc538813a9c8/Futsal-de-alto-rendimento-
+uma-fonte-de-motivacao-autodeterminada-e-satisfacao-atletical.
+pdf. Acesso em: 25 maio 2022.
+
+PEIXOTO, E. M. et al. Indicadores de motivação e paixão para 
+prática esportiva em atletas brasileiros: um estudo sob a ótica da 
+autodeterminação. Psicologia Revista, São Paulo, v. 27, n. espe-
+
+cial, p. 563-589. 2018. Disponível em: https://revistas.pucsp.br/
+psicorevista/article/view/37845. Acesso em: 25 maio 2022.
+
+PEIXOTO, E. M. et al. Passion Scale: Psychometric Properties and 
+Factorial Invariance via Exploratory Structural Equation Modeling 
+(ESEM). Paidéia, Ribeirão Preto, v. 29, [s. num.], p. 1-10, 2019. 
+Disponível em: https://www.scielo.br/j/paideia/a/f4DSjnWN7Q-
+V7BpRgGgsVcHL/?lang=en&format=html. Acesso em: 25 maio 
+2022.
+
+PELLETIER, L. G. et al. Validation of the revised sport motivation 
+scale (SMS-II). Psychology of sport and exercise, Amsterdam, 
+v. 14, n. 3, p. 329-341, 2013. Disponível em: https://doi.or-
+g/10.1016/j.psychsport.2012.12.002. Acesso em: 25 maio 2022.
+
+PEREIRA, M. M.; FERREIRA, M. C.; VALENTINI, F. Evidências de 
+validade da escala de paixão pelo trabalho em amostras bra-
+sileiras. Psico-USF, Bragança Paulista, v. 23, n. 1, p. 151-162, 
+jan./mar. 2018. Disponível em: https://www.scielo.br/j/pusf/a/
+GsfQBMxBLh9JdHgwCrMYbfh/abstract/?lang=pt. Acesso em: 25 
+maio 2022.
+
+RIBEIRO, V. T. Propriedades psicométricas da escala da pai-
+xão para o contexto esportivo brasileiro. 2016. Dissertação 
+(Mestrado em Educação Física) – Centro de Ciências da Saúde, 
+Universidade Estadual de Maringá, Maringá, 2016. Disponível em: 
+http://repositorio.uem.br:8080/jspui/handle/1/2233. Acesso em: 
+25 maio 2022.
+
+RIGBY, C. S.; RYAN, R. M. Self-determination theory in human 
+resource development: New directions and practical considera-
+tions. Advances in Developing Human Resources, [s. l.], v. 20, n. 
+2, p. 133-147, 2018. Disponível em: https://journals.sagepub.com/
+doi/10.1177/1523422318756954. Acesso em: 25 maio 2022.
+
+RODRIGUES, F. et al. The role of dark-side of motivation and inten-
+tion to continue in exercise: A self-determination theory approa-
+
+ch. Scandinavian Journal of Psychology, Hoboken, New Jersey, 
+v. 60, n. 6, p. 585-595, 2019. Disponível em: https://onlinelibrary.
+wiley.com/doi/full/10.1111/sjop.12582. Acesso em: 25 de maio 
+2022.
+
+SILVA, S. R. da; CHIMINAZZO, J. G. C.; FERNANDES, P. T. Motivação 
+na educação física escolar: Teoria da Autodeterminação. Caderno 
+de Educação Física e Esporte, Marechal Cândido Rondon, v. 19, 
+n. 1, p. 11-17, 2021. Disponível em: https://saber.unioeste.br/
+index.php/cadernoedfisica/article/view/25985. Acesso em: 8 jul. 
+2022.
+
+SOUSA, C. J. M. A Paixão pelo Surf e o Impacto na Motivação 
+e Felicidade dos Praticantes. 2013. Dissertação (Mestrado 
+em Psicologia do Desporto e do Exercício) – Escola Superior 
+de Desporto de Rio Maior, Instituto Politécnico de Santarém, 
+Santarém, Portugal, 2013. Disponível em: https://repositorio.
+ipsantarem.pt/handle/10400.15/1280. Acesso em: 25 maio 2022.
+
+THOMAS, J. R.; NELSON, J. K.; SILVERMAN, S. J. Research methods 
+in physical activity. 7. ed. Champaign, Illinois: Human kinetics, 
+2015.
+
+TUDURY, G. A motivação na prática da patinação artística: 
+uma revisão de literatura. 2012. Trabalho de Conclusão de Curso 
+(Graduação em Educação Física) – Escola de Educação Física, 
+Universidade Federal do Rio Grande do Sul, Porto Alegre, 2012. 
+Disponível em: https://www.lume.ufrgs.br/handle/10183/70294. 
+Acesso em: 25 maio 2022.
+
+VALLERAND, R. J. et al. Les passions de l’ame: on obsessive and 
+harmonious passion. Journal of personality and social psycho-
+logy, Washington, D.C., v. 85, n. 4, p. 756-767, 2003. Disponível 
+em: https://psycnet.apa.org/fulltext/2003-08110-016.html. Acesso 
+em: 25 maio 2022.
+
+VIANA, M. S.; ANDRADE, A.; MATIAS, T. S. Self Determination 
+Theory Applications In The Context of Physical Exercise Practices 
+For Adolescents. Pensar a Prática, Goiânia, v. 13, n. 2, p. 1-18, 
+2010.
+
+VIEIRA, L. F. et al. Psicologia do esporte: uma área emergente da 
+psicologia. Psicologia em Estudo, Maringá, v. 15, n. 2, p. 391-399, 
+abr./jun. 2010. Disponível em: https://www.scielo.br/j/pe/a/dxqX-
+V7GtH7zkCLkzYq7K7Wd/abstract/?lang=pt. Acesso em: 25 maio 
+2022.
+
+XAVIER, C. C. et al. Paixão e satisfação atlética em atletas bra-
+sileiras de basquetebol universitário. Research, Society and 
+Development, [s. l.], v. 9, n. 7, e512974282, 2020. Disponível em: 
+https://rsdjournal.org/index.php/rsd/article/view/4282. Acesso 
+em: 25 maio 2022.
+
+Publisher
+
+Universidade Federal de Goiás. Faculdade de Educação Física 
+e Dança. Publicação no Portal de Periódicos UFG. As ideias expres-
+sadas neste artigo são de responsabilidade de seus autores, não 
+representando,  necessariamente,  a  opinião  dos  editores  ou  da 
+universidade.
+
+

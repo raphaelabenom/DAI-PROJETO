@@ -1,0 +1,1305 @@
+*Institute of Physical 
+Education and Sports, 
+Federal University of 
+Ceará, Fortaleza, CE, 
+Brazil.
+**Program in 
+Physiotherapy and 
+Functioning, Federal 
+University of Ceará, 
+Fortaleza, CE, Brazil.
+***Federal Institute of 
+Education, Science 
+and Technology of 
+Itapipoca, Itapipoca, 
+CE, Brazil.
+****Federal University 
+of Pernambuco, Vitória 
+de Santo Antão, PE, 
+Brazil.
+*****Associação 
+D’eficiência Superando 
+Limites, Fortaleza, CE, 
+Brazil.
+******Gracie Barra 
+Arizona, Phoenix, 
+United States of 
+America.
+*******Federal 
+University of Triângulo 
+Mineiro, Uberaba, MG, 
+Brazil.
+
+Comparative analysis of Amputee Soccer players and coach 
+perception of intensity training
+
+https://doi.org/10.11606/issn.1981-4690.2023e37193026
+
+Mário Antônio de Moura Simim*/**
+Alexandre Igor Araripe Medeiros*/**
+André Igor Fonteles***
+Saulo Fernandes Melo de Oliveira****
+Edilson Moreira Sousa Junior*
+Felipe Nogueira Catunda*****
+Bruno Victor Corrêa da Silva******
+Gustavo Ribeiro da Mota*******
+Claudio de Oliveira Assumpção*******
+
+Abstract
+
+We investigate if there are agreement and differences between the training intensity and load 
+prescribed by the coach and those perceived by Amputee Soccer (AS) players. Eleven AS players 
+and the team coach participated in the study. Before each session, we registered the coach Rating 
+Perceived Exertion (RPE) intended (not disclosed to the players). Immediately after the training session, 
+the players responded to the same version of RPE individually. The load was quantified through the 
+session-RPE (s-RPE) (RPE x minutes). In sessions 1 and 2, the coach overestimated the training RPE 
+(p < 0.05; Effect size [ES] = 0.2 and 0.3), whereas in sessions 4 and 5 the values were underestimated 
+(p < 0.05; ES = 0.3). In the case of s-RPE, the overestimation of RPE occurred in session 1 (p = 0.02; ES 
+= 0.9), whereas in sessions 4 and 5 (p < 0.05; ES = 1.8 and 0.9) the coach underestimated the load 
+values. We conclude that the training load planned by the coach is different and disagrees with the 
+perception of the AS players in most of the training sessions.
+
+Keywords: Disabled persons; Para-Athletes; Physical effort; Adaptive sports.
+
+Introduction
+
+Amputee  Soccer  (AS)  is  a  variation  of 
+conventional  soccer  played  by  individuals  with 
+a unilateral amputation of the lower limb (field 
+players) and of the upper limb (goalkeeper)1. AS 
+is characterized by explosive movements (jumping, 
+kicking  and  changing  direction),  high  speed 
+running, and support to muscle actions to keep the 
+balance and control the ball against the opponent 
+team2,  3.  AS  has  been  played  in  47  countries 
+involving local, national, and international level 
+championships. Hence, the level of demand and 
+competitiveness has grown and directly impacts 
+the sport training process.
+
+Overall,  AS  training  takes  into  consideration 
+technical,  tactical,  physical,  and  psychological 
+aspects.  One  of  the  challenges  in  the  training 
+process of team sports (e.g., AS), is monitoring the 
+training loads and planning the sessions4. When 
+prescribing a training load, coaches seek to calibrate 
+the specific level of intensity to correspond to the 
+adjustments they want to achieve5. Therefore, by 
+adjusting  intensity  and  duration,  coaches  vary 
+the training intensities avoiding scenarios such as 
+undertraining or overtraining5. Briefly, coaches and 
+sports physiologists need information that show the 
+athletes’ adjustment to the training load and also 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026  •  1
+
+their preparedness to receive the next load4.
+
+Considering there are difficulties in quantifying 
+fatigue  and  training  load  in  team  sports,  the 
+rating of perceived exertion (RPE) has been used 
+as  a  valid  measure  to  assess  the  intensity  of  the 
+exercise5.  RPE  presents  a  number  of  benefits, 
+including physiological and performance measures6. 
+Additionally, the session RPE method (s-RPE) has 
+been  applied  to  manage  the  prescribed  training 
+load and evaluate how athletes perceive the training 
+stimulus both currently and chronically7. Session-
+RPE  involves  multiplying  the  perceived  training 
+intensity (i.e., using an RPE scale) by the training 
+duration  in  minutes7,  8. When  determining  the 
+s-RPE, it is important that the rating refers to the 
+full training session (e.g., not only the last minutes 
+of the session). These pieces of information have 
+to be considered by coaches to plan sessions with 
+specific intensity and to manipulate training loads 
+so as to adjust them to the specific training and/or 
+competition periods.
+
+The training process starts with a plan in which 
+the  training  load  is  prescribed  and/or  expected 
+by the coach. However, coaches may not be fully 
+aware of the training load responses (e.g., s-RPE) 
+from the players9. Indeed, studies have shown the 
+difference between the RPE indicated by athletes 
+and  that  planned  by  the  coach10.  Overall,  the 
+coach's  predicted  intensity  (before  each  training 
+session)  and  players'  RPE  (after  each  training 
+session) is compared in those studies. When there 
+is an agreement between the results it is expected 
+that the difference between prescribed vs perceived 
+
+load is zero. On the other hand, overestimation or 
+underestimation of the training load occurs when 
+there is a difference between the coach’s planned 
+intensity  and  players'  responses.  In  individual 
+sports, the relationship between the load prescribed 
+and the one perceived are not consistent11. In team 
+sports, due the fact that each player has different 
+characteristics  and  thus  responds  differently  to 
+the same training load5. Each player has different 
+characteristics and thus responds differently to the 
+same training load9. In general, the studies indicate 
+multiple factors that may impact the association 
+between coaches’ and athletes’ RPE. These factors 
+are related with the sport, season and competition 
+phase, match and/or training environment, exercise 
+selection, training age, fitness and recovery status, 
+coaching experience, and tool used10.
+
+In the specific case of AS, there is a lack of information 
+regarding the connection between the prescribed and 
+the planned load, during the training sessions. Bearing 
+in mind that AS players have obvious differences 
+from non-disabled players (e.g., biomechanical and 
+physiological aspects), it is necessary to understand 
+the expectation of the coach and the real perception 
+of the AS players. Therefore, we aim (1) to investigate 
+if there is an agreement between the training intensity 
+and load prescribed by the coach and those perceived 
+by the players and (2) to test whether the intensity 
+and training loads are different for the AS coach and 
+the players. Since other sports show inconsistencies 
+between the load planned by the coach and the load 
+perceived by the athletes11-13, we hypothesized that this 
+phenomenon also occurs in AS.
+
+Methods
+
+Participants 
+
+Eleven  AS  male  players  (age  =  32±5.6  years; 
+time of experience in AS = 41±17.0 months), with 
+unilateral  lower  limb  amputation  (transfemoral, 
+n = 7; transtibial, n = 2; and hip disarticulation, 
+n  =  1),  participated  in  the  study.  All  players  are 
+members of a team that participates in national and/
+or international competitions and is affiliated to the 
+Brazilian Association of Sports for the Physically 
+Disabled - ABDF. We adopted the following inclusion 
+criteria for the study: a) having at least six months 
+of continuous training in AS (specific experience); 
+b) being over 18 years old; c) being involved in AS 
+
+competitions. The coach has 17 years of experience 
+in the sport and has worked with different Brazilian 
+clubs and with Brazil’s National team. He holds 
+a Bachelor’s degree in Physical Education, and a 
+Master’s and a Ph.D. in Physical Education and 
+Sport Sciences.
+
+The present study was approved by the local Ethics 
+Committee (number 3.654.572). Initially, the goals 
+and the procedures of the research were presented to 
+the Board of the association involved. After the Board’s 
+approval, the information regarding the study was 
+presented to both the coach and the athletes. Their 
+participation was voluntary and anonymous, and all 
+the athletes signed the Informed Consent Form.
+
+2  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026
+
+Experimental Design
+
+The data collection occurred over six training 
+sessions of the pre-competitive phase, aiming for the 
+2019 Brazilian Championship of Amputee Soccer. 
+Each session was planned by the same coach and lasted 
+between 50 and 60 minutes. The participants were 
+familiar with the scales and the anchorage procedure 
+was not necessary. Before each session, we registered 
+the coach’s intention regarding the RPE of the session 
+and the Perceived Recovery Scale (PRS) from the 
+players. The PRS was used for monitoring recovery 
+and training readiness before the training sessions14. 
+Immediately after concluding each training session, 
+the players responded to the same version of RPE. All 
+players reported their PRS and RPE individually to 
+prevent peer bias. Also, the coach's intention regarding 
+the intensity planned (i.e., coach's RPE before the 
+
+session) was not disclosed to the players until the end 
+of the experiment. FIGURE 1 shows the experimental 
+design of the study.
+
+Description of the training sessions
+
+The training sessions followed specific guidance 
+for AS training15 considering physical-technical-
+tactical aspects in each session and the evolution 
+with functional structures by small-sided games 
+(SSG, TABLE 1). All the training sessions occurred 
+at the same time of the day (8 pm) and also in the 
+same field with artificial grass measuring 38 x 26 
+m  (988  m2).  The  interval  between  the  sessions 
+was 1 week. In sessions 1 and 3, two AS players 
+did  not  finish  the  training  session  because  they 
+had muscle pain or because their crutches broke 
+during training.
+
+SSG = small sided 
+games.
+
+FIGURE 1 - Experimental design. 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026  •  3
+
+TABLE 1 - Description of the six training sessions.
+
+  Session 1
+
+  Session 2
+
+  Session 3
+
+  Session 4
+
+  Session 5
+
+  Session 6
+
+• Upper and 
+lower limb 
+stretching
+
+• Running 
+(with 
+Crutches 
+Moving 
+Together or 
+Separately)
+
+• Turning 
+(Right, Left, 
+Back)
+
+• Jumping 
+(Crutches on 
+the Ground / 
+in the Air)
+
+• Upper and 
+lower limb 
+stretching
+
+• Running 
+(with 
+Crutches 
+Moving 
+Together or 
+Separately)
+
+• Turning 
+(Right, Left, 
+Back)
+
+• Jumping 
+(Crutches on 
+the Ground / 
+in the Air)
+
+• Upper and 
+lower limb 
+stretching
+
+• Running 
+(with 
+Crutches 
+Moving 
+Together or 
+Separately)
+
+• Turning 
+(Right, Left, 
+Back)
+
+• Jumping 
+(Crutches on 
+the Ground / 
+in the Air)
+
+• Upper and 
+lower limb 
+stretching
+
+• Running 
+(with 
+Crutches 
+Moving 
+Together or 
+Separately)
+
+• Turning 
+(Right, Left, 
+Back)
+
+• Jumping 
+(Crutches on 
+the Ground / 
+in the Air)
+
+• Upper and 
+lower limb 
+stretching
+
+• Running 
+(with 
+Crutches 
+Moving 
+Together or 
+Separately)
+
+• Turning 
+(Right, Left, 
+Back)
+
+• Jumping 
+(Crutches on 
+the Ground / 
+in the Air)
+
+• Upper and 
+lower limb 
+stretching
+
+• Running 
+(with 
+Crutches 
+Moving 
+Together or 
+Separately)
+
+• Turning 
+(Right, Left, 
+Back)
+
+• Jumping 
+(Crutches on 
+the Ground / 
+in the Air)
+
+• Push up
+
+• Push up
+
+• Push up
+
+• Push up
+
+• Push up
+
+• Push up
+
+Warm-up
+(10 min.)
+
+• Passing and 
+controlling 
+the ball
+
+• Passing and 
+controlling 
+the ball
+
+• Passing and 
+shooting
+
+• Passing and 
+shooting
+
+Main 
+activivity
+(35 – 45 
+min.)
+
+• SSG (1x1; 
+2x2; 3x3; 4x4 
+– to improve 
+dribbling)
+
+• SSG (1x1; 
+2x1; 2x2; 
+3x2; 3x3; 
+4x3; 4x4; 5x4 
+– to improve 
+dribbling
+
+• SSG (2x1; 
+3x2; 4x3; 5x4 
+- to improve 
+marking 
+skills)
+
+• SSG (3x3; 
+4x4 - to 
+improve 
+marking 
+skills)
+
+• Passing, 
+controlling 
+the ball and 
+shooting
+
+• Passing, 
+controlling 
+the ball and 
+shooting
+
+• SSG (3x3 - 
+three zones)
+
+• SSG (3x3 - 
+three zones)
+
+• Game (5x5)
+
+• Game (5x5)
+
+• Game (5x5)
+
+• Game (5x5)
+
+• Push up
+
+• Push up
+
+• Push up
+
+• Push up
+
+• Push up
+
+• Push up
+
+Cool-down
+(5 min.)
+
+• Upper and 
+lower limb 
+stretching
+
+• Upper and 
+lower limb 
+stretching
+
+• Upper and 
+lower limb 
+stretching
+
+• Upper and 
+lower limb 
+stretching
+
+• Upper and 
+lower limb 
+stretching
+
+• Upper and 
+lower limb 
+stretching
+
+• Feedback
+
+• Feedback
+
+• Feedback
+
+• Feedback
+
+• Feedback
+
+• Feedback
+
+51 minutes
+
+51 minutes
+
+54 minutes
+
+60 minutes
+
+60 minutes
+
+60 minutes
+
+9 AS players
+
+11 AS players
+
+9 AS players
+
+11 AS players
+
+11 AS players
+
+11 AS players
+
+Total
+
+n
+
+Statistical Analysis
+
+The normality of the data was verified using the 
+Shapiro Wilk test. The RPE and PRS results did 
+not indicate normal distribution of the data. These 
+data are presented in median, confidence interval 
+of the median (CI 95%), and absolute and relative 
+
+frequency. The data related to sRPE presented 
+normal distribution, the results being presented 
+by  mean±standard  deviation  and  confidence 
+interval (CI 95%).
+
+The analysis of agreement between the coach and 
+the players was performed by employing the Bland-
+Altman  method16.  The  logistic  regression  model 
+
+4  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026
+
+(method: enter) was used to verify the relationships 
+between  the  differences  in  the  RPE  and  s-RPE 
+values  (variable:  dependent)  and  the  average  of 
+these variables measures. To quantify the degree of 
+relationship between the coach and the players, we 
+used the Spearman Correlation test (ρ) for RPE and 
+the Pearson Correlation (r) for s-RPE. 
+
+To compare the RPE in the different training 
+sessions,  the  Mann-Whitney  U Test  was  used, 
+whereas  for  comparing  s-RPE,  we  used  the 
+independent T Test.  We  considered  the  5% 
+probability  of  type  I  error  (α)  to  identify  the 
+differences. To calculate the effect size (ES, effect 
+size)  for  the  non-parametric  data,  we  followed 
+
+the Rosenthal recommendations, according to the 
+equation: TE = Z /√N, where Z = z-score of the 
+Mann-Whitney U test and N = the total number 
+of the sample.
+
+For  the  parametric  data,  we  used  the  ES 
+calculated  from  the  average  difference  between 
+the two groups dividing the result by the grouped 
+standard  deviation  (Cohen  d).  Starting from the 
+Cohen recommendations17, the ES was classified as 
+small (< 0,2), moderate (0.3 – 0.5), large (0.6 – 0.8) 
+and very large (> 0.8). We additionally calculated the 
+values of percentage differences (∆%) between the 
+s-RPE prescribed by the coach and that perceived 
+by the athletes.
+
+Results
+
+Agreement between coach and AS player
+
+Comparison between coach and AS player
+
+FIGURE 2 presents the Bland-Altmann graph for 
+the RPE (FIGURE 2a) and s-RPE (FIGURE 2b)     
+data.  The  agreement  bias  was  of  0.16±1.69        
+(p = 0.480) and 13.0±94.0 (p = 0.303) for RPE 
+and s-RPE, respectively. There were no statistical 
+differences between the results, indicating that 
+the values agree between them. We found weak/
+negative correlation in RPE (ρ= -0.136; p = 0.319) 
+and moderate/positive for s-RPE (r = 0.499; p < 
+0.001). The results of the regression model indicated 
+relationship bias in the results of RPE (β = -0.461; 
+Standard error [SE] = 4.33; p = 0.292) and of 
+s-RPE (β = 2.040; SE = 0.482; p < 0.001).
+
+TABLE  2  presents  the  results  for  RPE-C 
+and  RPE-AS  in  each  training  and  in  general. 
+The  athletes  indicated  good  recovery  levels  to 
+participate  in  the  training  sessions  (Median  = 
+7; moderately recovered). We found differences 
+between  the  players’  perception  and  that  of 
+the  coach  in  training  sessions  1,  2,  4  and  5, 
+with trivial and small ES (0.03 to 0.3). When 
+analyzing the RPE descriptors, we identified that 
+the coach always classified the training as “Very 
+hard” (values between 7 and 9). The same result 
+was found in the perception of most players 
+(n = 40; 71.4%).
+
+Legend: Plot of 
+differences between 
+RPE (Panel a) / s-RPE 
+(Panel b) coach and AS 
+players vs. the mean of 
+the two measurements 
+with the representation 
+of confidence interval 
+limits for mean and 
+agreement limits.
+
+FIGURE 2a - Bland-altman plots for RPE.
+
+FIGURE 2b - Bland-altman plot for s-RPE.
+
+FIGURE 2 - Bland-Altmann graph for the RPE and s-RPE data.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026  •  5
+
+TABLE 2 - Results of perceptions coach and AS players in each training session.
+
+Median PSR
+
+Median RPE
+
+95% IC
+
+p
+
+ES
+
+Session 1
+
+Session 2
+
+Session 3
+
+Session 4
+
+Session 5
+
+Session 6
+
+Amputee 
+Players
+
+9 well 
+recovered
+
+Amputee 
+Players
+
+7 moderately 
+
+recovered
+
+Amputee 
+Players
+
+5 adequately 
+recovered
+
+5 adequately 
+recovered
+
+Amputee 
+Players
+
+6 moderately 
+
+recovered
+
+Amputee 
+Players
+
+7 moderately 
+
+recovered
+
+Coach
+
+Coach
+
+Coach
+
+Amputee 
+Players
+
+Coach
+
+Coach
+
+Coach
+
+Coach
+
+7
+
+8
+
+7
+
+8
+
+8
+
+8
+
+9
+
+7
+
+9
+
+8
+
+8
+
+7
+
+8
+
+8
+
+Amputee 
+Players
+
+7 moderately 
+
+recovered
+
+All sessions
+
+5 to 9
+
+5 to 10
+
+5 to 10
+
+8 to 9
+
+8 to 10
+
+6 to 9
+
+7 to 9
+
+Z = -2.46;  
+p = 0.01*
+
+0.3 - small
+
+Z = -2.23;  
+p = 0.03*
+
+0.2 - small
+
+Z = -0.36;  
+p = 0.71
+
+0.05 - trivial
+
+Z = 3.37;   
+p < 0.001*
+
+0.3 - small
+
+Z = 0.34;   
+p = 0.73
+
+0.03 - small
+
+Z = 0.34;   
+p = 0.73
+
+0.03 - small
+
+Z = 1.22;   
+p = 0.22
+
+0.1 - small
+
+6  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026
+
+The  analysis  of  the  individual  responses  of 
+the  RPE  coach  vs  AS  players  for  each  session 
+is  shown  in  FIGURE  3.  We  observed  that 
+
+the  coach  overestimates  (sessions  1  and  2)  or 
+underestimates (sessions 4 and 5) the intensity 
+of effort the players were exposed to.
+
+FIGURE 3 - Individual changes of the RPE between coach and amputee soccer players in each session training.
+
+From  the  coach’s  and  from  the  players’ 
+perception,  we  calculated  the  load  of  training 
+(TABLE 3). We observed that, in training session 
+1,  the  coach  presented  higher  values  (ES  =  0.9 
+
+–  very  large)  for  the  s-RPE  prescribed  than  the 
+players did. Conversely, in sessions 4 and 5, the 
+players presented higher values of s-RPE (ES = 0.9 
+to 1.8 – very large). 
+
+TABLE 3 - Results of perceptions coach and AS players in each training session.
+
+Coach
+
+AS players (95% 
+
+IC)
+
+ES
+
+Comparasion
+
+Session 1
+
+Session 2
+
+Session 3
+
+Session 4
+
+Session 5
+
+Session 6
+
+408
+
+408
+
+432
+
+420
+
+480
+
+420
+
+0.9 very large
+
+t = 2. 82; p = 0.02*
+
+0.5 moderate
+
+t = 1.53; p = 0.16
+
+0.2 small
+
+t = 0.478; p = 0.65
+
+1.8 very large
+
+-21%
+
+t = 5.88; p <0.001*
+
+0.9 very large
+
+-10%
+
+t = 3.11; p = 0.01*
+
+0.3 moderate
+
+t = 1.07; p = 0.31
+
+∆%
+
+15%
+
+10%
+
+3%
+
+-8%
+
+-3%
+
+346±66 
+
+(303 to 389)
+
+366±91 
+
+(312 to 420)
+
+420±75
+
+ (371 to 469)
+
+507±49 
+
+(478 to 536)
+
+529±52 
+
+(498 to 560)
+
+453±102 
+(393 to 513)
+
+440±99 
+
+(381 to 499)
+
+All Sessions
+
+429±25
+
+0.1 small
+
+t = 1.07; p = 0.31
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026  •  7
+
+Discussion
+
+Agreement between coach and AS player
+
+The  Bland-Altman  analysis  did  not  indicate 
+whether  the  agreement  is  sufficient  or  adequate. 
+This analysis quantifies the bias and the range of 
+agreement, within which 95% of the differences 
+between the RPE and s-RPE are included18. The 
+results of the Bland-Altman analysis indicate that 
+the RPE and s-RPE values between the coach and 
+the AS players converge. Observing the result's bias 
+of  the  Bland-Altman  graph  (FIGURES  2a  and 
+2b), we notice they are close to zero and they do 
+not present significant differences. However, these 
+results  should  be  cautiously  interpreted,  mainly 
+because the complementary analyses performed in 
+the study contradict the mentioned information18. 
+Starting from the assumption that there may be 
+differences in the results of the study, we also used 
+the regression model to determine the agreement of 
+the methods. Bland and Altman16 indicate the use 
+of this procedure to assess the relationship between 
+the bias and the magnitude of the measures. The 
+results of our regression model indicated that for 
+the systematic trends, the difference between the 
+coach  and  the  AS  players  tends  to  increase  or 
+decrease as the median of these values increases. In 
+practical terms, our results indicate that the coach 
+overestimates the intensity and underestimates the 
+training load the players were exposed to.
+
+Nevertheless, the magnitude of the relationship 
+between  coach  and  AS  players  was  weak  and 
+moderate  for  RPE  and  s-RPE,  respectively. We 
+understand that the correlation coefficient does not 
+represent agreement but rather reflects the noises 
+and the direction of the relationship19. In our study, 
+therefore, the correlation coefficient was treated as a 
+linear measure for the relationship between variables 
+without  providing  an  agreement.  Some  studies 
+indicated a weak relationship between the intensity 
+prescribed by coaches and the intensity perceived by 
+swimming athletes20. When it comes to team sports, 
+a  weak  agreement  between  the  planned  and  the 
+perceived training intensity planned was observed 
+in soccer21, futsal22 and volleyball12.
+
+Comparison between coach and AS player
+
+RPE  has  been  considered  a  valid  method  to 
+monitor, to prescribe and to regulate the intensity 
+of  the  exercise  and  to  assess  the  training  load 
+
+(s-RPE). Here we compared the intensity and the 
+load of the training planned (by the coach) and 
+the intensity and load of training perceived by the 
+AS players using both RPE and s-RPE. Our main 
+findings indicated that in some training sessions, 
+the intensity and load planned by the coach was 
+different from those perceived by the athletes. We 
+believe that such discrepancy (i.e., load planned was 
+different from that perceived by AS players) is due 
+to the coaches’ difficulty in planning and controlling 
+the training load in team sports10.
+
+Investigations on the relationship between the 
+RPE of coaches (before the session) and athletes 
+(after the session) are not recent in regular sports12, 
+20, 21. The application of s-RPE to team  sports is 
+promising, especially in Para-sports. In this area, 
+the use of RPE has contributed to monitoring the 
+training sessions and competitions23. For example, 
+in wheelchair sports this method was already used to 
+compare physiological responses among basketball 
+players,  to  quantify  the  training  load  during 
+games24 and to individualize the training load for 
+wheelchair rugby elite athletes25. Especially for AS, 
+two studies used RPE to measure the intensity in 
+official  matches2,  3.  However,  as  far  as  we  know, 
+this is the first study that has sought to compare 
+the perceptions of both coach and AS players. In 
+qualitative terms, our data revealed an agreement 
+between  coach  and  players,  i.g.,  the  training 
+sessions planned by the coach to be “Very hard” 
+were considered  by the players as “Very hard”. On 
+the other hand, in quantitative terms (i.e., s-RPE 
+X minutes) our data showed differences between 
+the training load planned (by the coach) and the 
+observed (by the players).  For instance, we noticed 
+that  the coach overestimated the training load in 
+sessions  1  and  2,  while  the  athletes  presented  a 
+lower training load for sessions 4 and 5. The main 
+explanation for this discrepancy between qualitative 
+vs. quantitative is the type of training performed 
+(e.g., different demands from SSG).
+
+AS is a complex game, of intermittent character, 
+in which the players have to move with crutches 
+and perform  technical skills  with their leg and/
+or head3. As for conventional soccer, SSG games 
+are usually aiming to reproduce the demands of 
+the games and to train technical, tactical, physical-
+physiological and psychological components26. In 
+SSG, there are different alternative configurations 
+(field  size,  number  of  players,  rule  changes, 
+
+8  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026
+
+technical limitations and increment of pressure) 
+that  directly  influences  technical,  tactical, 
+physiological  and  perceptual  aspects26.  Studies 
+demonstrated that the different number of players 
+causes  different  perceptive  characteristics27. 
+Additionally,  the  use  of  structures  including 
+numerical  advantage  (ex.:  3x2)  and  with  fewer 
+participants (ex.: 1x1) cause greater RPE28.
+
+Literature  has  indicated  that  RPE  has  a 
+multifactorial nature, mediated by physiological 
+and  psychological  factors6.  This  may  cause 
+variability  between  coaches’  and  athletes’ 
+perception.  In  the  current  study,  the  training 
+sessions  in  which  the  coach  overestimated  the 
+load were carried out  with ball control exercises, 
+and SSG with numerical evenness to emphasize 
+dribbling.  This  SSG  format  leads  to  high  levels 
+of  exertion,  and  anaerobic  demand28  which 
+partially  explains  the  coach’s  overestimation  of 
+the load in the current study. The configuration 
+of the exercises and activities in sessions 4 and 5 
+involved  technical  aspects  (passing,  ball  control 
+and shooting) and SSG 3x3, 4x4 configurations. 
+In  SSG  with  3x3,  4x4  configurations  the  RPE 
+is  generally  greater  than  in  other  formats26-28. 
+Additionally, the game area occupied per player 
+in  3x3,  4x4  configurations  is  smaller,  requiring 
+that the players move with greater frequency to 
+occupy the empty spaces in the field. These aspects 
+may explain the differences found in the sessions 
+when we compared the RPE and s-RPE planned 
+by the coach with those perceived by the players.
+A  crucial  point  to  explain  the  study  results 
+is directly related to the perception of exertion. 
+The experience of exertion involves detecting and 
+interpreting the sensations that arise in the body 
+during or immediately after the exercise6. From 
+these  underlying  processes,  the  athletes  classify 
+their momentary subjective perception of training 
+based on physiological and psychosocial aspects, 
+among others6. This does not happen when the 
+coach estimates the athletes’ training load. RPE 
+and s-RPE have several uses for monitoring the 
+training  load,  but  do  not  provide  information 
+about  an  individual  perception  of  the  physical 
+exertion  of  a  training  session  to  be  conducted 
+in  a  near  future29.  From  a  practical  viewpoint,  
+discrepancies in load indication during training 
+increase the risk of inadequate training10.
+
+The  time  of  experience  with  the  context  of 
+sports training may allow athletes and coaches to 
+more easily identify the intensity levels of effort10. 
+
+In our study, the AS players presented 3.4 years of 
+experience in the sport. The team’s coach has 17 
+years of experience in the sport. Those differences 
+between the experience of the para-athletes and 
+the coach (i.e., coach’s experience time is much 
+longer than that of the players) can explain the 
+discrepancy  in  the  perception  and  prescribed 
+(quantitative)  training  load.  It  is  expected  that 
+the experience of coaches and athletes will allow 
+a better understanding of the athlete's perceptions 
+of effort25. However, this fact was not observed in 
+our study, mainly because the coach overestimated 
+or underestimated the load of the training sessions.  
+Although years of experience as a coach or athlete 
+are often recognized as a testimony of expertise30, it 
+seems that this may not provide a better indication 
+of effort perception and prescription.
+
+The  specific  points  for  understanding  the 
+results of this study are focused on the individual 
+characteristics  of  AS  players.  Particularly,  AS 
+players  support  their  entire  body  mass  on  the 
+crutches,  which  results  in  additional  fatigue 
+patterns  (i.e.,  upper  limbs)  in  the  recruited 
+muscles2, 3. The fatigue experienced by AS players 
+can  be  more  evident,  as  crutches  deambulation  
+consumes  10%  to  30%  more  energy,  resulting 
+in  increased  energy  expenditure  and  physical 
+exertion3. Therefore, it is crucial for AS coaches to 
+know the specific demands of AS players (e.g., type 
+of  displacement,  amputation  levels,  and  fatigue 
+characteristics).  Indeed,  authors  point  out  that 
+coach-athlete divergence can be mediated by the 
+different demands of the sport. Para-sports coaches 
+perform different tasks on a daily basis, mainly 
+due  to  the  lack  of  resources  and  particularities 
+of adapted sport30. The implementation of these 
+additional  demands  affects  the  professional 
+performance  of  the  coach  and  influences  his 
+efficiency in the training prescription30.
+
+Once individual responses to the training load 
+are expected, the individualized approach is also 
+important to assess whether the load perceived by 
+the AS players is in accordance with that intended 
+by the coach. In this sense, we confirmed our study 
+hypothesis    (FIGURE  3).  In  other  words,  AS 
+players reported different training loads than the 
+coach. In practice, examining individual athlete 
+responses  allows  the  coach  to  manage  which 
+players are experiencing excessive fatigue and make 
+necessary  adjustments  to  their  training  loads23. 
+It  would  also  be  important  for  the  coaches  to 
+futher investigate the reasons for excessive fatigue. 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026  •  9
+
+For  example,  an  AS  player  with  a  transfemoral 
+amputation can exhibit excessive levels of fatigue 
+for 1 to 2 consecutive days because of the level of 
+amputation, while an individual with transtibial 
+amputation may respond differently3. Therefore, 
+knowledge of individual load monitoring can be 
+useful  to  ensure  that  the  applied  load  matches 
+that  prescribed  by  the  coach5.  In  sum,  the 
+divergence between the athletes’ and the coaches’ 
+perceptions of effort during SSG has implications 
+on the training program design. If coaches cannot 
+
+accurately estimate the load of training, it will be 
+difficult to plan training for the long term. 
+
+Investigating only one team may have been a 
+limitation of the current study, as different teams 
+(i.e., coaches and players) may present different 
+data. Future studies should investigate other load 
+variables (e.g., heart rate, blood lactate, number 
+of  sprints,  distances  covered  in  different  speed 
+zones, etc) to contribute to better understanding 
+between planned training load and responses from 
+the AS players.
+
+We conclude that the training load planned 
+by the coach diverges from the perception of 
+the AS players in most of the training sessions. 
+
+The RPE scale did not prove to be adequate 
+when  used  by  the  coach  for  the  intended 
+training load.
+
+This study was carried out with the financial support of the National Council for Scientific and 
+Technological Development (CNPq) by process 432153/2018-7 (MCTIC/CNPq Nº 28/2018). 
+
+Conclusion
+
+Funding
+
+Resumo
+
+Análise comparativa da percepção de treinadores e jogadores de futebol para amputados sobre a 
+intensidade do treinamento.
+
+Investigamos se existe concordância e diferenças entre a intensidade e carga de treinamento prescritas 
+pelo treinador e percebidas por jogadores de futebol para amputados (FA). Onze jogadores de FA 
+e o treinador da equipe participaram do estudo. Antes de cada sessão, registramos o a Percepção 
+de Esforço planejada (não divulgado aos jogadores). Imediatamente após a sessão de treinamento, 
+os jogadores responderam à versão da PSE individualmente. A carga foi quantificada por meio do 
+método PSE da sessão (s-PSE, PSE x duração). Nas sessões 1 e 2, o treinador superestimou a PSE do 
+treinamento (p < 0,05; tamanho do efeito [TE] = 0,2 e 0,3), enquanto nas sessões 4 e 5 os valores 
+foram subestimados (p < 0,05; TE = 0,3). No caso do s-RPE, a superestimação ocorreu na sessão 1 (p 
+= 0,02; ES = 0,9), enquanto nas sessões 4 e 5 (p < 0,05; ES = 1,8 e 0,9) o treinador subestimou a carga 
+valores. Concluímos que a carga de treinamento planejada pelo treinador é diferente e discorda da 
+percepção dos jogadores do FA na maioria dos treinos.
+
+Palavras-chave: Pessoas com deficiência; Para-atletas; Esforço físico; Esporte adaptado.
+
+10  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026
+
+References
+
+1. Yazicioğlu K. The rules of Amputee Football. Amputee sports for victims of terrorism. Amsterdam: IOS Press, 2007. 
+p. 94-9.
+2. Simim MAM, Bradley PS, Silva BVC, Mendes EL, Mello MT, Marocolo M, et al. The quantification of game-induced 
+muscle fatigue in amputee soccer players. J Phys Fit Sports Med. 2017;57:766-72.
+3. Simim MAM, Mota GR, Marocolo M, Silva BVC, Mello MT, Bradley PS. The demands of Amputee Soccer impair 
+muscular endurance and power indices but not match physical performance. Adapt Phys Activ Q. 2018;35:76-92.
+4. Delaney JA, Duthie GM, Thornton HR, Pyne DB. Quantifying the relationship between internal and external work 
+in team sports: development of a novel training efficiency index. Sci Med Football. 2018;2(2):149-56.
+5.  McGuigan  H,  Hassmén  P,  Rosic  N,  Stevens  CJ. Training  monitoring  methods  used  in  the  field  by  coaches  and 
+practitioners: a systematic review. Int J Sports Sci Coach. 2020;15(3):439-51.
+6.  Halperin  I,  Emanuel  A.  Rating  of  perceived  effort:  methodological  concerns  and  future  directions.  Sports  Med.  
+2020;50(4):679-87.
+7. Haddad M, Stylianides G, Djaoui L, Dellal A, Chamari K. Session-RPE Method for training load monitoring: validity, 
+ecological usefulness, and influencing factors. Front Neurosci. 2017;11(612).
+8. Lupo C, Ungureanu AN, Frati R, Panichi M, Grillo S, Brustio PR. Player ssession rating of perceived exertion: a more 
+valid tool than coaches' ratings to monitor internal training load in elite youth female Basketball. Int J Sports Physiol 
+Perform. 2019:1-6.
+9. Brink MS, Frencken WGP, Jordet G, Lemmink KA. Coaches' and players' perceptions of training dose: not a perfect 
+match. Int J Sports Physiol Perform. 2014;9(3):497-502.
+10. Paul D, Read P, Farooq A, Jones L. Factors influencing the association between coach and athlete rating of exertion: 
+a systematic review and meta-analysis. Sports Med - Open. 2021;7(1).
+11. Doeven SH, Brink MS, Frencken WGP, Lemmink K. Impaired player-coach perceptions of exertion and recovery 
+during match congestion. Int J Sports Physiol Perform. 2017;12(9):1151-6.
+12. Andrade AD, Simim MAM, Kassiano W, Palao JM, De Jesus K, Maia NM, et al. Do differences between the training load 
+perceived by elite beach volleyball players and that planned by coaches affect neuromuscular function? Retos. 2020;38:632-6.
+13. Macpherson TW, McLaren SJ, Gregson W, Lolli L, Drust B, Weston M. Using differential ratings of perceived exertion 
+to assess agreement between coach and player perceptions of soccer training intensity: an exploratory investigation. J Sports 
+Sci. 2019;37(24):2783-8.
+14. Laurent CM, Green JM, Bishop PA, Sjokvist J, Schumacker RE, Richardson MT, et al. A practical approach to 
+monitoring recovery: development of a perceived recovery status scale. J Strength Cond Res. 2011;25(3):620-8.
+15. Simim MAM, Silva BVC, Mota GR. Amputee football: technical, tactical and guidelines for training. Braz J Futsal 
+Football. 2015;7:246-54.
+16. Bland JM, Altman DG. Measuring agreement in method comparison studies. Stat Methods Med Res. 1999;8(2):135-60.
+17. Cohen J. Statistical power analysis for the behavioral sciences: Toronto: Routledge; 1988.
+18. Giavarina D. Understanding Bland Altman analysis. Biochem Med. 2015;25(2):141-51.
+19. Hopkins WG. Bias in Bland-Altman but not regression validity analyses. Sportscience [Internet]. 2004; 8:[42-6 pp.]. 
+Available from: sportsci.org/jour/04/wghbias.htm.
+20. Wallace LK, Slattery KM, Coutts AJ. The ecological validity and application of the session-RPE method for quantifying 
+training loads in swimming. J Strength Cond Res. 2009;23(1):33-8.
+21. Brink MS, Kersten AW, Frencken WGP. Understanding the mismatch between coaches' and players' perceptions of 
+exertion. Int J Sports Physiol Perform. 2017;12(4):562-8.
+22. Rabelo FN, Pasquarelli BN, Gonçalves B, Matzenbacher F, Campos FAD, Sampaio J, et al. Monitoring the intended and 
+perceived training load of a professional futsal team over 45 weeks: a case study. J Strength Cond Res. 2016;30(1):134-40.
+23. Simim MAM, Mello MT, Silva BVC, Rodrigues DF, Rosa JPP, Couto BP, et al. Load monitoring variables in training 
+and competition situations: a systematic review applied to wheelchair sports. Adapt Phys Activ Q. 2017;34(4):466-83.
+24. Iturricastillo A, Granados C, Los Arcos A, Yanci J. Objective and subjective methods for quantifying training load in 
+wheelchair basketball small-sided games. J Sports Sci. 2017;35(8):749–55.
+25. Paulson TAW, Mason B, Rhodes J, Goosey-Tolfrey V. Individualized internal and external training load relationships 
+in elite wheelchair rugby players. Front Physiol. 2015;6(388).
+26. Aguiar M, Botelho G, Lago C, Maças V, Sampaio J. A review on the effects of soccer small-sided games. J Human 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026  •  11
+
+Kinetics. 2012;33:103-13.
+27. Halouani J, Chtourou H, Gabbett T, Chaouachi A, Chamari K. Small-sided games in team sports training: a brief 
+review. J Strength Cond Res. 2014;28(12):3594-618.
+28. Clemente FM. Small-sided and conditioned games in soccer training: the science and practical applications. Singapore: 
+Springer; 2016. 135 p.
+29. Haile L, Gallagher Jr M, Robertson RJ. Perceived exertion laboratory manual: from standard practice to contemporary 
+application. New York, NY: Springer; 2015.
+30. Facundo LA, Mello MT, Simim MAM, Duarte T, Cruz AAS, Narciso FV, et al. Professional trajectory of coaches in 
+the context of  Paralympic sports. Movimento. 2019;25:e25034.
+
+Address
+Mário A. M. Simim
+Institute of Physical Education and Sports
+Federal University of Ceará - Campus do Pici
+Av. Mister Hull, Parque Esportivo - Bloco 320
+ 60455-760 - Fortaleza - CE - Brazil
+E-mail: mario.simim@ufc.br
+
+Submitted: 12/01/2021
+Revised: 06/01/2023
+Accepted: 07/07/2023
+
+12  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193026
+
+

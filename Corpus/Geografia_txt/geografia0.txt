@@ -1,0 +1,1393 @@
+DOI: 10.5216/bgg.v43i01.73523 
+
+ 
+
+ 
+
+ 
+Noções de ambiente no vocabulário controlado 
+de Descritores em Ciências da Saúde (DeCS): 
+uma perspectiva geográfica 
+ 
+Environment notions in the controlled vocabulary of 
+Medical Subject Headings (MeSH): a geographic 
+perspective 
+ 
+Nociones de ambiente en el vocabulario controlado de 
+Descriptores en Ciencias de la Salud (DeCS): una 
+perspectiva geográfica 
+ 
+
+  Heloíse Canal 
+
+Universidade Federal do Rio Grande do Sul. Rio Grande do Sul, 
+Porto Alegre, Brasil  
+heloisecanal@gmail.com  
+ 
+
+  Roberto Verdum 
+Universidade Federal do Rio Grande do Sul. Rio Grande do Sul, 
+Porto Alegre, Brasil  
+ verdum@ufrgs.br    
+
+ 
+
+ 
+
+ 
+
+Resumo: Estabelecido há mais de três décadas, o vocabulário controlado de 
+Descritores  em  Ciências  da  Saúde  (DeCS)  possui  grande  potencial  de  ser 
+fonte documental para esclarecer como as Ciências da Saúde incorporam ao 
+longo do tempo as temáticas relevantes para seus saberes e suas práticas. 
+Este artigo busca discutir algumas noções sobre o descritor Ambiente deste 
+vocabulário controlado, tendo como fio condutor a problemática ambiental 
+discutida por parte da Geografia. Trata-se de uma pesquisa com abordagem 
+qualitativa, de caráter exploratório e do tipo documental. O levantamento de 
+dados foi realizado no próprio site do DeCS, nas seções de pesquisa livre e 
+de  edições  anteriores  correspondentes  ao  período  de  1999  a  2020.  O 
+descritor  foi  mapeado  seguindo  os  passos  de  ordenação,  classificação  e 
+análise. Criaram-se quatro categorias de noções: ecológica, escalar, laboral e 
+arquitetônica. São predominantes as abordagens de equilíbrio/desequilíbrio 
+
+DOI: 10.5216/bgg.v43i01.73523 
+
+ 
+
+ 
+
+ecológicos e de planejamento/gestão ambientais. O descritor Meio Ambiente 
+do vocabulário condiz com parte da construção histórica do uso científico do 
+conceito  de  ambiente,  no  entanto,  existem  lacunas  nesta  ferramenta  de 
+busca, sendo indicado o seu aprofundamento teórico a partir das discussões 
+presentes na Geografia, principalmente segundo a perspectiva territorial. 
+Palavras-chave:  Meio  Ambiente;  Geografia;  Vocabulário  Controlado; 
+Ciências da Saúde. 
+ 
+Abstract: Established over three decades ago, the controlled vocabulary of 
+Medical  Subject  Headings  (MeSH)  has  great  potential  to  be  a  documental 
+source to enlighten how Health Sciences incorporate overtime the relevant 
+themes for their knowledge and practices. This paper aims to categorize and 
+discuss  some  notions  on  the  term  environment  that  are  present  in  this 
+controlled vocabulary, using as its thread the environmental crisis discussed 
+in  the  Geography  area.  This  is  a  qualitative,  exploratory,  documental 
+research. Data was gathered from the MeSH website, in the sections of free 
+search and previous editions from 1999 to 2020. As a result, we created four 
+categories  on  environment  notions:  ecological,  scalar,  work  and 
+architectonic. The results associated to the discussions on the environmental 
+crisis in Geography indicated that there are conceptual gaps in the controlled 
+vocabulary  of  MeSH  regarding  health  and  environment.  We  point  out  the 
+need to extrapolate the ecological equilibrium/environmental imbalance and 
+environmental  management/environment  design  approaches,  also  taking 
+into consideration the territorial approach. 
+Keywords:  Environment;  Geography;  Controlled  Vocabulary;  Health 
+Sciences. 
+ 
+Resumen:  Establecido  desde  hace  más  de  tres  décadas,  el  vocabulario 
+controlado  de  Descriptores  en  Ciencias  de  la  Salud  (DeCS)  tiene  gran 
+potencial  de  ser  fuente  documental  para  explicar  cómo  las  Ciencias  de  la 
+Salud incorporan a lo largo del tempo temas relevantes para sus saberes y 
+prácticas. Este artículo busca categorizar y discutir algunas nociones sobre el 
+término ambiente presentes en este vocabulario controlado, teniendo como 
+hilo conductor los problemas ambientales que discute parte de la Geografía. 
+Se  trata  de  una 
+investigación  con  abordaje  cualitativo,  de  carácter 
+exploratorio  y  de  tipo  documental.  Los  datos  se  recogieron  en  la  propia 
+página  web  del  DeCS,  en  las  secciones  de  búsqueda  libre  y  de  ediciones 
+anteriores correspondientes al período de 1999 a 2020. Como resultado, se 
+crearon  cuatro  categorías  sobre  nociones  de  ambiente:  ecológica,  escalar, 
+laboral y arquitectónica. Los resultados vinculados a las discusiones sobre el 
+problema  ambiental  en  Geografía 
+indicaron  que  existen  brechas 
+conceptuales en el vocabulario controlado de DeCS sobre la relación salud y 
+ambiente.  Se  plantea 
+los  abordajes  de 
+equilibrio/desequilíbrio  ecológicos  y  de  planificación/gestión  ambientales, 
+considerando también el abordaje territorial. 
+Palabras  clave:  Medio  Ambiente;  Geografía;  Vocabulario  Controlado; 
+Ciencias de la Salud. 
+
+la  necesidad  de  extrapolar 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Introdução 
+
+Criado em 1986 pelo Centro Latino-Americano e do Caribe 
+de  Informação  em  Ciências  da  Saúde  (BIREME/OPAS/OMS),  o 
+vocabulário  controlado  de  Descritores  em  Ciências  da  Saúde 
+(DeCS)  é  uma  importante  ferramenta  para  a  padronização  de 
+termos, conceitos e temas relacionados às Ciências da Saúde. O 
+DeCS também possui uma importante função para indexação de 
+conteúdo de vários tipos de fontes de informação em saúde, já 
+que é adotado pelo Portal Regional da Biblioteca Virtual de Saúde 
+(BVS), grande referência sobre informação em saúde na América 
+Latina e Caribe. 
+
+Uma  das  ferramentas  principais  do  DeCS  e  demais 
+vocabulários  controlados  é  a  presença  dos  chamados 
+descritores. São “etiquetas” que registram as palavras em códigos 
+únicos  ao  mesmo  tempo  em  que  permitem  classificá-las  e 
+recuperá-las em uma estrutura hierárquica em relação a outros 
+termos 
+são 
+acompanhados de um registro de seu significado, denominado 
+de nota de escopo, o que permite também uma operabilidade 
+semântica. 
+
+(DECS,  2021).  Geralmente  os  descritores 
+
+Diante  disto,  o  DeCS  tem  grande  potencial  de  ser  fonte 
+documental  para  esclarecer  como  as  Ciências  da  Saúde 
+incorporam ao longo do tempo as temáticas relevantes para seus 
+saberes e práticas. No entanto, como é um vocabulário que foi 
+criado  no  contexto  das  ciências  biomédicas,  é  esperado  que 
+existam lacunas em diversos campos de conhecimento e que ao 
+longo  do  tempo  outros  descritores  e  categorias  possam  ser 
+revisadas e/ou ampliadas. Um exemplo é o estudo de Treuherz e 
+Teixeira (2016) sobre como estava representada a área temática 
+de identidade de gênero no vocabulário DeCS, entre os anos de 
+1996 a e 2015. Os autores concluíram que esta temática estava 
+sub-representada  no  DeCS  e,  a  partir  desta  constatação  e  da 
+pesquisa  em  portais  de  periódicos  científicos  sobre  o  assunto, 
+sugeriram  a 
+incorporação  de  trinta  novos  descritores  ao 
+vocabulário. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+conhecimento),  os  quais  guardam 
+
+Partimos  do  pressuposto  de  que  no  âmbito  técnico-
+científico  o  ato  de  selecionar  um  vocábulo  em  detrimento  de 
+outros possíveis é mais que uma tarefa de comunicação. Mesmo 
+que de forma não explicitada, estas escolhas estabelecem uma 
+abordagem  e  um  escopo  de  práticas  baseadas  em  conceitos 
+(unidade  de 
+suas 
+especificidades  teóricas,  técnicas  e  metodológicas  (BARROS, 
+2016).  Assim,  em  contextos  de  acesso  e  uso  de  informação 
+científica em saúde relacionada à problemática ambiental, deve-
+se primeiramente reconhecer que os conceitos são históricos e 
+que as noções de ambiente e seus correlatos – meio, ambiente, 
+meio  ambiente,  etc.  –  são  parte  do  próprio  processo  de 
+construção do conhecimento (RIBEIRO, 2012).  
+
+vocabulário 
+
+Neste  artigo,  buscamos  discutir  algumas  noções  sobre  o 
+descritor  Ambiente  do 
+controlado  DeCS, 
+confrontando-as  com  a 
+literatura  científica  geográfica  que 
+compreende o conceito de ambiente como categoria de análise 
+necessariamente inscrita em uma problemática ambiental. Trata-
+se  de  pesquisa  com  abordagem  qualitativa  de  caráter 
+exploratório  que  busca  conduzir  à  expansão  terminológica  e 
+analítica sobre o tema.  
+
+Na  primeira  seção,  abordamos  brevemente  o  uso  de 
+ambiente ou meio ambiente nos campos científicos, em especial 
+na  Geografia,  por meio  de  revisão  histórico-conceitual.  Depois, 
+indicamos  algumas  discussões  relacionadas  a  partir  da 
+recuperação  de  descritores  do  DeCS  contendo  o  termo  exato 
+Ambiente,  em  especial  o  descritor  Meio  Ambiente.  Mapeamos 
+cada descritor (termos preferidos, nota de escopo e sinônimos). 
+Seguindo  os  passos  de  ordenação,  classificação  e  análise 
+apresentados por Minayo (2014), categorizamos estas noções e 
+elaboramos dois tópicos de discussão.  
+
+ 
+ 
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Contextualização geográfica do conceito de ambiente 
+ 
+
+Sobre  a  origem  e  contextualização  do  uso  científico  de 
+ambiente,  alguns  autores  utilizam  o  caminho  da  recuperação 
+etimológica  e  semântica  relacionada  a  meio,  ambiente  e  meio 
+ambiente  (CANGUILHEM,  1975;  RIBEIRO,  2012;  SOUZA,  2019). 
+Não  é  nosso  objetivo  adentrar  esta  tarefa  e  sim  indicar 
+brevemente alguns consensos sobre sua origem. Ribeiro (2012), 
+a  partir  da  compilação  de  diversos  autores,  indica  que  esta 
+origem está cronologicamente manifestada na física newtoniana, 
+na  biologia  evolucionista,  na  geografia  (biogeografia)  e  na 
+sociologia positivista. A cada apropriação científica, um novo ou 
+revistado sentido é atribuído. 
+
+Dentro  da  política  ambiental  é  possível  perceber  que 
+embora a expressão ‘meio ambiente’ seja predominante, o seu 
+significado não permanece o mesmo ao longo do tempo. É o caso 
+da definição presente na própria Lei n° 6.938/81, que define meio 
+ambiente  como  “o  conjunto  de  condições,  leis,  influências  e 
+interações  de  ordem  física,  química  e  biológica,  que  permite, 
+abriga e rege a vida em todas as suas formas”. A Resolução n° 
+306/2002  do  Conselho  Nacional  do  Meio  Ambiente  reconhece 
+inclusive  a  multidimensionalidade  do  conceito  ao  ampliar  a 
+definição elaborada na década de 1980 para: “meio ambiente é o 
+conjunto  de  condições,  leis,  influências  e  interações  de  ordem 
+física,  química,  biológica,  social,  cultural  e  urbanística  que 
+permite, abriga e rege a vida em todas as suas formas”.  
+
+ Devemos ressaltar que situar geograficamente o conceito 
+de  ambiente  ou  pensá-lo  à  luz  do  saber  da  Geografia  neste 
+estudo  é  inseri-lo  em  uma  problemática  ou  questão  ambiental 
+(AJARA,  1993;  PORTO-GONÇALVES,  1989;  SOUTO,  2016; 
+SUERTEGARAY,  2001;  2021).  É  uma  perspectiva  surgida  nas 
+últimas  décadas  de  reconhecimento  mais  amplo  sobre  os 
+impactos  positivos,  negativos,  reversíveis  e  irreversíveis  aos 
+ecossistemas e às populações humanas derivados do modelo de 
+desenvolvimento econômico.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Nas  agendas  políticas  internacional  e  nacional,  ela  tem 
+como  marco  histórico  a  realização  da  Conferência  das  Nações 
+Unidas sobre o Meio Ambiente Humano, também chamada de 
+Conferência de Estocolmo (Suécia), ano de 1972. Como signatário 
+de  tratados  e  declarações  desta  e  de  demais  convenções 
+internacionais posteriores, o Brasil estruturou a partir da década 
+de  1980  sua  política ambiental  tendo  como  referência  a  Lei  n° 
+6.938/81, que dispõe sobre a Política Nacional de Meio Ambiente 
+(PNMA). 
+
+Atualmente, já se reconhece que esta problemática, muito 
+lembrada  nas  décadas  passadas  como  campo  próprio  da 
+Ecologia, não pode ser explicada por um único conceito ou campo 
+de  saber.  O  mesmo  poderia  ser  dito  em  relação  à  noção  de 
+ambiente. Assim, não se trata de fazer a defesa geográfica como 
+detentora de uma definição deste conceito. Mesmo porque este 
+não foi originado nesta ciência, tampouco há um consenso sobre 
+seu uso, principalmente da expressão correlata ‘meio ambiente’ 
+(BIONDO, 2021; PORTO-GONÇALVES, 1989; SOUZA, 2019).  
+
+Dito 
+
+isto,  na  chamada  problemática  ambiental  há 
+características de construção dos objetos e objetivos da ciência 
+geográfica  que  agregam  algumas  singularidades  em  relação  a 
+outros campos do conhecimento e que repercutem nas noções 
+de  ambiente.  A  primeira  singularidade  diz  respeito  à  relação 
+entre  homem  e  meio/natureza  ou,  melhor,  entre  sociedade  e 
+natureza.  Ao  contrário  dos  demais  campos  científicos,  um  dos 
+pontos  fundantes  da  construção  histórica  do  pensamento 
+geográfico seria a visão de conjunto entre ‘o conhecimento sobre 
+a sociedade e o conhecimento sobre a natureza’ (SOUZA, 2019). 
+Dessa  forma,  embora  a  problemática  ambiental  seja  uma 
+perspectiva recente, desde a formação da Geografia como ciência 
+na  sua  corrente  mais  clássicai,  há  uma  busca  pela  integração 
+entre sociedade e natureza, constituindo o que seria a raiz desta 
+ciência (SUERTEGARAY, 2021). 
+
+Para contrapor essa visão geográfica de conjunto, tomemos 
+como  exemplo  a  própria  Ecologia.  Odum  e  Barret  (2018,  p.  3) 
+lembram  que  a  ‘Ecologia’  proposta  em  1869  pelo  biólogo  e 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+naturalista  alemão  Ernst  Haeckel  foi  primeiramente  definida 
+como “o estudo do ambiente natural, inclusive das relações dos 
+organismos  entre  si e  com  seus  arredores”.  A  incorporação  de 
+uma dimensão humana, muitas vezes chamada de ‘antrópica’, é 
+posterior,  por  meio  da  criação  da  Ecologia  Humana  (ODUM; 
+BARRET, 2018).  
+
+Mesmo  campos  do  conhecimento  que  trabalham  com 
+escalas  temporais  e  espaciais  geológicas  muito  distintas  das 
+vivenciadas pelos seres humanos tiveram de criar categorias para 
+demarcar  o  impacto  recente  da  ação  humana  na  superfície 
+terrestre derivado da problemática ambiental, como o caso do 
+conceito de Antropoceno (CRUTZEN, 2007). Por outro lado, Fleury 
+et al. (2014) mencionam que foi somente a partir da década de 
+1970, com o enfoque da Sociologia Ambiental, que ocorreu maior 
+tentativa de incorporação de uma dimensão biofísica interligada 
+à dimensão social de maneira distinta dos autores clássicos da 
+sociologia.  
+
+Suertegaray (2021) lembra que o conceito de ambiente na 
+Geografia é trazido da Biologia como meio ambiente. O conceito 
+de  Geossistema  presente  na  Geografia  Física,  embora  com 
+distintos  significados  (CAVALCANTI,  2013;  CHRISTOPHERSON  et 
+al.,  2017),  tem  um  papel  de  destaque  na  incorporação  da 
+perspectiva naturalista e ecológica dos estudos ambientais, pois 
+adentra na compreensão sobre o funcionamento do que seria a 
+“dimensão natural” do espaço geográfico (SOUTO, 2016).  
+
+Paralelamente  ao  aparecimento  na  Geografia  de  uma 
+abordagem  sistêmica,  que  tem  como  central  o  conceito  de 
+Geossistema focado na análise de impactos ambientais, observa-
+se no final da década de 1980 uma crescente preocupação por 
+parte de geógrafos/as brasileiros/as, principalmente ancorados 
+no materialismo histórico-dialético, em inserir uma perspectiva 
+crítica aos estudos ambientais da época. Estes debates têm como 
+crítica em comum a própria construção do pensamento científico 
+moderno, que separou sociedade e natureza numa visão sujeito-
+objeto,  assim  como  a 
+fragmentação  dos  campos  de 
+conhecimento  a  ponto  de  se  dissociarem,  como  foi  o  caso  da 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Geografia  Física  e  da  Geografia  Humana 
+SUERTEGARAY, 2021).  
+
+(SOUZA,  2019; 
+
+De  maneira  mais  específica,  estes  debates  trouxeram  o 
+aprofundamento  de  questões  relativas  ao  próprio  conceito  de 
+natureza e meio ambiente (PORTO-GONÇALVES, 1989). Também 
+ressaltaram  a  consideração  de  uma  dimensão  social  na 
+problemática ambiental (AJARA, 1993), o que permitiu inclusive 
+questionar  os 
+termos  genéricos  presentes  nos  estudos 
+ambientais para se referir à dimensão humana, como “homem”, 
+“ação antrópica”, “população”, etc. Para Lima (2019) e Suertegaray 
+(2021),  a  abordagem  sistêmica  não  daria  conta  de  abarcar  de 
+maneira mais profunda a historicidade e as contradições sociais 
+inscritas  na  problemática  ambiental.  Os  autores  argumentam 
+que o ponto de vista sistêmico acaba por naturalizar a dimensão 
+humana  ou  qualificá-la  apenas  pelo  seu  grau  potencial  de 
+impactar o funcionamento dos sistemas naturais. 
+
+cometer 
+
+equívocos 
+
+os  mesmos 
+
+Souza (2019) defende a Geografia Ambiental como um novo 
+enfoque (e não um novo ramo) para se olhar as relações entre 
+sociedade  e  natureza  já  clássicas  atribuídas  à  Geografia,  sem, 
+contudo, 
+passados, 
+fragmentando e especializando os saberes diversos ao ponto de 
+perder a visão de conjunto. O autor aproxima a ideia de Geografia 
+Ambiental à Ecologia Política, a partir do reconhecimento de que 
+os estudos sobre sociedade e natureza devem ter como fim, além 
+do próprio avanço do saber científico, o comprometimento ético 
+e  político  de  criação  de  “estratégias  de  transformação  da 
+realidade,  seja  na  forma  de  políticas  públicas,  planejamento  e 
+gestão territoriais conduzidos pelo Estado, seja sob a forma de 
+contraplanejamentos  e  contrapropostas  desenvolvidos  e 
+implementados por organizações de movimentos sociais e forças 
+da ‘sociedade civil’” (SOUZA, 2019, p. 7). 
+
+Ao  debater  sobre  conceitos  fundamentais  na  Geografia 
+(meio,  ambiente  e  natureza)  a  partir  da  sistematização  da  sua 
+própria 
+trajetória  como  geógrafa-pesquisadora-professora, 
+Suertegaray  (2021)  menciona  a  importância  de  “ressignificar”  o 
+conceito  de  ambiente,  diferenciando-o  principalmente  da 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+perspectiva  naturalista  e  ecológica  que  foi  incorporada  pela 
+Geografia Física. A autora relembra que a dimensão humana na 
+problemática  ambiental  está  muito  além  de  abranger  os 
+impactos  ambientais  no  viés  de  degradação  dos  sistemas 
+naturais. Ela também está alicerçada na cultura, na economia e 
+na política.  
+
+Suertegaray  (2021,  p.  99,  grifo  nosso)  defende  no  campo 
+conceitual meio e ambiente como distintos: “Resumidamente, o 
+termo  meio  vai  evocar  a  relação  do  ser  individual  ou  do  ser 
+coletivo  com  o  seu  entorno”.  Ela  aproxima  o  conceito  de  meio 
+(milieu)  da  Geografia  ao  de  meio  ambiente  da  perspectiva 
+ecológica.  Nesta  visão  geográfica  sobre  a  problemática 
+ambiental, Suertegaray (2000) também faz a defesa de que não é 
+apenas o conceito de ambiente que pode ser explorado. Para a 
+autora, as palavras meio, ambiente, território, paisagem e lugar 
+na  Geografia  não  são  meros  recursos  de  linguagem  para 
+dimensionar  espacialmente  um  objeto  ou  fenômeno.  São 
+palavras que efetivamente cumprem a função de conceitos-chave 
+que  auxiliam  a  compreensão  do  conceito  mais  abrangente  e 
+abstrato  da  Geografia:  o  espaço  geográfico,  cuja  teorização  e 
+operacionalização é dada por Santos (2006). 
+
+A  partir  desta  perspectiva,  o  conceito  de  ambiente  na 
+Geografia passa a ser estudado não só com relação aos impactos 
+ambientais  negativos  aos  ecossistemas  que  repercutem  na 
+qualidade  de  vida  da  população,  como  também  com relação à 
+materialização  dos  conflitos  e 
+injustiças  ambientais.  São 
+“conflitos  associados  à  dimensão 
+territorial,  ou  seja,  à 
+apropriação da natureza, promovendo exploração de recursos, 
+expropriação de populações e espoliação” (SUERTEGARAY, 2021, 
+p. 52).  
+
+A operacionalização do conceito de ambiente associado ao 
+de território permite extrapolar a ideia de população como uma 
+entidade genérica e adentrar aos vínculos que os grupos sociais 
+constroem com seus territórios e que dependem diretamente da 
+qualidade  ambiental  para  desenrolar  seu  modo  de  vida.  No 
+Brasil,  principalmente  os  grupos  de  ribeirinhos, 
+indígenas, 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+quilombolas  e  assentados  rurais.  A  Geografia  das  últimas 
+décadas, representada principalmente na obra de Milton Santos, 
+ampliou  a  concepção  de  território  para  além  da  dimensão  de 
+poder  de  Estados  e  adentrou  à  dimensão  do  cotidiano,  à 
+concretude  do  espaço  geográfico,  o  que  aproximou  alguns 
+campos  da  saúde  à  Geografia  (FARIA;  BORTOLLOZI,  2009; 
+FURTADO et al., 2022). 
+
+No campo das ciências e políticas de saúde, observa-se que 
+da  mesma  forma  que  o  conceito  de  saúde  foi  ampliado  na  8ª 
+Conferência  Nacional  de  Saúde  de  1986  e,  atualmente,  é 
+qualificado como “conceito ampliado de saúde”, há tentativas de 
+acompanhar  estas  ressignificações  de  ambiente  de  maneira, 
+também,  a  ampliá-lo.  No  Brasil,  a  Política  Nacional  de  Saúde 
+Ambiental (PNSA) discutida a partir do final da década passada, 
+foi  uma  destas  tentativas  (BLESSMANN,  2010).  Em  um  dos 
+documentos que fundamentam a sua construção, menciona-se 
+que: 
+
+O termo “ambiente” não incorpora apenas a dimensão física 
+ou natural, mas também a social, a cultural, a econômica e 
+a  política,  sejam  elas  familiares,  de  trabalho, 
+lazer, 
+educação, consumo, produção, etc. 
+O  termo  “ambientes  saudáveis”  materializa-se  de  forma 
+mais específica e com distintas escalas: metrópoles, cidades 
+e municípios saudáveis, bairros saudáveis, ilhas saudáveis, 
+locais de trabalhos saudáveis, escolas saudáveis, mercados 
+saudáveis,  parques  saudáveis,  habitações  saudáveis,  etc. 
+Mais  uma  vez  coloca-se  em  questão  o  território,  espaço 
+concreto de inter-relação social, nas suas distintas escalas e 
+dimensões, onde se articulam os distintos atores para atuar 
+sobre  os  distintos  determinantes  do  processo  saúde-
+doença. 
+As  questões  relacionadas  às  desigualdades  sociais  e 
+territoriais, na problemática das doenças e dos acidentes, 
+tanto em relação ao trabalho como os relacionados com a 
+organização  e  a  ocupação  do  espaço,  são  elementos 
+importantes que devem ser considerados pelas vigilâncias 
+no contexto brasileiro (BRASIL, 2007, p. 33–34).  
+ 
+
+Estes  trechos  da  PNSA  exemplificam  muitos  dos  aspectos 
+discutidos pelas perspectivas críticas da Geografia, dentro do que 
+chamamos  de  problemática  ambiental  neste  estudo.  Há  uma 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+tentativa  de  dimensionar  a  noção  de  ambiente  para  além  da 
+dimensão dos sistemas naturais. Há ainda uma explícita tentativa 
+de  integração  com  o  conceito  de  lugar,  paisagem  e  território, 
+corroborando o que Suertegaray (2001) defende sobre explorar 
+na  problemática  ambiental  outras  categorias  de  análise  da 
+Geografia.  
+
+ 
+
+Recuperação do descritor Ambiente (DeCS)  
+
+ 
+Na continuidade do estudo acerca de algumas noções sobre 
+o  descritor  Ambiente  no  vocabulário  controlado  DeCS, 
+elaboramos  uma  estratégia  de  busca  de  descritores  contendo 
+este termo exato. Os dados foram levantados no próprio site do 
+DeCS (2021), na seção de pesquisa. O método de pesquisa foi o 
+de  Qualquer  termo,  em  que  a  palavra  digitada  é  buscada  em 
+todos  os 
+termos  alternativos, 
+independentemente da ordem da palavra no termo.  
+
+termos,  descritores  e 
+
+Foram recuperados 53 resultados, dentro os quais 34 foram 
+excluídos  pois  não  apresentavam  o  termo  exato  Ambiente  na 
+nomenclatura e 1 excluído por não ser um descritor e sim uma 
+categoria. Ou seja, a busca pelo termo exato Ambiente recuperou 
+dezoito descritores relacionados ao objetivo da pesquisa. Foram 
+criadas quatro categorias de noções: ecológica, escalar, laboral e 
+arquitetônica (Quadro 1). Necessário ressaltar que os descritores 
+não  estão  estanques  nas  respectivas  categorias  indicadas,  de 
+modo que é possível associá-los às demais. 
+
+ 
+Quadro 1 - Descritores com termo exato Ambiente recuperados dos 
+
+Descritores em Ciências da Saúde (DeCS, 2021) 
+
+ Fonte: Elaborado pelos autores a partir de DeCS (2021). 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+A  noção  ecológica  está  relacionada  especificamente  ao 
+descritor Meio Ambiente (Quadro 1). No DeCS, Meio Ambiente é 
+apresentado  como  “termo  preferido”  na  busca  pela  palavra 
+Ambiente, referindo-se ao conjunto de elementos e condições de 
+diversas ordens que podem influenciar ou afetar um organismo 
+ou população. Por vezes, faz alusão ao tipo de meio em que os 
+organismos  ou  as  populações  estão  inseridas,  como  Ambiente 
+Aquático e Ambiente Marinho.  
+
+A  noção  escalar  está  relacionada  aos  descritores  que 
+possuem  uma  extensão  e  que,  reunidos,  dão  um  sentido  de 
+escala  geográfica.  Compreende  desde  a  microescala  de 
+fenômenos  e  processos  celulares  tratados  na  Biologia  até  a 
+macroescala  de 
+fenômenos  e  processos  extraterrenos 
+trabalhados pela Física e Astronomia. 
+
+A  noção 
+
+laboral  está  relacionada  especificamente  ao 
+descritor  Ambiente  de  Trabalho.  Pode  ser  equivalente  à 
+expressão  “local  de  trabalho”,  englobando  tanto  um  sentido 
+arquitetônico  quanto  de  relações  interpessoais  ou  de  clima 
+organizacional. Há uma aproximação com a ideia de prevenção e 
+controle  das  condições  de  trabalho  que  podem  afetar  a 
+qualidade  de  vida,  representada  pela  vigilância  em  saúde  do 
+trabalhador.  
+
+A noção arquitetônica está relacionada a áreas construídas 
+e suas características em termos de ventilação, umidade e outros 
+aspectos ambientais que influenciam a saúde e o conforto nestes 
+recintos. Assim como a noção laboral, há uma aproximação com 
+a ideia de prevenção e controle representadas pela vigilância em 
+saúde,  porém  com  um  espectro  maior  de  atuação,  como 
+instalações  de  saúde  e  residências.  Há  certa  equivalência  com 
+área  e  uma  das  principais  implicações  dessa  noção  estaria 
+relacionada às características e à contaminação/poluição do ar. 
+Em 2019, por exemplo, houve uma revisão no DeCS do descritor 
+Áreas  Proibidas  ao  Hábito  de  Fumar  para  Ambientes  Livres  de 
+Fumo.  São  noções  que  se  distanciam  do  aspecto  ecológico  e 
+resgatam  a  teoria  ambientalista  de  Florence  Nightingale, 
+existente desde a segunda metade do século XIX e que sustentou 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+boa parte da Enfermagem Moderna (DA SILVA FILHO et al., 2020; 
+TAVARES et al., 2020).  
+
+Já  situados  alguns  dos  sentidos  que  o  vocabulário 
+controlado DeCS dá ao descritor Ambiente, pode-se notar que em 
+três destas noções – escalar, arquitetônica e laboral – a palavra 
+ambiente  possui  uma  função  meramente  vocabular  para 
+designar  um  lócus/área/entorno.  Por  outro 
+lado,  a  noção 
+ecológica  através  do  descritor  Meio  Ambiente  carrega  uma 
+função  conceitual.  Observando  a  importância  dada  a  este 
+descritor, se faz a seguir uma análise da sua nota de escopo em 
+associação com o contexto teórico-metodológico que a Geografia 
+enquanto campo científico aplica a este conceito. 
+
+Recuperação do descritor Meio Ambiente (DeCS)  
+ 
+
+A Figura 1 apresenta o mapa conceitual do descritor Meio 
+Ambiente  contendo  a  descrição  (nota  de  escopo),  termos 
+alternativos e termos relacionados inseridos no DeCS. Como já 
+mencionado,  este  descritor  é  apresentado  como  “termo 
+preferido”  na  busca  pela  palavra  exata.  O  termo  Ambiente  é 
+apresentado 
+(termo 
+alternativo),  embora  este  seja  o  termo  principal  nos  idiomas 
+inglês,  espanhol  e 
+- 
+Environnement, respectivamente).  
+
+secundariamente 
+
+(Environment 
+
+-  Ambiente 
+
+sinônimo 
+
+francês 
+
+como 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Figura  1  -  Mapa  conceitual  da  definição  e  características  do  descritor  Meio 
+Ambiente no DeCS (2021) 
+ 
+
+ 
+
+Fonte: Elaborado pelos autores a partir de DeCS (2021). 
+ 
+
+Na  Figura  1,  é  possível  encontrar  alguns  aspectos  que 
+aproximam  o  descritor  Meio  Ambiente  do  DeCS  ao  modelo 
+biológico,  especialmente  o  da  Ecologia.  São  os 
+termos 
+relacionados Ecossistema, Equilíbrio e Desequilíbrio Ecológicos e 
+o termo alternativo Impacto Ecológico. Para auxiliar na discussão 
+específica sobre a noção ecológica, apresentamos no Quadro 2 
+as respectivas notas de escopo dos descritores Meio Ambiente e 
+Ecossistema. A Ecologia é um ramo da Biologia em que estariam 
+representados  vários  níveis  de  organização  de  interação  entre 
+partes  vivas  e  não  vivas,  tendo  como  unidade  agregadora  e 
+funcional  básica  o  conceito  de  ecossistema  (ODUM;  BARRET, 
+2018). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Quadro 2 - Notas de Escopo dos descritores Meio Ambiente e Ecossistema - 
+
+Base de dados DeCS (2021) 
+
+ 
+
+Fonte: Elaborado pelos autores a partir de DeCS (2021). 
+
+ 
+Na nota de escopo do descritor Ecossistema (Quadro 2), há 
+certa  amplitude  de  descrições  que  parecem  acompanhar  a 
+própria  construção  histórica  do  conceito  de  ecossistema  como 
+apresentado  anteriormente  por  Odum;  Barret 
+(2018)  e 
+Suertegaray 
+terceiro  registros,  é 
+apresentada  a  concepção  mais  difundida  no  âmbito  científico, 
+voltada  mais  ao  funcionamento  dos  sistemas  naturais.  No 
+segundo registro, há uma noção mais aberta e integradora, que 
+insere  a  organização  humana  e  social  como  modificadora  e 
+pertencente a um ecossistema.  
+
+(2021).  No  primeiro  e 
+
+Já na nota de escopo do descritor Meio Ambiente (Quadro 
+2),  há  dois  registros  que  condizem  com  parte  da  construção 
+histórica sobre o uso científico da noção de ambiente. O primeiro 
+registro da respectiva nota de escopo apresenta a definição de 
+“elementos  e  condições  externas  que  envolvem,  influenciam  e 
+afetam  a  vida  e  o  desenvolvimento  de  um  organismo  ou 
+população”.  Meio  Ambiente  seria  um  espaço  exterior  a  um 
+organismo ou população, ou seja, aquilo que o excede, mas que 
+lhe  exerce  certa  influência.  Nesta  definição,  o  ambiente  é 
+subentendido  como  um  entorno  de  interação  própria  de  uma 
+unidade biológica.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Embora  numa  primeira  aproximação  possa  parecer  um 
+pouco genérica, está inserida a noção de níveis hierárquicos de 
+organização  da  Ecologia  (ODUM;  BARRET,  2018),  representada 
+especificamente  pelas  unidades  biológicas  de  organismo  e 
+população.  Além  disso,  é  uma  definição  que  condiz  com  as 
+primeiras  significações  que  a  Biologia  de  cunho  evolucionista 
+adaptou  da  Física  newtoniana  (CANGUILHEM,  1975;  RIBEIRO, 
+2012). 
+
+Consideramos  que  uma  mesma  terminologia 
+(milieu, 
+ambiente ou meio ambiente) divergiu em duas direções: um 
+ambiente  entendido  pelas  Ciências  humanas  e  outro 
+ambiente interpretado pelas Ciências naturais, ou seja, um 
+ambiente no qual o homem insere-se como um elemento 
+diferenciado e outro no qual tanto os humanos quanto os 
+demais seres estão incluídos, um ambiente referindo-se ao 
+mundo natural (RIBEIRO, 2012, p. 35).  
+ 
+
+Mais um ponto a ser destacado na nota de escopo de Meio 
+Ambiente (Quadro 2) é a presença humana como um dos seus 
+atributos, presente no segundo registro. No DeCS, esta dimensão 
+humana  não  está  expressa  na  definição  principal  do  descritor 
+Meio  Ambiente,  mas  contextualizada  no  termo  alternativo  de 
+Impacto  Ambiental,  através  de  “atividades  humanas”,  “meio 
+ambiente  social”  e  “ação  do  homem”  (Registro  2  de  Meio 
+Ambiente, Quadro 2). 
+
+Na edição do DeCS de 2019ii, a expressão Impacto Ambiental 
+foi eliminada como descritor e incorporada ao de Meio Ambiente. 
+Tal  mudança  parece  ter  a  finalidade  de  nortear  o  uso  deste 
+último, pois o coloca em contato direto com a terminologia da 
+política ambiental brasileira. Com exceção do descritor Ambiente, 
+todos  os  termos  alternativos  (Figura  1)  também  remetem  a 
+políticas e legislações ambientais: Impacto Ecológico, Estudo de 
+Impacto Ambiental, Medição de Impacto Ambiental, Avaliação de 
+Impacto Ambiental. Desta forma, o DeCS apresenta a dimensão 
+humana  do  descritor  de  Meio  Ambiente  na  perspectiva  de 
+sujeito-agressor,  exemplificada  pelo  descritor  Perigo  ao  Meio 
+Ambiente  (descritor  presente  no  Quadro  2).  Essa  perspectiva 
+enquadra-se  na  própria  construção  do  pensamento  científico 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+ 
+
+Conclusões 
+
+moderno  de  separação  entre  sociedade  e  natureza,  destacada 
+anteriormente na primeira seção deste estudo. 
+
+Cabe  destacar  que  esta  terminologia  associada  a  impacto 
+ambiental é reflexo direto de políticas ambientais construídas a 
+partir da década de 1980, tendo como importante referência a Lei 
+n°  6.938/81,  que  dispõe  sobre  a  Política  Nacional  de  Meio 
+Ambiente (PNMA). Através das fontes bibliográficas da definição 
+de Impacto Ambiental, também é possível perceber o processo 
+de 
+internalização  da  problemática  ambiental,  através  de 
+glossários  publicados  pelas  agências  internacionais  de  saúde, 
+como a Organização Pan-Americana da Saúde (OPAS) e a Rede 
+Pan-Americana de Informação e Documentação em Engenharia 
+Sanitária e Ciências do Ambiente (Repidisca).  
+
+Ao longo das discussões, buscamos demonstrar como estão 
+inseridas as noções sobre o descritor Ambiente no Vocabulário 
+DeCS.  Partindo  de  uma  única  palavra-chave  foi  possível 
+estabelecer uma rede conceitual desta ferramenta. A partir dos 
+descritores recuperados, criamos quatro categorias de noções no 
+DeCS: ecológica, escalar, laboral e arquitetônica. Em três destas 
+noções  –  escalar,  laboral  e  arquitetônica  –  a  palavra  ambiente 
+possui mera função vocabular para designar um lócus, uma área. 
+Por  fim,  há  a  ocorrência  de  um  descritor  que  desempenha 
+efetivamente  a  função  de  um  conceito  científico,  no  caso  o  de 
+Meio Ambiente.  
+
+Por meio da análise da sua nota de escopo do descritor Meio 
+Ambiente,  constatamos  sua  associação  semântica  com  o 
+conceito  (e  também  descritor)  Ecossistema.  Neste  sentido, 
+representamos a importância desta associação pela criação da 
+categoria de noção ecológica. Concluímos que a nota de escopo 
+do  descritor  Meio  Ambiente,  bem  como  a  terminologia  de 
+descritores relacionados, não foram acompanhadas de um olhar 
+mais fundamentado sobre o conceito de ambiente nos campos 
+científicos  e  nas  próprias  políticas  ambientais  e  de  saúde. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Observamos  que  a  internalização  da  terminologia  associada  à 
+temática ambiental se dá, principalmente, pelas abordagens eco-
+geossistêmicas  e  de  caráter  gerencial  (planejamento  e  gestão 
+ambientais).  
+
+As  discussões  trazidas  ao  longo  deste  estudo  sobre  a 
+problemática  ambiental  na  Geografia  indicaram  que  existem 
+lacunas no vocabulário controlado DeCS sobre a relação saúde e 
+ambiente e que há a necessidade de se extrapolar as abordagens 
+de equilíbrio/desequilíbrio ecológicos e de planejamento/gestão, 
+considerando  também  a  abordagem  territorial.  Assim,  há  a 
+importância  de  especificar  o  descritor  Ambiente  a  partir  de 
+vínculo das populações nos contextos urbanos, rurais e florestais. 
+
+ 
+
+Considerações finais 
+
+Todos  os  sentidos  apresentados  ao  longo  deste  estudo 
+diversificam  o  descritor  de  Ambiente  no  vocabulário  DeCS  e 
+reforçam  a  importância  de  reconhecê-lo  como  polissêmico  e 
+transversal, não devendo o seu uso estar associado a um único 
+campo do conhecimento científico, tampouco somente à própria 
+ciência.  E  para  que  a  polissemia  não  se  torne  uma  imprecisão 
+conceitual,  é  preciso  que  os  estudos  e  as  políticas  de  saúde 
+reconheçam a sua historicidade e explicitem as suas definições 
+de ambiente. 
+
+É possível que a pandemia de Covid-19 traga maior foco no 
+uso  das  noções  laborais  e  arquitetônicas  de  ambiente  pelas 
+consequentes  recomendações  e  protocolos  de  saúde.  Dessa 
+forma,  descritores  como  Ambiente  Construído,  Ambientes 
+Fechados,  Ambiente  de  Instituições  de  Saúde,  Ambiente  de 
+Trabalho,  etc.  podem  ter  maior  frequência  de  utilização  nas 
+palavras-chave das pesquisas científicas em saúde.  
+
+Ressaltamos  que  a  noção  ecológica  parece  muito 
+promissora para explicar a funcionalidade dos ciclos da matéria, 
+os  fluxos  de  energia  e  a  organização  de  sistemas  da  vida.  Os 
+modelos ecológicos associados às áreas do conhecimento como 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+a Ecotoxicologia, por exemplo, contribuem às ciências e políticas 
+em termos de mensuração e previsões de impactos da poluição 
+na saúde humana. Da mesma forma, a Geografia Física, tendo 
+como  referência  a  abordagem  geossistêmica,  auxilia  nesta 
+compreensão  pois  adentra  a  elementos  e  fenômenos  que  na 
+Ecologia são tratados genericamente como ‘ambiente não vivo’ 
+ou ‘fatores abióticos’. No entanto, as considerações trazidas pela 
+perspectiva  crítica  da  Geografia  e  outros  campos  de 
+conhecimento das Ciências Sociais e Humanas apontam alguns 
+limites destas abordagens. 
+As  discussões  sobre 
+
+(in)justiça  ambiental  e  conflitos 
+ambientais dentro da perspectiva da Geografia Crítica, Ecologia 
+Política,  Epidemiologia  Crítica,  Sociologia  Ambiental,  etc.  são 
+alguns dos exemplos. Dentro do campo das políticas de saúde, a 
+Política  Nacional  de  Saúde  Ambiental  também  é  um  dos 
+caminhos. Estes campos do conhecimento podem contribuir não 
+só  à  discriminação  e  classificação  das  atividades  humanas 
+segundo o grau de impacto ambiental relacionado à saúde, mas 
+também à inserção de descritores e categorias que deem conta 
+das desigualdades sociais e territoriais persistentes no país.  
+
+Trata-se,  assim,  não  só  de  uma  expansão  terminológica, 
+mas  de  uma  expansão  epistemológica  que  indique  outras 
+possíveis  abordagens  e  consequentes  noções  de  ambiente 
+derivadas. Indicamos que a partir do olhar geográfico dado ao 
+conceito de ambiente pelos autores citados e dentro dos limites 
+objetivos  de  um  vocabulário  controlado,  a  problemática 
+ambiental  não  apareceria  de  forma  hierárquica  e  como  uma 
+categoria  específica,  a  exemplo  de  “problemas  ambientais”  ou 
+“saúde  e  problemas  ambientais”.  Ela  ganharia  mais 
+potencialidade  ao  ser  expressa  de  forma  transversal  nas 
+categorias já existentes (e citadas ao longo deste estudo), onde já 
+há uma certa descrição de elementos e fenômenos dos sistemas 
+naturais. Isto poderia auxiliar a tornar a temática ambiental em 
+uma  problemática  ambiental  de  fato  no  vocabulário  DeCS  e 
+outras ferramentas de busca científica na área da saúde.   
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Referências 
+
+AJARA, Cesar. A abordagem geográfica: suas possibilidades no tratamento da 
+questão  ambiental. 
+In:  MESQUITA,  Olindina  Vianna;  SILVA,  Solange 
+Tietzmann (Coord.). Geografia e questão ambiental. Rio de Janeiro: IBGE, 
+1993. p. 9-12.  
+
+BARROS, José D. Conceitos: Seus usos nas ciências humanas. Petrópolis, 
+RJ: Editora Vozes, 2016. 206 p. 
+ 
+BIONDO,  Evelin  Cunha.  Da  palavra  ao  conceito:  por  uma  leitura 
+geográfica sobre o ambiente. 2021. 245 f. Tese (Doutorado em Geografia) - 
+Programa  de  Pós-graduação  em  Geografia,  Instituto  de  Geociências, 
+Universidade Federal do Rio Grande do Sul, Porto Alegre, 2021. Disponível 
+em:  <https://lume.ufrgs.br/handle/10183/231307>.  Acesso  em:  21  mar. 
+2022. 
+
+BLESSMANN, Doris Soares. Saúde ambiental: a articulação entre saúde e 
+ambiente na política de saúde ambiental como estratégia de governo 
+da população. 2010. 158 f. Dissertação (Mestrado em Educação) -  Programa 
+de  Pós-Graduação  em  Educação,  Faculdade  de  Educação,  Universidade 
+Federal  do  Rio  Grande  do  Sul,  Porto  Alegre,  2010.  Disponível  em: 
+<https://lume.ufrgs.br/handle/10183/25838>. Acesso em: 4 fev. 2022. 
+ 
+BRASIL. Ministério da Saúde. Conselho Nacional de Saúde. Subsídios para a 
+Construção  da  Política  Nacional  de  Saúde  Ambiental/  Ministério  da 
+Saúde,  Conselho  Nacional  de  Saúde  –  Brasília:  Editora  do  Ministério  da 
+Saúde, 2007. 56 p. (Série B. Textos Básicos de Saúde). 
+
+_____.  Congresso  Nacional.  Política  Nacional do  Meio  Ambiente.  31  ago. 
+1981.  Disponível  em:  <http://www.planalto.gov.br/ccivil_03/leis/l6938.htm>. 
+Acesso em: 24 mar. 2022. 
+
+CANGUILHEM, Georges. Le vivant et son milieu. In: La Connaissance de la 
+vie. Paris, Libraire Philosophique J. Vrin, 1975. p. 129-54.  
+
+CAVALCANTI, Lucas Costa De Souza. Da Descrição de Áreas à Teoria dos 
+Geossistemas:  Uma  Abordagem  Epistemológica  sobre  Sínteses 
+Naturalistas. 2013. Tese (Doutorado em Geografia) - Universidade Federal 
+de 
+em: 
+<https://repositorio.ufpe.br/bitstream/123456789/10661/1/TESE%20Lucas%
+20Cavalcanti.pdf> Acesso em: 21 nov. 2021. 
+
+Pernambuco, 
+
+Disponível 
+
+Recife, 
+
+2013. 
+
+CHRISTOPHERSON,  Robert  et  al.  Geossistemas:  Uma  Introdução  à 
+Geografia Física. 9a ediçãoed. [S. l.]: Bookman, 2017.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+CRUTZEN,  Paul  J.  La  géologie  de  l’humanité:  l’Anthropocène.  Ecologie  & 
+politique, 
+l.],  v.  n°34,  n.  1,  p.  141,  2007.  Disponível  em: 
+http://www.cairn.info/revue-ecologie-et-politique1-2007-1-page-
+141.htm?ref=doi. Acesso em: 6 mar. 2022. 
+
+[s. 
+
+DA SILVA FILHO, José Adelmo et al. Recomendações preventivas em tempos 
+de covid-19 à luz da teoria ambientalista. Av. enferm, [s. l.], p. 68–73, 2020. 
+
+DECS. [S. l.], 2021. Disponível em: <https://decs.bvsalud.org/ >. Acesso em: 23 
+mar. 2021>.  
+
+FARIA,  Rivaldo  Mauro;  BORTOLOZZI,  Arlêude.  Espaço,  Território  e  Saúde: 
+Contribuições de Milton Santos para o Tema da Geografia da Saúde no Brasil. 
+Raega - O Espaço Geográfico em Análise, [s. l.], v. 17, 2009. Disponível em: 
+http://revistas.ufpr.br/raega/article/view/11995. Acesso em: 31 mar. 2021. 
+
+FLEURY,  Lorena  Cândido;  ALMEIDA,  Jalcione;  PREMEBIDA,  Adriano.  O 
+ambiente  como  questão  sociológica:  conflitos  ambientais  em  perspectiva. 
+Sociologias, 
+v.  16,  p.  34–82,  2014.  Disponível  em: 
+<http://www.scielo.br/j/soc/a/jyXLbgZPFZH6d8hNYpyZhNz/?lang=pt>. 
+Acesso em: 24 jan. 2022. 
+
+l.], 
+
+[s. 
+
+FURTADO MACHADO ANUTE, Pollyana; SAMPAIO DE FARIAS, Cleilton; SALES 
+DE PAULA, I. Emprego do conceito de território na Geografia da Saúde: Um 
+estudo  de  caso  da  Revista  Hygeia  no  biênio  2019-2020. Geoconexões 
+Online, 1(1), 
+em: 
+<https://doi.org/10.53528/geoconexes.v1i1.59> Acesso em: 05 fev. 2022. 
+
+Disponível 
+
+217–232. 
+
+LIMA, Bruno Avellar Alves de. O debate ambiental sobre a metropolização 
+difusa: os limites da abordagem ecos(sistêmica) e a importância da teoria de 
+produção  do  espaço.  Anais  do  XVI  Simpósio  Nacional  de  Geografia 
+Urbana  -  XVI  SIMPURB,  [s.  l.],  v.  1,  p.  2332–2351,  2019.  Disponível  em: 
+<https://periodicos.ufes.br/simpurb2019/article/view/26003>. Acesso em: 24 
+nov. 2021. 
+
+MINAYO,  Maria  Cecília  de  Souza.  O  desafio  do  conhecimento:  Pesquisa 
+qualitativa em saúde. São Paulo: Hucitec, 2014.  
+
+ODUM, Eugene P; BARRET, Gary W. Fundamentos de ecologia. [S. l.: s. n.], 
+em: 
+2018. 
+https://integrada.minhabiblioteca.com.br/books/9788522126125. 
+Acesso 
+em: 31 dez. 2021. 
+
+Disponível 
+
+E-book. 
+
+PORTO-GONÇALVES, Carlos Walter. Os (des)caminhos do meio ambiente. 
+São Paulo: Ed.Contexto, 1989. (Coleção temas atuais).  
+
+RIBEIRO,  Job  Antonio  Garcia;  CAVASSAN,  Osmar.  Um  olhar  epistemológico 
+sobre  o  vocábulo  ambiente:  algumas  contribuições  para  pensarmos  a 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Ecologia e a Educação Ambiental. Filosofia e História da Biologia, v. 7, n. 2, 
+p. 241-261, 2012. 
+
+SANTOS,  Milton.  A  Natureza  do  Espaço:  Técnica  e  Tempo,  Razão  e 
+Emoção. 4. ed. 2. reimpr. São Paulo: EDUSP, 2006. 
+
+SOUTO, Raquel Dezidério. O papel da geografia em face da crise ambiental. 
+Estudos  Avançados,  [s.  l.],  v.  30,  n.  87,  p.  197–212,  2016.  Disponível  em: 
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-
+40142016000200197&lng=pt&tlng=pt>. Acesso em: 24 fev. 2022. 
+
+SOUZA,  Marcelo  Lopes  de.  O  que  é  a  Geografia  Ambiental?  AMBIENTES: 
+Revista  de  Geografia  e  Ecologia  Política,  [s.  l.],  v.  1,  p.  14–14,  2019. 
+Disponível 
+https://e-
+revista.unioeste.br/index.php/ambientes/article/view/22684.  Acesso  em:  3 
+dez. 2021. 
+
+em: 
+
+SUERTEGARAY, Dirce M. A. Espaço geográfico uno e múltiplo. Scripta Nova: 
+revista electrónica de geografía y ciencias sociales, [s. l.], 2001. Disponível 
+em: <http://www.ub.edu/geocrit/sn-93.htm>. Acesso em: 3 dez. 2021. 
+
+_____. Meio, ambiente e geografia. Porto Alegre: Compasso Lugar-Cultura, 
+2021. 
+em: 
+<https://lume.ufrgs.br/bitstream/handle/10183/224462/001129245.pdf?seq
+uence=1&isAllowed=y.> Acesso em: 23 ago. 2021. 
+
+Disponível 
+
+E-book. 
+
+_____. SUERTEGARAY, Dirce Maria Antunes. Geografia e Ambiente: desafios e 
+novos  olhares.  Revista  Mato-Grossense  de  Geografia,  v.  17,  2014. 
+Disponível 
+em: 
+<https://periodicoscientificos.ufmt.br/ojs/index.php/geografia/article/view/4
+081>. Acesso em: 16 mar. 2022. 
+
+TAVARES,  Diogo  Henrique  et  al.  Aplicabilidade  da  Teoria  Ambientalista  de 
+Florence  Nightingale  na  pandemia  do  novo  Coronavírus  /  Applicability  of 
+Florence  Nightingale’s  Environmental  Theory  in  the  new  Coronavirus 
+pandemic. Journal of Nursing and Health, [s. l.], v. 10, n. 4, 2020.  
+
+TREUHERZ, Arthur Alberto Corrêa; TEIXEIRA, Fábio Oliveira. Identificação e 
+ampliação da representatividade da temática de gênero no vocabulário 
+controlado 
+em: 
+<http://telemedicina.unifesp.br/projeto/uab/arquivos2015/589_tcc.pdf>. 
+Acesso em: 23 ago. 2021. 
+
+Disponível 
+
+DeCS. 
+
+2015. 
+
+l.], 
+
+[s. 
+
+p. 
+
+8, 
+
+ 
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Notas 
+
+ 
+
+i  Ressaltamos  que,  contrapondo  a  visão  geográfica  de  conjunto,  a  chamada 
+Geografia  Clássica  sofreu  o  mesmo  processo  dos  demais  campos  de 
+conhecimento relacionado à fragmentação disciplinar da Modernidade, de modo 
+que  esta visão de  conjunto  em  potencial  entrou  em  crise  e  dividiu  os  saberes 
+sobre  sociedade  e  sobre  natureza  em  dois  ramos  principais,  respectivamente: 
+Geografia Humana e Geografia Física. 
+ 
+ii 
+https://decs.bvsalud.org/P/del_p2019.htm 
+
+panorama 
+
+Edição 
+
+sobre 
+
+2019, 
+
+DeCS 
+
+Para 
+
+ver: 
+
+de 
+
+a 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+Noções de ambiente no vocabulário controlado de Descritores em Ciências da Saúde (DeCS): uma perspectiva 
+geográfica 
+ Heloíse Canal.    Roberto Verdum 
+
+Publisher 
+
+Federal  de  Goiás. 
+
+Instituto  de  Estudos 
+Universidade 
+Socioambientais.  Programa  de  Pós-graduação  em  Geografia. 
+Publicação no Portal de Periódicos UFG. 
+As  ideias  expressadas  neste  artigo  são  de  responsabilidade  de 
+seus autores, não representando, necessariamente, a opinião dos 
+editores ou da universidade. 
+ 
+
+Contribuições dos autores 
+
+Todos os autores ofereceram substanciais contribuições científicas e 
+intelectuais ao estudo. As tarefas de concepção e design do estudo, 
+preparação  e  redação  do  manuscrito,  bem  como,  revisão  crítica 
+foram desenvolvidas em grupo. A primeira 
+autora,  Heloíse  Canal,  ficou  especialmente  responsável  pelo 
+desenvolvimento  teórico-conceitual,  aquisição  de  dados  e  suas 
+interpretações  e  análise.  O  segundo  autor,  Roberto  Verdum,  ficou 
+especialmente responsável pela revisão do conteúdo e texto.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Heloise Canal-  Mestrado em Geografia pelo Programa de Pós Graduação em 
+Geografia,  Universidade  Federal  do  Rio  Grande  do  Sul,  RS,  Brasil.      Autor: 
+Verdum,  Roberto  Afiliação  e  Instituição:    Doutor  em  Geografia,  Professor,  
+Departamento  de  Geografia,  Programa  de  Pós-Graduação  em  Geografia 
+(PPG), Instituto de Geociências e PPG em Desenvolvimento Rural, Faculdade 
+de Ciências Econômicas, Universidade Federal do Rio Grande do Sul, Porto 
+Alegre, RS, Brasil   
+  
+ 
+ Roberto  Verdum  -    Possui  graduação  em  Licenciatura  em  Geografia  e 
+Bacharelado em Geografia pela Universidade Federal do Rio Grande do Sul. 
+Mestrado e Doutorado em Géographie et Aménagement pela Université de 
+Toulouse Le Mirail, França. Atualmente, é Professor Titular do Departamento 
+de Geografia - IGEO - Universidade Federal do Rio Grande do Sul, onde atua 
+no  curso  de  Graduação  em  Geografia;  nos  cursos  de  Pós-graduação  em 
+Geografia/IGEO e Desenvolvimento Rural - FCE. Tem experiência na área de 
+Geociências,  Geografia  e  Desenvolvimento  Rural,  com  ênfase  em 
+Geomorfologia, atuando nos seguintes temas: análise ambiental, paisagem, 
+desertificação e arenização. 
+  
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+Data de recebimento: 15 de fevereiro de 2023 
+Aceite: 18 de setembro de 2023 
+Publicação: 02 de novembro de 2023 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 73523 
+
+ 
+
+ 
+
+

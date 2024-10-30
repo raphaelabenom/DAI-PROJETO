@@ -1,0 +1,1857 @@
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+ 
+https://doi.org/10.51359/2238-6211.2023.254919   
+
+Licença  Creative  Commons  Atribuição  4.0 
+Internacional.  CC  BY -  permite  que  outros 
+distribuam, remixem, adaptem e criem a partir do seu trabalho, mesmo 
+para fins comerciais, desde que lhe atribuam o devido crédito pela criação 
+original. 
+ 
+
+ 
+
+ 
+
+A EMPRESA PÚBLICA DE ECONOMIA MISTA ADECE E AS 
+
+TRANSFORMAÇÕES TERRITORIAIS 
+
+Cícero Luciano Ferreira de Casrtro¹ - Orcid: https://orcid.org/0000-0001-6499-7637 
+
+¹ Universidade Federal de Pernambuco (UFPE), Recife, PE Brasil  
+
+Artigo recebido em 22/08/2022 e aceito em 09/08/2023 
+
+Publicado: Out/2023 
+
+RESUMO 
+Este  artigo  tem  por  objeto  averiguar  a  participação  de  empresas  na  tomada  de  decisões  na  administração 
+pública. Tais empresas estão registradas como empresas de economia mista, tornando-se empresas públicas. 
+A  pesquisa  documental  aponta  para  a  Agência  de  Desenvolvimento  do  Estado  do  Ceará  –  ADECE,  uma 
+instituição pública de economia mista que participa de forma indireta do Governo do Estado do Ceará.  Por 
+meio das ações, o estado do Ceará vem gerenciando os interesses das empresas com leis de incentivos fiscais 
+buscando fomentar desenvolvimento sob a lógica acumulativa do capital em desfavor das forças produtivas 
+menos rentáveis. Dentro dessa lógica, esse modelo de administração pública faz surgir novos atores sociais e 
+novas  relações  de  trabalho.  Dessa  forma,  duas  inquietações  emergem:  Quando  foi  que  no  processo  de 
+desenvolvimento da sociedade surgiu, pela primeira vez, a ideia de participação de empresas de Sociedade 
+Anônima  com  economia  mista,  participarem  da  administração  pública?  Como  essa  participação  impacta  o 
+modo de vida do camponês e/ou camponesa? Diante do exposto há margem para afirmar  que o modelo de 
+colonização imposto perpetuasse, em uma relação de poder entre os dominadores e dominados, sobretudo no 
+imaginário  através  de  propagandas  midiáticas  em  desfavor  da  agricultura  camponesa  ao  dar  destaque  ao 
+modelo de produção agrícola empresarial, ordenados por decisões políticas e administrativas que priorizam os 
+interesses empresariais ao invés das demandas sociais. 
+ 
+Palavras-chave: camponês; transformações territoriais; políticas econômicas. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+  Especialista  em  Geografia  e  Meio  Ambiente  pela  Universidade  Regional  do  Cariri  –  URCA.  Mestre  em  Geografia 
+Humana pela Universidade de São Paulo  – USP. Doutorando em Geografia pelo PPGEO da Universidade Federal de 
+Pernambuco – UFPE. Integrante do Laboratório de Estudos e Pesquisas sobre Espaço Agrário e Campesinato – LEPEC. 
+Bolsista da FACEPE. E-mail: clfc30@gmail.com 
+
+Castro, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+79 
+
+PKS 
+
+PUBLIC 
+KNOWLEDGE 
+PROJECT 
+
+https://periodicos.ufpe.br/revistas/revistageografia 
+
+ 
+
+OJS 
+
+OPEN  
+JOURNAL 
+SYSTEMS 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+THE PUBLIC ENTERPRISE OF MIXED ECONOMY ADECE AND THE 
+
+TERRITORIAL TRANSFORMATIONS 
+
+ 
+ 
+ABSTRACT 
+The  purpose  of  this  article  is  to  investigate  the  participation  of  companies  in  decision-making  in  public 
+administration.  Such  companies  are  registered  as  mixed  economy companies,  becoming  public  companies. 
+The  documentary  research  points  to  the  Development  Agency  of  the  State  of  Ceará  -  ADECE,  a  public 
+institution of mixed economy that participates indirectly in the Government of the State of Ceará. Through its 
+actions, the state of Ceará has been managing the interests of companies with tax incentive laws seeking to 
+foster development under the accumulative logic of capital to the disadvantage of less profitable productive 
+forces. Within this logic, this model of public administration gives rise to new social actors and new labor 
+relations.  Thus,  two  questions  emerge:  When  did  the  idea  of  the  participation  of  joint-stock  companies  in 
+public administration first appear in the process of the development of society? And how does this participation 
+impact the peasant's way of life? In view of the above, there is room to affirm that the imposed colonization 
+model is perpetuated, in a power relationship between the dominators and the dominated, especially in the 
+imaginary through media advertisements to the detriment of peasant agriculture by highlighting the model of 
+corporate  agricultural  production,  ordered  by  political  and  administrative  decisions  that  prioritize  business 
+interests rather than social demands. 
+ 
+Keywords: peasant; territorial transformations; economic policies. 
+ 
+
+LA EMPRESA PÚBLICA DE ECONOMÍA MIXTA ADECE Y LAS 
+
+TRANSFORMACIONES TERRITORIALE 
+
+ 
+ 
+RESUMEN  
+El  objetivo  de  este  artículo  es  investigar  la  participación  de  las  empresas  en  la  toma  de  decisiones  de  la 
+administración  pública.  Dichas  empresas  se  registran  como  sociedades  de  capital  mixto,  convirtiéndose  en 
+empresas  públicas.  La  investigación  documental  apunta  a  la  Agencia  de  Desarrollo  del  Estado  de  Ceará  - 
+ADECE, institución pública de economía mixta que participa indirectamente en el Gobierno del Estado de 
+Ceará. A través de sus acciones, el Estado de Ceará ha venido gestionando los intereses de las empresas con 
+leyes  de  incentivos  fiscales  que  buscan  fomentar  el  desarrollo  bajo  la  lógica  acumulativa  del  capital  en 
+detrimento de las fuerzas productivas menos rentables. Dentro de esta lógica, este modelo de administración 
+pública da lugar a nuevos actores sociales y nuevas relaciones laborales. Así, surge dos preguntas: ¿Cuándo 
+surge  la  idea de la participación  de  las  sociedades  anónimas en la administración  pública  en  el  proceso  de 
+desarrollo de la sociedad? ¿Y cómo repercute esta participación en los medios de vida de los campesinos? En 
+vista de lo anterior, cabe afirmar que el modelo de colonización impuesto se perpetúa, en una relación de poder 
+entre dominadores y dominados, especialmente en el imaginario a través de la publicidad en los medios de 
+comunicación  en  detrimento  de  la  agricultura  campesina  al  destacar  el  modelo  de  producción  agrícola 
+empresarial, ordenado por decisiones políticas y administrativas que priorizan los intereses empresariales en 
+lugar de las demandas sociales. 
+ 
+Palabras clave: campesino; transformaciones territoriales; políticas económicas. 
+ 
+ 
+
+Castro, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+80 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+INTRODUÇÃO 
+
+no estado. 
+
+Durante  a  pesquisa  do  Mestrado  em  Geografia  Humana  da  USP  nos  deparamos  com  as 
+
+empresas de economia mista participando de forma indireta da administração pública no estado do 
+
+Ceará. Essa situação ocasionou provocações a respeito desse modelo de organização administrativa 
+
+Tendo como base a institucionalização da Agência de Desenvolvimento do Estado do Ceará 
+
+–  ADECE  e  a  forma  como  essa  empresa  de  economia  mista  participa  da  administração  pública, 
+
+verificar se no estado do Ceará há outras empresas que também agem da mesma maneira e averiguar 
+
+os  desdobramentos  das  ações  de  empresas  como  a  ADECE  causam  na  (re)estruturação  do  espaço 
+
+geográfico cearense serviu como sul de uma bússola, apontando a direção que deveria ser seguida. 
+
+No  atual  contexto,  pode-se  observar  o  desenvolvimento  e  execução  de  políticas  territoriais  que 
+
+favorecem os interesses empresariais. 
+
+Portanto, entender as dinâmicas envoltas no processo de produção do espaço geográfico sob 
+
+a  perspectiva  da  lógica  de  acumulação  do  capital,  no  qual  há  um  desmonte  das  forças  produtivas 
+
+menos rentáveis (KURZ, 2015) passa pela constatação das ações do Estado que vem agindo como 
+
+gerente dos interesses das grandes empresas corporativas (SANTOS, 2014). 
+
+Nessa  lógica,  o  estado  do  Ceará  vem  cumprindo  uma  agenda  que  tem  se  mostrado 
+
+determinante para atender aos interesses empresariais, criando leis e desenvolvendo grandes projetos 
+
+estruturantes  do  espaço  geográfico.  Dessa  forma,  surgem  tensões  e  conflitos  juntos  a  parcela  da 
+
+população que sofre por não ter as demandas sociais atendidas pelo poder público. 
+
+Logo,  averiguar  a  participação  da  Agência  de  Desenvolvimento  do  Estado  do  Ceará  – 
+
+ADECE na tomada de decisões que culminam na execução de políticas territoriais estruturantes no 
+
+estado do Ceará é o cerne deste artigo. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+81 
+
+ 
+
+METODOLOGIA 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Constitui-se  na  primeira  etapa  a  busca  por  um  embasamento  teórico  necessário  para 
+
+compreensão  da  problemática  com  o  objetivo  de  facilitar  a  interpretação  dos  dados  coletados.  A 
+
+pesquisa  documental  teve  fator  de  importância,  já  que  ela  contribuiu  de  forma  substancial  para  a 
+
+pesquisa. Como fontes de pesquisa documental pode-se citar os jornais de grande circulação no estado 
+
+do Ceará, os sites do Governo do Estado do Ceará, sobretudo os sites das Secretarias de Planejamento, 
+
+Secretaria  de  Desenvolvimento  Econômico,  o  site  da  Agência  de  Desenvolvimento  do  Estado  do 
+
+Ceará – ADECE, assim como o site do IPECE e IBGE. 
+
+A  elaboração  de  ferramentas  de  coleta  de  dados  tornou-se  fundamental  na  tentativa  de 
+
+compreender os conflitos e transformações territoriais no campo cearense e os resultados que elas 
+
+propiciaram na (re)estruturação do estado do Ceará a partir da participação  das empresas públicas de 
+
+economia  mista.  O  manuseio  do  software  Excel®  ajudou  a  visualização  dos  dados  coletados,  com 
+
+cuidados de uma pesquisa qualitativa.  
+
+ 
+
+A CONSEQUÊNCIA DA GOVERNANÇA 
+
+Para acelerar o processo de maximização dos lucros, os países têm se valido do conceito de 
+
+governança proposto pelo Banco Mundial. Nesse conceito, o setor privado passa a fazer parte das 
+
+tomadas de decisões na administração pública (POLAT; ALKAN, 2020). 
+
+Ao analisarem o papel do governo na Turquia no registro de terras e serviço de cadastro, 
+
+Polat & Alkan (2020) afirma que o modelo de governança, quando foi elaborado deveria ser justo, 
+
+imparcial e igualitário, incluindo a participação do setor público e privado bem como da sociedade 
+
+civil.  Contudo,  esse  modelo  de  administração  pública  na  Turquia  não  alcançou  os  resultados  
+
+esperados como apontado por Polat & Alkan (2020). No Brasil não tem se mostrado diferente. 
+
+O estado do Ceará, de acordo como o censo de 2010, tem 8.452.381 habitantes e segundo 
+
+estimativa do IBGE para 2022, esse valor chega a contabilizar 9.286.581 habitantes. Dos quase 8,5 
+
+milhões de habitantes, 6,3 milhões estão localizados na zona urbana do estado.  
+
+Segundo dados do IBGE o rendimento nominal mensal domiciliar per capita é de R$ 824,00 
+
+(oitocentos e vinte e quatro reais), fator que posiciona o estado do Ceará na 22ª posição entre os 27 
+
+estados do Brasil. O primeiro lugar fica com Brasília com R$ 2.548,00 (dois mil quinhentos e quarenta 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+82 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+e oito reais) e o segundo com o estado de São Paulo que apresentou R$ 1.712,00 (mil setecentos e 
+
+doze reais) rendimento nominal mensal domiciliar per capita. 
+
+Para  dar  conta  da  economia  do  estado  do  Ceará  que  apresenta  IDH  de  0,682  ficando  na 
+
+posição 17 entre os 27 estados (IBGE, 2010) o Governo do Ceará colocou como meta o aumento da 
+
+receita em 6 bilhões. Essa medida faz parte da proposta do segundo mandato do Governador reeleito 
+
+Camilo Santana. 
+
+Segundo notícia publicada no jornal O Povo em 21 de dezembro de 2018  
+
+A medida faz parte da reforma fiscal do Estado, que inclui gestão pelo lado da despesa, da 
+dívida pública e previdenciária, sem aumento de impostos. O montante a ser alcançado não 
+contabiliza receitas públicas de 2018, que, até então, segundo a Secretaria do Planejamento 
+e Gestão (Seplag), já chegam a R$ 907 milhões (O POVO, 21 de dezembro de 2018). 
+
+Além  dessas  medidas,  o  estado  do  Ceará  planeja  vender  30%  das  ações  do  Complexo 
+
+Industrial  e  Portuário  do  Pecém  (CIPP),  vender  a  folha  de  pagamento  dos  servidores  ativos, 
+
+aposentados e pensionistas, combater a sonegação fiscal e realizar redução de despesa na folha de 
+
+pagamento  no  valor  de  1,6  bilhões,  o  que  representa  cortes  nas  Secretarias  de  Saúde,  Educação, 
+
+Segurança, Esporte, Lazer, Cultura e Infraestrutura. 
+
+A organização do espaço é formada pelas ações do Estado em conjunto com as atividades 
+
+do circuito econômico. Dessa forma, há forte tendência para concentração com efeitos cumulativos, 
+
+(SANTOS,  2004).  Dentro  da  lógica  da  economia  globalizada  o  estado  do  Ceará  se  vê  obrigado  a 
+
+acompanhar a modernização. 
+
+Nessa perspectiva, a institucionalização da Agência de Desenvolvimento do Estado do Ceará 
+
+–  ADECE,  torna-se  estratégia  para  administração  pública  desenvolver  políticas  que  priorizem  os 
+
+interesses empresariais, sobrepondo-se às demandas sociais (CASTRO, 2018). 
+
+Para atender aos interesses do Capital o Estado desenvolve políticas de (re)estruturação com 
+
+viés produtivo,  construindo de  equipamentos  urbanos voltados para produção  e a serviço do setor 
+
+empresarial. O geógrafo Milton Santos nos alerta para o fato de o Estado atender aos interesses da 
+
+classe dominante, ou seja, as políticas desenvolvidas pelo Estado estão a serviço do capital e pouco 
+
+se faz pelas necessidades coletivas dos trabalhadores (SANTOS, 2012). 
+
+No  estado  do  Ceará  a  institucionalização  da  Agência  de  Desenvolvimento  do  Estado  do 
+
+Ceará – ADECE, como empresa privada de economia mista que participa da administração pública 
+
+de forma indireta vem acelerando o processo de desenvolvimento dentro da lógica de acumulação do 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+83 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+capital. Contudo, os produtos que não se encaixam no perfil estabelecido pelo mercado, sofrem pela 
+
+falta de competitividade. 
+
+Além  do  mais,  essa  empresa  privada  de  economia  mista  no  estado  do  Ceará  vem 
+
+desenvolvendo  suas  ações  sempre  com  o  objetivo  de  criar  atrativos  para  que  o  setor  empresarial 
+
+desperte o interesse de investir capital no estado do Ceará, seja na atividade primária, secundária ou 
+
+ 
+
+terciária. 
+
+Isso  posto,  a  resposta  de  duas  perguntas  deve  ser  considerada:  Como  então  explicar  o 
+
+surgimento da ideia de colocar empresas para  participarem da administração pública ainda que de 
+
+forma  indireta  –  mesmo  que  essa  empresa  tenha  capital  misto  assumindo  caráter  de  Sociedade 
+
+Anônima S\A? Onde e quando no decorrer da história do ser humano repousam as bases desse modelo 
+
+de administração pública? 
+
+Para dar conta desses questionamentos Keynes (1978) ao tratar do individualismo e laissez-
+
+faire ele menciona o Marquês d’Argeson e o coloca como grande entusiasta do modelo em que os 
+
+governos possam deixar o comércio livre. A frase que ecoa desde 1751 pronunciada pelo Marquês 
+
+foi “Pour gouverner miex, il faudrait gouverner moins”1(KEYNES, 1984, p111).Pode-se supor então 
+
+que  esse  é  o  momento,  na  história  do  ser  humano,  que  pela  primeira  vez  se  pensou  em  reduzir  o 
+
+tamanho do Estado.  
+
+semiautônomas: 
+
+Em  encadeamento  a  seu  raciocínio  Keynes  (1978)  propõe  o  reconhecimento  de  entidade 
+
+Creio que, em muitos' casos, o tamanho ideal de unidade de controle e organização esteja em 
+algum ponto entre o indivíduo e o Estado moderno. Sugiro, portanto, que o progresso reside 
+no  desenvolvimento  e  reconhecimento  de  entidades  semi-autônomas  dentro  do  Estado  – 
+entidades cujo critério de ação com seus próprios campos seja unicamente o bem público, tal 
+como as compreendem; e de cujas deliberações estejam excluídos os motivos das vantagens 
+particulares,  embora  ainda  possa  ser  preciso  deixar-Ihes  algum  lugar  até  que  se  amplie  o 
+âmbito de altruísmo dos homens, para o proveito isolado de grupos, classes ou congregações 
+específicas  –, entidades que, no curso habitual da vida social, são basicamente autônomas 
+dentro das limitações que lhes são prescritas, sendo porém sujeitas, em última instância, à 
+soberania da democracia expressa através do Parlamento. (KEYNES, 1978, p7). 
+
+ 
+
+Dessarte,  é  possível  que  empresas  privadas  de  economia  mista  encontrem  nas  ideias  que 
+
+Keynes  desenvolveu  sustentáculos  para 
+
+legitimar  a 
+
+institucionalização  e  participação  da 
+
+administração pública mesmo que de forma indireta. 
+
+1Para governar melhor, devemos governar menos. 
+
+ 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+84 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Ademais, outro fator que deve ser levado em conta é a intersubjetividade coletiva imposta 
+
+no processo de colonização que regula o comportamento da elite dominante, bem como a forma como 
+
+essa se vê e é vista. Dessa forma, Quijano (2014) afirma que o poder se elaborou também como uma 
+
+colonização do imaginário em uma relação de poder entre os dominadores e dominados. 
+
+Nessa  perspectiva,  De  Menezes  (2002)  fundamenta  essa  questão  quando  baseada  na 
+
+contribuição teórica de James C Scott sobre o discurso de autoimagem das elites que cumprem um 
+
+papel social no qual determinadas obrigações devem ser impostas em relação aos dominados. Dessa 
+
+forma, a elite desde o Brasil colônia sempre traçou planos de desenvolvimento que atendia apenas 
+
+aos próprios interesses. 
+
+Através da racionalidade eurocêntrica se estabelece um padrão de pensamento imposto no 
+
+processo de colonização, negando ao povo colonizado qualquer forma de ocupar o lugar (QUIJANO, 
+
+2014). Por conseguinte, o direito de retirar da natureza os elementos necessários para sobrevivência 
+
+foram negados, mesmo hodiernamente a perpetuação dessa forma de pensar persiste e se adequa ao 
+
+atual  sistema  econômico  e  político,  assumindo  a  forma  de  empresas  de  economia  mista  que  ao 
+
+participarem de forma indireta da administração pública tornam-se ferramentas a serviço do estado 
+
+priorizando os interesses das grandes corporações econômicas. 
+
+Santos (2004), coloca que a política de desenvolvimento econômico é uma das formas que 
+
+o Estado age em apoio ao crescimento do circuito econômico urbano, além dos incentivos fiscais, a 
+
+construção de obras é outra maneira também. Dentro dessa lógica, no estado do Ceará a Agência de 
+
+Desenvolvimento  do  Estado  do  Ceará  –  ADECE  vem  realizando  ações  que  fomentam  o 
+
+desenvolvimento econômico, priorizando a acumulação de capital. 
+
+Esse  modelo  de  administração  pública  ocorre  pela  necessidade  de  modernização  para 
+
+acompanhar a evolução que ocorre no mercado empresarial financeiro. Santos (2004), afirma que de 
+
+acordo com uma economia globalizada o Estado se vê obrigado a acompanhar a modernização. Nesse 
+
+percurso, a criação e inserção de empresas de economia mista na administração pública, torna-se a 
+
+solução facilitadora para o Estado atender os interesses do Capital. 
+
+Como resultado desse novo modelo de administração, surgiram novos atores sociais e novas 
+
+relações de trabalho. Nesse sentido, Rossini (2017), observou esse padrão ao desenvolver pesquisas 
+
+voltadas para o novo modelo de produção impulsionado pelo processo de industrialização tanto na 
+
+cidade quanto no campo. 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+85 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Partindo desse pressuposto, temos como hipótese que as empresas de economia mista estão 
+
+transformando a agricultura familiar em agricultura a serviço do capital. O surgimento de empresas 
+
+privadas de economia mista que participam da administração pública de forma indireta implementam 
+
+políticas neoliberais. 
+
+Assim,  as  decisões  administrativas  priorizam  os  interesses  das  grandes  corporações 
+
+sobrepondo-se  às  demandas  sociais  (HARVEY,  2005).  Além  do  mais,  seguindo  a  lógica  de 
+
+acumulação  do  capital,  há  um  desmonte  das  capacidades  de  produção  menos  rentáveis  dentro  do 
+
+processo  de  produção  do  espaço  geográfico  (KURZ,  2015).  É  possível  notar  o  discurso  que 
+
+empobrece  a  agricultura  familiar  colocando-a  como  atrasada  ao  mesmo  tempo  que  enaltece  a 
+
+produção agrícola dentro da lógica de acumulação capitalista (FERNANDES, 2014). 
+
+Para Fernandes (2014), as propagandas que circulam no território nacional buscam imprimir 
+
+no  imaginário  coletivo  o  pensamento  de  que  a  produção  agrícola  realizada  pelo  camponês  e/ou 
+
+camponesa  está  obsoleta,  atrasada  e  que  a  solução  é  uma  produção  impulsionada  pelos  avanços 
+
+tecnológicos que apenas o agronegócio pode exercer. 
+
+Dito isso, as propagandas que são veiculadas nas emissoras de TV vendem a ideia de que a 
+
+produção  agrícola  empresarial  no  país  é  melhor  para  o  desenvolvimento  e  que  todos  estão 
+
+participando desse processo produtivo, quando de fato há uma parcela de trabalhadores agrícolas que 
+
+por falta de competitividade não conseguem se inserir nesse mercado. 
+
+Ao abordar a estrutura organizacional do estado do Ceará em sua política de desenvolvimento 
+
+econômico  materializada  em  incentivos  fiscais  e  reestruturação  do  Estado  é  de  fundamental 
+
+importância  para  compreender  o  desenvolvimento  de  políticas  estruturantes,  como  nos  aponta 
+
+Gonçalves et all (2016). 
+
+Isso posto, a Agência de Desenvolvimento do Estado do Ceará – ADECE, se tornou o caminho 
+
+pelo qual o Governo do Estado do Ceará vem priorizando os interesses das grandes corporações em 
+
+detrimento  às  demandas  sociais(SANTOS,  2014),  causando  desfortúnio  para  uma  parcela  da 
+
+população que compõe as forças produtivas menos rentáveis (KURZ, 2015). 
+
+A Agência de Desenvolvimento do Estado do Ceará – ADECE é constituída de uma sociedade 
+
+de economia mista sob o controle acionário do estado do Ceará, fundamentada na Lei N° 13.960, de 
+
+04 de setembro de 2007, publicado no Diário Oficial do Estado do Ceará em 10 de setembro de 2007. 
+
+Vinte  e  quatro  dias  depois  da  instituição  da  Lei  N°  13.960  a  Assembleia  Geral  da  Agência  de 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+86 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Desenvolvimento do Estado do Ceará – ADECE foi constituída, exatamente no dia 28 de setembro 
+
+ 
+
+de 2007. 
+
+A ADECE por estar vinculada diretamente ao Conselho Estadual de Desenvolvimento do Ceará 
+
+participa  de  forma  indireta  da  administração  pública.  Essa  empresa  de  economia  mista  vem 
+
+participando ativamente das grandes obras estruturantes do estado do Ceará: Cinturão das Águas do 
+
+Ceará – CAC, duplicação da CE 293 e pavimentação da CE 292. Nessas obras, o grupo composto de 
+
+Diretores  da ADECE  buscou  por  meio  de  diálogos  com  o  poder  público,  tanto  Estadual  quanto 
+
+Federal, destravar a aplicação de recursos financeiros para continuação dessas obras.  
+
+A partir dessa perspectiva, cria-se um discurso de desenvolvimento que perpassa pela busca de 
+
+solução da problemática de escassez hídrica do estado do Ceará, mas que ao final apenas atende aos 
+
+interesses das grandes empresas. (GONÇALVES e OLIVEIRA, 2009). 
+
+Como  pode  ser  observado  o  caminho  a  ser  percorrido  requer  implementação  de  políticas 
+
+territoriais que priorizem todas as forças produtivas incluindo as menos rentáveis. Para tanto, faz-se 
+
+necessárias  ações  governamentais  isonômicas,  isto  é,  que  proporcionem  imparcialidade,  justiça  e 
+
+regularidade. 
+
+De acordo com De Oliveira Santos e Lima (2012), o estado do Ceará vem sendo conduzido por 
+
+políticas neoliberais nos últimos vinte anos. Logo, esse tipo de política pública vem dando condições 
+
+para que as empresas de economia mista, com  sua lógica  neoliberal  capitalista, tentem  instalar no 
+
+território cearense um modo de produção agrícola diferente. 
+
+Dessa forma, as empresas de economia mista vêm buscando substituir a agricultura familiar por 
+
+uma  agricultura  a  serviço  do  capital.  Vale  ressaltara  que  para  Fernandes  (2014)  a  agricultura 
+
+campesina e familiar são o mesmo sujeito. 
+
+Portanto, todo conjunto de ideologias jogados sobre a agricultura familiar tornando-a pobre e 
+
+sem lucratividade faz parte da lógica neoliberal capitalista. De acordo com Vasconcelos e Lima (2011): 
+
+ 
+Esse  é  um  dos  aspectos  que  reforça  o  fato  de  o  espaço  cada  vez  mais  receber  fluxos  e 
+influenciar  a  reestruturação,  com  as  inovações  da  técnica,  com  a  desenfreada  busca  por 
+acumular  capital  e  satisfazer  o  consumismo.  É  isso  que  revela  a  crise  global  do  sistema 
+produtivo,  com  mudanças  nas  relações  de  trabalho,  influenciando  a  sociedade  na 
+reconstrução do espaço [...]. (VASCONCELOS e LIMA, 2011, p108). 
+ 
+ 
+
+Nesse  sentido,  há  também  a  necessidade  de  representatividade  das  forças  produtivas  menos 
+
+rentáveis nos locais de tomada de decisão que estão para além das reuniões de associações ou comitês, 
+
+bem como reuniões administrativas para aprovação de PPA (Plano Plurianual) que só servem para 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+87 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+legitimar política públicas excludentes em razão do pouco esforço do poder executivo na divulgação 
+
+dessas reuniões assim como na explicação de sua importância.  
+
+O Decreto N° 29.183, de 08 de fevereiro de 2008, que consolida e regulamenta a legislação 
+
+do Fundo de Investimento Industrial do Ceará – FDI, publicado no Diário Oficial do Estado (DOE) 
+
+sete dias depois, precisamente no dia 15 do mesmo mês e ano, dá fundamento legal às políticas de 
+
+incentivos fiscais no Ceará. 
+
+No  Capítulo  I, Artigo  2°,  podemos  perceber  o  objetivo  pertinente  à  criação  do  Fundo  de 
+
+Investimento Industrial do Ceará – FDI. Centrados em atração de investimento, disponibilização de 
+
+infraestrutura, apoio e treinamento e/ou capacitação de mão-de-obra qualificada. 
+
+Sobre  as  origens  dos  recursos  financeiros  necessários  para  aplicação  do  plano  de 
+
+desenvolvimento econômico, sua fundamentação repousa no Capítulo II Artigos 5° e 6° do Decreto 
+
+N° 29.183, de 08 de fevereiro de 2008, assegurando que: a) o Fundo de Investimento Industrial do 
+
+Ceará – FDI reterá 3% dos recursos destinados às empresas contempladas com recursos financeiros, 
+
+b)  a  Agência  de  Desenvolvimento  do  Estado  do  Ceará  –  ADECE  receberá  1%,  o  Fundo  de 
+
+Desenvolvimento Tecnológico do Estado do Ceará –FIT receberá 1,5% e o Fundo de Investimento 
+
+Industrial  do  Ceará  –  FDI  ficará  com  0,5%,  c)  as  Empresas  que  optam  pelo  Simples  Nacional, 
+
+Microempresas ou Empresas de Pequeno Porte, fundamentadas na Lei Complementar N° 123/06, não 
+
+poderão  usufruir  dos  benefícios  previstos  no  Decreto  N°  29.183/08  por  serem  mencionadas  no 
+
+Capítulo III desse decreto. 
+
+As políticas de incentivos fiscais do Ceará oferecem no máximo até 75% de isenção de ICMS 
+
+com prazo do benefício de 5 a 10 anos podendo ser renovado e carência de 36 meses.  
+
+Para receber o benefício as empresas têm que apresentar os documentos citados no Capítulo 
+
+6°, Artigo 26:  Certidão  Negativa de Débito Estadual  – CNDE da sociedade  empresarial  e de seus 
+
+representantes  legais,  Declaração  de  Informações  Econômico-Fiscal  –  DIEF,  Documento  de 
+
+Arrecadação  Estadual  –  DAE  autenticado  relativo  ao  período  imediatamente  anterior  e  Quadro 
+
+Demonstrativo da Produção Física. 
+
+Na aquisição de máquinas, equipamentos e peças metálicas para compor o ativo permanente 
+
+da  empresa,  adquiridos  no  exterior  ou  em  outros  estados  ocorre  diferenciamento  na  tributação  do 
+
+ICMS, além da isenção total de impostos para aquisição no exterior de matéria-prima e insumos, para 
+
+utilização no processo industrial. 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+88 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+O  Estado  vem  promovendo  reestruturação  do  espaço  geográfico  voltada  para  o  apoio  às 
+
+grandes empresas tanto na construção da infraestrutura que essas empresas necessitam, como através 
+
+de uma política de incentivo fiscal. Milton Santos colocou muito bem essa situação quando escreveu: 
+
+Entre as formas de apoio do Estado ao nascimento e o desenvolvimento do circuito moderno, 
+encontramos a proteção concedida a concentração e aos monopólios, financiamento direto 
+ou indireto das grandes firmas através da construção de infra-estruturas caras, a formação 
+profissional,  a  produção  das  indústrias  de  base,  os  subsídios  à  produção  e  a  exportação  e 
+todas  as  formas  de  acordo  com  as  firmas  dominantes  da  economia,  tais  como  legislações 
+fiscais  discriminatórias,  leis  de  investimentos  e  plano  de  desenvolvimento.  Tudo  isso 
+certamente  reduz  a  capacidade  de  investimento  dos  Estados  nacionais  nos  setores  que 
+interessam diretamente à população. (SANTOS 2004, p.161-162). 
+
+ 
+
+ 
+
+O ponto  destinado à cultura será considerado se  forem  feitos investimentos em  aparelhos 
+
+culturais, investimentos em patrimônio material, investimentos em patrimônio imaterial, tecnologia 
+
+aplicada à cultura, investimentos fonográficos, investimentos audiovisuais, investimentos musicais, 
+
+acervos e outros. Já o ponto destinado ao esporte será considerado se houver investimentos no esporte 
+
+que favoreçam famílias de baixa renda.   
+
+A Ilha Digital é constituída de prédio com uma sala que fornecerá serviço de internet para a 
+
+população da cidade onde a empresa está instalada. O ponto só será contabilizado se a empresa montar 
+
+e mantiver o serviço. 
+
+Para cada 1% do ICMS a recolher investido em Pesquisa e Desenvolvimento (P&D) serão 
+
+concedidos cinco pontos, valor máximo para a variável P5, que serão reconhecidos e validados pela 
+
+Secretaria da Ciência, Tecnologia e Educação Superior (SECITECE).  
+
+Adequabilidade à Base de Produção Regional representada pela variável Pe concede até 30% 
+
+da  soma  de  P1+  P2  +  P3  +  P4,  para  os  empreendimentos  cujas  atividades  representem  avanços 
+
+concretos  na  consolidação  de  setores  econômicos  que  apresentem  relevância  estratégica  para  o 
+
+desenvolvimento  da  região  onde  os  referidos  empreendimentos  pretendem  se  instalar,  definidas  a 
+
+critério do Conselho de Desenvolvimento Industrial do Estado do Ceará – CEDIN. 
+
+Por fim, se o resultado de IT for igual ou menor que 75 pontos a empresa receberá 25% de 
+
+retorno no ICMS, entretanto se o resultado for superior a 75 pontos será aplicado uma equação final 
+
+que apontará o percentual de retorno do ICMS. 
+
+O prazo do benefício é estabelecido de acordo com a pontuação obtida. Se o resultado for 
+
+maior que 50 pontos será concedido um prazo de 10 anos. Caso o resultado esteja entre 35 e 49 o 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+89 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+prazo será de 8 anos e se a pontuação for menor que 35  resume-se a  5 anos. Tendo em  vista esse 
+
+conjunto  de  leis  que  organizam  a  concessão  de  incentivos  fiscais  para  instalação  de  empresas  no 
+
+estado do Ceará, o agronegócio cearense vem crescendo no Estado. 
+
+Considerando  o  recorte  temporal  entre  2006,  2015  e  2020  para  comparar  o  avanço  da 
+
+produção  de  bananas  em  Missão Velha  –  CE  torna-se  de  grande  relevância  averiguar  a  produção 
+
+pretérita  ao  plantio  de  banana  nesta  região.  Partiu-se  do  princípio  de  que  a  produção  de  milho, 
+
+amendoim, feijão e mandioca estava voltada para atender à demanda de subespaços. Já a produção 
+
+de cana-de-açúcar foi substituída em grande parte pelo plantio de bananas que, inserido dentro do 
+
+circuito  espacial  produtivo,  atende  aos  interesses  econômicos  distantes  das  unidades  de  produção 
+
+localizadas em Missão Velha no interior do estado do Ceará. 
+
+ 
+
+TABELA 01 – MISSÃO VELHA – CE: COMPARATIVO DA PRODUÇÃO DE MILHO, AMENDOIM, 
+
+FEIJÃO, CANA-DE-AÇÚCAR, MANDIOCA E BANANA ENTRE 2006, 2015 E 2020 (EM TONELADAS) 
+
+Produto Agrícola 
+
+2006 
+
+2015 
+
+2020 
+
+Variação da Produção 
+
+Variação da Produção 
+
+Produção(t) 
+
+Produção(t) 
+
+Produção(t) 
+
+entre 2006 e 2015 
+
+entre 2006 e 2020 
+
+Milho 
+
+Amendoim 
+
+Feijão 
+
+Cana-de-açúcar 
+
+Mandioca 
+
+Banana 
+
+Total 
+
+12960 
+
+264 
+
+1238 
+
+48000 
+
+2000 
+
+10325 
+
+76793 
+
+2864 
+
+64 
+
+996 
+
+6440 
+
+1730 
+
+89760 
+
+103869 
+
+7128 
+
+35 
+
+1045 
+
+1283 
+
+1313 
+
+51716 
+
+62520 
+
+-77,90% 
+
+-75,76% 
+
+-19,55% 
+
+-86,58% 
+
+-13,50% 
+
++769,35% 
+
++35,25% 
+
+-45% 
+
+-87% 
+
+-16% 
+
+-97% 
+
+-34% 
+
++401% 
+
+-19% 
+
+Fonte: PAM/IBGE. 2023 
+
+Elaboração e Organização: Castro, 2023 
+
+ 
+
+Os plantios de cana-de-açúcar e banana tratam-se de monoculturas e impõem ordenamento 
+
+territorial  seguindo  a  lógica  de  acumulação  do  Capital.  Isso  posto,  empresas  do  agronegócio  têm 
+
+adquirido terras na zona rural de Missão Velha e fazendo uso das leis de incentivos fiscais aprovadas 
+
+no estado do Ceará e gerenciadas pela ADECE vem se consolidado ao longo do tempo. 
+
+A tabela 01 foi elaborada a partir dos dados da Produção Agrícola Municipal de 2006, 2015 
+
+e 2020 com o objetivo de possibilitar a comparação da produção entre esses dois períodos. 
+
+No ano de 2006, a produção de milho contabilizava 12.906 toneladas, nove anos depois essa 
+
+produção  caiu  77,90%.  Acompanharam  essa  queda  os  gêneros  alimentícios:  amendoim  (264t), 
+
+feijão(1.238t)  e  mandioca(2.000t)  com  perdas  percentuais  de  75,76%,  19,55%  e  13,50% 
+
+respectivamente. Com a desativação no ano de 2004 da Usina de cana-de-açúcar Manoel Costa Filho, 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+90 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+localizada  no  limite  municipal  entre  Barbalha  e  Missão  Velha,  a  produção  de  cana-de-açúcar  em 
+
+Missão  Velha  –  CE  até  o  ano  de  2006  era  apenas  para  produzir  rapadura  e  açúcar  nos  engenhos 
+
+localizados em Barbalha. Essa produção sofreu a maior queda com a diminuição de 86,58%. 
+
+Entretanto, a produção de banana, no período de 2006 a 2015, teve aumento de 10.325 para 
+
+89.760 toneladas, o que representa uma variação positiva de 769,35%. A exemplo do que observou 
+
+Elias (2003) na região de Ribeirão Preto as transformações na produção estão diretamente ligadas ao 
+
+consumo produtivo. 
+
+Quando comparamos o ano de 2006 com 2020, fica notório que mesmo com a redução da 
+
+produção de banana no município de Missão Velha, no sul do estado do Ceará, essa produção ainda 
+
+é  expressiva,  já  que  contabiliza  aumento  de  401  pontos  percentuais,  enquanto  os  outros  gêneros 
+
+alimentícios permanecem em queda de produção. 
+
+O  trabalho  de  campo  foi  de  grande  importância  para  compreender  o  motivo  da  queda  de 
+
+produção de bananas em Missão Velha. O fato se deve à aprovação do Projeto de Lei Nº 18/2015 – e 
+
+autoria  dos  Deputados  Estaduais  do  Ceará  Renato  Roseno  (Psol),  Elmano  Freitas  (PT)  e  Joaquim 
+
+Noronha (PRP) –  que inclui o Artigo 28-B na Lei Estadual Nº 12.228, de 09 de dezembro de 1993, 
+
+proibindo então a pulverização aérea de veneno de agrotóxicos na agricultura no Estado do Ceará. 
+
+Destarte, as duas grandes empresas produtoras de banana na zona rural de Missão Velha se 
+
+viram obrigadas a diminuir a intensidade da produção de bananas. Essas empresas ameaçaram parar 
+
+de  forma  definitiva  o  cultivo  de  bananas  no  estado  do  Ceará.  Tal  atitude  só  reforça  a  lógica  de 
+
+acumulação do Capital: se o lucro não for grande, não serve aos interesses –  nesse caso da agricultura 
+
+empresarial.  Mesmo  com  a  aprovação  do  Projeto  de  Lei  18/2015  as  duas  empresas  não  param  de 
+
+produzir, apenas reduziram sua produção. 
+
+Leis como esta resguardam a saúde não só do trabalhador agrícola, mas dos camponeses que 
+
+moram  nas  proximidades  das  unidades  de  plantio  de  banana.  O  Ministério  da  Saúde,  através  da 
+
+Vigilância  Sanitária  emitiu  em  2016  uma  nota  informativa  contendo  esclarecimentos  sobre 
+
+pulverização  aérea  e  o  controle  de  endemias,  na  qual  ela  aponta  que  apenas  32%  do  veneno 
+
+pulverizado é retido pela planta 19 % espalham-se pelo ar e consequentemente invadem as residências 
+
+dos camponeses e 49% são absorvidos pelo lençol freático. 
+
+(...)  verificou-se  que  os  atuais  equipamentos  de  pulverização,  mesmo  calibrados,  sob 
+temperatura e ventos ideais, garantem que cerca de 32% dos agrotóxicos pulverizados sejam 
+retidos nas plantas “alvo”; 19% migram, pelo ar, para áreas circunvizinhas da aplicação; 49% 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+91 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+vão para o solo e, após algum tempo, parte se evapora, parte é lixiviada para o lençol freático 
+e outra parte se degrada (VIGILANCIA SANTINARIA, 2016 p2) 
+
+ 
+
+Essa  mesma  informação  foi  utilizada  pelo  Deputado  Renato  Roseno  para  defender  a 
+
+importância da aprovação do Projeto de Lei 18/2015 na Câmara Legislativa do Estado do Ceará. 
+
+Outro  fato  que  deve  ser  destacado  na  tabela  01  são  os  números  da  produção  da  cana-de-
+
+açúcar. Eles representam uma troca de monocultura seguindo os padrões de produção da agricultura 
+
+empresarial. Sendo assim, vejamos de forma mais detalhada nas tabelas 02 e 03 que seguem abaixo. 
+
+TABELA 02 – MISSÃO VELHA – CE: PRODUÇÃO DE BANANA E CANA-DE-AÇUCAR 
+
+DE 2006 A 2015 (EM TONELADAS) 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+Banana 
+
+10.325  10.000  10.850  11.780  11.780 
+
+9.604 
+
+8.565 
+
+9.315  12.686  89.760 
+
+Cana-de-açúcar 
+
+48.000  33.000  32.000  33.600  33.650  30.450  17.600  17.520  17.600 
+
+6.440 
+
+Fonte: PAM 2006 a 2015/ IBGE 
+
+Elaboração e Organização: Castro, 2023 
+
+TABELA 03 – BARBALHA – CE: PRODUÇÃO DE BANANA E CANA-DE-AÇUCAR 
+
+DE 2006 A 2015 (EM TONELADAS) 
+
+ 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+Banana 
+
+4.650 
+
+4.013 
+
+4.770 
+
+4.877 
+
+4.877 
+
+5.486 
+
+5.280 
+
+5.845 
+
+6.161 
+
+6.040 
+
+Cana-de-açúcar 
+
+80.000  50.000  72.000  75.600  77.400  22.750  15.400 
+
+8.000  10.050 
+
+8.400 
+
+Fonte: PAM 2006 a 2015/ IBGE 
+
+Elaboração e Organização: Castro,  2023 
+
+A Tabela 02 (Missão Velha – CE: Produção de Banana e Cana-de-Açúcar de 2006 a 2015 
+
+em  Toneladas)  mostra  o  processo  de  substituição  da  produção  de  cana-de-açúcar  pela  banana  em 
+
+Missão Velha,  ou  seja,  uma  troca  de  monocultura.  O  mesmo  ocorre  no  município  de  Barbalha  de 
+
+acordo com a tabela 03  (Barbalha – CE: Produção de Banana e Cana-de-Açúcar de 2006 a 2015 em 
+
+Toneladas). 
+
+Dentro desse processo de mudança no que se produz na agricultura está presente a inserção 
+
+de novas atividades induzidas por forças externas, dessa forma o município de Missão Velha – que 
+
+antes era considerado pelas forças produtivas do Capital sem valor – adquire uma nova funcionalidade, 
+
+dentro  do  circuito  espacial  produtivo  da  banana.  Lobato  Corrêa  indica  duas  possibilidades  que 
+
+justificam a refuncionalização das cidades pequenas sendo a primeira a “perda relativa ou absoluta 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+92 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+de  centralidades”  (CORRÊA,  2006,  p.264),  situação  não  condizente  com  o  município  de  Missão 
+
+Velha – CE, porém ao continuar sua análise Lobato Corrêa diz que: 
+
+A segunda possibilidade diz respeito à transformação do pequeno núcleo a partir de novas 
+atividades  induzidas de  forma  ou  criadas  internamente,  que  conferem  uma  espacialização 
+produtiva [Grifo do autor] ao núcleo preexistente, inserindo-o diferentemente na rede urbana, 
+introduzindo nela uma mais complexa divisão territorial do trabalho (CORRÊA, 2006, p.267). 
+
+ 
+
+Como podemos observar Lobato Corrêa ao levantar a segunda possibilidade está falando de 
+
+cidades que antes não despertariam interesses dos empresários no país, mas quando essas áreas são 
+
+inseridas  como  resultado  da  inserção  de  novas  atividades  econômicas  essas  cidades  se  destacam 
+
+dentro do circuito espacial produtivo. 
+
+Esse segundo fator observado por Lobato Corrêa descreve as transformações espaciais que 
+
+o município de Missão Velha no interior do estado do Ceará vem passando. 
+
+ 
+
+ 
+
+TABELA 04 – BRASIL: OS 10 MUNICÍPIOS COM MAIOR INCIDÊNCIA DE PRODUÇÃO EM 
+
+TONELADAS DE BANANAS EM 2015 
+
+Município 
+
+Quantidade 
+Produzida (t) 
+
+Área colhida 
+
+(ha) 
+
+Rendimento 
+
+médio da 
+produção 
+(kg/ha) 
+
+Valor da 
+
+produção (Mil 
+
+Reais) 
+
+Bom Jesus da Lapa - BA 
+
+Corupá - SC 
+
+Luiz Alves - SC 
+
+Cajati - SP 
+
+Sete Barras - SP 
+
+Jaíba - MG 
+
+Missão Velha - CE 
+
+Novo Repartimento - PA 
+
+Jacupiranga - SP 
+
+ 
+
+171.000 
+
+152.014 
+
+127.100 
+
+126.000 
+
+126.000 
+
+112.120 
+
+89.760 
+
+84.500 
+
+75.000 
+
+8.500 
+
+5.312 
+
+4.100 
+
+4.500 
+
+4.200 
+
+6.100 
+
+5.206 
+
+2.815 
+
+6.500 
+
+3.000 
+
+Wenceslau Guimarães - BA 
+
+115.900 
+
+20.118 
+
+28.617 
+
+31.000 
+
+28.000 
+
+30.000 
+
+19.000 
+
+21.537 
+
+31.886 
+
+13.000 
+
+25.000 
+
+ 
+
+234.270 
+
+59.474 
+
+69.905 
+
+107.100 
+
+88.200 
+
+93.879 
+
+116.100 
+
+78.928 
+
+95.485 
+
+63.750 
+
+ 
+
+ 
+Fonte: PAM/IBGE. 2023 
+
+ 
+
+Elaboração e Organização: Castro, 2023 
+
+A tabela 04 compara os municípios produtores de banana no ano de 2015, através dos dados 
+
+do  IBGE  –  Produção Agrícola  Municipal  2015.  Depois  de  uma  exaustiva  busca,  averiguando  a 
+
+produção municipal de banana de cada estado, foi possível elaborar uma tabela com dez municípios 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+93 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+que mais produzem banana no Brasil. Em primeiro lugar, temos Bom Jesus da Lapa localizado na 
+
+Bahia com uma produção de 171.000t (cento e setenta e uma mil toneladas); na segunda posição, vem 
+
+Corupá no Estado de Santa Catarina que produz 152.014t (cento e cinquenta e duas mil e quatorze 
+
+toneladas); em terceiro lugar, na região Sul do país, Luiz Alves localizado em Santa Catarina com 
+
+uma  produção  de  127.100t  (cento  e  vinte  e  sete  mil  e  cem  toneladas);  na  quarta  posição,  Cajatí 
+
+localizada no Estado de São Paulo e sua produção é também de 126.000t (cento e vinte e seis mil 
+
+toneladas); no quinto lugar, também com produção de 126.000t (cento e vinte e seis mil toneladas) 
+
+Sete Barras que fica em  São Paulo; em  sexta posição, temos Wenceslau  Guimarães que  apresenta 
+
+produção de 115.900t (cento e quinze mil e novecentas toneladas); em sétima posição, Jaíba em Minas 
+
+Gerais com uma produção de 112.120t (cento e doze mil e cento e vinte toneladas); a oitava posição, 
+
+está  ocupada  pelo  município  de  Missão Velha  no  estado  do  Ceará  com  uma  produção  de  89.760t 
+
+(oitenta e nove mil, setecentos e sessenta toneladas); o nono lugar, ficou com o município de Novo 
+
+Repartimento localizado no Pará 84.500 (oitenta e quatro mil e quinhentas toneladas) e por último, 
+
+ocupando  a  décima  posição  o  município  de  Jacupiranga  localizado  no  Estado  de  São  Paulo,  cuja 
+
+produção contabiliza 75.000t (setenta e cinco mil toneladas). A figura nº 01 mostra a produção de 
+
+banana desses dez municípios. 
+
+FIGURA 01 – BRASIL: OS 10 MUNICÍPIOS COM MAIOR PRODUÇÃO EM TONELADAS DE BANANAS 
+
+EM 2015 
+
+)
+t
+(
+ 
+o
+ã
+ç
+u
+d
+o
+r
+P
+
+180000
+
+160000
+
+140000
+
+120000
+
+100000
+
+80000
+
+60000
+
+40000
+
+20000
+
+0
+
+Média entre os 10 municípios que mais produzem banana. 
+
+Média de Produção entre todos os municípios do Brasil 
+
+Fonte: PAM/IBGE. 2023 
+
+Elaboração e Organização: Castro, 2023 
+
+ 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+94 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Ao  considerar  a  produção  dos  dez  municípios  que  mais  produzem  banana  no  Brasil, 
+
+organizados  na  figura  nº  01  (Brasil:  Os  10  Municípios  Com  Maior  de  Produção  em Toneladas  de 
+
+Banana em 2015), encontramos a média de 117.939t (cento e dezessete mil novecentos e trinta e nove 
+
+toneladas) mas ao adicionarmos todos os municípios do Brasil a média cai para apenas 2.115t (duas 
+
+mil cento e quinze toneladas). 
+
+De acordo com os dados da Produção Agrícola Municipal de 2015 entre os 2.238 (dois mil 
+
+duzentos e trinta e oito) municípios produtores de banana dispersos nas 27 Unidades da Federação 
+
+Missão Velha está entre os dez que mais produz banana ocupando a posição número oito. 
+
+A  forma  como  as  relações  de  produção  do  espaço  vem  ocorrendo  seguindo  a  lógica  de 
+
+acumulação do capital, evidencia o desmonte das capacidades de produção menos rentáveis dentro 
+
+do processo de produção do espaço geográfico (KURZ, 2015). Como consequência, o discurso que 
+
+empobrece  a  agricultura  familiar  colocando-a  como  atrasada  ao  mesmo  tempo  que  enaltece  a 
+
+produção agrícola dentro da lógica de acumulação capitalista (FERNANDES, 2014), transforma o 
+
+território, sobretudo no campo, para atender às grandes corporações. 
+
+ 
+
+CONSIDERAÇÕES FINAIS 
+
+A institucionalização da Agência de Desenvolvimento do Estado do Ceará – ADECE em 21 
+
+de outubro de 2007 fundamentada na Lei N° 13.960, de 04 de setembro de 2007, foi de fundamental 
+
+importância  para  as  ações  do  Estado  que  priorizam  interesses  empresariais  em  vez  das  demandas 
+
+sociais. Esse tipo de administração teve como arauto o  Marquês d’Argeson que em 1751 já defendia 
+
+a ideia de reduzir o estado, entretanto é Keynes (1984) que ao defender a ideia do marquês propõem 
+
+a criação de empresas semiautônomas para facilitar a administração pública. 
+
+Nesse sentido, as transformações territoriais no campo surgem como consequência da ação 
+
+participante  da  empresa  de  economia  mista  identificada  como  Agência  de  Desenvolvimento  do 
+
+Estado  do  Ceará  –  ADECE,  que  sustentadas  por  leis  que  regulamentam  e  legitimam  seu 
+
+funcionamento,  servem  como  instrumento  para  gerenciar  os  interesses  das  grandes  corporações  a 
+
+serviço do Capital. 
+
+Ademais, o discurso midiático que coloca a atividade agrícola como modelo empresarial no 
+
+palco  do  mercado  reflete  a  continuação  do  modelo  de  colonização  imposta,  sobretudo  como  nos 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+95 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+lembra  Quijano  (2014)  ao  afirmar  que  o  poder  se  elaborou  também  como  uma  colonização  do 
+
+imaginário em uma relação de poder entre os dominadores e dominados. 
+
+Por  conseguinte,  ocorre  um  processo  de  desmonte  das  forças  produtivas  menos  rentáveis 
+
+(KURZ, 2015) sustentadas por um  discurso de que a agricultura  camponesa é obsoleta, como  nos 
+
+lembra  Bernardo  Mançano  (FERNANDES,  2014).  Faz-se  necessário  (re)considerar  os  impactos 
+
+socioeconômicos causados pelo atual modelo de desenvolvimento político e econômico, para que seja 
+
+possível incluir a agricultura camponesa, fazendo com que o agricultor e a agricultora também tenham 
+
+ 
+
+ 
+
+ 
+
+garantido o seu espaço. 
+
+AGRADECIMENTOS 
+
+de Pernambuco – FACEPE. 
+
+REFERÊNCIAS 
+
+Esta pesquisa conta com o apoio e incentivo da Fundação de Amparo à Ciência e Tecnologia do Estado 
+
+CAMILO SANTANA agora promete cumprir reforma fiscal  sem  aumento de impostos.  Jornal O 
+
+Povo,  Fortaleza,  20  de  jun.  de  2018.  Disponível  em:  <  https://www20.opovo.com.br/acervo/>. 
+
+Acesso em: 20 de junho de 2021. 
+
+CASTRO,  C.  L.  F.  de.  A  (re)produção  do  espaço  pautada  nas  dinâmicas  socioeconômicas  do 
+
+circuito espacial produtivo da banana em Missão Velha - Ceará. 2018. Dissertação (Mestrado em 
+
+Geografia Humana) - Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, 
+
+São Paulo, 2018. doi:10.11606/D.8.2019.tde-22032019-133541. Acesso em: 2023-08-02. 
+
+CEARÁ. Lei N° 13.960 de 4 de setembro de 2007. Autoriza o Poder Executivo a constituir a Agência 
+
+de Desenvolvimento do Estado do Ceará S.A. - ADECE, e dá outras providências. Diário Oficial do 
+
+Estado do Ceará, Fortaleza, 10 de setembro de 2007, série 2 Ano X N° 171 Caderno Nº 1. p. 1-3. 
+
+CEARÁ.  Decreto  N°  29.183  de  8  de  fevereiro  de  2008.  Consolida  e  regulamenta  a  legislação  do 
+
+Fundo  de  Desenvolvimento  Industrial  do  Ceará  –  FDI.  Diário  Oficial  do  Estado  do  Ceará, 
+
+Fortaleza, 15 de fevereiro de 2008, série 2 Ano XI N° 031° Caderno Único. p. 1-6. 
+
+DE MENEZES, M. A. O cotidiano camponês e a sua importância enquanto resistência à dominação. 
+
+Raízes: Revista de Ciências Sociais e Econômicas, v. 21, n. 1, p. 32-44, 2002. 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+96 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+DE  OLIVEIRA  SANTOS,  E.;  LIMA,  L.  C.  Reestruturação  socioespacial  do  território  cearense: 
+
+serviços modernos em  evidência nos subespaços dinâmicos (Sociospatial restructuring in cearense 
+
+territory: modern services in evidence in dynamic subspaces). Acta Geográfica, v. 6, n. 13, p. 59-76, 
+
+ 
+
+2012. 
+
+FERNANDES,  B.  M.  Cuando  la  agricultura  familiar  es  campesina1.  Instituto  de  Altos  Estudios 
+
+Nacionales (IAEN), p. 19, 2014. 
+
+GONÇALVES, C. U.; OLIVEIRA, C. F. de. Rio São Francisco: As águas correm para o mercado. 
+
+Revista Boletim Goiano de Geografia (Goiânia. Online). V. 29, n.2, 113-125, 2009 
+
+GONÇALVES, C. U. et  al.  Região, Regionalização e Políticas Territoriais: Escalas, Experiências, 
+
+Atores. Revista da ANPEGE, v. 12, n. 18, p. 57-76, 2016. 
+
+HARVEY, D. Produção Capitalista Do Espaço, A. Annablume, 2005. 
+
+KEYNES, J. M. economia/organizador (da coletânea Tamás Szmrecsányi). São Paulo: Ática, 1984. 
+
+KEYNES, J. M. O fim do laissez-faire. John Maynard Keynes. São Paulo: Ática, 1978. 
+
+KURZ,  R.  Poder  mundial  e  dinheiro  mundial.  Crônicas  do  capitalismo  em  declínio.  Rio  de 
+
+Janeiro: Consequência, 2015. 
+
+POLAT, Z. A.; ALKAN, M. The role of government in land registry and cadastre service in Turkey: 
+
+Towards a government 3.0 perspective. Land Use Policy, v. 92, p. 104500, 2020 
+
+QUIJANO, A. Raza, etnia y nación en Mariátegui: cuestiones abiertasEn Cuestiones y horizontes: 
+
+de la dependencia histórico-estructural a la colonialidad/descolonialidad del poder: antología 
+
+esencial. p. 757-775, Clacso, 2014. 
+
+ROSSINI, R. E. O rural e o urbano/a cidade e o campo: suas relações com a força de trabalho e 
+
+com a terra no estado de São Paulo e no Brasil de ontem e de hoje. Revista Rural & Urbano, v. 2, 
+
+n. 1, 2017 
+
+SANTOS, M. O Espaço Dividido. 2ª edição. Edusp. São Paulo 2004. 
+
+SANTOS, M. A Metamorfose do Espaço Habitado. Edusp, 2012 
+
+SANTOS, M.  A Natureza do Espaço. 4ª edição. Edusp. São Paulo 2014. 
+
+VASCONCELOS, T. S. L.; LIMA, L. C. A reestruturação socioespacial como aporte metodológico 
+
+de análise do território cearense. Formação (Online), v. 2, n. 18, 2011. 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+97 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+VIGILÂNCIA  SANITÁRIA  (Brasil).  Ministério  da  Saúde.  Nota 
+
+informativa  contendo 
+
+esclarecimentos  sobre  pulverização  aérea  e  o  controle  de  endemias.  2016.  Disponível  em: 
+
+<http://www.epsjv.fiocruz.br/sites/default/files/files/DSAST.pdf>. Acesso em: 11 de agosto de 2022. 
+
+ 
+
+ 
+
+Castro, 2023 
+
+ 
+
+ 
+
+ISSN 0104-5490 
+
+98 
+
+

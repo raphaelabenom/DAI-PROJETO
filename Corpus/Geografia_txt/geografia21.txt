@@ -1,0 +1,2451 @@
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+ 
+https://doi.org/10.51359/2238-6211.2023.253268   
+ 
+
+ Licença  Creative  Commons  Atribuição  4.0 
+Internacional. CC BY - permite que outros distribuam, remixem, 
+adaptem  e  criem  a  partir  do  seu  trabalho,  mesmo  para  fins 
+comerciais, desde que lhe atribuam o devido crédito pela criação 
+original. 
+ 
+
+SIMULAÇÃO DE UM SISTEMA DE APROVEITAMENTO DE ÁGUA 
+
+PLUVIAL PARA ÓRGÃOS PÚBLICOS: O CASO DA CIDADE 
+UNIVERSITÁRIA PROFESSOR JOSÉ ALOÍSIO DE CAMPOS  
+
+Jocimar Coutinho Rodrigues Junior¹, http://orcid.org/0000-0002-4033-3243  
+
+Ester Milena dos Santos², http://orcid.org/0000-0001-8937-3767  
+
+Daniella Rocha3, http://orcid.org/0000-0002-1936-2816  
+
+ 
+
+                                     ¹ Universidade Federal de Pernambuco, Recife, Brasil  
+  ² Universidade Federal de Pernambuco, Recife, Brasil ** 
+3 Universidade Federal de Sergipe, Aracaju, Brasil *** 
+
+Artigo recebido em 10/02/2022 e aceito em 01/08/2023 
+
+Publicado: 10/2023 
+
+RESUMO 
+A partir da atual crise hídrica mundial, que afeta diversos países no mundo, houve a necessidade de desenvolver 
+diversas práticas sustentáveis como soluções de impactos ambientais e, dentre estas, destacam-se as atividades 
+relacionadas  ao  aproveitamento  e  reuso  de  águas.  Tendo  em  vista  este  cenário,  o  aproveitamento  de  água 
+pluvial por órgãos públicos, como em instituições de ensino, para fins menos nobres, é essencial para reduzir 
+o consumo de água originada das fontes de abastecimento público. Diante do exposto, esse trabalho tem como 
+finalidade, simular um sistema de aproveitamento de água pluvial para a Cidade Universitária Professor José 
+Aloísio de Campos, sede da Universidade Federal de Sergipe, a fim de averiguar o potencial econômico com 
+a implementação desse sistema na redução do consumo e gasto com a água de abastecimento. A metodologia 
+consistiu  em  realizar  o  levantamento  da  demanda  total  de  água  em  edificações  de  salas  de  aula, 
+dimensionamento de reservatórios conforme a ABNT/NBR 15527:2007 e, utilização do software Netuno para 
+simular o referido potencial econômico com as devidas particularidades de projeto. As simulações realizadas 
+mostram  uma  redução  no  consumo  de  água  potável  com  o  uso  da  água  pluvial,  além  de  indicar  que  a 
+implementação  do sistema, produz uma relevante economia na conta de água, com possiblidade de retorno 
+financeiro em até 11 anos. Deste modo, constatou-se que a utilização da técnica de aproveitamento da água 
+pluvial consiste em uma tecnologia potencialmente viável. 
+ 
+Palavras-chave: manejo de águas pluviais; drenagem sustentável; gestão de recursos hídricos; Sergipe. 
+
+ 
+
+ Engenheiro Ambiental e Sanitarista pela Universidade Federal de Sergipe (UFS). Doutorando em Engenharia Civil pela 
+Universidade Federal de Pernambuco (UFPE). E-mail: jocimar_junior@hotmail.com 
+** Engenheira Ambiental e Sanitarista pela Universidade Federal de Sergipe (UFS). Doutoranda em Engenharia Civil pela 
+Universidade Federal de Pernambuco (UFPE). E-mail: esthermillena22@gmail.com 
+*** Doutora em Engenharia Civil (Interdisciplinar Meio Ambiente) pela Universidade Federal do Rio de Janeiro (UFRJ). 
+Professora da Universidade Federal de Sergipe (UFS). E-mail: daniellarocha.ufs@gmail.com 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+1 
+
+PKS 
+
+PUBLIC 
+KNOWLEDGE 
+PROJECT 
+
+https://periodicos.ufpe.br/revistas/revistageografia 
+
+ 
+
+OJS 
+
+OPEN  
+JOURNAL 
+SYSTEMS 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+SIMULATION OF A RAINWATER HARVESTING SYSTEM FOR PUBLIC 
+AGENCIES: THE CASE OF THE UNIVERSITY CITY PROFESSOR JOSÉ 
+
+ALOÍSIO DE CAMPOS 
+
+ABSTRACT 
+Since  the  current  global  water  crisis,  which  affects  several  countries  worldwide,  there  has  been  a  need  to 
+develop several sustainable practices as solutions to environmental impacts and, among these, the activities 
+related to water use and reuse stand out. In view of this scenario, the use of rainwater by public bodies, such 
+as educational institutions, for less noble purposes is essential to reduce the consumption of water from public 
+supply sources. The purpose of this study is to simulate a rainwater harvesting system for the University City 
+Professor José Aloísio de Campos, headquarters of the Federal University of Sergipe, in order to assess the 
+economic  potential  of  implementing  such  a  system  to  reduce  water  supply  consumption  and  costs.  The 
+methodology  consisted  of  a  survey  of  the  total  water  demand  in  classroom  buildings,  sizing  of  reservoirs 
+according to ABNT/NBR 15527:2007, and use of Netuno software to simulate the referred economic potential 
+with  the  proper  project  particularities.  The  simulations  performed  show  a  reduction  in  potable  water 
+consumption with the use of rainwater, and indicate that the implementation of the system produces significant 
+savings in the water bill, with the possibility of financial return in up to 11 years. Thus, it was found that the 
+use of rainwater harvesting is a potentially viable technology. 
+ 
+Keywords: stormwater management; sustainable drainage; water resources management; Sergipe. 
+ 
+
+SIMULACIÓN DE UN SISTEMA DE RECOGIDA DE AGUAS PLUVIALES 
+
+PARA ORGANISMOS PÚBLICOS: EL CASO DE LA CIDADE 
+UNIVERSITÁRIA PROFESOR JOSÉ ALOÍSIO DE CAMPOS  
+
+RESUMEN 
+Debido  a  la  actual  crisis  global  del  agua,  que  afecta  a  varios  países  del  mundo,  surgió  la  necesidad  de 
+desarrollar varias prácticas sostenibles como soluciones a los impactos ambientales y, entre ellas, destacan las 
+actividades relacionadas con el uso y reutilización del agua. Ante este panorama, la utilización de las aguas 
+pluviales  por  parte  de  los  organismos  públicos,  como  los  centros  educativos,  para  fines  menos  nobles  es 
+fundamental para reducir el consumo de agua de las fuentes de abastecimiento público. El objetivo de este 
+estudio  es  simular  un  sistema  de  recogida  de  aguas  pluviales  para  la  Ciudad  Universitaria  Professor  José 
+Aloísio de Campos, sede de la Universidad Federal de Sergipe, con el fin de evaluar el potencial económico 
+de la implantación de dicho sistema para reducir el consumo y los costes de agua. La metodología consistió en 
+el relevamiento de la demanda total de agua en los edificios de aulas, el dimensionamiento de los reservorios 
+de acuerdo con la norma ABNT/NBR 15527:2007 y la utilización del software Netuno para simular el referido 
+potencial económico con las debidas particularidades del proyecto. Las simulaciones realizadas muestran una 
+reducción del consumo de agua potable con el uso del agua de lluvia, e indican que la implantación del sistema 
+produce un ahorro significativo en la factura del agua, con posibilidad de retorno financiero en hasta 11 años. 
+Por lo tanto, se comprobó que el uso de la recogida de agua de lluvia es una tecnología potencialmente viable. 
+ 
+Palabras clave: gestión de aguas pluviales; drenaje sostenible; gestión de recursos hídricos; Sergipe. 
+ 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+2 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+INTRODUÇÃO 
+
+Os  processos  de  desenvolvimento  urbano,  bem  como  o  crescimento  populacional,  são 
+
+responsáveis por ocasionar significativas mudanças na ocupação do espaço e na dinâmica ambiental 
+
+dos ecossistemas. Diante desse fenômeno, uma série de impactos ambientais surgem, envolvendo os 
+
+problemas de escassez de água, de drenagem das águas pluviais e de poluição dos recursos hídricos 
+
+(SANTOS, 2004; FRIEDE, 2020). 
+
+Em geral, a urbanização de uma localidade é constituída com a ocorrência de um conjunto 
+
+de ações que envolve fatores como: a retirada relevante de parte da vegetação, abertura dos sistemas 
+
+viários,  obras  de  terraplenagem  do  solo,  ocupação  populacional  intensa  e  adensada.  Essas  ações 
+
+resultam em impactos que podem ser imensuráveis, implicando em processos erosivos, assoreamento 
+
+de cursos d’água, alagamentos e enchentes (HELLER; PÁDUA, 2006; SANTOS et al., 2021). 
+
+Levando em consideração essa realidade, tornou-se necessária a elaboração e implementação 
+
+de um planejamento urbano adequado que considere a dinâmica do clico hidrológico local, apontando 
+
+estratégicas  de  conservação  e  proteção  do  ecossistema.  Para  corrigir  e  minimizar  os  impactos 
+
+decorrente da urbanização, surgiram diversos estudos acerca do tema, no que tange propostas para 
+
+melhorias no desenvolvimento e planejamento de áreas urbanas. 
+
+Neste  contexto,  o  grande  objetivo  da  sociedade  atual  consiste  na  busca  por  práticas  que 
+
+aprimorem  o  uso  e  a  utilização  da  água,  envolvendo  os  programas  e  políticas  de  conservação  e 
+
+proteção, que tem como base a implementação de medidas técnicas mais sustentáveis. Essas medidas 
+
+podem  ser  variadas,  podendo  ser  implementadas  por  incentivos  que  vão  desde  ações  de  educação 
+
+ambiental até a regulamentação de leis e de tarifas (APOLLARO; ALVIM, 2017). 
+
+De  acordo  com  Lourenço  (2014),  até  certo  tempo,  os  sistemas  de  drenagem  urbana 
+
+convencionalmente  eram  planejados  como  os  denominados  sistemas  clássicos,  os  quais  foram 
+
+concebidos tendo como base a permissa de deslocar e mover rapidamente as águas das chuvas das 
+
+áreas urbanas, de forma a evitar as enchentes e inundações. Porém, com o grande crescimento das 
+
+cidades,  com  o  desenvolvimento  urbano  e  industrial,  essas  técnicas  revelaram  ser  ineficientes  e 
+
+limitadas,  pois  negligenciam  aspectos  da  qualidade  da  água,  do  ciclo  hidrológico  e  da  capacidade 
+
+hidráulica das localidades em que estão inseridas. 
+
+Na  segunda  metade  do  século  XX,  houve  uma  mudança  na  concepção  destes  sistemas 
+
+clássicos, com a finalidade de reduzir impactos ambientais, ocorreu o surgimento de novas técnicas 
+
+de gerenciamento da drenagem urbana de águas pluviais. Dessa maneira, novas medidas alternativas 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+3 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+começaram a ser implementadas, baseando-se na redução do escoamento superficial, na infiltração 
+
+de  água  no  solo,  no  tempo  de  retenção,  entre  outros  fatores.  Essas  novas  técnicas  passaram  a 
+
+complementar os sistemas clássicos de drenagem urbana, aferindo novos mecanismos aos mesmos. 
+
+Neste ponto de vista, o aproveitamento de água pluvial surgiu como uma dessas alternativas 
+
+mais  sustentáveis  para  gerenciamento  da  drenagem  e  para  suprir  problemas  de  escassez  de  água. 
+
+Segundo Perius et al. (2021), a água pluvial consiste em um recurso natural amplamente disponível 
+
+em grande parte do Brasil, onde a mesma pode ser utilizada para variados objetivos não potáveis, 
+
+como irrigação, lavagem de pisos, descargas de vasos sanitários. Ressalta-se que também é possível 
+
+o uso da água da chuva para usos potáveis, porém, é necessário realizar um tratamento da mesma, 
+
+para atingir os níveis de potabilidade exigidos.  
+
+Ademais, Salomão et al. (2019) aponta que a utilização da água da chuva ocasiona diversos 
+
+benefícios,  como  a  conservação  da  água  e  a  redução  da  quantidade  de  água  provida  das  fontes 
+
+superficiais de abastecimento. Consequentemente, essa utilização resulta na redução do escoamento 
+
+superficial, minimizando a poluição difusa, os problemas com inundações e enchentes, auxiliando de 
+
+forma significativa a sustentabilidade urbana. 
+
+Diante  disso,  é  possível  com  a  implementação  de  sistemas  de  aproveitamento  de  água 
+
+pluvial, em áreas urbanas, reduzir o consumo de água potável e a poluição difusa e, ao mesmo tempo, 
+
+promover  uma  diminuição  da  água  destinada  ao  sistema  de  drenagem  convencional.  Nessa 
+
+conjuntura,  se  propõe  uma  solução  aos  problemas  envolvendo  o  escoamento  de  água  pluvial,  não 
+
+apenas  de  forma  quantitativa,  pois  ocorre  a  redução  das  vazões  a  jusante,  mas  também  de  forma 
+
+qualitativa, corroborando com a melhoria da qualidade das águas superficiais. 
+
+A captação de água pluvial em locais urbanizados, como campus universitários e cidades 
+
+universitárias, consiste em uma tecnologia que pode conceder um fim adequado para a água da chuva 
+
+pelos diversos usos não potáveis existentes nesses locais. Dentre as possibilidades de uso, se pode 
+
+indicar  a  irrigação  de  jardins  e  gramados,  descargas  de  vasos  sanitários,  bem  como  a  lavagem  de 
+
+pisos, calçadas e áreas de estacionamento. 
+
+Diante dos benefícios oferecidos pelos sistemas de aproveitamento, o presente trabalho tem 
+
+como objetivo dimensionar e simular um sistema de aproveitamento de água pluvial para a Cidade 
+
+Universitária Professor José Aloísio  de Campos (Universidade  Federal  de Sergipe - UFS) em  São 
+
+Cristóvão/SE, visando a utilização em fins não nobres, a fim de constatar a sua viabilidade econômica.  
+
+ 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+4 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+MATERIAIS E MÉTODOS 
+
+Área em estudo 
+
+A  área  em  estudo  consiste  na  Universidade  Federal  de  Sergipe  (UFS),  especificamente  o 
+
+campus de São Cristóvão, denominado de Cidade Universitária Prof. José Aloísio de Campos. O local 
+
+possui aproximadamente 63,6 hectares de área, sendo dividido entre didáticas, departamentos, centros, 
+
+biblioteca, restaurante universitário, entre outros, conforme mostra a Figura 1. 
+
+Figura 1 – Cidade Universitária Prof. José Aloísio de Campos, campus da UFS, em São Cristóvão/SE. 
+
+Fonte: os autores (2022). 
+
+ 
+
+Dentre  as  didáticas,  que  são  prédios  destinados  a  salas  de  aulas  e  auditórios,  existe  as 
+
+didáticas 1, 2, 3, 4, 5 e 6. As mesmas possuem salas de aulas, além de auditórios, laboratórios, salas 
+
+destinadas  a  serviços  administrativos,  entre  outros. A  Figura  2  mostra  a  localização  dessas  áreas 
+
+dentro do campus. 
+
+Para o dimensionamento e estudo do sistema de aproveitamento de água da chuva, foram 
+
+realizadas visitas nas didáticas 1, 2, 3, 4, 5 e 6, com o objetivo de observar as instalações prediais. 
+
+Além disso, foram obtidas as plantas desses prédios com a Prefeitura da UFS, na Divisão de Projetos 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(DIPRO/UFS),  para  averiguar  a  área  de  cobertura  dos  mesmos,  para  realizar  o  cálculo  da  área  de 
+
+captação de água da chuva.  
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Figura 2 – Localização das didáticas 1, 2, 3, 4, 5 e 6. 
+
+Fonte: Google earth, 2019. 
+
+ 
+
+Análise da demanda de água nas didáticas 
+
+Inicialmente, foi definida a demanda de água per capita por habitante nas didáticas da UFS. 
+
+Por se tratar de uma instituição de ensino, onde há grande frequência de alunos por período (matutino, 
+
+vespertino, noturno), foi estabelecida a demanda diária per capita de 50 L/dia por pessoa, conforme 
+
+define Florianópolis (2016) e Creder (2006).  
+
+Em geral, considerando a tipologia do estabelecimento, para fins de dimensionamento, se 
+
+considera uma demanda per capita de água, para suprimento das necessidades básicas. No caso de 
+
+universidades, se estabelece 50 L/dia por pessoa por dia, visando atender toda a demanda, incluindo 
+
+os usos potáveis (alimentação). Assim, há a necessidade de tratamento dessa água, quando se tem o 
+
+destinamento para os referidos fins nobres.  
+
+Foi adotado esse valor como demanda per capita também em razão da Organização Mundial 
+
+de Saúde (OMS), que atesta que é necessário entre 50 a 100 litros de água por pessoa, por dia, para 
+
+assegurar  a  satisfação  das  necessidades  mais  básicas  e  a  minimização  dos  problemas  de  saúde 
+
+(OHCHR;  UN-HABITAT;  WHO,  2010).  De  acordo  com  Gleick  (1999),  50  L/hab.dia  também 
+
+consiste na quantidade mínima no que tange o consumo de água. 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Com isso, este valor foi adotado neste trabalho, como a demanda de água no local de estudo. 
+
+Esta decisão foi tomada com base no entendimento que os alunos e funcionários que frequentam a 
+
+UFS, realizam  atividades no local  que não demandam  tanta quantidade de água, haja vista que os 
+
+mesmos  não são tratados como  moradores, mas sim como  pessoas que frequentam a universidade 
+
+diariamente, em um intervalo de tempo. Ademais, é válido salientar que o sistema de aproveitamento 
+
+de água pluvial para a universidade, neste caso, tem como finalidade os usos em fins não potáveis, 
+
+ou seja, utilização da água da chuva para suprimento de parte da demanda, envolvendo jardinagem, 
+
+lavagem de pisos, descargas de banheiros e, outros fins que não necessitam de tratamento. 
+
+Com  base  nessas  considerações  e  adotado  o  valor  per  capita  de  consumo  de  água, 
+
+posteriormente, foi definida a demanda total de água nas didáticas. Para proceder o dimensionamento, 
+
+tornou-se necessário saber a quantidade de pessoas que utilizam os espaços das mesmas diariamente. 
+
+Assim,  em  cada  didática  foi  realizado  um  levantamento  da  quantidade  pessoas  que  a  frequentam 
+
+diariamente, dentre estudantes, professores e funcionários. 
+
+Foi realizado um levantamento com base na plataforma do Sistema Integrado de Gestão de 
+
+Atividades  Acadêmicas  –  SIGAA,  que  consiste  na  plataforma  oficial  utilizada  pela  UFS,  para 
+
+contabilizar a quantidade de alunos matriculados em cada sala de aula das didáticas nos últimos 4 
+
+semestres,  entre  2018  e  2019.  Convém  salientar  que  o  SIGAA  registra  a  quantidade  de  alunos 
+
+matriculados em cada didática por semestre, bem como os dias de aula das disciplinas. Com isso, foi 
+
+possível contabilizar a quantidade de alunos por dia nas didáticas nos últimos 4 semestres e, deste 
+
+modo, foi obtida uma média. 
+
+Todas as didáticas são utilizadas basicamente para salas de aulas, dentre os diversos cursos 
+
+de  graduação  presentes  na  UFS,  há  salas  de  desenho  técnico,  laboratórios  de  informática,  salas, 
+
+auditórios,  dentre  outros. Apenas  a  Didática  2  possui  sala  destinadas  a  trabalhos  administrativos, 
+
+como  secretarias  e  salas  de  chefias  de  programas  de  pós-graduação.  Neste  caso,  foi  efetuado  um 
+
+levantamento in loco para saber a quantidade de pessoas que frequentam o ambiente. 
+
+Para  este  estudo,  no  levantamento  do  número  de  pessoas,  foi  levado  em  consideração  os 
+
+alunos de graduação e os funcionários das didáticas como consumidores de água para as didáticas. 
+
+Em  relação  aos  alunos  de  pós-graduação  e  professores,  os  mesmos  possuem  gabinetes,  salas  de 
+
+estudos,  usufruem  de  laboratórios  e  salas  de  pesquisas  em  outros  locais,  como  os  prédios 
+
+departamentais e multi departamentais da universidade. 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+7 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Sendo  assim,  foram  considerados  apenas  os  alunos  de  graduação  e  os  funcionários  como 
+
+usuários das edificações no dimensionamento da demanda de água total para as didáticas. Portanto, 
+
+conhecida a demanda per capita do ambiente e a quantidade de pessoas que o frequentam diariamente, 
+
+foi possível estimar a demanda de água total em cada didática, multiplicando estes dois dados, com 
+
+base na Equação 1. 
+
+Demanda total de água = per capita x n° de habitantes                                                                       (1)  
+
+Dimensionamento do reservatório 
+
+O  reservatório,  conforme  já  foi  explicado  consiste  no  componente  mais  importante  do 
+
+sistema  de  aproveitamento  de  água  pluvial.  Nesse  contexto,  a  capacidade  de  armazenamento  do 
+
+referido reservatório vai ter total influência no custo e, consequentemente na eficiência do sistema. 
+
+Os principais fatores que podem ser considerados no dimensionamento do volume são: 
+
+•  A superfície da área de contribuição; 
+
+•  O coeficiente de escoamento; 
+
+•  A precipitação da localidade; 
+
+•  A demanda de água não potável; 
+
+•  Período de estiagem. 
+
+Para  realizar  o  dimensionamento  do  reservatório,  é  necessário  consultar  a  ABNT/NBR 
+
+15527:2007 (BRASIL, 2007), que apresenta diferentes métodos para estimar o volume do mesmo, 
+
+referente ao sistema de aproveitamento de água de chuva em áreas urbanas para usos não potáveis. 
+
+Neste trabalho, o dimensionamento foi dado por três métodos da norma, que são apresentados abaixo. 
+
+Foram  utilizados  estes  métodos,  em  razão  da  disponibilidade  das  variáveis  presentes  no 
+
+equacionamento. 
+
+Método empírico brasileiro ou método de Azevedo Neto 
+
+Este  modelo  leva  em  consideração  a  precipitação  da  localidade  e  o  período  de  estiagem. 
+
+Assim, o volume do reservatório é calculado na Equação 2. 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+V = 0,042 x P x A x T                                                                                                                (2) 
+
+Onde: P = precipitação média anual, em mm; T = número de meses de pouca chuva ou seca; A = área de captação, em m²; 
+
+V = volume do reservatório, em litros. 
+
+Método empírico inglês 
+
+Neste modelo, se leva em consideração a precipitação e a área de contribuição do tralhado, 
+
+não é influenciado pela demanda e nem pela estiagem. Assim, o volume é obtido pela Equação 3. 
+
+V = 0,05 x P x A                                                                                                                         (3)  
+
+Onde: P = precipitação média anual, em mm; A = área de captação, em m²; V = volume do reservatório, em litros. 
+
+Método empírico alemão 
+
+Neste modelo, se projeta o reservatório como 6% volume de consumo anual ou do volume 
+
+anual de precipitação captada, devendo sempre adotar o menor valor entre os dois. Não se leva em 
+
+consideração a precipitação. Assim, o volume é calculado com base na Equação 4. 
+
+V= min (Vc;D)  x 0,06                                                                                                              (4) 
+
+Onde: Vc = volume anual de água de chuva captada, em litros; D = demanda anual da água não potável, em litros; V = 
+
+volume do reservatório, em litros. 
+
+Potencial econômico com a utilização do software Netuno 
+
+Para  analisar  o  potencial  econômico  de  redução  do  consumo  de  água  das  fontes  de 
+
+abastecimento, com a implementação do sistema de aproveitamento de água de pluvial nas didáticas 
+
+da UFS, foi utilizado o software Netuno. O referido software consiste em um programa computacional 
+
+desenvolvido pelo Laboratório de Eficiência Energética em Edificações da Universidade Federal de 
+
+Santa Catarina por Ghisi e Trés (2004), tendo como finalidade, a estimativa do potencial de economia 
+
+de água potável em função da capacidade de armazenamento de água do reservatório, por meio de 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+um  sistema  de  aproveitamento  de  água  pluvial  para  usos  não  nobres,  como  descarga  de  vasos 
+
+sanitários, limpeza de pisos, lavagens de carros, entre outros. 
+
+De  acordo  com  Ghisi  e  Cordova  (2014),  de  forma  geral,  a  metodologia  do  programa 
+
+basicamente tem como base um histórico comportamental já conhecido, de determinados dados. Com 
+
+isso, os seguintes dados de entrada devem ser fornecidos:  
+
+•  Dados de precipitação diários para realizar as simulações; 
+
+•  Descarte de escoamento inicial (água da chuva que “lava a cobertura” e é descartada); 
+
+•  Demanda de água; 
+
+•  Número de habitantes da edificação; 
+
+•  Coeficiente de escoamento superficial; 
+
+•  Tarifa de água local. 
+
+ 
+
+Os  dados  referentes  a  precipitação  diária  foram  obtidos  no  Sistema  de  Monitoramento 
+
+Agrometeorológico  da  EMBRAPA  (AGRITEMPO,  2019),  que  consiste  em  um  sistema  de 
+
+monitoramento  climatológico  e  meteorológico,  que  dispõe  de  boletins  e  mapas  com  informações 
+
+acerca da precipitação acumulada, temperaturas, tratamentos fitossanitários, necessidade de irrigação, 
+
+em todos os biomas brasileiros. Estes dados diários foram obtidos entre janeiro de 2009 e dezembro 
+
+de 2018, totalizando assim, 10 anos de análise das precipitações para inserir como dado de entrada 
+
+no software Netuno. Ademais, as informações de precipitação são referentes a estação pluviométrica 
+
+São  Cristóvão  -  TRMM.4857,  localizada  no  município  de  São  Cristóvão,  sob  as  coordenadas 
+
+geográficas 11°0'0"S e 37°15'0"W. 
+
+De acordo com o Programa de Pesquisa em Saneamento Básico da Associação Brasileira de 
+
+Engenharia Ambiental e Sanitária coordenado por Gonçalves (2009), aproximadamente 40% do total 
+
+de  água  consumida  é  utilizada  para  objetivos  não  potáveis. Assim,  se  definiu  que  40%  da  água 
+
+consumida nas didáticas, pode ser substituída pela água pluvial, para usos não nobres. 
+
+A Tarifa de água no local foi obtida de acordo com Companhia de Saneamento de Sergipe 
+
+(DESO, 2019), que no seu quadro tarifário, atribui a seguinte tarifa para instituições públicas: até 10 
+
+m3 - R$ 166,07; e mais de 10 m3: R$ 25,38 / m3. A taxa de esgoto de acordo com o quadro tarifário, 
+
+consiste em 80% do valor da conta de água. A partir destas considerações, foi possível  executar e 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+10 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+aplicar  no  software  Netuno  as  simulações  para  averiguar  o  potencial  econômico  para  reduzir  o 
+
+consumo de água potável, alinhado ao aproveitamento de água pluvial. 
+
+Para averiguar o custo da instalação dos reservatórios que armazenarão a água pluvial, bem 
+
+como a mão de obra para construção e equipamentos, foi utilizado o software ORSE – Orçamento de 
+
+Obras  de  Sergipe.  O  ORSE  consiste  em  um  software  com  pode  ser  utilizado  com  gratuidade, 
+
+desenvolvido  pela  CEHOP  –  Companhia  Estadual  de  Habilitação  e  Obras  Públicas  de  Sergipe, 
+
+configurando como o maior software de orçamento de obras no estado. O mesmo possui um banco 
+
+de dados que é composto por diversos insumos, serviços e composições atualizados de forma mensal 
+
+pela CEHOP, possibilitando a realização de diferentes orçamentos para obras (CEHOP, 2019). 
+
+Dessa forma, a partir do custo de instalação dos reservatórios obtido com o ORSE e, com o 
+
+potencial  econômico  que  a  implementação  do  sistema  possivelmente  proporcionará  para  a 
+
+universidade,  foi  possível  averiguar  em  quanto  tempo  essa  economia  irá  suprir  os  custos  com  a 
+
+instalação dos reservatórios e instalações. 
+
+ 
+
+RESULTADOS E DISCUSSÃO 
+
+Análise da demanda de água nas didáticas 
+
+Considerando a demanda per capita de água considerada de 50 l/hab.dia, conforme é adotado 
+
+pela Prefeitura de Florianópolis (2016) e por Creder (2006) para instituições de ensino, as quais não 
+
+funcionam  como  internato  e  realizado  o  levantamento  na  plataforma  na  SIGAA  para  verificar  a 
+
+quantidade  de  pessoas  matriculadas  (alunos)  que  frequentam  a  unidade  diariamente  nos  últimos  4 
+
+semestres, foram estimadas as demandas de água. A Tabela 1 mostra a quantidade de frequentadores 
+
+das didáticas e, a partir desse levantamento da quantidade populacional e, considerando a referida 
+
+demanda per capita, foi calculado a demanda total de água nas didáticas conforme mostra a Tabela 2.  
+
+É possível perceber que a didática 4, possui maior quantidade de alunos com disciplinas que 
+
+são ministradas no local, resultando assim em uma maior demanda de água, seguida das didáticas 3, 
+
+5, 1, 6 e 2, respectivamente. É válido ressaltar que a didática 2 possui a menor demanda por ser tratar 
+
+de uma didática que também funciona com atividades administrativas, tendo uma menor quantidade 
+
+de aulas e, consequentemente, alunos. O espaço é destinado a outras atividades, diferente das outras 
+
+didáticas.  
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+11 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+Tabela 1 – Usos das didáticas e quantidade de pessoas que frequentam diariamente os locais. 
+
+DIDÁTICA 
+
+USOS 
+
+QUANT. DE 
+
+QUANT. DIÁRIA 
+
+FUNCIONÁRIOS 
+
+DE ALUNOS 
+
+TOTAL 
+
+DIDÁTICA 1 
+
+Sala de aula. 
+
+Sala de aula, chefias de cursos de pós-
+
+DIDÁTICA 2 
+
+graduação, salas administrativas de ensino à 
+
+101 
+
+distância, laboratórios de informática. 
+
+DIDÁTICA 3 
+
+Salas de aula, auditórios, salas de desenho. 
+
+DIDÁTICA 4 
+
+Salas de aula, auditórios. 
+
+DIDÁTICA 5 
+
+Salas de aula, auditórios, sala administrativa 
+
+do Serviço de Limpeza da UFS. 
+
+DIDÁTICA 6 
+
+Salas de aula, auditórios. 
+
+1 
+
+1 
+
+1 
+
+3 
+
+1 
+
+Fonte: os autores (2022). 
+
+6285 
+
+187 
+
+6620 
+
+7895 
+
+6597 
+
+3780 
+
+6286 
+
+288 
+
+6621 
+
+7896 
+
+6600 
+
+3781 
+
+Tabela 2 – Demanda total de água nas didáticas. 
+
+QUANT. TOTAL DE 
+
+PESSOAS / DIA 
+
+DEMANDA 
+(l/hab.dia) 
+
+DEMANDA TOTAL 
+
+DEMANDA TOTAL 
+
+DIDÁTICA 
+
+DIDÁTICA 1 
+
+DIDÁTICA 2 
+
+DIDÁTICA 3 
+
+DIDÁTICA 4 
+
+DIDÁTICA 5 
+
+DIDÁTICA 6 
+
+6286 
+
+288 
+
+6621 
+
+7896 
+
+6600 
+
+3781 
+
+(l/dia) 
+
+314300 
+
+14400 
+
+331050 
+
+394800 
+
+330000 
+
+189050 
+
+(m3/dia) 
+
+314,3 
+
+14,4 
+
+331,05 
+
+394,8 
+
+330 
+
+189,05 
+
+Fonte: os autores (2022). 
+
+ 
+ 
+
+ 
+
+ 
+
+50 
+
+50 
+
+50 
+
+50 
+
+50 
+
+50 
+
+Dimensionamento do reservatório 
+
+Para  realizar  o  dimensionamento  do  reservatório,  se  adotou  o  método  empírico  inglês, 
+
+método de Azevedo Neto (empírico brasileiro) e método empírico alemão, que são apresentados na 
+
+ABNT/NBR 15.527:2007 (BRASIL, 2007) e, que dispõe as recomendações acerca do aproveitamento 
+
+de água da chuva em coberturas em áreas urbanas para fins não potáveis. 
+
+A escolha dos referidos métodos foi acertada em razão da necessidade de um reservatório 
+
+que venha a suprir a demanda de água não potável para todo o ano, principalmente, durante o ano 
+
+letivo,  levando  em  consideração  também  a  área  disponível  para  instalação.  No  município  de  São 
+
+Cristóvão, o inverno tem muito mais pluviosidade que o verão. De acordo o Climate-Data (2018), o 
+
+referido município tem uma pluviosidade média anual de 1372 mm. Além disso, o município, por se 
+
+enquadrar em região de Mata Atlântica, possui o período de seca e de chuva bem definidos, sendo 6 
+
+meses de pouco chuva e 6 meses com índices pluviométricos maiores. 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+12 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+Diante  disso,  aplicando  as  equações  dos  referidos  métodos  de  dimensionamento  de 
+
+reservatório utilizados e, levando em  consideração a área de  captação das didáticas, se obteve um 
+
+valor de volume de reservatório para todas as didáticas por método usado, conforme é evidenciado 
+
+nas Tabelas 3 a 7. 
+
+Como se pode visualizar nas referidas tabelas, o método de Azevedo Neto (Tabela 3) consiste 
+
+no  método  que  resulta  no  maior  volume  aproveitável,  entre  170,02  e  246,65  m3,  em  razão  de 
+
+possivelmente considerar os meses de seca na região, diferentemente dos outros métodos. O método 
+
+empírico inglês, como se revela na Tabela 4, resultou no menor volume, entre 33,73 e 48,94 m3, em 
+
+razão de levar em consideração apenas os fatores de precipitação e a área de contribuição dos prédios 
+
+em questão. 
+
+Para o método empírico alemão, o mesmo faz uma análise em relação ao volume de água 
+
+que a demanda anual da edificação possui, bem como uma outra análise, a partir do volume de água 
+
+que a área de contribuição tem o potencial de captar. Nesse sentido, se escolhe o menor volume entre 
+
+estas  duas  análises,  as  Tabelas  5  e  6,  mostram  os  valores  do  reservatório  calculado  pelo  método 
+
+empírico alemão, diante  das análises  de demanda e  do volume captado  anualmente pelas áreas de 
+
+contribuição. A Tabela 7 especifica os volumes adotados entre os dois. 
+
+É pertinente ressaltar que os métodos empíricos alemão e inglês resultaram em volumes de 
+
+reservatório parecidos, em razão das informações que os dois levam em consideração. Sendo assim, 
+
+os dois mostraram valores factíveis, tendo em vista a construção de um reservatório. 
+
+Tabela 3 – Volume do reservatório pelo método de Azevedo Neto. 
+
+ÁREA DE 
+
+MÉTODO DE AZEVEDO 
+
+MÉTODO DE AZEVEDO 
+
+DIDÁTICA 
+
+CONTRUIBIÇÃO 
+
+DIDÁTICA 1 
+
+DIDÁTICA 2 
+
+DIDÁTICA 3 
+
+DIDÁTICA 4 
+
+DIDÁTICA 5 
+
+DIDÁTICA 6 
+
+491,74 
+
+632,88 
+
+632,88 
+
+579,90 
+
+713,38 
+
+713,38 
+
+NETO (l) 
+
+170016,15 
+
+218814,46 
+
+218814,46 
+
+200496,25 
+
+246646,85 
+
+246646,85 
+
+Fonte: os autores (2022). 
+
+NETO (m3) 
+
+170,02 
+
+218,81 
+
+218,81 
+
+200,50 
+
+246,65 
+
+246,65 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+Tabela 4 – Volume do reservatório pelo método de empírico inglês. 
+
+DIDÁTICA 
+
+CONTRUIBIÇÃO 
+
+INGLÊS (m3) 
+
+ÁREA DE 
+
+MÉTODO EMPÍRICO INGLÊS 
+
+MÉTODO EMPÍRICO 
+
+491,74 
+
+632,88 
+
+632,88 
+
+579,90 
+
+713,38 
+
+713,38 
+
+(l) 
+
+33733,36 
+
+43415,57 
+
+43415,57 
+
+39781,00 
+
+48937,87 
+
+48937,87 
+
+Fonte: os autores (2022). 
+
+Tabela 5 – Volume do reservatório pelo método de empírico alemão, considerando o volume anual de chuva coletado. 
+
+DIDÁTICA 
+
+ÁREA DE CONTRUIBIÇÃO (m2) 
+
+VOLUME COLETADO ANUALMENTE 
+
+EM LITROS (Vc) 
+
+491,74 
+
+632,88 
+
+632,88 
+
+579,90 
+
+713,38 
+
+713,38 
+
+Fonte: os autores (2022). 
+
+674667,28 
+
+868311,36 
+
+868311,36 
+
+795620,06 
+
+978757,36 
+
+978757,36 
+
+DIDÁTICA 1 
+
+DIDÁTICA 2 
+
+DIDÁTICA 3 
+
+DIDÁTICA 4 
+
+DIDÁTICA 5 
+
+DIDÁTICA 6 
+
+DIDÁTICA 1 
+
+DIDÁTICA 2 
+
+DIDÁTICA 3 
+
+DIDÁTICA 4 
+
+DIDÁTICA 5 
+
+DIDÁTICA 6 
+
+Tabela 6 – Volume do reservatório, método empírico alemão, considerando o volume da demanda anual. 
+
+DIDÁTICA 
+
+DEMANDA 
+DIÁRIA EM 
+
+LITROS 
+
+DEMANDA 
+ANUAL EM 
+
+LITROS 
+
+VOLUME DO 
+
+RESERVATÓRIO PELO 
+VOLUME COLETADO 
+
+VOLUME DO 
+
+RESERVATÓRIO PELA 
+
+DEMANDA (m3) 
+
+DIDÁTICA 1 
+
+314320,00 
+
+114726800,00 
+
+DIDÁTICA 2 
+
+14415,00 
+
+5261475,00 
+
+DIDÁTICA 3 
+
+331050,00 
+
+120833250,00 
+
+DIDÁTICA 4 
+
+394775,00 
+
+144092875,00 
+
+DIDÁTICA 5 
+
+329980,00 
+
+120442700,00 
+
+DIDÁTICA 6 
+
+189050,00 
+
+69003250,00 
+
+Fonte: os autores (2022). 
+
+(m3) 
+
+40,48 
+
+52,10 
+
+52,10 
+
+47,74 
+
+58,73 
+
+58,73 
+
+33,73 
+
+43,42 
+
+43,42 
+
+39,78 
+
+48,94 
+
+48,94 
+
+6883,61 
+
+315,69 
+
+7250,00 
+
+8645,57 
+
+7226,56 
+
+4140,20 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+14 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+Tabela 7 – Volume adotado do reservatório pelo método de empírico alemão. 
+
+DIDÁTICA 
+
+VOLUME DO RESERVATÓRIO ADOTADO (m3) 
+
+DIDÁTICA 1 
+
+DIDÁTICA 2 
+
+DIDÁTICA 3 
+
+DIDÁTICA 4 
+
+DIDÁTICA 5 
+
+DIDÁTICA 6 
+
+40,48 
+
+52,10 
+
+52,10 
+
+47,74 
+
+58,73 
+
+58,73 
+
+Fonte: os autores (2022). 
+
+No  que  se  refere  a  localização  dos  reservatórios,  que  serão  enterrados,  sugere-se  uma 
+
+localização próxima às didáticas, conforme mostra as Figuras 3 e 4. Entre as didáticas há espaços 
+
+vazios  ou  espaços  verdes  e,  como  os  reservatórios  serão  enterrados,  é  possível  a  instalação  dos 
+
+mesmos  nos  destaques  em  vermelho.  Os  reservatórios  enterrados  são  ideias  para  economizarem 
+
+espaço, sendo a sugestão mais adequada para UFS, em razão de ser possível manter as áreas e espaços 
+
+verdes na superfície, mesmo com a implementação destes. 
+
+ 
+
+ 
+
+Figura 3 – Localização dos reservatórios (em vermelho) das didáticas 1 e 2 (a) e didáticas 3 e 4 (b). 
+
+a 
+
+b 
+
+Did. 2 
+
+Did. 1 
+
+Did. 4 
+
+Did. 3 
+
+Fonte: Google earth, 2019. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+15 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+Figura 4 – Localização dos reservatórios das didáticas 5 e 6. 
+
+ 
+ 
+
+ 
+
+ 
+
+Did. 5 
+
+Did. 6 
+
+Fonte: Google earth, 2019. 
+
+ 
+
+Simulações econômicas com o software Netuno 
+
+A partir do auxílio do software Netuno foram estimadas as possíveis economias no consumo 
+
+e  custo  de  água,  com  a  implementação  de  um  sistema  de  aproveitamento  de  água  pluvial  para  as 
+
+didáticas da UFS. 
+
+Com dados de entrada, contidos na Tabela 8, foi estimado no software Netuno as economias 
+
+de água em relação ao consumo e valor pago em cada didática. Salienta-se que o valor da área de 
+
+captação de água pluvial de cada didática foi obtido em consulta nas plantas de cobertura dos referidos 
+
+prédios  a  partir  de  arquivos  repassados  pelo  DIPRO/UFS. Ademais,  além  desses  dados  que  são 
+
+específicos para cada didática, também foram considerados os seguintes dados para todas as didáticas: 
+
+•  Dados  de  precipitação  diários  para  realizar  as  simulações:  série  histórica  AGRITEMPO  de 
+
+2009-2019 para o município de São Cristóvão; 
+
+•  Descarte de escoamento inicial: 1 mm, usado para levar os telhados e não carregar impurezas 
+
+para os reservatórios; 
+
+•  Demanda de água: 50 l/habitante dia; 
+
+•  Substituição da demanda total por água pluvial: 40%; 
+
+•  Coeficiente de escoamento superficial: 1 mm; 
+
+•  Tarifa de água local: até 10m3 = R$ 166,07, mais de 10m3 = R$ 25,38 por m3; 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+16 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+•  Tarifa de esgoto local: 80% do valor da conta de água. 
+
+Tabela 8 - Dados de entrada do software Netuno para cada didática. 
+
+DIDÁTICA 
+
+CONTRUIBIÇÃO 
+
+CAPITA 
+
+ÁREA DE 
+
+DEMANDA PER 
+
+QUANT. TOTAL DE 
+
+PESSOAS / DIA 
+
+VOLUME DO 
+
+RESERVATÓRIO 
+
+ADOTADO (l) 
+
+DIDÁTICA 1 
+
+DIDÁTICA 2 
+
+DIDÁTICA 3 
+
+DIDÁTICA 4 
+
+DIDÁTICA 5 
+
+DIDÁTICA 6 
+
+(m2) 
+
+491,74 
+
+632,88 
+
+632,88 
+
+579,90 
+
+713,38 
+
+713,38 
+
+(L/HAB.DIA) 
+
+674667,28 
+
+868311,36 
+
+868311,36 
+
+795620,06 
+
+978757,36 
+
+978757,36 
+
+6286 
+
+288 
+
+6621 
+
+7896 
+
+6600 
+
+3781 
+
+Fonte: os autores (2022). 
+
+34000 
+
+44000 
+
+44000 
+
+40000 
+
+49000 
+
+49000 
+
+Deste modo, foi utilizado o software Netuno, onde foram inseridos os dados de entrada. Estes 
+
+dados  são  referentes  a  área  de  captação,  quantidade  de  pessoas  e  volume  de  reservatório,  foram 
+
+preenchidos unicamente para cada didática conforme as informações da Tabela 8, realizando assim, 
+
+6  simulações.  Salienta-se  que  para  os  volumes  dos  reservatórios,  foram  adotados  os  valores 
+
+arredondados, obtidos com o método empírico inglês, em razão de ter sido o menor e factível. 
+
+Em  relação  a  análise  econômica,  foram  geradas  tabelas  no  software  Netuno  para  cada 
+
+didática, cujo objetivo foi simular o potencial de atendimento da água pluvial. Assim, o sistema de 
+
+aproveitamento de água pluvial cumpre o atendimento parcial, que consiste em certos dias dos meses, 
+
+onde a água pluvial pode substituir parte da demanda de água total. Porém, não atende completamente 
+
+a substituição de 40% da demanda total de água em nenhum dia de nenhum mês, apenas parcialmente, 
+
+com exceção da didática 2, onde ocorre o atendimento total.  
+
+Este fato ocorre em razão das didáticas serem frequentadas por muitos alunos e funcionários, 
+
+diariamente, variando de 3000 até quase 8000 mil pessoas. O atendimento da didática 2 consistiu no 
+
+melhor resultado, em razão de ser a didática que mais funciona como um prédio departamental, possui 
+
+menos alunos e mais funcionários. 
+
+Nesse  sentido,  a  didática  2  como  foi  a  única,  onde  o  sistema  de  aproveitamento  de  água 
+
+pluvial pode atender completamente em certa porcentagem a substituição da demanda por água da 
+
+chuva. Ressalta-se que o cenário da mesma consiste no mais otimista. O atendimento parcial para 
+
+didática 2 variou entre 16 e 37% dos dias dos meses e, o atendimento completo entre 0 e 20%, ao 
+
+longo dos dias dos meses do ano. 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Nas  demais  didáticas,  os  cenários  foram  bastante  parecidos,  sem  atendimento  completo, 
+
+apenas  com  atendimento  parcial  variando de 14  a 52%,  ao longo  dos dias dos referidos meses. O 
+
+potencial  econômico  em  relação  ao  desconto  na  conta  de  água  também  foi  calculado,  com  o 
+
+fornecimento de dados referentes a tarifa de água e esgoto, o software Netuno estimou em reais, o 
+
+possível desconto nas contas de água, conforme mostra as Tabela 9. 
+
+Tabela 9 – Estimativas de economia para cada didática. 
+
+R$2.662,60 
+
+R$2.697,73 
+
+R$3.426,82 
+
+R$3.139,96 
+
+R$3.862,70 
+
+R$3.862,70 
+
+R$2.581,26 
+
+R$2.245,59 
+
+R$3.322,13 
+
+R$3.044,03 
+
+R$3.744,69 
+
+R$3.744,69 
+
+MÊS 
+
+DID. 1 
+
+DID. 2 
+
+R$256,06 
+
+R$329,56 
+
+R$599,69 
+
+R$771,81 
+
+R$648,46 
+
+R$834,59 
+
+R$527,40 
+
+R$782,10 
+
+R$466,11 
+
+R$599,89 
+
+R$181,21 
+
+R$233,22 
+
+R$116,86 
+
+R$150,40 
+
+R$567,69 
+
+R$708,57 
+
+R$772,58 
+
+R$955,76 
+
+R$618,68 
+
+R$856,88 
+
+Jan 
+
+Fev 
+
+Mar 
+
+Abr 
+
+Mai 
+
+Jun 
+
+Jul 
+
+Ago 
+
+Set 
+
+Out 
+
+Nov 
+
+Dez 
+
+DID. 5 
+
+R$371,48 
+
+R$869,99 
+
+R$940,74 
+
+R$765,12 
+
+R$676,19 
+
+R$262,89 
+
+R$169,53 
+
+R$823,57 
+
+DID. 6 
+
+R$371,48 
+
+R$869,99 
+
+R$940,74 
+
+R$765,12 
+
+R$676,19 
+
+R$262,89 
+
+R$169,53 
+
+R$823,57 
+
+R$1.120,80 
+
+R$1.120,80 
+
+R$897,53 
+
+R$897,53 
+
+DID. 3 
+
+R$329,56 
+
+R$771,81 
+
+R$834,59 
+
+R$678,78 
+
+R$599,89 
+
+R$233,89 
+
+R$150,40 
+
+R$730,63 
+
+R$994,33 
+
+R$796,25 
+
+DID. 4 
+
+R$301,97 
+
+R$707,20 
+
+R$764,72 
+
+R$621,96 
+
+R$549,67 
+
+R$213,70 
+
+R$137,81 
+
+R$669,47 
+
+R$911,09 
+
+R$729,59 
+
+Fonte: os autores (2022). 
+
+Total 
+Anual 
+
+R$ 
+
+R$ 
+
+R$ 
+
+R$ 
+
+R$ 
+
+R$ 
+
+9.998,60 
+
+11.166,10 
+
+12.869,08 
+
+11.791,17 
+
+14.505,23 
+
+14.505,23 
+
+Conforme  é  possível  visualizar  na  Tabela  9,  a  didática  5  e  6,  possui  o  maior  potencial 
+
+econômico (economia de R$ 14.505,23 no ano), seguida das  didáticas 3, 4, 2 e 1. Dessa  forma,  é 
+
+válido  enfatizar  que  esse  potencial  econômico  depende  de  fatores  que  são  diferentes  para  cada 
+
+didática, como a área de contribuição, demanda total do ambiente, além de fatores que são os mesmos, 
+
+como a precipitação, valor tarifário de água e esgoto, entre outros. Toda a água coletada pelo sistema 
+
+de aproveitamento de água pluvial, poderia ser utilizada nos seguintes fins: 
+
+ 
+
+ 
+
+• 
+
+Jardinagem; 
+
+•  Lavagem de pisos; 
+
+• 
+
+Irrigação; 
+
+•  Descargas. 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+18 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Como já foi informado, a fonte de água que abastece a Cidade Universitária Professor José 
+
+Aloísio de Campos advém da Companhia de Saneamento Básico de Sergipe (DESO), além de haver 
+
+poços que são utilizados para fins de jardinagem. Assim, o sistema de água da chuva poderia auxiliar 
+
+no  abastecimento,  juntamente  com  esses  poços.  É  necessário  salientar  que  no  campus  há  poucos 
+
+poços  e,  os  mesmos  estão  em  processo  de  licenciamento  e  outorga. Além  disso,  atualmente  está 
+
+havendo utilização de apenas dois poços para ocorrer jardinagem em pontos isolados do campus.  
+
+A utilização da água pluvial para descargas e lavagem de pisos é ideal, pois como toda a 
+
+Cidade Universitária Professor José Aloísio de Campos possui grandes extensão de calçadas, grande 
+
+quantidade  banheiros,  se  percebe  que  é  adequada  destinar  a  água  de  chuva  para  esses  fins.  A 
+
+implantação de uma instalação hidráulica do reservatório para o sistema de descarga dos banheiros, 
+
+possivelmente traria um grande custo-benefício pois, excluiria o consumo de água potável para este 
+
+objetivo. 
+
+No que tange a instalação dos reservatórios, seus respectivos custos foram estimados com 
+
+base no software ORSE (CEHOP, 2019). Como o mesmo já possui um banco de dados com diversos 
+
+insumos e serviços, foi utilizada o banco de dados mais recentes para averiguar diretamente o serviço 
+
+de construção de reservatório, incluindo os insumos, equipamentos e mão de obra. Nesse sentido, a 
+
+Tabela 10 mostra os valores dos reservatórios disponíveis no ORSE para suprir as necessidades das 
+
+didáticas, no que tange o sistema de aproveitamento de água pluvial.  
+
+Para  as didáticas  1, 2, 3  e 4 pode ser destinado o conjunto de reservatórios que possuem 
+
+volume superior de 18.000 litros e inferior de 27.000 litros para atender seus respectivos volumes 
+
+calculados, já para as didáticas 5 e 6 pode  ser destinado o conjunto de reservatórios que possuem 
+
+volume superior de 36.000 litros e inferior de 24.000 litros. Ambos os conjuntos adotados, já estão 
+
+englobando  os  seguintes  custos:  motor  bomba  centrífuga,  com  altura  manométrica  de  10  a  24  m; 
+
+concreto simples com fck = 25 M5 mpa; barras de aço CA – 50; formas; mão de obra; boia elétrica; 
+
+disjuntor; entre outros. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+19 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Tabela 10 – Valores dos Reservatórios. 
+
+Vol. 
+
+calculado 
+adotado 
+
+DIDÁTICA 
+
+Reservatório padrão 
+
+Valor (R$) 
+
+DIDÁTICA 1 
+
+34000 
+
+Conjunto reservatório padrão, superior 18.000 litros / inferior 27.000 litros  110.712,62 
+
+DIDÁTICA 2 
+
+44000 
+
+Conjunto reservatório padrão, superior 18.000 litros / inferior 27.000 litros  110.712,62 
+
+DIDÁTICA 3 
+
+44000 
+
+Conjunto reservatório padrão, superior 18.000 litros / inferior 27.000 litros  110.712,62 
+
+DIDÁTICA 4 
+
+40000 
+
+Conjunto reservatório padrão, superior 18.000 litros / inferior 27.000 litros  110.712,62 
+
+DIDÁTICA 5 
+
+49000 
+
+Conjunto reservatório padrão, superior 24.000 litros / inferior 36.000 litros  125.936,45 
+
+DIDÁTICA 6 
+
+49000 
+
+Conjunto reservatório padrão, superior 24.000 litros / inferior 36.000 litros  125.936,45 
+
+Fonte: ORSE, 2019, elaboração própria. 
+
+Assim,  os  respectivos  valores  atendem  os  serviços  de  instalação  e  execução  dos 
+
+reservatórios. A Tabela 11 mostra o tempo em anos, onde as economias nas contas de água irão suprir 
+
+os valores gastos com os referidos reservatórios. Ressalta-se que estes reservatórios e o sistema, ainda 
+
+devem atender a ABNT/NBR 15.527:2007 no quesito limpeza e manutenção, que consistem em: 
+
+•  Limpeza trimensal e inspeção mensal do dispositivo de descarte de detritos; 
+
+•  Limpeza mensal do dispositivo de descarte do escoamento inicial; 
+
+•  Manutenção semestral das calhas, condutores verticais e horizontais; 
+
+•  Manutenção mensal das bombas; 
+
+•  Limpeza e desinfecção anual do reservatório. 
+
+DIDÁTICA 
+
+DIDÁTICA 1 
+
+DIDÁTICA 2 
+
+DIDÁTICA 3 
+
+DIDÁTICA 4 
+
+DIDÁTICA 5 
+
+DIDÁTICA 6 
+
+Tabela 11 – Retorno financeiro para a instalação do sistema. 
+
+Valores dos conjuntos de 
+
+Economia anual com 
+
+reservatórios (R$) 
+
+instalação do sistema (R$) 
+
+Retorno financeiro (anos) 
+
+110.712,62 
+
+110.712,62 
+
+110.712,62 
+
+110.712,62 
+
+125.936,45 
+
+125.936,45 
+
+9.998,60 
+
+11.166,10 
+
+12.869,08 
+
+11.791,17 
+
+14.505,23 
+
+14.505,23 
+
+Fonte: os autores (2022). 
+
+11,1 
+
+9,9 
+
+8,6 
+
+9,4 
+
+8,7 
+
+8,7 
+
+Quanto ao retorno financeiro, este irá variar entre 8,7 e 11,1 anos, quando todos os gastos 
+
+com  as  obras  do  serviço  serão  supridos.  Levando  em  consideração  que  a  cidade  Universitária 
+
+Professor José Aloísio de Campos, consiste em uma instituição pública de ensino, onde sua atividade 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+irá  progredir  por  décadas,  é  factível  o  retorno  financeiro  com  a  instalação  do  sistema  de 
+
+aproveitamento de água pluvial. 
+
+Estes dados estão em concordância com os valores obtidos no trabalho de Cardoso (2018), 
+
+que estudou a viabilidade econômica de sistemas de aproveitamento de água pluvial em edificações 
+
+da  Universidade  Federal  do  Pará.  Neste  caso,  o  tempo  de  retorno  do  investimento,  também  foi 
+
+estimado  em  cerca  de  10  anos,  assim  como  nas  didáticas  da  UFS.  No  que  tange  a  economia  em 
+
+residências unifamiliares, Chaib et al. (2015) apontam que em estudo no município de Belo Horizonte, 
+
+o retorno financeiro chega a mais de 16 anos, em razão de fatores de precipitação e demanda de água 
+
+total influenciarem nesse potencial. 
+
+Por conseguinte, se percebe que o sistema de aproveitamento é de grande utilidade e possui 
+
+significativa importância e retorno financeiro em universidades e instituições de ensino. Assim, esse 
+
+sistema é útil na prevenção de problemas de alagamentos e escassez de água que podem ocorrer em 
+
+campus  universitários,  dando  melhor  destino  para  as  águas  da  chuva,  se  tornando  uma  solução 
+
+ambientalmente viável. 
+
+Deste modo, a captação de água pluvial pode atender a demandas sustentáveis da atualidade, 
+
+que buscam viabilidade social, ambiental e econômica. Assim, a Cidade Universitária Professor José 
+
+Aloísio de Campos poderia se tornar um campus que venha a usufruir de tecnologias sustentáveis, se 
+
+tornando um modelo para adoção de técnicas com este viés. 
+
+ 
+
+CONSIDERAÇÕES FINAIS 
+
+Diante do exposto, se pode concluir que o sistema de aproveitamento de água de chuva para 
+
+a Cidade Universitária Professor José Aloísio de Campos, consiste em uma tecnologia viável, na qual, 
+
+com  a  instalação  desse  sistema  ambientalmente  adequado,  se  pode  armazenar  uma  quantidade 
+
+considerável  de  água.  Além  disso,  alguns  órgãos  públicos  já  possuem  projetos  envolvendo  a 
+
+utilização  de  água  pluvial,  tornando  o  sistema  uma  técnica  bastante  promissora  para  as  gerações 
+
+futuras. 
+
+No  que  se  refere  a  economia  do  sistema,  percebe-se  que  há  um  relevante  potencial  para 
+
+reduzir o consumo de água potável, no âmbito  da UFS, para suprir demandas não potáveis  com  a 
+
+utilização de reservatórios de água pluvial, deixando em evidência a otimização do uso de recursos 
+
+hídricos  em  órgãos  públicos. A  captação  de  água  de  chuva  pode  proporcionar  uma  economia  que 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+21 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+levará em torno de uma década para ocorrer um payback. Nessa conjuntura, considerando o aumento 
+
+populacional  da  UFS  e  sua  prevalência  como  instituição  de  ensino  por  anos,  esse  retorno 
+
+possivelmente será alcançado de forma real. 
+
+Seguindo o raciocínio que vem sendo difundido ao longo dos últimos anos, as tecnologias 
+
+de drenagem sustentável, envolvendo os manuais de boas práticas, que englobam o aproveitamento 
+
+da  água  de  chuva,  atendem  a  viabilidade  econômica,  social  e  ambiental,  comprovando  que  são 
+
+tecnologias sustentáveis. Para promover mais essa prática que consiste no aproveitamento de água de 
+
+chuva, é válido ressaltar a legislação federal, que inclui essa técnica como um dos objetivos da Política 
+
+Nacional  de  Recursos  Hídricos,  é  responsável  por  promover  a  implementação  deste  sistema  em 
+
+edificações, que envolvem os órgãos públicos.  
+
+Nesta  perspectiva,  além  da  legislação  federal,  diversos  estados  já  possuem  legislação 
+
+estadual específica para incentivar a implementação da referida tecnologia em edificações de órgãos 
+
+públicos, difundindo também em âmbitos estaduais o sistema. Portanto, alinhando a água do sistema 
+
+de  aproveitamento  de  água  pluvial  com  os  usos  não  nobres,  essa  convergência  pode  auxiliar  no 
+
+combate à crise hídrica, bem como trazer um payback em um prazo que pode ser curto, dependendo 
+
+do projeto. 
+
+ 
+
+REFERÊNCIAS BIBLIOGRÁFICAS 
+
+ABNT - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 15.527: Água de chuva - 
+Aproveitamento de coberturas em áreas urbanas para fins não potáveis. Rio de Janeiro, 2007. 
+
+em: 
+AGRITEMPO. 
+<https://www.agritempo.gov.br/agritempo/jsp/Grafico/index.jsp?siglaUF=SE>. Acesso em: jul. 2019. 
+
+de  Monitoramento  Agrometeorológico.  Disponível 
+
+Sistema 
+
+APOLLARO,  C.; ALVIM, A.  B.  Planejamento  urbano  para  a  adaptação  de  cidades  frente  à 
+mudança climática – Uma análise sobre o Plano Diretor Estratégico do Município de São Paulo. 
+Thésis. Rio de Janeiro, v. 2, n. 4, pp. 118-137. 2017.  
+
+CARDOSO, R. N. C. Viabilidade econômica de sistemas de captação de água da chuva para fins 
+não  potáveis  em  dois  prédios  da  Universidade  Federal  do  Pará.  Dissertação  (Mestrado)  – 
+Universidade Federal do Pará. Instituto de Tecnologia. Programa de Pós-Graduação em Engenharia 
+Civil, Belém, 2018. 
+
+CEHOP – Companhia Estadual de Habitação e Obras Públicas. ORSE - Orçamento de Obras de 
+Sergipe. Disponível em:  <http://orse.cehop.se.gov.br/>. Acesso em: jul. 2019. 
+
+CHAIB, E. B.; RODRIGUES, F. C.; MAIA, B. H.; NASCIMENTO, N. O. Avaliação do potencial de 
+redução do consumo de água potável por meio da implantação de sistemas de aproveitamento de água 
+de chuva em edificações unifamiliares. Revista Brasileira de Recursos Hídricos. Vol. 20, n. 3, Porto 
+Alegre, jul./set. 2015, p. 605 – 614. 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+22 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+CLIMATE-DATA. Clima São Cristóvão. Disponível em: < https://pt.climate-data.org/america-do-
+sul/brasil/sergipe/sao-cristovao-42963/ >. Acesso em jul. 2019. 
+
+CREDER,  H.  Instalações  Hidráulicas  e  Sanitárias.  Editora  Livros  Técnicos  e  Científicos  S. A. 
+(LTC), 6° Edição Edição, 423p, 2006. 
+
+DESO  –  Companhia  de  Saneamento  de  Sergipe.  Quadro  Tarifário  de  2019.  Disponível  em:    < 
+https://www.deso-se.com.br/v2/index.php/clientes/quadro-tarifario>. Acesso em: jul. 2019. 
+
+FLORIANÓPOLIS. Prefeitura de Florianópolis. Secretaria municipal de saúde. Orientação técnica: 
+cálculo do consumo diário de água e de contribuição de esgoto. Florianópolis, 2016. 
+
+FRIEDE, Reis. Aumento populacional e degradação ambiental: A conta que não quer fechar. Revista 
+Augustus, Rio de Janeiro, v. 25, n. 52, p. 82-93, nov. 2020/fev. 
+
+GHISI, E.; CORDOVA, M. M. Netuno 4. Programa computacional. Universidade Federal de Santa 
+Catarina, Departamento de Engenharia Civil. Disponível em: <http://www.labeee.ufsc.br/>. 2014. 
+
+GHISI,  E.;  TRÉS, A.  C.  R.  Netuno  – Aproveitamento  de  águas  pluviais  no  setor  residencial. 
+Disponível em: <www.labeee.ufsc.br>. Programa computacional, 2004. 
+
+GLEICK, P. The human right to water. Instituto do Pacífico para Estudos para o Desenvolvimento, 
+Meio Ambiente e Segurança. Política de Água, vol 1 pag 487-503. 1999. 
+
+GONÇALVES, R. F. (Coord.) Conservação de água e energia em sistemas prediais e públicos de 
+abastecimento de água. Rio de Janeiro: ABES, 2009. v. 1. 290 p. 
+
+HELLER,  L;  PÁDUA,  W.  L.  Abastecimento  de  água  para  consumo  humano.  Belo  Horizonte: 
+UFMG, 2006. p.859. 
+
+LOURENÇO, R. Sistemas Urbanos de Drenagem Sustentáveis. 2014. 164 f. Dissertação (Mestrado) 
+- Curso de Engenharia Civil, Instituto Superior de Engenharia de Coimbra, Coimbra, 2014. 
+
+OHCHR; UN-HABITAT; WHO. The Right to Water - Fact Sheet No. 35. Geneva. Office of the 
+United Nations High Commissioner for Human Rights, United Nations Office, 2010. 
+
+PERIUS, C. F.; TASSI, R.; LAMBERTI, L. A.; SILVA, A. G.; BÖCK, L. E. Influence of rainfall and 
+design  criteria  on  performance  of  rainwater  harvesting  systems  placed  in  different  Brazilian 
+climatological  conditions.  Revista  Brasileira  de  Recursos  Hídricos,  Brazilian  Journal  of  Water 
+Resources. RBRH, Porto Alegre, v. 26, e33, 2021. 
+
+SALOMÃO, P. E. A.; ALMEIDA, T. G.; RHIS, A. R.; COELHO, S. S. F. Reaproveitamento de água 
+pluvial:  estudo  de  caso  na  Universidade  Presidente Antônio  Carlos-Teófilo  Otoni-MG.  Research, 
+Society and Development. 8(5), 32. 2019. 
+
+SANTOS, R. F. Planejamento ambiental: teoria e prática. São Paulo: Oficina de Texto. 194p. 2004. 
+
+SANTOS, P. S.; SANTOS, M. E. G.; SANTOS, R. Uso e ocupação do solo: reflexão sobre impacto 
+ambiental. Agri-environmental sciences, 7(1), 10. 2021. 
+
+Rodrigues Júnior; Santos; Rocha, 2023 
+
+ISSN 0104-5490 
+
+23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

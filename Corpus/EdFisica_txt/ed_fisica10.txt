@@ -1,0 +1,828 @@
+Efeitos do treinamento funcional sobre a capacidade funcional 
+de cardiopatas isquêmicos
+
+https://doi.org/10.11606/issn.1981-4690.2023e37195223
+
+Thalía Petry* 
+Deivid Ribeiro Rodrigues*
+Igor Martins Barbosa*
+Josi Mara Saraiva de Oliveira**
+Leandro Tolfo Franzoni***
+Daniela Lopes dos Santos*
+
+*Centro de Educação 
+Física e Desportos, 
+Universidade Federal 
+de Santa Maria, Santa 
+Maria, RS, Brasil.
+**Hospital Universitário 
+de Santa Maria, Santa 
+Maria, RS, Brasil.
+***Universidade 
+Federal do Rio Grande 
+do Sul, Porto Alegre, 
+RS, Brasil.
+
+Resumo
+
+O objetivo do presente estudo foi investigar os efeitos do treinamento funcional (TF) na capacidade 
+funcional (CF) de pacientes de um programa de reabilitação cardíaca (PRC) fase 3. A amostra foi 
+composta por 13 pacientes de ambos os sexos, com idade entre 54 e 81 anos, que obtiveram 
+progressão da fase 2 para a fase 3 em um PRC da cidade de Santa Maria/RS. O TF ocorreu 2 vezes 
+por semana (45 minutos cada sessão) e possuiu duração total de 6 meses (48 sessões), com cada 
+sessão contendo uma parte de aquecimento (5 minutos de caminhada), exercícios funcionais (3 
+séries de 6 a 7 exercícios, dispostos de forma circular) e desaquecimento (5 minutos de exercícios 
+de flexibilidade e relaxamento). Para as avaliações, foram aplicados os testes Shuttle Run, Tandem 
+Walk Test e o Teste de Caminhada de 6 Minutos, antes do início e após as 48 sessões de TF. Após 
+as reavaliações, foi observado um aumento significativo no desempenho do teste Shuttle Run, 
+enquanto nos testes Tandem Walk Test e Teste de Caminhada de 6 Minutos houve a manutenção 
+do desempenho. É possível concluir que o TF pode promover o incremento da CF de pacientes 
+cardiopatas por meio do aumento da agilidade, assim como manter os níveis de equilíbrio dinâmico 
+e resistência aeróbica. 
+
+Palavras-chave: Exercício físico; Desempenho físico funcional; Doenças cardiovasculares; Reabilitação 
+cardíaca.
+
+Introdução
+
+A  mortalidade  por  doenças  cardiovasculares 
+(DCVs), em 2016, representou cerca de 31% de 
+todas  as  mortes  a  nível  global,  totalizando  cerca 
+de 17,9 milhões de pessoas, sendo considerada a 
+principal causa de morte no mundo1. Quando o 
+indivíduo não vai a óbito pode sofrer com invalidez 
+e/ou incapacidades físicas, o que é evidenciado pela 
+redução da força e resistência muscular, agilidade, 
+equilíbrio  e  aptidão  cardiorrespiratória,  o  que 
+compromete a capacidade funcional (CF)2.
+
+O estilo de vida pouco saudável como, por exemplo, 
+
+a presença de hábitos alimentares inadequados e o 
+sedentarismo  favorece  o  desencadeamento  de 
+eventos cardiovasculares adversos1. Sendo assim, é 
+importante a adoção de estratégias de tratamento 
+que  visem  estabilizar  ou  até  mesmo  reverter  o 
+quadro clínico e físico do paciente1-4. Dessa forma, 
+os programas de reabilitação cardiovascular (PRC), 
+com  atendimento  multiprofissional  e  baseados 
+no  exercício  físico,  buscam  reabilitar  de  forma 
+integral o paciente, de modo a promover mudanças 
+visando a adesão de hábitos saudáveis, o que auxilia 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195223  •  1
+
+no controle de fatores de risco e na melhora da 
+qualidade de vida2.
+
+Geralmente, os PRC são divididos em 4 fases. 
+A fase 1 ocorre com o paciente ainda internado, é 
+caracterizada pela realização de exercícios de baixa 
+intensidade e tem como objetivo preparar o paciente 
+para a alta hospitalar, com um condicionamento 
+físico  e  psicológico  adequado.  A  fase  2  acontece 
+logo após a alta e possui duração de 3 a 6 meses, a 
+qual visa contribuir para o mais breve retorno do 
+paciente às suas atividades sociais e laborais, nas 
+melhores condições físicas e emocionais possíveis. 
+Já a fase 3 possui duração de 6 a 24 meses e busca 
+a melhora do condicionamento físico do paciente, 
+promoção de ações para melhorar a qualidade de vida 
+e conscientização sobre hábitos saudáveis e controle 
+dos fatores de risco. Por fim, a fase 4 não tem prazo 
+estabelecido e também baseia-se na manutenção e 
+melhoria da aptidão física, porém não é necessário 
+que esta seja supervisionada2,3.
+
+Os PRC, comumente, envolvem o treinamento 
+aeróbio,  treinamento  de  força  ou  a  combinação 
+entre  eles  (i.e.  treinamento  combinado),  o  qual 
+auxilia na melhora da condição clínica e física, e 
+favorece  o  aumento  da  CF2,4.  Por  outro  lado,  o 
+treinamento funcional (TF) é uma modalidade que 
+tem ganhado espaço por praticantes de exercícios 
+físicos e apresenta como base o desenvolvimento das 
+capacidades físicas de forma integrada, auxiliando 
+no incremento da força, resistência cardiovascular, 
+flexibilidade,  coordenação  motora,  lateralidade 
+e equilíbrio, por meio da realização de exercícios 
+multiarticulares, semelhantes as atividades de vida 
+diária5,6. No entanto, ainda são escassos os estudos 
+que avaliaram os efeitos do TF na CF de pacientes 
+inseridos em um PRC fase 3. Diante dessa lacuna 
+na literatura, o objetivo deste estudo é investigar os 
+efeitos do TF na CF de pacientes de um PRC fase 3. 
+Como hipótese do estudo, espera-se que os pacientes 
+demonstrem maior CF após as 48 sessões de TF.
+
+Método
+
+Desenho, População e Amostra
+
+Avaliação da Capacidade Funcional
+
+Estudo  longitudinal  comparativo  quasi-
+experimental. Desse modo, cada paciente serve 
+como  seu  próprio  controle  ao  se  avaliar  os 
+efeitos  da  intervenção  proposta7.  As  avaliações 
+ocorreram antes e após 48 sessões (6 meses) de 
+TF em um PRC fase 3, que foram realizadas pela 
+profissional de educação física responsável por 
+aplicar a intervenção.
+
+A  população  deste  estudo  foi  composta 
+por  pacientes  da  fase  3  do  PRC  chamado 
+REVICARDIO,  do  Hospital  Universitário  de 
+Santa  Maria  (HUSM),  entre  os  anos  de  2016 
+e  2019.  Foram  inseridos  pacientes  de  ambos 
+os  sexos,  com  idade  entre  54  e  81  anos,  que 
+possuíam  diferentes  doenças  cardiovasculares 
+e/ou  que  passaram  por  algum  procedimento 
+cirúrgico  e  que  progrediram  da  fase  2  para  a 
+fase  3  do  referido  programa.  Além  disso,  os 
+pacientes  deviam  estar  aptos  para  a  prática  de 
+exercícios  físicos,  o  qual  foi  determinado  pelo 
+médico cardiologista responsável pelo paciente. 
+Os  critérios  de  exclusão  envolveram  alguma 
+intercorrência  clínica  que  impossibilitasse  os 
+pacientes  de  continuar  no  PRC  e  não  realizar 
+todos os testes físicos.
+
+Shuttle Run Test
+
+A agilidade foi avaliada por meio do teste Shuttle 
+Run, que se baseia em uma demarcação de duas 
+linhas com distância de 9,14 metros entre si. O 
+paciente foi posicionado na primeira linha e foi 
+instruído  a  aguardar  o  sinal  sonoro  para  então 
+se deslocar o mais rápido possível até a segunda 
+linha, onde se encontravam dois blocos de madeira. 
+Ele deveria ultrapassar a segunda linha com pelo 
+menos um dos pés, pegar apenas um bloco e leva-
+lo até o ponto de partida, depositando-o atrás da 
+linha demarcatória e partir novamente em busca 
+do segundo bloco, sem interromper a corrida. Ao 
+depositar o segundo bloco atrás da primeira linha 
+demarcatória,  o  cronômetro  foi  parado.  Foram 
+realizadas 2 tentativas, com intervalo mínimo de 
+2 minutos entre elas e considerado somente aquela 
+com o melhor tempo de desempenho8,9.
+
+Tandem Walk Test
+
+Para  a  avaliação  do  equilíbrio  dinâmico,  foi 
+utilizado  o  teste  Tandem Walk.  Foi  realizada 
+uma  caminhada  de  6,10  metros  em  linha  reta, 
+
+2  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195223
+
+onde  os  pacientes  foram  instruídos  a  percorre-la 
+de  modo  que  o  calcâneo  do  pé  não  dominante 
+ficasse à frente dos dedos do outro pé, mantendo-
+os  rigorosamente  alinhado  (um  pé  na  frente  do 
+outro). Foram registrados o tempo dispendido pelo 
+percurso e a quantidade de desiquilíbrios ocorridos 
+durante a tentativa de alinhamento dos pés e, caso 
+o paciente desse qualquer passo sem a manutenção 
+e padronização da marcha Tandem, o teste foi então 
+deveria  ser  reiniciado.  Para  melhor  compreensão 
+do teste, foi demarcada a trajetória no chão da sala 
+de  treinamento  com  uma  fita  branca10,11.  Foram 
+realizadas  2  tentativas  com  intervalo  mínimo  de 
+2 minutos entre cada uma delas, sendo registrado 
+o melhor desempenho, determinado pelo tempo 
+necessário  para  o  paciente  completar  o  teste  e  o 
+número de desequilíbrios fora da linha.
+
+Teste de Caminhada de 6 minutos (TC6)
+
+O Teste  de  Caminhada  de  6  Minutos  (TC6) 
+avalia a resistência aeróbica do indivíduo e/ou a 
+habilidade do mesmo em realizar as tarefas naturais 
+do cotidiano12,13. Foi realizado em um corredor reto 
+e plano, sem circulação de pessoas, com distância 
+de  30  metros  de  comprimento  e  demarcado  a 
+cada  3  metros  (sinalizados  com  um  cone).  Os 
+pacientes  foram  orientados  a  caminhar  o  mais 
+rápido possível no percurso e o teste invalidado 
+caso o paciente corresse ou caminhasse por outro 
+percurso  diferente  ao  predeterminado.  Após  o 
+término do tempo, o avaliador ordenou a parada 
+e os pacientes permaneceram no local, para que 
+fosse medida a distância percorrida, com o auxílio 
+de uma fita métrica. Foi realizada uma tentativa e 
+o desempenho foi determinado pela distância (em 
+metros) ao final de 6 minutos.
+
+Treinamento Funcional
+
+Após a aplicação dos testes iniciais, os pacientes 
+foram submetidos ao TF 2 vezes por semana (45 
+minutos cada aula), durante 6 meses (48 sessões). 
+O  treinamento  iniciava  com  um  aquecimento 
+composto por 5 minutos de caminhada, seguido 
+da  parte  principal,  com  duração  total  de  35 
+minutos,  que  consistia  em  3  séries  de  6  a  7 
+exercícios  funcionais  e  multiplanares,  dispostos 
+de  forma  circular.  Os  exercícios  abrangiam 
+membros  inferiores,  superiores  e  core,  a  partir 
+de  movimentos  básicos  como  agachar,  puxar, 
+empurrar  e  correr,  além  de  alguns  exercícios 
+
+localizados por articulação. Cada exercício tinha 
+duração  de  1  minuto  e  o  mínimo  de  intervalo 
+entre  eles.  Ao  final  de  cada  série,  foi  realizado 
+um  descanso  ativo,  por  meio  de  caminhada 
+leve  com  2  minutos  de  duração.  A  intensidade 
+do  treinamento  foi  controlada  pela  Escala  de 
+Percepção do Esforço (6-20) proposta por Borg14, 
+seguindo-se  as  recomendações  da  Diretriz  Sul-
+Americana de Reabilitação Cardiovascular2, sendo 
+mantida uma pontuação entre 12 e 14 na escala, 
+o que é equivalente a uma intensidade moderada-
+levemente  forte.  Por  fim,  após  o  término  da 
+parte  principal,  foram  realizados  exercícios  de 
+flexibilidade e relaxamento de forma dinâmica e 
+estática para as regiões corporais exercitadas, com 
+duração  de  20  a  30  segundos  cada  exercício  e 
+duração total de 5 minutos. Os materiais utilizados 
+na  sessão  incluíram  halteres  de  1  a  3kg,  bolas, 
+colchonetes, cones, corda, thera band, entre outros.
+As  sessões  de  TF  foram  supervisionadas, 
+sendo  levado  em  consideração  as  limitações  ou 
+comorbidades  de  cada  paciente,  adaptando-se 
+os exercícios quando necessário. Também foram 
+respeitados os limites de segurança estabelecidos 
+pelo médico, de acordo com o quadro clínico de 
+cada paciente2.
+
+Procedimentos Estatísticos
+
+Os dados coletados foram tabulados e analisados 
+utilizando-se o software SPSS (Statistical Package 
+for the Social Sciences) versão 22.0. Inicialmente 
+foi  realizada  estatística  descritiva,  por  meio  de 
+médias  e  desvios-padrão.  A  normalidade  na 
+distribuição  dos  dados  foi  verificada  através  do 
+teste de Shapiro-Wilk. Para as comparações entre 
+momentos, aplicou-se o teste “t” de Student para 
+amostras pareadas. Foi estabelecido um nível de 
+significância de 5% para todos os testes.
+
+Aspectos Éticos
+
+O estudo foi aprovado pelo Comitê de Ética 
+e Pesquisa com Seres Humanos da Universidade 
+Federal  de  Santa  Maria  sob  protocolo  n. 
+33144920.0.0000.5346 e seguiu-se os preceitos 
+éticos da Declaração de Helsinki e da Resolução 
+466/12 do Ministério da Saúde. Antes de iniciar 
+o estudo, todos os pacientes assinaram o Termo 
+de  Consentimento  Livre  e  Esclarecido  e  foi 
+assegurado por parte dos pesquisadores o sigilo 
+da identidade dos pacientes.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195223  •  3
+
+Resultados
+
+As  informações  clínicas  e  demográficas  estão 
+disponíveis na TABELA 1. A amostra foi composta 
+por 13 pacientes, que possuíam idade média de 60,85 
+± 8,65 anos. Os pacientes haviam sido submetidos à 
+
+cirurgia de revascularização do miocárdio (46,1%), 
+angioplastia  transluminal  coronária  percutânea 
+(46,1%), troca valvular (7,7%) e parte deles sofreram 
+de infarto agudo do miocárdio (61,5%).
+
+TABELA 1 - Caracterização dos participantes do programa de reabilitação cardíaca.
+
+Média ± desvio padrão
+
+IMC: índice de massa 
+corporal; 
+DTC6M: distância 
+percorrida no teste 
+de caminhada de 6 
+minutos; 
+METs: metabolic 
+equivalente task; 
+DPOC: doença 
+pulmonar obstrutiva 
+crônica; 
+CRM: cirurgia de 
+revascularização do 
+miocárdio.
+
+ Características
+
+ N
+ Feminino n (%)
+ Idade (anos)
+
+ Massa corporal (kg)
+
+ Estatura (cm)
+
+ IMC
+
+ METs
+
+ DTC6M (metros)
+
+ Fração de ejeção em %
+
+ Comorbidades
+
+ Hipertensão n (%)
+
+ Diabetes n (%) 
+
+ Dislipidemia n (%)
+
+ Fibrilação atrial n (%)
+
+ Infarto agudo do miocárdio n (%)
+
+ Doença arterial coronariana n (%)
+
+ Síndrome coronariana aguda n (%)
+
+ Insuficiência renal n (%)
+
+ Doença arterial periférica n (%)
+
+ Fumantes n (%)
+
+ Ex-fumantes n (%)
+
+ Etilista n (%)
+
+ Ex-etilista n (%)
+
+ Técnicas cirúrgicas
+
+ Cateterismo n (%)
+
+ Angioplastia n (%)
+
+ CRM n (%)
+
+ Troca valvular n (%)
+
+ Medicamentos
+
+ Betabloqueador n (%)
+
+ Estatina n (%)
+
+ Diurético n (%)
+
+ T4 n (%)
+
+ Antidiabético n (%)
+
+ Insulina n (%)
+
+ Ansiolítico n (%)
+ Antidepressivo n (%)
+
+ Broncodilatador n (%)
+
+ Antiagregante plaquetário n (%)
+
+ Anti-hipertensivo n (%)
+
+ Antiarrítmico n (%) 
+
+13
+
+2 (15%)
+
+60,85 ± 8,65
+
+79,65 ± 9,90
+
+169 ± 06
+
+28 ± 2,7
+
+483 ± 49
+
+10,33 ± 2,46
+
+60 ± 7
+
+9 (69,2%)
+
+3 (23%)
+
+7 (53,8%)
+
+1 (7,7%)
+
+8 (61,5%)
+
+4 (30,7%)
+
+1 (4,7%)
+
+1 (7,7%)
+
+1 (7,7%)
+
+0 (0)
+
+5 (38,4%)
+
+0 (0)
+
+2 (15,3%)
+
+12 (92,3%)
+
+6 (46,1%)
+
+6 (46,1%)
+
+1 (7,7%)
+
+9 (69,2%)
+
+11 (84,6%)
+
+12 (92,3%)
+
+2 (15,3%)
+
+10 (76,9%)
+
+5 (38,4%)
+
+2 (15,3%)
+
+2 (15,3%)
+
+1 (7,7%)
+
+2 (15,3%)
+4 (30,7%)
+
+1 (7,7%)
+
+4  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195223
+
+A  partir  das  avaliações  funcionais  realizadas 
+nos sujeitos no início e ao final das 48 sessões 
+de TF, observou-se uma melhora significativa da 
+agilidade após as 48 sessões de TF (P = 0,007) 
+
+(FIGURA 1). No entanto, não houve diferença 
+significativa  no  desempenho  de  equilíbrio 
+dinâmico (P = 0,255) (FIGURA 2) e resistência 
+aeróbica (P = 0,241) (FIGURA 3).
+
+FIGURA 1 - Resultados do Shuttle Run Test pré e pós Treinamento Funcional.
+
+FIGURA 2 - Resultados do Tandem Walk Test pré e pós Treinamento Funcional.
+
+Nota: 
+Pré: representa as 
+avaliações antes do 
+início do programa 
+de treinamento 
+físico funcional; 
+Pós: representa as 
+avaliações após o 
+término do programa 
+de treinamento físico 
+funcional; 
+* indica diferença 
+estatisticamente 
+significativa entre o 
+período pré e pós 
+intervenção.
+
+Nota: 
+Pré: representa as 
+avaliações antes do 
+início do programa 
+de treinamento 
+físico funcional; 
+Pós: representa as 
+avaliações após o 
+término do programa 
+de treinamento físico 
+funcional.
+
+Nota: 
+Pré: representa as 
+avaliações antes do 
+início do programa 
+de treinamento 
+físico funcional; 
+Pós: representa as 
+avaliações após o 
+término do programa 
+de treinamento físico 
+funcional.
+
+FIGURA 3 - Resultados da Distância no Teste de Caminhada de 6 Minutos pré e pós Treinamento Funcional.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195223  •  5
+
+Discussão
+
+O presente estudo buscou investigar os efeitos 
+do TF na CF de pacientes de um PRC fase 3, por 
+meio da avaliação da agilidade, equilíbrio dinâmico 
+e resistência aeróbica. A CF é um forte preditor 
+de  mortalidade  e  está  relacionado  a  capacidade 
+do  indivíduo  em  realizar  as  atividades  de  vida 
+diária,  aspecto  importante  para  se  ter  uma  vida 
+independente15,16. Com isso, o aumento da agilidade 
+encontrado após 6 meses de TF pode ser considerado 
+um resultado relevante, visto que é uma capacidade 
+física  determinante  para  a  CF  de  um  indivíduo 
+e,  consequentemente,  na  realização  das  AVDs. 
+Entretanto, contrapondo a hipótese preestabelecida, 
+houve a manutenção no desempenho de equilíbrio 
+dinâmico e da resistência aeróbica.
+
+Estudos similares corroboram com os resultados 
+de  desempenho  da  agilidade  e  divergem  com  os 
+resultados de desempenho de equilíbrio e resistência 
+aeróbica do presente estudo. O estudo de Santos 
+et al.17 buscou analisar os efeitos de 14 semanas de 
+TF sobre a funcionalidade de 25 idosas ativas. A 
+amostra foi dividida em grupo TF (n = 15; idade 
+= 65,4 ± 5,8 anos) e grupo controle (n = 10; idade 
+= 66,1 ± 6,4 anos). As intervenções ocorreram em 
+uma frequência de 3 vezes por semana, totalizando 
+36  sessões.  O  grupo TF  foi  submetido  a  sessões 
+de TF  com  duração  de  aproximadamente  45 
+minutos e divididas em 4 partes: 3 a 5 exercícios 
+de mobilidade articular e ativação muscular, para 
+fins de aquecimento; 3 séries de 5 exercícios em 
+circuito, visando agilidade, coordenação motora e 
+potência muscular; 2 séries de 8 exercícios de força 
+em circuito, com ênfase nas AVD’s; e 5 minutos 
+de  exercícios  cardiometabólicos.  A  intensidade 
+foi  controlada  por  meio  da  escala  OMNI-GSE, 
+mantendo-se uma pontuação de 6 a 7 pontos na 
+escala, equivalente a um nível moderado à intenso. 
+Já  o  grupo  controle,  foi  submetido  a  sessões 
+de  alongamento  ativo  e  passivo,  com  a  mesma 
+frequência e duração das sessões de TF. A agilidade 
+e equilíbrio dinâmico foram avaliados pela aplicação 
+do teste Timed Up and Go (TUG) e a resistência 
+aeróbica por meio do TC6. Após as reavaliações, foi 
+observado um aumento significativo de desempenho 
+do teste TUG (pré = 5,20 ± 0,62 vs pós = 4,97 ± 
+0,46) e TC6 (pré = 550,19 ± 48,11 vs pós = 597,91 ± 
+41,73), evidenciando a melhora da agilidade, equilíbrio 
+dinâmico e resistência aeróbica das participantes.
+
+Assim como Santos et al.17, Resende-Neto et 
+al.18 comparou os efeitos de 8 e 12 semanas (24 
+
+e 36 sessões totais) de TF e treinamento de força 
+tradicional (TT) na CF de 25 idosas sedentárias. A 
+amostra foi dividida em grupo TF (n = 13; idade = 
+64,8 ± 4,6 anos) e grupo TT (n = 12; idade = 66,0 
+± 5,5 anos). As sessões de treinamento ocorriam 3 
+vezes semanais, com 60 minutos de duração cada 
+sessão. As sessões do grupo TF eram divididas em 
+4  partes:  5  minutos  de  exercícios  de  mobilidade 
+articular;  15  minutos  de  exercícios  em  circuito, 
+visando  a  melhoria  da  agilidade,  coordenação, 
+potência  e  velocidade;  25  minutos  de  exercícios 
+multiarticulares  em  circuito;  e  5  minutos  de 
+exercícios intermitentes de alta intensidade. Já as 
+sessões do grupo TT também foram divididas em 
+4  partes:  5  minutos  de  exercícios  de  mobilidade 
+articular;  15  minutos  de  exercícios  em  circuito, 
+visando  a  melhoria  da  agilidade,  coordenação, 
+resistência  muscular  e  aeróbica;  25  minutos  de 
+exercícios de força, realizados em máquinas e em 
+formato  de  circuito;  e  5  minutos  de  exercícios 
+intermitentes de alta intensidade. A intensidade das 
+intervenções, em ambos os grupos, foi controlada 
+pela aplicação da escala OMNI-GSE, sendo que 
+os  participantes  foram  orientados  a  manterem 
+uma pontuação de 6 a 9 (moderado a intenso). O 
+desempenho da agilidade e equilíbrio foi avaliado 
+por  meio  do  teste TUG,  enquanto  a  resistência 
+aeróbica  foi  avaliada  pelo TC6.  Comparado  ao 
+momento  pré-intervenção,  foi  observado  um 
+aumento  da  agilidade  e  equilíbrio  em  ambos  os 
+grupos após 8 e 12 semanas, além da resistência 
+aeróbica apenas no grupo TF após 8 semanas, e em 
+ambos os grupos após 12 semanas. Já na comparação 
+entre os grupos, o TF foi superior ao TT, resultado 
+de  um  aumento  de  todas  as  capacidades  físicas 
+avaliadas após 8 e 12 semanas.
+
+Da  mesma  forma,  Resende-Neto  et  al.19, 
+avaliaram  a  influência  de  12  semanas  de TF  na 
+agilidade, equilíbrio dinâmico e resistência aeróbica 
+de idosas ativas. A amostra foi dividida em grupo 
+TF (n = 16; idade = 67,1 ± 3,7 anos) e grupo TT 
+(n = 14; 63,9 ± 4,7 anos). Em ambos os grupos, as 
+sessões ocorreram 3 vezes por semana, com duração 
+de 50 minutos cada sessão, ao qual foi composta por 
+10 exercícios e 2 séries de 10 a 15 repetições por 
+exercício. A intensidade foi controlada por meio 
+da  escala  de  Borg,  mantendo-se  uma  pontuação 
+de  7  a  8  (intensa/muito  intensa).  As  sessões  de 
+TF  incluíram  10  minutos  de  aquecimento,  com 
+exercícios de agilidade e coordenação; 30 minutos 
+
+6  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195223
+
+de exercícios funcionais para membros inferiores, 
+superiores  e  tronco;  e  10  minutos  de  exercícios 
+de  alongamento  submáximos  para  as  principais 
+partes do corpo. Já as sessões de TT envolveram 
+10  minutos  de  aquecimento,  com  caminhada 
+contínua  ou  ginástica  aeróbica;  30  minutos  de 
+exercícios  localizados  para  membros  inferiores 
+e  superiores;  e  10  minutos  de  exercícios  de 
+alongamento  submáximos,  semelhantes  a  sessão 
+de TF. A agilidade e o equilíbrio dinâmico foram 
+avaliados pela aplicação do teste TUG, enquanto 
+a  resistência  aeróbica  foi  avaliada  pelo TC6. 
+Comparado ao momento pré-intervenção, apenas 
+no grupo TF houve um aumento significativo da 
+agilidade  e  equilíbrio,  e  da  resistência  aeróbica 
+após as 12 semanas de treinamento. Além disso, 
+após as reavaliações, foi observada uma diferença 
+significativa entre os grupos (TF = 22% vs TT = 
+3,3%)  no  desempenho  da  agilidade  e  equilíbrio 
+dinâmico.  Esses  achados  se  tornam  importantes 
+em virtude de o TF demonstrar mais ganhos que 
+o TT, podendo ser considerado uma boa estratégia 
+de aplicação em um PRC.
+
+Algumas  hipóteses  buscam  explicar  os  efeitos 
+promovidos pelo TF em diversos componentes da 
+aptidão física, e consequentemente na CF. Assim 
+como o TT, o TF pode contribuir para o aumento 
+da força máxima, potência e resistência muscular, 
+agilidade,  equilíbrio  e  melhora  da  composição 
+corporal18. O aspecto dinâmico, devido a estruturação 
+das sessões de TF, em formato de circuito, assim 
+como o recrutamento de músculos estabilizadores 
+também  pode  estimular  os  sistemas  de  controle 
+postural e favorecer o incremento da agilidade e 
+equilíbrio  dinâmico.  Além  disso,  a  característica 
+metabólica das sessões de TF pode promover efeitos 
+nos mecanismos envolvidos no transporte e consumo 
+de  oxigênio,  e  ressíntese  de  ATP  intramuscular, 
+favorecendo  a  melhora  do  sistema  oxidativo  e  o 
+aumento da resistência aeróbica17-19.
+
+Da mesma forma, as diferenças metodológicas 
+como, por exemplo, as características da população e 
+das sessões de TF podem ter favorecido o incremento 
+do  equilíbrio  dinâmico  e  da  resistência  aeróbica 
+encontrado  nesses  estudos17,19.  Foram  avaliados 
+idosos sedentários ou fisicamente ativos, que foram 
+submetidos  a  sessões  de TF  em  uma  frequência 
+semanal de 3 vezes, apesar de uma duração total de 
+
+12 a 14 semanas, inferior ao presente estudo. Além 
+disso, houveram momentos específicos que visaram 
+o incremento de equilíbrio, resistência aeróbica e 
+outros componentes relacionados à CF.
+
+Já o presente estudo foi composto por indivíduos 
+cardiopatas, que vieram de uma fase 2 para a fase 3 
+de um PRC, o que pode sugerir um aumento da CF 
+nas fases anteriores do programa. Essa hipótese pode 
+ser justificada pelo fato de os pacientes apresentaram, 
+antes do início do TF, um equivalente metabólico 
+médio de 10,34 ± 2,58 METs, correspondente à 
+classe I do New York Heart Association (NYHA), 
+além  de  uma  distância  média  percorrida  de  483 
+± 49 metros, o que significa que os pacientes não 
+possuíam  comprometimento  em  sua  capacidade 
+física  aeróbica20.  Em  relação  as  sessões  de TF,  a 
+baixa frequência semanal e a intensidade do PRC, 
+que foi controlada de forma subjetiva, pode ter sido 
+insuficiente para ocasionar aumentos significativos 
+da resistência aeróbica em pacientes de um PRC 
+fase 3. Da mesma forma, é possível que um trabalho 
+específico, com exercícios funcionais, que visassem 
+a  melhoria  do  equilíbrio,  potência  muscular  e 
+resistência aeróbica favorecessem um aumento de 
+desempenho nesses parâmetros.
+
+Vale  destacar  como  limitação  deste  estudo  o 
+pequeno tamanho amostral e a falta de um grupo 
+controle para se comparar os resultados do TF. Além 
+disso, a discussão de tais resultados teve de ser feita 
+pela comparação com outros grupos populacionais, 
+já que existem poucos estudos que contemplem a 
+fase 3 de um PRC. Assim, sugere-se que estudos 
+futuros  considerem  a  realização  de  um  cálculo 
+amostral,  comparem  tais  efeitos  com  um  grupo 
+controle,  monitorem  a  frequência  cardíaca  dos 
+pacientes e realizem intervenções com sessões de TF 
+que envolvam o trabalho de todos os componentes 
+físicos  relacionados  a  CF  como,  por  exemplo, 
+equilíbrio,  força  e  potência  muscular,  resistência 
+muscular e aeróbica, agilidade e flexibilidade.
+
+Por fim, a partir dos resultados encontrados, é 
+possível concluir que o TF é um método capaz de 
+promover  melhoras  significativas  na  agilidade  de 
+pacientes cardiopatas isquêmicos pertencentes à fase 
+3 de um PRC. Além disso, o TF é importante para a 
+melhora ou manutenção da CF desse público, visto 
+que abrange diversas capacidades físicas, envolvidas 
+nas AVD’s do paciente.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195223  •  7
+
+Conflito de interesse
+
+Os autores declaram não haver conflitos de interesse.
+
+Abstract
+
+Effects of functional training on functional capacity of ischemic cardiac patients.
+
+The aim of the present study was to investigate the effects of functional training (TF) on the functional 
+capacity (CF) of patients in a phase 3 cardiac rehabilitation program (PRC). The sample consisted of 
+13 patients of both sexes, aged between 54 and 81 years, who progressed from phase 2 to phase 
+3 in a PRC in the city of Santa Maria/RS. The TF took place twice a week (45 minutes each session) 
+and had a total duration of 6 months (48 sessions), with each session containing a warm-up part (5 
+minutes of walking), functional exercises (3 sets of 6 to 7 exercises, arranged in a circular fashion) 
+and cool-down (5 minutes of flexibility and relaxation exercises). For the evaluations, the Shuttle 
+Run, Tandem Walk Test and the 6-Minute Walk Test were applied, before the beginning and after the 
+48 TF sessions. After the reassessments, a significant increase in the performance of the Shuttle Run 
+test was observed, while in the Tandem Walk Test and 6 Minute Walk Test there was maintenance of 
+performance. It is possible to conclude that TF can promote the increase of CF in patients with heart 
+disease by increasing agility, as well as maintaining levels of dynamic balance and aerobic resistance.
+
+Keywords: Physical exercise; Functional physical performance; Cardiovascular diseases; Cardiac 
+rehabilitation.
+
+Referências
+
+1. Organização Mundial da Saúde. Organização Pan-Americana de Saúde. Doenças cardiovasculares. Brasília: OPAS-
+BR, 2017.
+2. Herdy AH, López-Jiménez F, Terzic CP, et al. Diretriz sulamericana de prevenção e reabilitação cardiovascular. Arq 
+Bras Cardiol. 2014;103:1-31.
+3. Carvalho T, Cortez AA, Ferraz A, Nóbrega ACL, et al. Diretrizes de reabilitação cardiopulmonar e metabólica: 
+aspectos práticos e responsabilidades. Arq Bras Cardiol. 2006;86:74-82.
+4. Moraes RS, Nóbrega ACL, Castro RRT, et al. Diretriz de reabilitação cardíaca. Arq Bras Cardiol. 2005;84:431-40.
+5. Ghorayeb N, Stein R, Daher DJ, et al. Atualização da diretriz em cardiologia do esporte e do exercício da Sociedade 
+Brasileira de Cardiologia e da Sociedade Brasileira de Medicina do Esporte - 2019. Arq Bras Cardiol. 2019;112:326-68.
+6. Rosa RC. Breve nota sobre o treinamento funcional: visão geral, objetivo e metodologia [dissertação de 
+especialização]. Goiás: Pontifícia Universidade Católica de Goiás, 2012.
+7. Hulley SB, Cummings SR, Browner WS, Grady DG, Newman TB. Delineando a pesquisa clínica. 4a ed. Porto 
+Alegre: Artmed, 2015.
+8. Hunsicker, Paul A, Reiff, Guy G. American Alliance for Health Physical Education Recreation: youth fitness test 
+manual - Revised Edition. Washington DC: AAHPER Publications-Sales, 1976.
+9. Pitanga FJG. Testes, medidas e avaliação em educação física e esportes. 4ª ed. São Paulo: Phorte, 2005.
+10. Rooks DS, Kiel DP, Parsons C, Hayes WC. Self-Paced Resistance training and walking exercise in 
+communitydwelling older adults: effects on neuromotor performance. J Gerontol Ser A, Biol Sci Med Sci. 
+1997;52:161-68.
+11. Hausdorff JM, Nelson ME, Kaliton D, Layne JE, Nuernbenger UM, Singh MA. Etiology and modification of gait 
+instability in older adults: a randomized controlled trial of exercise. J Appl Physiol. 2001;90:2117-29.
+12. Jones J, Rikli R. Measuring functional fitness of older adults. J Active Aging. 2002;1:24-30.
+
+8  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195223
+
+13. Rodrigues SL, Mendes HF, Viegas CAA. Six minutes walk test: study of the effect of learning in chronic obstructive 
+pulmonary disease patients. J Bras Pneumol. 2004; 30:121-25.
+14. Borg G. Escalas de Borg para a dor e esforço percebido. Barueri: Manole, 2000.
+15. Campos MA, Neto BC. Treinamento funcional resistido: para melhoria da capacidade funcional e reabilitação de 
+lesões musculoesqueléticas. Rio de Janeiro: Revinter, 2004.
+16. Original A, Cotchi H, Muela S, Bassan R, Serra SM. Benefícios da reabilitação cardíaca. Rev Bras Cardiol. 
+2011;24:241-50. 
+17. Santos G, Resende-Neto AG, Cruz AS, et al. Efeitos o treinamento funcional em atividades da vida diária de idosas 
+fisicamente ativas. Motricidade. 2019;15:145-53.
+18. Resende-Neto A. Efeitos dos treinamentos funcional e tradicional sobre a aptidão física e qualidade de movimento 
+de idosas sedentárias [dissertação]. São Cristóvão: Universidade Federal de Sergipe, 2017.
+19. Resende-Neto A, Andrade BCO, Santos GV, et al. Influência do treinamento funcional sobre a aptidão física de 
+idosas ativas. Corpoconsciência. 2018;22:49-57.
+20. Bittner V, Weiner DH, Yusuf S, et al. Prediction of mortality and morbidity with a 6-minute walk test in patients 
+with left ventricular dysfunction. SOLVD Investigators. J Am Med Ass. 1993;270:1702-7.
+
+Endereço
+Thalía Petry
+Av. Roraima, 1000 - Bloco 43 - Ap. 30 - Camobi
+97105-900 - Santa Maria - RS - Brasil 
+E-mail: petrythalia@hotmail.com
+
+Submetido: 23/02/2022
+Revisado: 30/05/2022
+Aceito: 19/08/2022
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195223  •  9
+
+

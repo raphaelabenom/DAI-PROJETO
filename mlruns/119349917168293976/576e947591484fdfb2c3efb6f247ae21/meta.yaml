@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/576e947591484fdfb2c3efb6f247ae21/artifacts
+deleted_time: 1730139257814
+end_time: 1730139080151
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: 576e947591484fdfb2c3efb6f247ae21
+run_name: nervous-calf-257
+run_uuid: 576e947591484fdfb2c3efb6f247ae21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730139075008
+status: 3
+tags: []
+user_id: rapha

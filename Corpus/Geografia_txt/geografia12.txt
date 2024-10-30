@@ -1,0 +1,1226 @@
+DOI: 10.5216/BGG.v 43. 63274 
+
+ 
+
+Mapeamento de parâmetros agronômicos do 
+cafeeiro a partir de imagens tomadas por 
+aeronave remotamente pilotada 
+ 
+Mapping coffee agronomic parameters based on remotely 
+piloted aircraft images 
+ 
+Mapeo de parámetros agronómicos del café a partir de 
+imágenes obtenidas por aeronaves plotadas a distancia 
+ 
+
+ 
+
+ 
+
+ 
+
+  Pablo Henrique de Souza Assis  
+
+Universidade Federal de Uberlândia – Minas Gerais – 
+Brasil 
+pablohnrqsa@gmail.com     
+ 
+
+  George Deroco Martins  
+
+Universidade Federal de Uberlândia – Minas Gerais – 
+Brasil 
+deroco@ufu.br 
+ 
+
+  Vinicius Silva Werneck Orlando  
+
+Universidade Federal de Uberlândia – Minas Gerais – 
+Brasil 
+viniwerneck@outlook.com   
+
+ 
+Resumo O cultivo dos grãos de café vem se mostrando cada 
+vez mais como uma das culturas predominantes no mercado 
+atual. Com isso, faz-se necessário compreender e monitorar as 
+variabilidades  existentes  nas  grandes  lavouras  pelo  mundo. 
+Para tanto, as técnicas de Sensoriamento Remoto direcionadas 
+ao  monitoramento  das  variabilidades  espectrais  de  uma 
+cultura  torna  possível  mapear  e  estudar  as  variabilidades 
+espaciais e os fatores limitantes da produção. Dentre diversas 
+variáveis,  este 
+trabalho  objetivou  o  mapeamento  de 
+parâmetros relacionados à produtividade, tais como o Teor de 
+Clorofila e a Área Foliar de uma cultura cafeeira localizada nas 
+proximidades  do  município  de  Monte  Carmelo  -  MG.  O 
+
+ 
+
+ 
+
+DOI: 10.5216/BGG.v 43. 63274 
+
+ 
+
+mapeamento  foi  gerado  a  partir  de  modelos  de  regressão 
+através da relação entre amostras obtidas in situ com o valor 
+radiométrico  de 
+imagens  tomadas  por  uma  aeronave 
+remotamente  pilotada  à  70  e  120  metros  de  altitude.  Os 
+resultados  mostraram  que  para  o  voo  de  maior  altitude  a 
+correlação  entre  as  medidas  de  campo  e  a  radiometria  das 
+imagens  foi  melhor.  A  precisão  dos  modelos  estimadores 
+apresentou melhor correlação com os índices TGI (r = 0,536 e 
+RMSE =  16,43%)  para  a  clorofila  e  NDVI  (r = 0,484 e  RMSE = 
+15,87%) para a área foliar.  
+Palavras-chave:  Coffea  arabica.  Parâmetros  agronômicos. 
+Modelos de regressão. 
+ 
+Abstract The cultivation of coffee beans has increasingly been 
+shown  to  be  one  of  the  predominant  crops  in  the  current 
+market. With this, it’s necessary to understand and monitor the 
+variability existing in large crops around the world. Therefore, 
+remote sensing techniques aimed at monitoring the spectral 
+variability of a crop makes it possible to map and study spatial 
+variability  and  production  limiting  factors.  Among  several 
+variables,  this  work  aimed  to  map  parameters  related  to 
+productivity,  such  as  chlorophyll  content  and  leaf  area  of  a 
+coffee crop located near the municipality of Monte Carmelo - 
+MG.  The  mapping  was  generated  from  regression  models 
+through  the  relationship  between  samples  obtained  in  situ 
+with  the  radiometric  value  of  images  taken  by  a  remotely 
+piloted aircraft at 70 and 120 meters high. The results showed 
+that 
+field 
+measurements  and  radiometry  of  images  was  better.  The 
+accuracy of the estimator models showed a better correlation 
+with  the  TGI  indices  (r  =  0.536  and  RMSE  =  16.43%)  for 
+chlorophyll and NDVI (r = 0.484 and RMSE = 15.87%) to the leaf 
+area.  
+Keywords: Coffea arabica. Agronomic parameters. Regression 
+models. 
+ 
+Resumen El cultivo de café ha demostrado cada vez más ser 
+uno de los cultivos predominantes en el mercado actual. Con 
+esto, es necesario monitorear la variabilidad existente en los 
+grandes  cultivos  del  mundo.  Por  lo  tanto,  las  técnicas  de 
+teledetección destinadas a monitorear la variabilidad espectral 
+de  un  cultivo  permiten  mapear  la  variabilidad  espacial  y  los 
+factores  limitantes  de  la  producción.  Así,  este  trabajo  tenía 
+como  objetivo  mapear  parámetros  relacionados  con 
+la 
+productividad, tales como el contenido de clorofila y el área de 
+hoja de un cultivo de café situado en Monte Carmelo - MG. El 
+
+the  correlation  between 
+
+for  higher 
+
+flight 
+
+ 
+
+DOI: 10.5216/BGG.v 43. 63274 
+
+ 
+
+mapeo se generó a partir de modelos de regresión a través de 
+la  relación  entre  muestras  obtenidas  in  situ  con  el  valor 
+radiométrico de las imágenes tomadas por un avión pilotado a 
+distancia  a  70  y  120  metros  de  altitud.  Los  resultados 
+mostraron que para un vuelo de mayor altitud la correlación 
+entre  las  mediciones  de  campo  y  la  radiometría  de  las 
+imágenes  era  mejor.  La  precisión  de 
+los  modelos  de 
+estimadores mostró una mejor correlación con los índices TGI 
+(r a 0,536 y RMSE a 16,43%) para clorofila y NDVI (r a 0,484 y 
+RMSE a 15,87%) a la zona de la hoja.  
+ 
+Palabras  clave:  Coffea  arabica.  Parámetros  agronómicos. 
+Modelos de regresión. 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+Introdução 
+
+A agricultura assume grande papel na sociedade devido à sua 
+forte  influência  em  relação  ao  setor  de  serviços,  sendo  assim, 
+considerada  um  dos  pilares  para  a  manutenção  da  economia 
+mundial  (CONCEIÇÃO;  ZUCHI,  2014).  Dentre  as  diversas  culturas 
+produzidas  no  país,  a  produção  cafeeira  é  uma  das  que  mais  se 
+destacam  (MATIELLO  et  al.,  2016).  Para  a  safra  de  2020  o  café 
+brasileiro teve produtividade estimada entre 57,2 milhões e 62,02 
+milhões  de  sacas  beneficiadas  do  tipo  arábica  e  conilon  (CONAB, 
+2020). A estimativa da receita bruta das lavouras de café brasileiro 
+para  o  ano  de  2020  está  prevista  em  R$  438  bilhões,  isto  é,  um 
+aumento de 25% em comparação ao ano anterior (EMBRAPA, 2020).   
+Levando em consideração as grandes dimensões do território 
+nacional que são utilizadas para agricultura, é importante que o país 
+possua e utilize-se das melhores e mais avançadas tecnologias de 
+estudo  e  monitoramento  das  culturas  e  atividades  agropecuárias 
+(FORMAGGIO;  SANCHES,  2017).  O  sensoriamento  remoto  é  uma 
+tecnologia que tem potencial no monitoramento da agricultura, pois 
+conforme  cita  Martins  (2016),  direcionando-se  essa  prática  como 
+ferramenta de planejamento, controle e análise de dados agrícolas, 
+possibilita-se o monitoramento das variações espectrais e espaciais 
+e dos fatores limitantes da produção, fato que auxilia no processo 
+de tomada de decisão e no manejo otimizado das culturas no campo 
+de produção. 
+
+Assim,  tais 
+
+informações  podem  ser  obtidas  através  da 
+mensuração de aspectos biofísicos de interesse, sendo que essas 
+variáveis  são  a  base  para  contribuições  em  diversas  áreas  da 
+agricultura 
+(FORMAGGIO;  SANCHES,  2017).  Dentre  esses 
+parâmetros,  a  clorofila  é  essencial  para  realização  do  processo 
+fotossintético, no qual a energia luminosa é convertida em energia 
+química  auxiliando na  nutrição  e  desenvolvimento das plantas. O 
+teor  de  clorofila  está  correlacionado  com  a  concentração  de 
+nitrogênio  na  planta.  A  ausência  de  tal  concentração  reduz  as 
+reações  bioquímicas  do  metabolismo  do  carbono  e  reduz  a 
+biossíntese  de  clorofila,  bem  como  a  área 
+foliar  o  que 
+consequentemente prejudica a produtividade (OLIOSI et al., 2017). 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+Logo, a área foliar também é outro importante indicador. Além 
+de  auxiliar  em  estudos  relacionados  com  morfologia,  anatomia  e 
+ecofisiologia  vegetal,  a  folha  é  o  principal  órgão  da  planta, 
+responsável  pelas  trocas  gasosas  e  pela  recepção  da  energia 
+luminosa  que  posteriormente  será  convertida  e  utilizada  como 
+nutriente  para  a  planta.  Além  disso,  as  dimensões  foliares  dão 
+suporte  na determinação  do  índice  de  área  foliar  (IAF),  que pode 
+estimar  a  produtividade  de  um  ecossistema  vegetal,  seu 
+crescimento e desenvolvimento das folhas (TARTAGLIA et al., 2016). 
+Atualmente,  uma  série  de  novos  sensores  multiespectrais 
+instalados  em  plataformas  espaciais,  incluem  bandas  espectrais 
+específicas  que  detectam  as  variações  de  clorofila  nas  folhas  e 
+fornecem  informações  sobre  estrutura  e  condição  sanitária  da 
+vegetação,  sendo  apropriadas  para  monitorar  as  atividades 
+agrícolas  (MARTINS,  2016).  Embora  os  sensores  orbitais  tenham 
+uma área maior de recobrimento, o uso de sensores multiespectrais 
+acoplados  em  aeronaves 
+(ARP’s), 
+minimizam o custo das operações se tornando um meio rápido e 
+preciso  para  avaliar  o  ciclo  de  desenvolvimento  agrícola 
+(FURLANETTO et al., 2017). Nesta perspectiva, as ARP’s apresentam 
+alta  performance  e  excelente  nível  de  detalhamento,  sendo 
+consideradas  de  baixo  custo  e  fácil  manuseio.  Assim,  essas  ARPs 
+podem 
+câmeras 
+multiespectrais  e  câmeras  RGB  (câmeras  convencionais  com 
+aquisição de imagens nos comprimentos de onda do azul, verde e 
+vermelho) que auxiliam na detecção de falhas no plantio, registro de 
+estresses  hídricos,  controle  de  pragas  e  problemas  nutricionais 
+(FORMAGGIO; SANCHES, 2017).  
+
+remotamente  pilotadas 
+
+ser  equipadas 
+
+térmicos, 
+
+sensores 
+
+com 
+
+Portanto, este trabalho propõe avaliar o potencial do vínculo 
+entre ARPs de baixo custo, sensores remotos de alta  resolução e 
+informações obtidas em campo, para fins do mapeamento do teor 
+relativo de clorofila e a área foliar na cultura cafeeira por meio de 
+técnicas de amostragem. Para tanto, considerou-se o uso da câmera 
+Mapir Survey 3 operando em conjunto à câmera RGB acopladas na 
+ARP  modelo  Phantom  4  Pro.  Este  conjunto  gera  imagens  que 
+contam com uma banda centrada no infravermelho próximo (IVP) e 
+demais  bandas  na  luz  visível.  Tais  características  possibilitam  o 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+desenvolvimento  de  modelos  estatísticos  de  estimativa  apoiados 
+em  técnicas  de  sensoriamento  remoto,  no  que  se  refere  à 
+agricultura  de  precisão,  voltada  ao  mapeamento  de  parâmetros 
+biofísicos do café. Deste modo, é possível detectar e compreender o 
+comportamento  dessas  variáveis  na  lavoura,  fato  que  auxilia  os 
+produtores na tomada de decisão, trazendo consequentemente a 
+redução de custos e o manejo otimizado. 
+
+ 
+
+Métodos 
+
+Área de estudo e materiais 
+
+A  área  onde  ocorreu  o  estudo  (Figura  1),  possui  uma  alta 
+variabilidade  de  área  foliar  e  consequentemente  do  teor  de 
+clorofila, encontrando-se próxima à região urbana do município 
+de Monte Carmelo – MG, nas coordenadas geográficas a latitude 
+de  18°43’35”  Sul  e  longitude  47°31’14”  Oeste,  com  extensão 
+aproximada de 9 hectares e cultivada com café arábica (Coffea 
+arábica L.). O município está situado na Mesorregião do Triângulo 
+Mineiro e Alto Paranaíba. 
+Figura 1 – Mapa de localização da área de estudo. (A) Minas Gerais. (B) Limite 
+
+Municipal e área urbana. (C) Região de estudo 
+
+Fonte: Autoria própria (2019). 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+Procedimentos metodológicos 
+
+Os  procedimentos  executados  neste  trabalho  são  descritos 
+
+pelo fluxograma da Figura 2. 
+
+Figura 2 – Fluxograma dos processos metodológicos 
+
+Fonte: Autoria própria (2019). 
+
+ 
+
+A princípio, a parte de aquisição dos dados seguiu-se por duas 
+vertentes. A primeira refere-se à mensuração dos valores do teor de 
+clorofila  e  área  foliar  tomada  a  partir  de  75  pontos  amostrais 
+aleatórios pertencentes à área de estudo. Para tanto, os valores de 
+tais  amostras  obtidas  em  cada  ponto  de  coleta 
+foram 
+georreferenciadas  via  receptor  GNSS  (Global  Navigation  Satellite 
+System) no modo de posicionamento RTK (Real Time Kinematic) e 
+posteriormente planilhadas no software Excel.  
+
+Os valores do teor de clorofila foram óbitos com um medidor 
+eletrônico do modelo ClorofiLOG Falker 1030. Este equipamento é 
+baseado  nos  princípios  de  absorção  e  reflectância  das  folhas, 
+captando essa radiação através do receptor e convertendo em sinais 
+eletrônicos que determinam o estado nutricional da folha (FALKER, 
+2008).  As  medidas  foram  extraídas  nas  regiões  do  terço  médio  e 
+terço superior de cada planta. Com isso, foi decidida à execução de 
+quatro  leituras  por  planta  com  a  finalidade  de  se obter  um valor 
+médio do teor de clorofila para cada planta através do cálculo da 
+média aritmética.  
+
+Os  princípios  de  aquisição  das  dimensões  foliares  para  o 
+estudo foi equivalente aos do teor de clorofila, ou seja, as leituras 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+também foram realizadas no terço médio e superior de cada planta. 
+As variáveis obtidas foram o maior comprimento e a largura do meio 
+de cada folha, em centímetros, tomadas por uma régua milimétrica 
+de acrílico. O cálculo da AF foi empregado seguindo a Equação 1, 
+proposta por Barros et al. (1973): 
+
+ 
+
+𝐴𝐹 = 0,667 ∗ 𝐶 ∗ 𝐿 
+
+(Equação 1) 
+
+ 
+Tal equação baseia-se nas dimensões da área de um retângulo 
+imaginário  circunscrito  em  torno  da  folha  de  café,  onde  C  é  o 
+comprimento da folha em centímetros e L é a largura do meio da 
+folha em centímetros (BARROS et al., 1973). 
+
+Já a segunda vertente refere-se ao planejamento e execução 
+dos voos. Os mesmos ocorreram no dia 20 de agosto de 2019 às 
+11:30  horário  de  Brasília,  concomitantes  com  a  obtenção  das 
+medidas de campo. Para tal realização, foi utilizada uma ARP modelo 
+Phantom 4 Advanced com uma câmera RGB e outra modelo Mapir 
+Survey  3  acopladas.  Os  parâmetros  estipulados  para  o 
+aerolevantamento são observados na Tabela 1. 
+
+Tabela 1- Parâmetros estabelecidos para o aerolevantamento 
+
+ 
+
+ 
+
+  
+
+Elementos 
+
+Altura de voo 
+
+GSD 
+
+Valores utilizados 
+
+70 m / 120 m 
+
+2 cm / 3,6 cm 
+
+Tempo de voo 
+
+7 min e 26 s / 5 min e 9 s 
+
+Sobreposição longitudinal 
+
+Sobreposição lateral  
+
+75% 
+
+65% 
+
+Fonte: Autoria própria (2019). 
+
+ 
+Vale  salientar  que  a  opção  pela  execução  de  dois  voos  em 
+altitudes distintas teve como objetivo avaliar a influência da variável 
+altitude nos resultados estatísticos dos modelos. Posto isto, a etapa 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+seguinte foi realizar o processamento das imagens, parte na qual as 
+mesmas são unidas gerando-se assim um mosaico. Portanto, como 
+o aerolevantamento foi realizado por duas câmeras distintas, isto é, 
+a  câmera  RGB  e  a  câmera  Mapir  Survey  3,  logo  o  resultado  do 
+processamento  gerado  no  software  pix4Dmapper  foram  dois 
+mosaicos distintos.  
+
+Em  seguida,  foram  gerados  os  índices  de  vegetação.  O 
+Normalized Difference Vegetation Index (NDVI) é tradicionalmente 
+utilizado  como  base  para  diferentes  tipos  de  análises  sobre  as 
+condições da vegetação. Rouse et al. (1973) normalizaram a razão 
+simples para o intervalo de -1 a +1 propondo o índice NDVI. Para 
+alvos terrestres os valores variam entre 0 e valores superiores. Para 
+superfícies aquosas os valores variam entre valores inferiores a 0. O 
+índice é dado pela Equação 2: 
+
+𝑁𝐷𝑉𝐼 =
+
+(𝐼𝑉𝑃 − 𝑅)
+ 
+(𝐼𝑉𝑃 + 𝑅)
+
+(Equação2) 
+
+ 
+Onde IVP é a banda espectral do infravermelho próximo e o R 
+é a banda espectral do vermelho (luz visível). O cálculo do NDVI foi 
+realizado  no  software  ENVI  por  meio  da  ferramenta  BandMath  e 
+resultou  em  uma  nova  imagem.  Para  este  trabalho  também  foi 
+calculado o índice de vegetação Triangular Greenness Index (TGI). 
+Desenvolvido  por  Hunt  Jr  et  al.  (2012),  este  índice  estima  a 
+concentração  de  clorofila  nas  folhas  com  base  na  área  de  um 
+triângulo,  onde  os  sinais  de  reflectância  na  região  do  vermelho, 
+verde  e  azul  delimitam  seus  vértices.  McKinnon  e  Hoff  (2017) 
+posteriormente realizaram estudos com o sensor Complementary 
+Metal  Oxide  Semiconductor  (CMOS),  sendo  este  o  mais  comum 
+encontrado nas câmeras digitais da atualidade. Através do estudo 
+de comprimentos de onda típicos desse sensor, normalizado pelo 
+sinal verde, o cálculo do TGI é dado pela Equação 3: 
+
+𝑇𝐺𝐼 = 𝐺 − 0.39 ∗ 𝑅 − 0.61 ∗ 𝐵 
+
+(Equação 3) 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+Onde  G  (550nm),  R  (670nm)  e  B  (480nm)  correspondem  às 
+reflectâncias medidas nos canais espectrais do verde, vermelho e 
+azul, respectivamente.   
+
+polígonos 
+
+vetorizados 
+
+ 
+Para concluir a etapa de processamento digital das imagens, 
+foi  extraído  os  valores  radiométricos  do  mosaico  referente  aos 
+pontos  de  amostragem.  Para  tanto,  foi  criada  uma  shapefile  que 
+continha 
+amostras 
+georreferenciadas.  Esses  polígonos  são  chamados  Regions  of 
+Interesting (ROI’s) e contém os valores radiométricos dos pixels que 
+estão dentro da região de interesse, isto é, na área de recobrimento 
+de cada polígono. Com isso, essas informações são extraídas pela 
+ferramenta  ROI  tool  do  software  ENVI.  O  software  também 
+possibilita  o  cálculo  da  média  desses  valores  para  cada  polígono 
+através da ferramenta ROI Statistics.  
+
+sobre 
+
+as 
+
+Para  finalizar  o  estudo,  as  amostras  obtidas  in  situ  foram 
+correlacionadas  com  as  informações  radiométricas  extraídas  das 
+bandas R, G, B e IVP provenientes da câmera Mapir Survey 3 e da 
+câmera RGB além dos índices de vegetação calculados. Com isso, os 
+modelos  de  estimativa  foram  gerados  apenas  para  as  bandas  ou 
+índices que apresentaram maior correlação com a clorofila e a área 
+foliar.  Com  o  intuito  de  se  obter  uma  correlação  significativa,  foi 
+considerado um P-valor menor que 0,05 a partir da correlação de 
+Pearson.    Desta  forma,  os  modelos  de  estimativa  foram  gerados 
+através da análise de regressão. Conforme descreve Lira (2004), esta 
+análise estatística tem o objetivo de verificar a existência de uma 
+relação funcional entre uma variável dependente com uma ou mais 
+variáveis independentes. Em outras palavras, esta análise gera uma 
+equação  que  tenta  explicar  o  comportamento  dessas  variáveis 
+(BUSSAB; MORETTIN, 2010). Dentre as equações geradas, optou-se 
+sempre  por  aquelas  que  melhor  se  ajustavam  aos  dados,  isto  é, 
+aquelas com maior coeficiente de determinação (R²). Contudo, foi 
+necessário verificar a  acurácia dos modelos criados. Para isso, os 
+modelos  foram  aplicados  sobre  a  radiometria  de  15  pontos  de 
+validação  (checkpoints).  Desse  modo,  obtiveram-se  valores  da 
+concentração de clorofila estimada tornando possível o cálculo do 
+Raiz  do  Erro  Quadrático  Médio  (RMSE)  sendo  este  um  método 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+bastante  utilizado  para  verificação  da  acurácia  de  modelos 
+estimadores (Equações 4 e 5).   
+
+𝑅𝑀𝑆𝐸 = √∑
+
+𝑛
+
+𝑖=1
+
+(𝑋𝑜 − 𝑋𝑒)²
+ 
+
+𝑛
+
+(Equação 4) 
+
+ 
+ 
+(Equação 5) 
+
+𝑅𝑀𝑆𝐸(%) = √∑
+
+𝑛
+
+(𝑋𝑜 − 𝑋𝑒)²
+
+𝑖=1
+
+𝑛
+
+   ∗  
+
+100 ∗ 𝑛
+∑ 𝑋𝑒
+
+𝑛
+𝑖=1
+
+ 
+
+ 
+Onde RMSE é a raiz do erro médio quadrático; RMSE (%) é a raiz 
+do  erro  médio  quadrático  em  porcentagem;  Xo  representa  os 
+valores observados in situ; Xe representa os valores estimados de 
+clorofila  e  área  foliar;  n  é  o  número  de  amostras.  Os  modelos 
+validados foram aplicados nas bandas de interesse, gerando-se os 
+mapas com a variação do teor de clorofila e área foliar da região de 
+estudo. 
+
+Resultados 
+
+Análise  da  correlação  entre  os  parâmetros  biofísicos, 
+bandas e índices multiespectrais 
+
+A Figura 3A e Figura 3B apresentam as correlações entre os 
+parâmetros  agronômicos,  as  bandas  espectrais  e  os  índices  de 
+vegetação para as altitudes de 70 e 120 metros respectivamente.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+ 
+
+Figura 3A – Correlação entre os parâmetros, bandas e índices de interesse 
+
+para a altitude de voo de 70 metros 
+
+Fonte: Autoria própria (2019). 
+
+Figura 3B – Correlação entre os parâmetros, bandas e índices de interesse 
+
+para a altitude de voo de 120 metros 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Fonte: Autoria própria (2019). 
+
+Considerando as informações dos gráficos acima e o fato de 
+que na metodologia proposta por este trabalho fora estipulado que 
+para p-valores < 0,05 as correlações seriam significativas, os dados 
+mostram  que  as  correlações  para  o  voo  à  70  metros  de  altitude 
+foram  inferiores  aos  de  120  metros.  Isto  pode  ser  comprovado 
+observando-se a presença de nove valores que não resultaram em 
+correlações  significativas  (cor  vermelha)  para  o  voo  mais  baixo,  o 
+que  é  evidenciado  pelo  alto  p-valor  nesta  situação.  Com  isso, 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+resultados  estatísticos  para  este 
+
+podemos partir do pressuposto que a variável altitude de voo teve 
+influência  nos 
+trabalho. 
+Considerando-se  a  diferença  de  resolução  espacial  causada  pelo 
+fator  altitude,  quanto  maior  a  resolução  espacial,  maior  será  o 
+detalhamento das informações o que pode influenciar na precisão 
+de modelos estatísticos. Logo, imagens com resolução espacial não 
+tão alta generalizam as informações e otimizam os resultados dos 
+modelos estimadores. Brandão et al., (2011) utilizaram imagens do 
+satélite Landsat 5 para gerar índices de vegetação como base para 
+modelos  estimadores  do  índice  de  área  foliar  e  nitrogênio  no 
+algodoeiro conseguindo acurácia superior à 70% para grande parte 
+dos modelos gerados.  
+
+Observando agora as informações para o voo à 120 metros, 
+percebe-se  que  a  quantidade  de  correlações  não-significativas  é 
+menor,  fato  que  pode  ser  evidenciado  pela  presença  do  p-valor 
+baixo para a maioria dos dados. Como as informações para o voo à 
+120  metros  possuem  o  maior  valor  absoluto  do  coeficiente  de 
+correlação  de  Pearson,  de  modo  específico,  (r  =  0,484)  para  área 
+foliar com o índice NDVI e (r = 0,515 ; r = 0, 536 ; r = 0,525) para 
+clorofila  A,  B  e  Total  com  o  índice  TGI,  foi  decido  que  estes  dois 
+índices melhor descreveriam o comportamento dos parâmetros a 
+serem  mapeados.  A  correlação  com  os  índices  de  vegetação  é 
+justificável pelo fato de tais índices serem desenvolvidos  através de 
+formulações matemáticas que visam permitir melhor avaliação da 
+cobertura  vegetal  de  uma  área.  Conforme  citam  Formaggio  e 
+Sanches (2017), tais formulações são descritas como medidas semi-
+analíticas  da  atividade  da  vegetação  e  têm  sido  amplamente 
+utilizadas em razão do alto nível de fidedignidade na representação 
+das  variações  da  folhagem  verde  com  o  objetivo  de  detectar 
+variabilidades especializadas.  
+
+Modelos de regressão e mapa do teor relativo de clorofila 
+A Figura 4 mostra os gráficos de regressões entre a clorofila e 
+
+o TGI gerados no software MiniTab 18. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+Figura 4 – Gráficos de regressões entre a clorofila A, B, Total e o índice TGI. 
+(A) Modelos para clorofila A. (B) Modelos para clorofila B. (C) Modelos para 
+
+clorofila Total. 
+
+ 
+
+Fonte: Autoria própria (2019). 
+
+ 
+
+fato  pode  ser 
+
+Para todas as situações, a figura acima indica que os modelos 
+de  regressão  do  tipo  polinomial  quadrática  melhor  descrevem  o 
+comportamento  dos  dados.  Tal 
+justificado 
+comparando-se a diferença entre os coeficientes de determinação 
+(R²). Para a clorofila A o modelo consegue explicar 37,1% dos valores 
+observados, isto é, 10,6% melhor do que a regressão linear. Já para 
+a clorofila B, essa diferença equivale à 10%. Por fim, para a clorofila 
+Total, isto é, soma das clorofilas A e B, a regressão quadrática se 
+mostra 9,6% mais eficiente que a linear explicando 37,2% dos dados 
+observados. Além disso, o desvio-padrão das medidas (S) é menor 
+para o modelo polinomial quadrático para as três clorofilas. 
+
+ 
+
+RMSE 
+
+RMSE (%) 
+
+Tabela 2 – Validação dos modelos de regressão pelo RMSE 
+Clorofila Total 
+
+Clorofila A 
+
+Clorofila B 
+
+4,73 
+
+17,01 
+
+2,42 
+
+16,95 
+
+6,92 
+
+16,43 
+
+Fonte: Autoria própria (2019). 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+ A Tabela 2 indica que no geral, os modelos possuem um erro 
+médio percentual de aproximadamente 16,8%, ou seja, os mesmos 
+estimam  os  dados  com  uma  acurácia  de  83,2%,  o  que  é 
+considerável.  Percebe-se  que  a  clorofila  B  possui  o  menor  erro 
+(RMSE  =  2,42)  em  unidades  de  clorofila.  Contudo,  quando 
+analisamos em termos de porcentagem, o modelo mais preciso é o 
+que estima a clorofila total (% RMSE = 16,43), ou seja, o modelo está 
+estimando os dados com 83,57 % de precisão. Além do mais, vale 
+ressaltar que as variáveis independentes utilizadas nos modelos de 
+regressão  atenderam  os  pressupostos  de:  normalidade, 
+autocorrelação,  ausência  de  outliers  e  heterocedasticidade  dos 
+resíduos e também tiveram a ausência multicolinearidade entre as 
+variáveis preditoras. 
+
+ 
+
+Figura 5 – Mapa da concentração da clorofila na área de estudo. (A) Teor de 
+
+Clorofila A. (B) Teor de Clorofila B. (C) Teor de Clorofila Total 
+
+ 
+
+Fonte: Autoria própria (2019). 
+
+O  mapa  dado  pela  Figura  5  aponta  que  os  valores  mais 
+significativos  de  clorofila  foram  encontrados  nas  regiões  norte  e 
+leste da lavoura. Foi detectado também a presença de clorofila nas 
+ruas e carreadores, o que é justificável pela existência de vegetação 
+rasteira  e  folhas  caídas  da  cultura  naqueles  locais.  Percebe-se 
+também a deficiência de clorofila em uma faixa próxima à região 
+centro-norte do cultivo. Logo, compete aos profissionais da área da 
+agricultura a ida in situ para a identificação de possíveis fenômenos 
+que  estejam  influenciando  nos  baixos  resultados  de  clorofila 
+detectados. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+Modelos de regressão e mapa da área foliar 
+
+A Figura 6 mostra os gráficos de regressões entre a área foliar 
+
+e o NDVI gerados no software MiniTab 18. 
+
+Figura 6 – Gráficos de regressões entre a área foliar e o índice NDVI. (A) 
+
+Regressão linear simples. (B) Regressão polinomial quadrática. 
+
+Fonte: Autoria própria (2019). 
+
+ 
+
+ 
+Os modelos de regressão entre a área foliar e o índice NDVI 
+mostram  que  a  regressão  do  tipo  polinomial  quadrática  melhor 
+descreve  o  comportamento  dos  dados.  O  coeficiente  de 
+determinação (R²) para este caso propõe que o modelo consegue 
+explicar 23,3% os valores observados, ou seja, 2,7% melhor que a do 
+tipo linear simples. Além disso, o desvio-padrão das medidas (S) é 
+menor para o modelo polinomial quadrático. O RMSE calculado para 
+este  modelo,  em  unidades  área  foliar  (RMSE  =  5,15)  e  em  valor 
+percentual (RMSE% = 15,87) indica que o mesmo consegue estimar 
+os  dados  com  uma  precisão  de  84,13%,  o  que  é  considerável. 
+Portanto, o mapa do comportamento do teor de clorofila (Figura 7) 
+foi gerado a partir da equação disposta na Figura 6B.  
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+Figura 7 – Mapa da distribuição da área foliar sobre a região de estudo 
+
+Fonte: Autoria própria (2019). 
+
+ 
+
+Analisando  o  mapa  percebe-se  a  presença  altos  valores  de 
+área  foliar  distribuídos  por  toda  a  região  de  estudo. Contudo,  há 
+também um déficit desse parâmetro em uma faixa da região centro-
+norte  semelhante  ao  mapa  do  teor  de  clorofila  anteriormente 
+apresentado.  Existe 
+também  a  presença  de  solo  exposto 
+(caracterizado pela cor vermelha) bem como a presença de baixos 
+valores  (cor  amarela)  desse  parâmetro  presente  nas  ruas  e 
+carreadores do café. Novamente, compete aos profissionais da área 
+da agricultura a ida in situ para a identificação de fenômenos que 
+possivelmente estejam influenciando nos baixos resultados de área 
+foliar detectados. 
+
+ 
+
+Considerações finais 
+
+A  câmera  Mapir  Survey  3  acoplada  à  plataforma  Drone 
+Phantom  4  Advanced  tem  potencial  no  mapeamento  dos 
+parâmetros agronômicos estudados neste trabalho. Contudo, vale 
+salientar  que  a  câmera  possui  certas  limitações  que  contribuem 
+para a redução na precisão dos dados. 
+
+Dos modelos de regressão gerados, o estimador de clorofila 
+teve precisão de 83,2% enquanto que o modelo para área foliar teve 
+precisão de 84,13%, sendo assim o modelo mais acurado. Ambos os 
+parâmetros foram estimados com uma eficácia significativa.  
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+A plataforma ARP aplicada ao sensoriamento remoto mostrou 
+seu potencial quanto à resolução temporal, alto desempenho e não 
+dependência  da  influência  de  condições  climáticas  tais  como 
+nuvens.   
+
+Por fim, o trabalho mostrou que os resultados da estatística 
+geral  dos  dados  foram  melhores  para  o  voo  à  120  metros  de 
+altitude.  Sensores  embarcados  em  ARP’s  possuem  alta  resolução 
+espacial o que é benéfico para alguns estudos. Todavia, a área de 
+pesquisa que envolve o desenvolvimento de modelos estimadores 
+necessita  de  boa  resolução  espectral  e  como  essas  imagens  são 
+obtidas a uma altitude muito baixa, o nível de informação é muito 
+grande e os algoritmos não conseguem processar de forma eficiente 
+esses dados. 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+Referências  
+
+BARROS,  R.  S.;  MAESTRI,  M.;  VIEIRA,  M.;  BRAGAFILHO,  L.  J. 
+Determinação de área de folhas do café (Coffea arabica L. cv. 
+‘Bourbon  Amarelo’).  Revista  Ceres,  Viçosa,  v.20,  n.107,  p.44-52, 
+1973. 
+
+BRANDÃO,  Z.  N.;  SOFIATTI,  V.;  SILVA,  B.  B.  Índice  de  vegetação 
+obtidos  por  imagens  de  satélite  como  estimadores  do  IAF  e 
+
+nitrogênio no algodoeiro. In: Simpósio Brasileiro de Sensoriamento 
+Remoto, XV, 2011, Curitiba -PR, Anais... João Pessoa: INPE, 2011. 
+p.0659-0666. 
+
+BUSSAB,  W.  O.;  MORETTIN,  P.  A.  Estatística  Básica.  6ª  Ed.  São 
+Paulo: Editora Saraiva, 2010. 535p. 
+
+CONAB  -  Companhia  Nacional  de  Abastecimento.  Bienalidade 
+positiva impulsiona safra de café no país e aumenta produção. 
+
+Disponível em: < https://www.conab.gov.br/ultimas-noticias/3223-
+bienalidade-positiva-impulsiona-safra-de-cafe-na-maior-parte-do-
+pais-e-aumenta-producao > Acesso em: 10 mar. 2020. 
+
+CONCEIÇÃO, J. C. P. R. da.; ZUCHI, P. H. C. Agricultura: evolução e 
+importância  para  a  balança  comercial  brasileira.  Brasília:  Ipea, 
+2014. 36p. 
+
+EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária. Receita 
+
+bruta  da  lavoura  dos  cafés  do  Brasil  prevista  para  2020  tem 
+aumento  de  25%  em  comparação  com  2019.  Disponível  em: 
+<https://www.embrapa.br/busca-de-noticias/-
+/noticia/50684374/receita-bruta-da-lavoura-dos-cafes-do-brasil-
+prevista-para-2020-tem-aumento-de-25-em-comparacao-com-
+2019 > Acesso em: 10 mar. 2020. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+FALKER, Automação agrícola. Manual do medidor eletrônico de 
+teor clorofila (ClorofiLOG/CFL 1030). Porto Alegre, 2008. 33p. 
+
+FORMAGGIO,  A.  R.;  SANCHES,  I.  D.  Sensoriamento  Remoto  em 
+agricultura. São Paulo: Oficina de textos, 2017. 288p. 
+
+FURLANETTO,  R.H.;  NANNI,  M.R.;  CRUSIOL,  L.G.T.;  SILVA,  G.F.C.; 
+OLIVEIRA  JUNIOR,  A.  de.  Potencial  de  utilização  de  sensores 
+multiespectral  e  hiperespectral  no  estudo  de  diferentes  alvos 
+agrícolas.  In:  Jornada  Acadêmica  da  Embrapa  Soja,  XII,  2017, 
+Londrina, Anais... Londrina: Embrapa Soja, 2017. p. 146-154. 
+
+ 
+
+HUNT, E. R. EITEL, J.; DAUGHTRY, C.; LONG, D. Remote Sensing Leaf 
+Chlorophyll Content Using a Visible Band Index. Agronomy Journal, 
+[s.l.], v. 103, n. 4, p.1090-1099, julho 2012. 
+
+LIRA,  S.A.  Análise  de  correlação:  Abordagem  teórica  e  de 
+
+construção dos coeficientes com aplicações. 196 f. Dissertação 
+(Mestrado)  –  Curso  de  Ciências  Exatas,  Universidade  Federal  do 
+Paraná, Paraná, 2004. 
+
+infecção  por 
+MARTINS,  G.  D.  Inferência  dos  níveis  de 
+nematoides  na  cultura  cafeeira  a  parir  de  dados  de 
+sensoriamento remoto adquiridos em multiescala. 121 f. Tese 
+(Doutorado)  -  Curso  de  Ciências  Cartográficas,  Faculdade  de 
+
+Ciências e Tecnologia, Universidade Estadual Paulista, Presidente 
+Prudente, 2016. 
+
+MATIELLO, J. B.; SANTINATO, R.; ALMEIDA, S. R.; GARCIA, A. W. R. 
+Cultura de café no Brasil: Manual de recomendações. São Paulo: 
+Futurama Editora, 2016. 585p. 
+
+MCKINNON, T.; HOFF, P. Comparing RGB-based vegetation indices 
+imagery.  Boulder,  2017. 
+with  NDVI  for  agricultural  drone 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+em: 
+
+Disponível 
+https://agribotix.com/wp-
+content/uploads/2017/05/Agribotix-VARI-TGI-Study.pdf>  Acesso 
+em:12, mar. 2020. 
+
+< 
+
+OLIOSI, G.; RODRIGUES, J. O.; FALQUETO, A. R.; PIRES, F. R.; MONTE, 
+J. A.;  
+
+PARTELLI,  F.  L.  Fluorescência  transiente  da  clorofila  A  e 
+crescimento  vegetativo  em  cafeeiro  conilon  sob  diferentes 
+fontes nitrogenadas. Coffee Science, Lavras, v. 12, n. 2, p.248-259, 
+junho 2017. 
+
+ROUSE,  J.W.;  HAAS,  R.H.;  SCHELL,  J.A.;  DEERING,  D.W.  Monitoring 
+vegetation  systems  in  the  great  plains  with  ERTS.  In:  Third  ERTS 
+Symposium, Proceedings, NASA SP-351, NASA, Washington, DC, v. 1, 
+p. 309-317, 1973. 
+
+TARTAGLIA, F. L.; RIGHI, E. Z.; ROCHA, L.; LOOSE, L. H.; MALDANER, 
+
+I.  C.;  HELDWEIN,  A.  B.  Non-destructive  models  for  leaf  area 
+determination in canola. Revista Brasileira de Engenharia Agrícola 
+e Ambiental, Campina Grande -PB, v.20, n.6, p.551-556, abril 2016. 
+
+ 
+Publisher 
+
+Federal  de  Goiás. 
+
+Instituto  de  Estudos 
+Universidade 
+Socioambientais.  Programa  de  Pós-graduação  em  Geografia. 
+Publicação no Portal de Periódicos UFG. 
+As  ideias  expressadas  neste  artigo  são  de  responsabilidade  de 
+seus autores, não representando, necessariamente, a opinião dos 
+editores ou da universidade. 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+Mapeamento de parâmetros agronômicos do cafeeiro a partir de imagens tomadas por aeronave 
+remotamente pilotada 
+Pablo Henrique de Souza Assis    .     George Deroco Martins   .    Vinicius Silva Werneck Orlando      
+  
+
+Contribuições dos autores 
+
+ficou  especialmente 
+
+Todos  os  autores  ofereceram  substanciais  contribuições  científicas  e 
+intelectuais  ao  estudo.  As  tarefas  de  concepção  e  design  do  estudo, 
+preparação e redação do manuscrito, bem como, revisão crítica foram 
+desenvolvidos  em  grupo.  O  primeiro  autor  Pablo  Henrique  de  Souza 
+Assis 
+responsável  pelo  desenvolvimento 
+metodológico  e  pela  aquisição  dos  dados.  O  segundo  autor  George 
+Deroco  Martins,  pela  interpretação  e  análise  dos  dados  obtidos  bem 
+como pela tradução do artigo. O terceiro autor, Vinicius Silva Werneck 
+Orlando, pelos procedimentos técnicos e elaboração dos produtos. 
+.     .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pablo Henrique de Souza Assis, Graduado em Engenharia de 
+Agrimensura  e  Cartográfica  pela  Universidade  Federal  de 
+Uberlândia. Mestre em Agricultura e Informações Geoespaciais 
+pela Universidade Federal de Uberlândia. Atua como professor 
+convidado em Faculdades Associadas de Uberaba. 
+ 
+George  Deroco  Martins,  Engenheiro  Cartógrafo  e  Doutor  em 
+Ciências  Cartográficas.  Docente  da  Universidade  Federal  de 
+Uberlândia no Instituto de Geografia. Atualmente é coordenador 
+do  Programa  de  Pós-graduação  em  Agricultura  e  Informações 
+Geoespaciais da Universidade Federal de Uberlândia. 
+ 
+Vinicius Silva Werneck Orlando Graduado em Engenharia de 
+Agrimensura  e  Cartográfica  e  Mestre  em  Agricultura  e 
+Informações Geoespaciais pela Universidade Federal 
+de  Uberlândia.  Atualmente  é  Doutorando  em  Ciências 
+Cartográficas  pela  Faculdade  de  Ciências  e  Tecnologia  e  faz 
+doutorado sanduíche no Politécnico de Torino, Itália. Tem 
+direcionado  as  pesquisas  para  as  áreas  de  Sensoriamento 
+Remoto, utilizando análises de dados hiperespectrais e imagens 
+multiespectrais  nos  mais  variados  tipos  de  estresses  aos 
+cafeeiros, em especial a praga bicho-mineiro. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Data de recebimento: 17 de janeiro de 2022 
+Aceite: 18 de abril de 2023 
+Publicação: 31 de agosto de 2023 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e 63274 
+
+ 
+
+ 
+
+

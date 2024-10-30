@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/38bd4ec71eb443e988b63bd9aa911a9f/artifacts
+deleted_time: 1730154652099
+end_time: 1730151790653
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: 38bd4ec71eb443e988b63bd9aa911a9f
+run_name: respected-squid-111
+run_uuid: 38bd4ec71eb443e988b63bd9aa911a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730151784614
+status: 3
+tags: []
+user_id: rapha

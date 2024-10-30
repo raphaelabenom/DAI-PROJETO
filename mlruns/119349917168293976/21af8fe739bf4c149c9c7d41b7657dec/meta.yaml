@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/21af8fe739bf4c149c9c7d41b7657dec/artifacts
+deleted_time: 1730154652061
+end_time: 1730153354393
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: 21af8fe739bf4c149c9c7d41b7657dec
+run_name: abundant-rook-812
+run_uuid: 21af8fe739bf4c149c9c7d41b7657dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730153346380
+status: 3
+tags: []
+user_id: rapha

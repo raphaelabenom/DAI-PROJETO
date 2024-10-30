@@ -1,0 +1,1203 @@
+ 
+
+DOI: 10.5216/bgg.v43i01.69343 
+
+ 
+Simulação de desmatamento com base na 
+influência do aumento e redução de áreas 
+protegidas com estimativa de emissão de CO2 
+ 
+Deforestation simulation based on the influence of the 
+ increase and reduction of protected areas with  
+estimated CO2 emissions 
+ 
+Simulación de deforestación basada en la influencia del  
+aumento y reducción de áreas protegidas con  
+emisiones de CO2 estimadas 
+ 
+
+ 
+
+ 
+
+  Warlen Librelon de Oliveira  
+
+Universidade Federal de Minas Gerais- Minas Gerais – Brasil 
+ pesquisa@warlenlibrelon.com.br   
+
+  Marcelo Antonio Nero  
+
+Universidade Federal de Minas Gerais- Minas Gerais – Brasil 
+ marcelo.nero@gmail.com    
+
+ 
+
+ 
+
+Resumo O desmatamento de florestas no Brasil é um processo conhecido 
+de muitos anos. Recentemente com um destaque para a Amazônia, uma 
+vez  que  os  outros  biomas  como  a  Mata  Atlântica  já  perdeu  a  grande 
+maioria de sua área. Esse trabalho modelou o uso da terra no município 
+de  Itupiranga-PA,  a  partir  de  mapas  observados  entre  1985  e  2018  e 
+simulado  até  2030  para  um  cenário  tendencial  e  dois  cenários 
+alternativos,  sendo  um  otimista  e  outro  pessimista  sob  a  influência  de 
+áreas de proteção ambiental. A modelagem foi desenvolvida com o uso 
+do  software  tipo  open-source  Dinâmica  EGO,  o  qual  utiliza  modelos 
+estocásticos  de  Cadeias  de  Markov,  autômatos  celulares  e  pesos  de 
+evidência  que  são  calculados  para  cada  variável  preditiva  aplicada  à 
+modelagem. O modelo prevê um aumento em 24% de área desmatada na 
+simulação  tendencial.  Para  os  cenários  alternativos,  o  modelo  simulou 
+uma redução de desmatamento em 8%, 18% e 71% para um aumento de 
+9%, 18% e 46% respectivamente da área de proteção ambiental. E com 
+reduções de 9%, 17% e 45% da área de proteção, o modelo simulou um 
+aumento  de  7%,  14%  e  34%  respectivamente  no  desmatamento.  Foi 
+observado  a  relação  de  emissão  de  CO2  com  as  áreas  desmatadas, 
+
+ 
+
+DOI: 10.5216/bgg.v43i01.69343 
+
+confirmando a importância na preservação no combate ao efeito estufa e 
+aquecimento do clima. 
+Palavras-chave:  Desmatamento.  Emissões  de  carbono.  Uso  do  solo. 
+Dinâmica EGO, Modelagem ambiental. 
+ 
+Abstract  The  deforestation  of  forests  in  Brazil  is  a  process  known  for 
+many  years.  Recently  with  an  emphasis  on  the  Amazon,  since  other 
+biomes such as the Atlantic Forest have already lost the vast majority of 
+their area. This work modeled land use in the municipality of Itupiranga-
+PA, from maps observed between 1985 and 2018 and simulated until 2030 
+for a trend scenario and two alternative scenarios, one being optimistic 
+and the other pessimistic under the influence of environmental protection 
+areas.  The  modeling  was  developed  using  the  open-source  software 
+Dinâmica EGO, which uses stochastic models of Markov Chains, cellular 
+automata and weights of evidence that are calculated for each predictive 
+variable applied to the modeling. The model predicts a 24% increase in 
+deforested area in the trend simulation. For the alternative scenarios, the 
+model simulated a reduction in deforestation of 8%, 18% and 71% for an 
+increase of 9%, 18% and 46% respectively in the area of environmental 
+protection. And with reductions of 9%, 17% and 45% of the protected area, 
+the  model  simulated  an  increase  of  7%,  14%  and  34%  respectively  in 
+deforestation. The relationship between CO2 emissions and deforested 
+areas  was  observed,  confirming  the  importance  of  preservation  in  the 
+fight against the greenhouse effect and climate warming. 
+Keywords:  Deforestation.  Carbon  emissions.  Land  use.  Dinamica  EGO. 
+Environmental modeling. 
+ 
+Resumen La deforestación de bosques en Brasil es un proceso conocido 
+desde hace muchos años. Recientemente con énfasis en la Amazonía, ya 
+que otros biomas como la Mata Atlántica ya han perdido la gran mayoría 
+de su superficie. Este trabajo modeló el uso del suelo en el municipio de 
+Itupiranga-PA,  a  partir  de  mapas  observados  entre  1985  y  2018  y 
+simulados  hasta  2030  para  un  escenario  tendencial  y  dos  escenarios 
+alternativos, uno optimista y otro pesimista bajo la influencia de las áreas 
+de  protección  ambiental.  La  modelación  fue  desarrollada  utilizando  el 
+software  de  código  abierto  Dinâmica  EGO,  que  utiliza  modelos 
+estocásticos  de  Cadenas  de  Markov,  autómatas  celulares  y  pesos  de 
+evidencia  que  se  calculan  para  cada  variable  predictiva  aplicada  a  la 
+modelación.  El  modelo  predice  un  aumento  del  24%  en  el  área 
+deforestada  en 
+los  escenarios 
+alternativos, el modelo simuló una reducción de la deforestación del 8%, 
+18% y 71% para un aumento del 9%, 18% y 46% respectivamente en el 
+área de protección ambiental. Y con reducciones del 9%, 17% y 45% del 
+área  protegida,  el  modelo  simuló  un  aumento  del  7%,  14%  y  34% 
+respectivamente  en  la  deforestación.  Se  observó  la  relación  entre  las 
+emisiones de CO2 y las áreas deforestadas, lo que confirma la importancia 
+de  la  preservación  en  la  lucha  contra  el  efecto  invernadero  y  el 
+calentamiento climático. 
+Palabras  clave:  Deforestación.  Emisiones  de  carbon.  Uso  del  suelo. 
+Dinamica EGO, modelización medioambiental. 
+ 
+
+la  simulación  de  tendencias.  Para 
+
+ 
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+Introdução 
+
+O  processo  de  uso  e  ocupação  da  terra  na  Região  Amazônica 
+brasileira  são  resultados  da  interação  de  diversos  fatores,  a  saber: 
+expansão  da  agricultura,  pecuária,  desenvolvimento  de  estradas, 
+ocorrência de incêndios florestais, exploração madeireira, a limitação de 
+fiscalização, entre outros. Dentre esses fatores, ainda vale destacar os 
+processos  legais  e  ilegais  (PIONTEKOWSKI,  2014).  Em  contrapartida, 
+áreas que resultaram na redução do desmatamento tem relação direta 
+com a criação de áreas de proteção Ambiental (FEARNSIDE et al., 2009).  
+Se o ritmo das ações antrópicas continuar crescendo de forma 
+desordenada,  no  ano  de  2030  aproximadamente  63%  da  região  será 
+dominada  pelo  desmatamento,  com  uma  grande  probabilidade  de 
+escassez  dos  recursos  naturais.  Este  cenário  foi  observado  em  uma 
+
+modelagem  ambiental  desenvolvida  no  Sudeste  da  Amazônia  e  pode 
+contribuir  para  auxiliar  os  órgãos  públicos  e  privados  na  tomada  de 
+decisão para gestão ambiental (PIZANI; AQUINO, 2017). 
+
+A  expansão  dos  usos  antrópicos  condiciona  aumento  da 
+heterogeneidade  do  mosaico  da  paisagem  promovendo  aceleração 
+como observado na bacia hidrográfica do Rio Tocantinzinho (OLIVEIRA; 
+FARIA, 2021). 
+
+Entre os usos antrópicos que contribuem de forma relevante para 
+o  desmatamento  no  Brasil  é  a  formação  de  pastagem.  Além  desse 
+importante impacto negativo diretamente relacionado ao ambiente, a 
+pastagem  contribui  para  o  aumento  de  gases  de  efeito  estufa  (GEE) 
+através  da  produção  de  CO2.  Uma  das  formas  de  amenizar  esse 
+importante  impacto  é  a  restauração  das  pastagens  aliada  a  uma 
+estratégia  de 
+intensificação  mais  diversificado  de  práticas, 
+principalmente a suplementação com grãos para animais em pasto e 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+confinados, será mais eficaz em termos de retorno econômico e redução 
+de emissões de GEE (BATISTA et al., 2018). 
+
+A  agricultura  intensiva  pode  expandir  a  área  de  cultivo  e, 
+consequentemente, reduzir a área de habitat, promovendo a redução 
+da população de organismos, com a possibilidade de levar à extinção de 
+espécies  e  perda  de  serviços  ecossistêmicos  (GOULART;  CARVALHO-
+RIBEIRO; SOARES-FILHO, 2016). 
+
+A  modelagem  da  paisagem  pode  ser  trabalhada  com  diversas 
+técnicas  e  métodos  a  depender  do  objetivo  e  aprofundamento  que 
+deseja.  Desde  processos  mais  simplificados  que  não  requer  uso  de 
+variáveis explicativas como na aplicação do software livre (open-source 
+code) Dinamica EGO como em análises por classificação de uso da terra 
+por  software  de  geoprocessamento  e  uso  de  índices  para  apoiar  as 
+inferências como o índice de transformação antrópica aplicada na bacia 
+
+hidrográfica do rio Sepotuba no Mato Grosso (SILVA et al., 2021). 
+
+A modelagem para o desmatamento parte do princípio de existir 
+possíveis  variáveis  que  influenciam  no  processo,  seja  repelindo  ou 
+estimulando.  A  medição  do  grau  que  essas  variáveis  contribuem  na 
+dinâmica  da  paisagem  foi  denominada  de  peso  de  evidência.  Dessa 
+forma  os  pesos  de  evidência  equivalem  às  probabilidades  que  cada 
+célula  na  matriz  tem  e  termos  de  representação  da  paisagem  de  ser 
+desmatada. Esses pesos são calculados com base em pares de imagens 
+para cada tipo de variável que fará parte da modelagem (FEARNSIDE et 
+al., 2009). Tais pesos de evidência representam a influência das variáveis 
+explicativas com base na probabilidade de transição e são calculados a 
+partir da frequência de cada transição.  
+
+Como o método dos pesos de evidência é baseado no teorema 
+
+de  probabilidade,  é  necessário  selecionar  as  variáveis  explicativas 
+independentes para descrever a mesma transição e verificar se existem 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+correlações (PÉREZ-VEGA; MAS; LIGMANN-ZIELINSKA, 2012). O índice de 
+Cramer  é  aplicado  para  avaliar  a  presença  de  associação  ou 
+dependência espacial entre as variáveis (KRASKA-MILLER, 2014). O índice 
+varia  de  0  (zero),  refletindo  completa  independência,  a  1  (um), 
+mostrando completa dependência das variáveis. 
+
+Os  valores  dos  pesos  de  evidência  das  variáveis  utilizadas  na 
+análise do uso da terra, calculam as probabilidades de transição de cada 
+
+pixel.  Com  isso,  aos  pixels  são  atribuídos  os  respectivos  valores  de 
+probabilidade  para  uma  dada  transição  e  obtidos  os  mapas  de 
+probabilidade  para  as 
+(SOARES-FILHO; 
+RODRIGUES; COSTA, 2009). 
+
+transições  de 
+
+interesse 
+
+Vale a pena ainda, destacar alguns trabalhos recentes e que estão 
+dentro do campo da área de ciências ambientais, mais especificamente 
+do  tema  de  desmatamento,  objeto  de  estudo  do  presente  artigo,  a 
+
+saber:  1)  Soares-Filho  et  al.  (2023),  onde  os  autores  analisam  a 
+contribuição  das áreas  de proteção  na Amazônia para a conservação 
+florestal, analisando as emissões de CO2 e com emprego do software 
+livre Dinâmica EGO 7 (SOARES-FILHO et al., 2013); 2) Rocha et al (2022), 
+o qual trata do problema das queimadas e desmatamento nas regiões 
+do  Matopiba  (Maranhão,  Tocantins,  Piauí  e  Bahia),  além  do  Arco  de 
+Desmatamento 
+(Mato  Grosso  e  Norte  de  Goiás),  notadamente 
+reconhecidas como fronteiras de expansão das atividades agrícolas no 
+bioma,  onde  foram  aplicadas  técnicas  de  geoprocessamento  com 
+autocorrelação espacial pela ferramenta Emerging Hot Spot Analysis por 
+meio de análise temporal de no intervalo anula de 1999 à 2018; 3) Soares 
+et  al.  (2020),  onde  os  autores  aplicaram  a  simulação  de  análise  da 
+paisagem com emprego de Sistemas de Informação Geográfica, tendo 
+
+como área de estudo uma microbacia localizada no Município de Calinda 
+(MT) e realizando-se estudos de restauração florestal. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+O processo de modelagem Ambiental requer várias etapas que 
+antecipa a estimativa futura mediante a uma proposta de cenário. Esse 
+trabalho  desenvolveu  uma  modelagem  de  uso  da  terra  a  partir  de 
+mapas observados no período de 1985 a 2018, para simular a tendência 
+do desmatamento até 2030 com cálculo de emissão de CO2, bem como 
+avaliar dois cenários alternativos (otimista e pessimista) com alteração 
+no  tamanho  das  Áreas  de  Proteção  Ambiental  aplicando  as  mesmas 
+
+configurações  da  modelagem  tendencial.  A  área  de  estudo  foi  o 
+Município de Itupiranga-PA, onde já foram observadas alterações nas 
+Áreas  de  Proteção  Ambiental  ao  longo  da  história,  especialmente 
+relacionada  com  a  terra  indígena  Parakanã,  a  qual  registra  uma 
+diminuição de 35% da área a partir de sua regularização em 1980. 
+
+  
+Material e métodos 
+
+O desenvolvimento do trabalho se deu em etapas (Figura 1), onde 
+cada uma leva informações para as seguintes, concluindo no objetivo 
+central que foi o cálculo de emissão de CO2 para os cenários propostos. 
+Os cenários propostos foram definidos em dois grupos: (Otimista) 
+considerando  um  aumento  da  área  de  proteção  e  um  (Pessimista) 
+reduzindo a área de proteção. Para cada grupo foi criado 3 tamanhos e 
+
+proporções  diferentes  entre  eles,  com  o  objetivo  de  avaliar  se  existe 
+influência na simulação. Porém manteve os valores relativamente iguais 
+entre  os  dois  grupos  para  possível  comparação  entre  os  cenários 
+otimista  e  pessimista.  Os  percentuais  de  aumento  para  o  cenário 
+otimista foram 9%, 18% e 46% e de redução para o cenário pessimista 
+foram de 9%, 17% e 45%. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+Figura  1  –  Etapas  metodológicas  para  o  desenvolvimento  do  trabalho. 
+
+ 
+
+Fonte: Autores (2021) 
+ 
+O cálculo da matriz de transição representa a taxa de mudança 
+entre  os  usos  da  terra,  sendo  a  transição  de  floresta  para  área 
+antropizada  como  foco  da  modelagem  desse  trabalho,  apesar  do 
+modelo  apresentar  todas  as  transições.  Esse  processo  foi  executado 
+
+pela função Determine Transition Matrix. 
+
+Os pesos de evidência é a próxima etapa a ser processada para 
+avaliar  a  probabilidade  que  cada  variável  influencia  no  desatamento. 
+Porém  é  necessário  avaliar  possíveis  correlações  entre  as  variáveis  e 
+assim  excluir  possíveis  redundâncias.  O  índice  de  Cramer  é  uma  das 
+opções disponibilizados no software para avaliação da correlação entre 
+as variáveis. Após a determinação do índice e seleção das variáveis que 
+farão parte da modelagem, calcula-se os pesos de evidência, através da 
+função Determine Weigths of Evidance Range.  
+
+O  próximo  passo  de  acordo  com  a  estrutura  da  figura  1, 
+representa  a  calibração  do  modelo,  onde  é  produzido  os  mapas  de 
+probabilidade de desmatamento em função dos pesos de evidência e da 
+matriz de transição.  
+
+Seguindo  o  processo,  entra  a  etapa  de  validação  do  modelo 
+
+através  do  cálculo  de  similaridade  entre  os  mapas  resultantes  da 
+calibração. A função do software responsável por esse processo é a Calc 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+Multi  WindowSimilarity  of  Differences.  Para  validar  a  modelagem  foi 
+necessário verificar a similaridade do modelo simulado que utilizou os 
+pesos de evidência, os quais influenciam no processo, com um modelo 
+nulo que não possui interferências. Para que o modelo simulado fosse 
+aceitável,  a  condição  estabelecida  foi  de  estar  maior  que  no  modelo 
+nulo. 
+
+Com o modelo calibrado e validado o procedimento seguinte é a 
+
+simulação, o qual refere-se ao objetivo da pesquisa. Esse procedimento 
+é uma integração com todos os resultados obtidos nas etapas anteriores 
+diferenciando em função dos cenários de interesse. 
+
+Com os resultados da simulação foi aplicado os cálculos de CO2 
+para os cenários de interesse. Esse processo foi através da integração 
+do mapa de biomassa da região de estudo com a diferença entre o mapa 
+resultante da simulação com o mapa de referência de 2018. Por fim, com 
+
+o  uso  da  função  Calculate  Map  foi  feito  o  cálculo  de  CO2  para  cada 
+objetivo. 
+
+Área de Estudo 
+
+A modelagem para esse estudo foi desenvolvida para o Município 
+de Itupiranga – PA, localizado na Mesorregião do Sudeste Paraense e 
+
+Microrregião  de  Tucuruí.  Possui  uma  área:  7.879  km2  e  População: 
+51.832  habitantes.  As  áreas  protegidas  situadas  no  município 
+pertencem à Terra Indígena Parakanã. Ocupa uma área de 352.000(ha), 
+sendo 291.430(ha) no município de Itupiranga, equivalente a 16.79% da 
+área total. A figura 2 representa a área de estudo com destaque para 
+área de proteção ambiental (IBGE, 2017). 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+Figura 2. Área de estudo. Município de Itupiranga-PA 
+
+Fonte: Autores (2021) 
+
+ 
+
+ 
+
+Dados de entrada do modelo 
+
+Para a execução do modelo, foram incluídos dados de entrada 
+
+que inicializam os processos para obter os resultados. Para tal foi obtido 
+os mapas de uso da terra classificados pelo MapBiomas (MAPBIOMAS, 
+2018) referentes aos anos 1985, 2005 e 2018 (Figura 3). Cujo objetivo foi 
+a separação dos períodos de calibração (1985 a 2005) e validação (2005 
+a 2018). Para avaliar as possíveis influências nos desmatamentos, foram 
+definidas  as  variáveis  explicativas,  tais  como  tipos  de  solos,  tipos  de 
+vegetação,  assentamentos,  declividade  e  relevo  como  categóricas  e 
+hidrografia,  estradas,  áreas  protegidas,  aglomerações  urbanas  e 
+desmatamentos  como  variáveis  contínuas  representadas  por  mapas 
+(CSR, 2020). 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+Figura 3. Mapas de uso da terra de 1985, 2005 e 2018 
+
+ 
+Fonte: MapBiomas (MAPBIOMAS, 2018) 
+ 
+
+ 
+
+O quadro 1 apresenta as classes ajustadas para a modelagem a 
+
+partir da classificação fornecida pelo MapBiomas  
+
+Quadro 1. Classifcação ajustada para modelagem 
+Modelagem 
+
+Classificação MapBioma 
+
+Floresta 
+
+Área Antropizada 
+
+Água 
+
+Área não vegetada 
+
+Formação Florestal 
+Formação Savânica 
+
+Pastagem 
+
+Cultura Anual e Perene 
+Infraestrutura Urbana 
+
+Rio, Lago e Oceano 
+Formação Campestre 
+
+Outra Formação Natural não Florestal 
+
+Fonte: Autores (2021) 
+
+Estrutura da modelagem do Dinâmica EGO 
+
+O Dinamica EGO foi o software responsável por toda modelagem 
+do desmatamento e o software QGIS 3 (“QGIS  Geographic Information 
+
+System”,  2015) 
+foi  o  utilizado  para  algumas  operações  de 
+geoprocessamento e produção dos mapas. A figura 4 esboça a estrutura 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+da modelagem e suas interligações executadas pelo software Dinamica 
+EGO. 
+
+Figura 4: Estrutura da modelagem do Dinamica EGO 
+
+Fonte: Adaptado (SOARES-FILHO; H. O. RODRIGUES; W. L. COSTA, 2009)  
+
+                         
+
+ 
+
+Resultados e discussões 
+
+O processo inicial da modelagem consistiu no cálculo da matriz 
+de  transição  representada  pela  mudança  de  floresta  para  área 
+
+antropizada, o qual obteve uma taxa de 3,22% ao ano. Vale ressaltar que 
+o mapa de uso da terra foi reclassificado como apresentado no quadro 
+1,  para  que  a  representação  do  desmatamento  seja  coerente  e  a 
+dinâmica da transição seja entre duas classes. 
+
+Antes de calcular os pesos de evidência, foi aplicado o índice de 
+Cramer para avaliar possíveis correlações entre as variáveis. Com um 
+valor máximo de 0,50 para o índice de Cramer entre as variáveis, foram 
+
+consideradas  todas  as  variáveis  no  modelo.  Sendo  assim,  foram 
+calculados os pesos de evidência que representa a relação entre a taxa 
+de transição e uma variável explicativa na dinâmica do uso da terra. As 
+variáveis de entrada foram divididas em dois grupos, sendo um para 
+variáveis categóricas e outro para variáveis contínuas que representa a 
+influência  em  função  da  distância.  A  figura  5  apresenta  as  curvas 
+referentes aos pesos de evidência para cada variável analisada. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+O gráfico “a” da figura 5 representa a variável de aglomerações 
+urbanas que mostra a influência no desmatamento e pode observar que 
+até  próximo  de  17km  essa  influência  é  positiva  que  representa  uma 
+contribuição.  Após  essa  distância,  essa  variável  tende  a  repelir  o 
+desmatamento. Para os assentamentos  representado pelo gráfico  “b” 
+que  é  uma  variável  categórica 
+identifica  os  assentamentos  em 
+consolidação e em estruturação como contribuidores ao desmatamento 
+
+e demais tipos como repelidores. Para a variável elevação (gráfico “c”), 
+observa-se que até 152 m contribui para o desmatamento e acima desse 
+valor repele-se o desmatamento, onde as áreas mais planas facilitam 
+esse processo. O gráfico “d” representado pela variável de distância às 
+estradas e rodovias, contribui para o desmatamento até próximo de 1,2 
+km e acima desse valor existe a tendência de repelir progressivamente. 
+No  gráfico  “e”  representado  pela  variável  de  distâncias  à  rede 
+
+hidrográfica observa-se um comportamento peculiar, onde até 500 m 
+está repelindo o desmatamento, que pode ser explicado pela área de 
+inundação  natural  do  rio.  Após  essa  distância  existe  a  tendência  ao 
+desmatamento uma vez que a água é um recurso importante para uso 
+humano. Após 2km existe uma tendência de se repelir o desmatamento. 
+No gráfico “f” representado pela vegetação, a classe densa submontana 
+repele o desmatamento, enquanto as demais contribuem. Os tipos de 
+solo  representados  no  gráfico  “g”  possuem  apenas  o  argissolo  e  o 
+latossolo,  onde  o  latossolo  repele  o  desmatamento  e  o  argissolo 
+contribui.  Análogo  à  variável  de  elevação,  a  declividade  mostrada  no 
+gráfico  “h”  contribui  para  o  desmatamento  quando  possui  até  8%  e 
+acima  desse  valor  começa  a  repelir  o  desmatamento.  A  classe  áreas 
+protegidas  foram  definidas  como  variável  contínua  por  possuir  uma 
+
+expressiva área no município. Assim, o peso de evidência foi atribuído à 
+distância,  onde  observou-se  que  próximo  da  área  de  proteção 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+ambiental o desmatamento é repelido e à medida que afasta dessa área, 
+o desmatamento se intensifica. Por fim, no gráfico “j” representado pelas 
+distâncias  aos desmatamentos  já existentes, observa-se um  aumento 
+quando próximo os esses pontos previamente desmatados.  
+
+Figura 5 - Cálculos dos Pesos de Evidência. a) Aglomerações urbanas b) 
+
+Assentamentos c) Elevação d) Estradas e Rodovias e) Hidrografia f) Vegetação g) 
+
+Solos h) Declividade i) Áreas Protegidas j) Distâncias aos Desmatamentos 
+
+            
+
+ 
+
+Fonte: Autores (2021) 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+Após o procedimento de calibração do modelo, foram calculadas 
+as probabilidades de desmatamento com base nas variáveis de entrada 
+e nos pesos de evidência. As figuras 6 e 7 apresentam as probabilidades 
+de  desmatamento  para  2005  e  2018,  onde  as  áreas  mais  vermelhas 
+identificam a maior chance de evoluir com o desmatamento. Observa-
+se  também  e  de  forma  bem  evidente  o  quanto  a  área  de  proteção 
+ambiental contribui para segurar essa evolução no desmatamento. 
+
+Figura 6. Mapas de probabilidade de 2005 
+
+Fonte: Autores (2021) 
+
+ 
+
+Figura 7. Mapas de probabilidade de 2018 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Fonte: Autores (2021) 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+A figura 8 apresenta a curva de similaridade dos modelos, em que 
+foi constatado a janela 5x5 como melhor referência obtendo-se um valor 
+de 0,25 e 0,40 para o modelo nulo e simulado, respectivamente. Para 
+que  o  modelo  seja  melhor  que  o  modelo  nulo,  foi  necessário  usar  a 
+função Patcher. Essa função tenta reproduzir a estrutura da paisagem 
+evitando  a  formação  de  fragmentos  dispersos  de  células  únicas.  Ela 
+utiliza  um  procedimento  que  avalia  as  células  vizinhas  para  uma 
+
+transição  combinada.  Isso  é  feito  a  partir  da  definição  da  janela, 
+especificando o número de células ao redor da célula central, de acordo 
+com  suas  probabilidades  de 
+(SOARES;  CERQUEIRA; 
+PENNACHIN, 2002). 
+
+transição 
+
+Figura 8. Curva de similaridade entre modelos 
+
+Fonte: Autores (2021) 
+
+ 
+
+A similaridade do modelo que representa a validação obteve um 
+ganho de 15% comparado com o modelo nulo. Com o uso do Pacther, a 
+calibração  obteve  um  anho  de  15%  o  qual  cálculo  da  mancha  de 
+desmatamento resultou em 67,69 ha.  
+
+A simulação para o cenário tendencial que representa a evolução 
+do  desmatamento  considerando  as  condições  atuais,  obteve  um 
+
+aumento de 24%, representando uma área de 235.621,00 (ha) a mais do 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+que em 2018. As figuras 9 e 10 apresentam o resultado do modelo para 
+simulação tendencial entre 2018 e 2030. 
+
+Figura 9 - Mapa Simulado para 2018 
+
+Fonte: Autores (2021) 
+
+ 
+
+Figura 10 - Mapa Simulado para 2030 
+
+ 
+
+ 
+
+Fonte: Autores (2021) 
+
+Para  verificar  o  quanto  da  área  desmatada  representa  a 
+simulação tendencial, foi calculado o mapa de diferença entre 2018 e 
+
+2030,  obtendo-se  um  valor  de  235.621,00  ha  de  área  desmatada.  A 
+figura 11 mostra o mapa de diferença para esse cenário. 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+Figura 11 - Mapa de diferença no desmatamento na simulação tendencial 
+
+Fonte: Autores (2021) 
+
+ 
+
+ 
+A  simulação  futura  para  cenários  alternativos  foi  avaliada  para 
+
+uma condição otimista e outra pessimista, considerando o aumento e a 
+redução da  área  de  proteção  ambiental.  As  taxas  de  transição  foram 
+ajustadas  na  mesma  proporção  de  aumento  e  redução  da  área  de 
+proteção. 
+
+De acordo com os cenários alternativos descritos na metodologia, 
+a figura 12 apresenta os mapas de diferença nos desmatamentos para 
+o cenário otimista e a figura 13 para o cenário pessimista. Esses mapas 
+
+representam os desmatamentos adicionais, além dos já existentes em 
+2018. 
+
+  
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+Figura 12 - Mapas de desmatamento para cenário otimista. 
+
+Fonte: Autores (2021) 
+
+ 
+
+Figura 13 - Mapas de desmatamento para cenário Pessimista. 
+
+ 
+
+ 
+
+Fonte: Autores (2021) 
+
+ 
+Com  os  mapas  apresentados  nas  figuras  12  e  13,  foram 
+calculadas as áreas desmatadas pela simulação para cenário otimista e 
+
+pessimista  e  apresentado  na  tabela  1.  Para  o  cenário  alternativo 
+otimista, foi observado uma redução do desmatamento à medida que 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+aumenta  a  área  de  proteção.  Além  da  coerência  da  redução,  a 
+proporção  dessa  redução  acompanha  o  aumento  da  área.  Para  o 
+cenário pessimista, o efeito é similar e com relação inversa. À medida 
+que a área de proteção ambiental é reduzida o desmatamento aumenta. 
+Essa coerência com os resultados pode ser explicada com os valores de 
+correlação de Pearson para cada um dos cenários. Onde, os valores de 
+correlação  encontrados  foram  de  0.996  e  0.999  para  os  cenários 
+
+otimista e pessimista respectivamente. 
+
+Tabela 1. Resultado da área desmatada para os cenários 
+
+Cenário  Variação da área de 
+proteção ambiental 
+
+Área 
+
+Resultado 
+
+Desmatada 
+
+(ha) 
+
+Otimista  Aumento de 9% 
+Aumento de 18% 
+Aumento de 46% 
+
+Pessimista  Redução de 9% 
+Redução de 17% 
+Redução de 45% 
+
+Fonte: Autores (2021) 
+
+217.730  -8% 
+199.244  -18% 
+137.702  -71% 
+252.930  +7% 
+267.843  +14% 
+316.704  +34% 
+
+Após a modelagem de desmatamento, foi calculada a emissão de 
+CO2 para todos os cenários e apresentada uma curva acumulada para 
+o  período  de  simulação,  o  que  pode  ser  visualizado  na  figura  14.  O 
+modelo  converte  a  biomassa  em  Carbono  e  por  fim  para  Dióxido  de 
+Carbono. Como já retratado nos mapas de probabilidade, que as áreas 
+de proteção servem como um elemento de retardo no desmatamento, 
+a figura 14 identificada com os cenários 1, 2 e 3 (otimista) simularam 
+menores produções de CO2, quando comparadas com os cenários 4, 5 
+e  6  (pessimista)  que  representam  a  redução  da  área  de  proteção. 
+Observa-se  também  a  distância  da  curva  entre  o  cenário  2  e  3  são 
+maiores do que as curvas entre os cenários 1 e 2, demonstrando que o 
+
+percentual de aumento da área de proteção é diretamente proporcional 
+à  produção de  CO2. Para  o  cenário  pessimista,  o  comportamento  da 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+redução da área correlacionado com a produção de CO2 teve a mesma 
+analogia com o cenário otimista, porém com menor intensidade. Outra 
+inferência  importante,  é  a  observação  da  curva  tendencial,  que 
+representa  a  produção  de  CO2  em  função da  simulação  padrão  pelo 
+comportamento do período de calibração. Como a curva tendencial se 
+aproxima  da  curva  do  cenário  5,  podemos  inferir  que  existe  a 
+possibilidade futura de uma redução na área de proteção ambiental. 
+
+Figura 14 - Curva acumulada de emissão de CO2. Cenário 1, 2 e 3 otimistas, 
+
+cenários 4, 5 e 6, pessimista. 
+
+ 
+
+ 
+
+Fonte: Autores (2021) 
+
+ 
+
+A figura 15 mostra a correlação entre área desmatada e emissão 
+de CO2 para cada cenário modelado. Os cenários 1, 2 e 3 como otimista 
+e  cenários  4,5  e  6  como  pessimista.  A  coerência  nos  resultados 
+apresentados nesse gráfico pode ser observada na emissão de CO2 no 
+cenário  tendencial  próximo  da  média  dos  cenários  extremos,  o  que 
+pode indicar sérios problemas futuros com o desmatamento, uma vez 
+que esteja associado com a redução da área de proteção ambiental. O 
+gráfico mostra também a relação entre a redução de área desmatada, 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+promovendo  a  redução  de  emissões  de  CO2  e  o  aumento  da  área 
+desmatada, estimulando o aumento das emissões de CO2. Ao comparar 
+os cenários alternativos de aumento de área de preservação de 9%, 18% 
+e 46%, observa-se uma redução de 13%, 28% e 67% na produção de CO2 
+respectivamente  comparado  com  a  simulação  tendencial.  Com  o 
+resultado de 0.96 para correlação de Pearson, comparando a produção 
+de  CO2  com  a  área  desmatada,  explica  o  quanto  o  desmatamento 
+
+interfere na produção de CO2. 
+
+Figura 15. Área desmatada e emissão de CO2 para cada cenário 
+
+Fonte: Autores (2021) 
+
+ 
+
+Conclusões 
+
+A modelagem proposta nesse trabalho foi baseada na dinâmica 
+de uso da terra com base nos mapas classificados pelo MapBiomas e em 
+variáveis explicativas que contribuem com essa dinâmica. A estrutura 
+interna de processamento foi modelada a partir da matriz de transição 
+entre floresta e áreas antropizadas com uma taxa de 3,23% e com os 
+pesos  de  evidência  de  cada  variável  preditiva.  O  modelo  respondeu 
+
+adequadamente à simulação tendencial, onde foi observada a evolução 
+do  desmatamento  comparando  com  o  período  de  calibração  e 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+validação.  Considerando  um  cenário  tendencial  até  2030,  o  modelo 
+prevê um aumento de 24% no desmatamento com base na simulação 
+entre 1985 e 2018. É sabido que áreas de proteção ambiental exerce 
+uma  resistência  ao  desmatamento  próximo  aos  seus  limites,  criando 
+uma  faixa  com  menor  impacto.  Com  isso,  as  simulações  alternativas 
+propondo aumentos na área de proteção, demonstraram redução no 
+desmatamento em 8%, 18% e 71% com base no aumento da área de 
+
+proteção em 9%, 18% e 46% respectivamente. Da mesma forma que as 
+simulações  na  redução  de  9%,  17%  e  45%  da  área  de  proteção 
+ambiental, poderá aumentar em 7%, 14% e 34% no desmatamento do 
+município. Em uma relação do desmatamento com a emissão de CO2, 
+foi  constatado  na  simulação  que  o  cenário  tendencial  remete  ao 
+equivalente  a  uma  redução  da  área  de  proteção  ambiental  de  17%. 
+Podendo  ser  pior  se  não  houver  uma  mudança  na  tendencia  e  ao 
+
+mesmo tempo for reduzido a área de proteção ambiental. A relação de 
+emissão de CO2 com as áreas desmatadas em paralelo com áreas de 
+proteção  ambiental,  estando  correlacionados  como  o  modelo 
+demonstrou, explica a importância das florestas no combate ao efeito 
+estufa e aquecimento do planeta. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+Referências 
+
+BATISTA, E. et al. Large-scale pasture restoration may not be the best 
+option to reduce greenhouse gas emissions in Brazil. Environmental 
+Research Letters, n. December 2016, p. 11–14, 2018.  
+
+CSR. Centro de Sensoriamento Remoto - Instituto de Geociências- 
+UFMG.  Disponível  em:  <https://maps.csr.ufmg.br/>.  Acesso  em:  10 
+ago. 2020.  
+
+FEARNSIDE, P. M. et al. Modeling of deforestation and greenhouse-gas 
+emissions in the area of influence of the Manaus-Porto Velho (BR-319). 
+Revista Brasileira de Meteorologia, v. 24, n. 2, p. 208–233, 2009.  
+
+GOULART,  F.  F.;  CARVALHO-RIBEIRO,  S.;  SOARES-FILHO,  B.  Farming-
+Biodiversity  Segregation  or  Integration?  Revisiting  Land  Sparing 
+versus Land Sharing Debate. Journal of Environmental Protection, 
+v. 07, n. 07, p. 1016–1032, 2016.  
+
+KRASKA-MILLER,  M.  Nonparametric  statistics  for  social  and 
+behavioral sciences. Nova York: CRC Press, 2014.  
+
+MAPBIOMAS. Sistema de Validação e Refinamento de Alertas de 
+Desmatamento  com  Imagens  de  Alta  Resolução.  Disponível  em: 
+<http://mapbiomas.org>.  
+
+OLIVEIRA,  R.  B.  DE;  FARIA,  K.  M.  S.  DE.  Análise  multitemporal  da 
+dinâmica  da  paisagem  da  bacia  hidrográfica  do  rio  Tocantinzinho. 
+Revista Caminhos da Geografia, v. 22, n. 81, p. 74–87, 2021.  
+
+PÉREZ-VEGA,  A.;  MAS,  J.  F.;  LIGMANN-ZIELINSKA,  A.  Comparing  two 
+approaches to land use/cover change modeling and their implications 
+for the assessment of biodiversity loss in a deciduous tropical forest. 
+Environmental Modelling and Software, v. 29, n. 1, p. 11–23, 2012.  
+
+PIONTEKOWSKI, V. J. Modelagem da dinâmica do Uso e Cobertua 
+da  Terra  do  Estado  de  Rondônia  até  2050.  Departamento  De 
+Engenharia Florestal, p. 88, 2014.  
+
+PIZANI, F. M. C.; AQUINO, J. N. Modelagem do Desmatamento da 
+Porção Sudeste da Amazônia Utilizando o Dinamica EGO. p. 6–9, 
+2017.  
+
+QGIS  Geographic  Information  System.,  2015.  Disponível  em: 
+<www.qgis.org> 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+ROCHA, M. I. S.; NASCIMENTO, D. T. F. Padrões e tendências espaço-
+temporais da ocorrência de queimadas no cerrado entre 1999 e 2018. 
+Boletim  Goiano  de  Geografia,  Goiânia,  v.  42,  n.  01,  2022.  DOI: 
+10.5216/bgg.v42.70659.  Acesso em: 9 maio. 2023.  
+
+SILVA, G. DE J. O. et al. Dinâmica Da Cobertura Vegetal E Uso Da Terra 
+Da Bacia Hidrográfica Do Rio Sepotuba-Mt, Brasil. Revista Caminhos 
+De Geografia, v. 53, n. 9, p. 1689–1699, 2021.  
+
+SOARES,  D.  R.;  SAIS,  A.  C.;  OLIVEIRA,  R.  E.  de.  Análise  Da  Estrutura 
+Espacial  Da  Paisagem  A  Partir  Da  Proposição  De  Cenários  De 
+Restauração Florestal Em Uma Microbacia Hidrográfica Na Amazônia 
+Mato-Grossense. Boletim Goiano de Geografia, Goiânia, v. 40, n. 01, 
+p.  1–23,  2020.  DOI:  10.5216/bgg.v40i01.63175.  Acesso  em:  9  maio. 
+2023. 
+
+SOARES-FILHO, B. S. et al. Contribution of the Amazon protected areas 
+program to forest conservation. Biological Conservation, v. 279, p. 
+109928, 2023. https://doi.org/10.1016/j.biocon.2023.109928 
+
+SOARES-FILHO, B. S.; H. O. RODRIGUES; W. L. COSTA. Guia Prático do 
+Dinamica EGO. p. 145, 2009.  
+
+for  calibrating 
+
+SOARES-FILHO, B.; RODRIGUES, H; FOLLADOR, M. A hybrid analytical-
+heuristic  method 
+land-use  change  models. 
+Environmental  Modelling  &  Software,  v.  43,  p.  80-87,  2013. 
+Disponível 
+em 
+<https://www.sciencedirect.com/science/article/pii/S1364815213000
+236>   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+Simulação de desmatamento com base na influência do aumento e redução de áreas protegidas com 
+estimativa de emissão de CO2 
+ Warlen Librelon de Oliveira    .   Marcelo Antonio Nero   
+
+Publisher 
+
+Universidade  Federal  de  Goiás.  Instituto  de  Estudos  Socioambientais. 
+Programa  de  Pós-graduação  em  Geografia.  Publicação  no  Portal  de 
+Periódicos UFG. 
+As  ideias  expressadas  neste  artigo  são  de  responsabilidade  de  seus 
+autores,  não  representando,  necessariamente,  a  opinião  dos  editores 
+ou da universidade. 
+
+ 
+Contribuições dos autores 
+
+Todos  os  autores  ofereceram  substanciais  contribuições  científicas  e 
+intelectuais ao estudo. As tarefas de concepção e design do estudo e 
+preparação  do  manuscrito,  bem  como,  revisão  crítica 
+foram 
+desenvolvidas em grupo. O primeiro autor Warlen Librelon de Oliveira 
+foi responsável pelo desenvolvimento do artigo, com a estruturação do 
+texto,  escrita,  construção  e  execução  do  modelo  de  simulação  do 
+desmatamento  e  análise  dos  resultados;  segundo  autor  Marcelo 
+Antonio Nero contribuiu no planejamento, elaboração de revisão e da 
+atualização bibliográfica, conceitos, revisão das críticas feitas por parte 
+dos consultores da revista e revisão final antes do envio definitivo para 
+o periódico. 
+ 
+ 
+.     .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Warlen  Librelon  de  Oliveira  Acadêmico  e  pesquisador. 
+Bacharelado na engenharia ambiental no Centro Universitário 
+Newton  Paiva,  com  pesquisa  na  área  de  materiais 
+desenvolvendo um compósito de fibra de coco. Mestrado na 
+engenharia  mecânica  pela  Universidade  Federal  de  Minas 
+Gerais com a pesquisa voltada para indústria automobilística 
+na  área  de  engenharia  química.  Doutorado  no  Instituto  de 
+Geociências,  departamento  de  cartografia  da  Universidade 
+Federal de Minas Gerais no programa de doutorado em Análise 
+e modelagem de Sistemas Ambientais. 
+ 
+Marcelo Antonio Nero Atualmente é Prof. Adjunto C, Nível 04, 
+do  Departamento  de  Cartografia  da  Universidade  Federal  de 
+Minas Gerais, credenciado no Programa de Pós-Graduação em 
+Análise  e  Modelagem  de  Sistemas  Ambientais  (linha  de 
+pesquisa  de  qualidade  temática  e  orientação  de  mestrado  e 
+doutorado),  orientador  de  alunos  de 
+iniciação  científica, 
+pesquisador/consultor  do  Laboratório  de  Geotecnologias 
+(GEOTEC/IGC/UFMG) 
+
+Data de recebimento 17 de janeiro de 2022 
+Aceite em 18 de abril de 2023 
+Publicação em 20 de outubro de 2023 
+
+ 
+
+Boletim Goiano de Geografia. 2023, v.43: e69343 
+
+ 
+
+ 
+
+

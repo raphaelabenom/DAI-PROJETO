@@ -1,0 +1,957 @@
+DOSSIÊ 
+
+UM “ARREMEDO DE PENITENCIÁRIA”: TRABALHO E PUNIÇÃO NA CADEIA PÚBLICA DE FORTALEZA 
+
+(1850 – 1888) 
+
+A "MOCKERY OF PENITENTIARY": LABOR AND PUNISHMENT IN THE FORTALEZA PUBLIC PRISON (1850 - 1888) 
+Silviana Fernandes Mariz∗ 
+silviana_mariz@unilab.edu.br 
+RESUMO: O presente artigo aborda as relações entre trabalho, prisão e cidadania no Ceará a partir de 
+estudo sobre a sua primeira Cadeia Pública, construída no século XIX. Com a pretensão de ser mais um 
+instrumento de adequação da cidade de Fortaleza aos ideais das “nações civilizadas”, a Cadeia Pública 
+foi marcada pela precariedade de recursos e das formas de uso do trabalho de presos como pena e 
+readequação do indivíduo às normas da sociedade. Os relatórios provinciais analisados elencam as 
+dificuldades do projeto e as diferentes concepções sobre a função do trabalho de presos antes e depois 
+da abolição da escravatura. 
+PALAVRAS-CHAVE: Trabalho; Cadeia Pública; Século XIX. 
+ABSTRACT: The present article addresses the relations between labor, prison and citizenship in Ceará 
+based on a study of its first Public Jail, built in the 19th century. Intended to be one more instrument 
+of adequacy of the city of Fortaleza to the ideals of "civilized nations", the Public Prison was marked 
+by the precariousness of resources and the ways of using the prisoners' work as a punishment and 
+readjustment  of  the  individual  to  the  norms  of  society.  The  provincial  reports  analyzed  list  the 
+difficulties of the project and the different conceptions about the function of prison labor before and 
+after the abolition of slavery. 
+KEYWORDS: Labor; Public Jail; 19th century. 
+
+Introdução 
+
+A  primeira  Cadeia  Pública  do  Ceará,  localizada  na  cidade  de  Fortaleza,  teve  sua 
+construção  iniciada  em  1850  e  inaugurada  em  18661.  Ela  foi  construída  seguindo  as 
+orientações do Código de Reforma do Processo Criminal de 1841 que ainda previa penas de 
+morte  e  de  galés  perpétuas,  mas,  ao  mesmo  tempo,  inspirada  nos  modelos  das  “prisões 
+filantrópicas” francesas e do modelo norte-americano de Auburn2, que se caracterizavam pelo 
+discurso humanizador da pena como instrumento de “ressocialização” através da disciplina 
+do isolamento e das oficinas de trabalho. Dito isto, ela se baseava, ao mesmo tempo, em uma 
+
+ 
+
+∗ Professora Adjunta da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB). Doutora 
+em Educação (Universidade Federal do Ceará). 
+1 Desativada em 1967, hoje ela é sede do Centro de Turismo do Estado. 
+2  O  modelo  auburniano,  proveniente  da  cidade  de  Nova  York,  se  tornou  ao  longo  do  século  XIX  padrão 
+internacional  de  prisões.  Ele  tem  como  princípio  a  criação  de  espaços  comuns  aos  presos  para  praticarem 
+trabalhos  em  conjunto,  diferenciando-se  dos  modelos  anteriores  que  defendiam  o  isolamento  total  dos 
+encarcerados. O modelo de Auburn permitia um convívio apenas limitado entre os presos. Seu principal objetivo 
+era  a  criação  de  uma  penitenciária  que  pudesse  produzir  recursos  para  sua  própria  manutenção,  ou  seja, 
+adotaram o trabalho durante o dia como forma de regeneração do indivíduo (OLIVEIRA, 2007).  
+
+Hist. R., Goiânia, v. 27, n. 1, p. 5–24, jan./abr. 2022 
+
+Recebido em 31 de agosto de 2022 
+
+Aprovado em 15 de janeiro de 2023 
+
+DOSSIÊ 
+
+6 
+
+política penal para uma ordem escravocrata e no disciplinamento para uma sociedade de 
+trabalhadores assalariados.  
+
+Embora  tenha  passado  por  várias  modificações  na  tentativa  de  se  adequar  aos 
+modelos de inspiração, a Cadeia Pública foi, desde sua fundação, marcada pela precariedade 
+e pela superlotação, asseverando uma das teses de Michel Foucault (1979) sobre o “fracasso 
+da  prisão”  como  projeto.  Segundo  o  historiador  francês,  a  prisão  não  teria  como  função 
+reduzir ou acabar com a criminalidade, mas, através da gestão diferencial dos ilegalismos, 
+favorecer  a  reincidência  e  encerrar  os  sujeitos  em  carreiras  criminais,  produzindo  uma 
+delinquência politicamente dócil e economicamente útil. Por outro lado, a precariedade da 
+Cadeia Pública e de seu funcionamento, além de demonstrar o “fracasso da prisão”, torna 
+evidente a dificuldade de um projeto de “sociedade disciplinar” no Brasil.  
+
+Sendo assim, antes de adentrar o estudo, é preciso refletir sobre uma maneira de 
+abordar  a  realidade  brasileira  em  sua  especificidade.  Oliveira  (2010),  por  exemplo, 
+problematiza o uso da leitura foucaultiana na história do Brasil, indagando se, diante da matriz 
+escravocrata e colonial, não estaríamos em uma “sociedade indisciplinar”. No mesmo sentido, 
+leituras recentes sobre a história da prisão no Brasil (BRETAS et al, 2009; KOERNER, 2001; 
+2006) indicam o quanto as relações disciplinares conviveram de modo por vezes aberto com 
+práticas não modernas de suplício e de punição: 
+
+A prisão era a forma de punição predominante no Código Criminal de 1830. 
+O Código baseava-se no modelo penitenciário, buscando a regeneração dos 
+indivíduos  pelo  silêncio,  pela  solidão,  pela  reeducação  moral,  através  do 
+trabalho e treinamento profissional. Esse modelo supunha a construção de 
+várias penitenciárias adequadas ao novo sistema de penas. No entanto, além 
+de problemas orçamentários, esse sistema enfrentava aqueles derivados da 
+própria  estrutura  social.  Como  aplicar  o  princípio  da  regeneração  dos 
+criminosos aos escravos? Como pretender a regeneração dos indivíduos pelo 
+trabalho numa sociedade que degradava o próprio trabalho? Como levar em 
+conta  as  diferenças  de  "condição"  dos  indivíduos  na  aplicação  da  pena? 
+(KOERNER, 2001, p. 1-2). 
+
+Não se trata, nesse sentido, apenas de falar do “fundo supliciante” e residual ainda 
+presente  nas  instituições  prisionais  europeias  (FOUCAULT,  2014),  mas  de  núcleos  e 
+ramificações muito menos expressivas de mecanismos disciplinares, convivendo com práticas 
+privatizadas de punição pela violência. Assim, embora o país seja marcado pela aceitação de 
+ideias modernizantes do sistema penitenciário, estas se modificam quando se enredam nas 
+raízes de uma sociedade privatista e de um Estado patrimonialista. 
+
+Silviana Fernandes Mariz. UM “ARREMEDO DE PENITENCIÁRIA” 
+
+7 
+
+DOSSIÊ 
+ 
+
+O sistema penal no Brasil se constitui de maneira embrionária com a chegada da 
+família real (1808). Não se poderia, no entanto, falar propriamente de um sistema carcerário, 
+pois a prisão no Brasil era usada como local onde se ficava esperando pelo julgamento, o que 
+resultava muita das vezes em morte pela precariedade alimentar e sanitária ou pelo açoite. 
+Com o Código Criminal de 1830, a pena de prisão no Brasil é introduzida em duas formas 
+distintas: a prisão simples e a prisão com trabalho (que podia ser perpétua). Embora a Casa 
+de Correção da Corte pretendesse servir de modelo,3 a legislação não estabelece nenhum 
+sistema penitenciário específico, pois ficava a cargo dos governos provinciais a escolha do tipo 
+de prisão e seus regulamentos.  
+
+Sendo  assim,  mesclavam-se,  nesta  época,  práticas  modernizadoras  -  oficinas  de 
+trabalho, pátios e celas individuais, preocupações sanitárias – com práticas arcaicas. Nesse 
+sentido, ao analisar a Casa de Correção da Corte, Koerner (2001, p. 2) aponta que: 
+
+As características das prisões do Império são mais do que deformações de 
+um modelo, em virtude de ter sido malfeita a cópia de instituições europeias. 
+A  análise  da  confusão  e  precariedade  aparentes  da  Casa  de  Correção  da 
+Corte,  a  penitenciária  panóptica  brasileira,  permite  identificar  as  relações 
+existentes  entre  as  práticas  punitivas  estatais  e  a  estrutura  da  sociedade 
+escravista brasileira do século XIX [...] O sistema punitivo da Casa de Correção 
+seguia  a  economia  dos  castigos  da  sociedade  escravista.  O  sistema  de 
+isolamento, cujo objetivo suposto era reformar a consciência moral do preso, 
+transformava-se na pena mais adequada para os escravos, por ser a mais 
+cruel e destinar-se a indivíduos considerados irrecuperáveis. Consideradas as 
+condições de higiene da prisão, o enclausuramento dos condenados a penas 
+mais longas significava sua condenação à morte.  
+
+Como se conciliaram, então, a “humanização da pena” e o trabalho como forma de 
+reintegração  em  Cadeias  Públicas  que  abrigavam  pobres  livres  e  escravizados,  homens  e 
+mulheres? Como as formas de punição expressam os significados da cidadania no Brasil, na 
+transição de uma sociedade escravista para uma sociedade assalariada? 
+
+É tendo em vista essas questões que abordamos a Cadeia Pública de Fortaleza. Na 
+primeira seção, apresentamos um panorama geral da Cadeia Pública com o intuito de analisar 
+o seu processo de construção e de funcionamento, sublinhando as deficiências e os limites de 
+um  projeto  modernizador  da  cidade  de  Fortaleza  defendido  com  veemência  pelas  elites 
+políticas,  sobretudo  a  partir  de  1880.  Na  segunda  seção,  analisamos  as  tentativas  de 
+
+ 
+
+3 “A Casa de Correção da Corte começou a ser construída em 1833, mas só foi inaugurada em 1850. A de São 
+Paulo  foi  inaugurada  em  1852,  mas  o  projeto  datava  de  1825.  Havia  também  propostas  para  Salvador, 
+Pernambuco, Goiás e Maranhão, que não foram levadas adiante” (KOERNER, 2001, p. 2) 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 5–24, jan./abr. 2022 
+
+DOSSIÊ 
+
+8 
+
+implantação  do  trabalho  no  cotidiano  da  Cadeia  a  partir  de  uma  justificativa  que  se 
+desdobrava em dois eixos, um econômico que sustentava a necessidade de assegurar recursos 
+próprios  para  o  funcionamento  da  instituição,  sem  depender  do  erário  público,  e  um 
+ideológico que acionava o discurso da reabilitação do preso. 
+
+A  base  documental  da  investigação  inclui  primordialmente  os  relatórios  de 
+presidente de província e da chefatura de polícia, bem como decretos e regulamentos que 
+normatizavam  o  funcionamento  da  instituição  em  seus  importantes  aspectos,  tais  como 
+dotação  orçamentária  da  cadeia;  trânsito  de  visitantes  em  seu  interior;  acomodação, 
+classificação  e  separação  de  presos;  funcionamento  de  seus  equipamentos  internos 
+(enfermaria, escola, capela e oficinas de trabalho) e, finalmente, a indicação das reformas 
+necessárias ao seu pleno funcionamento como instituição adequada às luzes do século XIX.  
+
+A condução tanto da pesquisa quanto das análises esteve marcada pela necessidade 
+de  compreender  a  Cadeia  Pública  em  meio  a  um  complexo  cenário,  nacional  e  local,  que 
+conciliava  interesses  aparentemente  antagônicos,  mas  plenamente  possíveis  de  serem 
+conjugados numa sociedade que, desde 1808, vinha se constituindo ao mesmo tempo como 
+liberal  e  escravocrata,  tanto  seduzida  pelo  ideário  iluminista  quanto  agarrada  ao  peso  da 
+herança colonialista patrimonial. É desse cenário embaçante que destacamos e centralizamos 
+a cadeia pública como epítome da sociedade brasileira e dos limites de sua chamada belle 
+époque.    
+
+A Cadeia Pública de Fortaleza: um projeto em permanente construção  
+
+No  Ceará,  a  Cadeia  Pública  não  foi  o  primeiro  instrumento  de  punição.  Antes,  a 
+“justiça”  se  fazia  na  Cadeia  do  Crime,  assim  chamada  nos  relatórios  de  presidentes  de 
+província para referir as prisões subterrâneas do quartel de polícia, localizadas no Forte de 
+Nossa Senhora d’Assunção – e na Casa de Correção.  
+
+ Diferença  entre  uma  e  outra?  Enquanto  a  Cadeia  do  Crime  destinava-se 
+exclusivamente aos criminosos considerados como sem qualquer perspectiva de regeneração 
+moral  e  de  reinserção  na  sociedade,  a  Casa  de  Correção  era  multifuncional:  da  prisão  de 
+infratores e delituosos ao usufruto de famílias abastadas, necessitadas, de alguma forma, de 
+suas ações, tais como a permissão para que senhores de escravos que quisessem vender a sua 
+escravaria, mas não dispusessem de condições de mantê-la na própria residência, pudessem 
+
+Silviana Fernandes Mariz. UM “ARREMEDO DE PENITENCIÁRIA” 
+
+9 
+
+DOSSIÊ 
+ 
+
+deixá-la em algum lugar seguro; ou para punir os filhos que não aceitavam o modelo vigente 
+da sociedade fortalezense; ou ainda para ensinar ofícios aos escravos domésticos ou mesmo 
+puni-los (RELATÓRIO, 1822). Essa multiplicidade de funções variava de acordo com o poder 
+aquisitivo de quem mandava enviar aqueles que seriam futuros internos da instituição. De 
+acordo com relatório de 1841: 
+
+Este edifício  [a casa de  correção], que tem servido de summa utilidade á 
+Província,  conta  hoje  com  trinta  e  um  detidos,  sendo  vinte  e  cinco 
+sentenciados pelo Juiz, incluidas seis mulheres, um corrigivel, uma corrigivel, 
+e quatro escravos, sendo dous para apprenderem o officio de çapateiro por 
+ordem  de  seus  senhores  e  dous  á  pedido  de  seus  donos  athe  acharem 
+compradores.  Essa  caza  tem  servido  de  azilo,  e  de  correcção  a  muitos 
+escravos, e também nella tem achado descanço as suas libertinagens dous 
+filhos familias, um em 1836, e outro em 1838. (RELATÓRIO, 1841) 
+
+O Regulamento da Casa de Correção previa, nos artigos 8º, 9º e 10º, o recebimento 
+de  público  diversificado  socialmente.  A  diferenciação  se  dava  na  punição  quanto  à 
+desobediência: enquanto ao filho-família (“filho de família”), conforme expressão dos chefes 
+de polícia da época, se destinava a prisão, por oito dias, em solitária ou um mês para prisão 
+simples, aos escravizados recaía punição bem mais severa, prevista no artigo 24, onde se lê: 
+“Art. 24 – Os escravos que estiverem na casa de correcção poderão nas faltas mais graves e 
+quando  se  tornarem  incorrigíveis  ser  castigados  com  açoites  ou  palmatoadas,  nunca 
+excedendo de trinta por cada vez.” (BARROSO, 1863)  
+
+Outra diferença entre a Casa de Correção e a Cadeia do Crime era que enquanto, para 
+a primeira, os internos eram encaminhados pelos senhores abastados das famílias tradicionais 
+da cidade (estivessem eles enviando seus filhos ou seus escravos); para a Cadeia do Crime, o 
+encaminhamento era feito sob ordens e orientação do Estado. Vários foram os envolvidos em 
+contestações políticas e acusados de conduta imoral e personalidade desviante: Bárbara de 
+Alencar e Tristão Gonçalves provavelmente sejam os mais conhecidos, porque lá estiveram 
+até a morte.4 
+
+ A partir da conclusão de parte das obras da cadeia, deu-se o fechamento de ambas 
+as instituições: aqueles considerados mais perigosos e contagiosos seriam mandados para 
+Fernando de Noronha, os demais foram transferidos para o novo prédio. Entretanto, a Casa 
+
+ 
+
+4 Mãe e filho, respectivamente, ambos participaram da Revolução Pernambucana (1817) e da Confederação do 
+Equador (1824) na tentativa de fazer reverberar reivindicações políticas liberais e republicanas no Ceará. No caso 
+específico de Tristão Gonçalves, ele chegou a ser governador de província do Ceará no curto período entre abril 
+e outubro de 1824, como desdobramento de sua intensa atuação política na Confederação do Equador.     
+
+Hist. R., Goiânia, v. 27, n. 1, p. 5–24, jan./abr. 2022 
+
+DOSSIÊ 
+
+10 
+
+de Correção não foi transformada na Cadeia Pública. Apenas os detentos foram transferidos, 
+visto que a Cadeia por um longo período, até o fim oficial da escravidão no Brasil, permaneceu 
+como  instrumento  de  apreensão  e  prisão  de  escravizados  fugidos  ou  que  os  senhores 
+quisessem punir. 
+
+Enfim,  as  atividades  outrora  desempenhadas  pela  Casa  de  Correção  foram 
+tradicionalmente mantidas pelos chefes de polícia e carcereiros: senhores chefes de família 
+possuidores de escravizados considerados de comportamento rebelde ou metidos a valentões 
+podiam contar com a colaboração dos serviços da Cadeia Pública a fim de ter a boa ordem 
+restabelecida dentro do seu lar ou comércio. Mesmo após a abolição no Ceará, em 1884, os 
+administradores da Cadeia se mostraram, por vezes, inconformados e inflamados contra tal 
+mudança (RELATÓRIO, 1883). 
+
+A construção da Cadeia Pública inicia em 1848, durante o governo de Fausto Augusto 
+de Aguiar que concedeu a autorização para a realização das obras. Também chamada de casa 
+penitenciária, ela teria orçamento próprio, seria construída utilizando-se a mão-de-obra de 
+presos  condenados  ao  trabalho  forçado  (chamados  de  “calcetas”)  e  seguiria  o  modelo 
+prisional  norte-americano  de  Auburn,  considerado,  à  época,  um  dos  melhores  e  eficazes 
+modelos, por manter como um dos principais regulamentos o silêncio durante todo o dia. 
+Apesar de a data informada ter sido 1848, segundo outros relatórios, verificou-se que a cadeia 
+só teve sua construção iniciada em 1851, se estendendo até o ano de 1866; sendo que, em 
+1855,  já  tinha  recebido  a  transferência  dos  primeiros  detentos  transferidos  da  Casa  de 
+Correção. 
+
+A  Cadeia  Pública  parece  ter  sido  uma  obra  sem  fim,  sempre  sendo  alterada  e 
+reformada, sem nunca parecer chegar a um resultado. As reformas nela implementadas eram 
+justificadas  pela  má  conclusão  das  obras  (falta  de  um  estudo  higienista  combinado  aos 
+estudos  arquitetônicos)  e  pela  superlotação  que  nunca  parecia  ser  solucionada.  Além  da 
+constante  alteração  nos  moldes  das  celas,  houve  também  uma  ampliação  no  número  de 
+células  penais  e  um  aumento  no  número  das  demais  dependências  da  cadeia,  as  quais 
+aconteceram somente após a estipulação do Regulamento de 1884, o qual previa a existência 
+de escola, salas variadas para a realização de diversos trabalhos, sala para o culto religioso, 
+enfermaria e banheiros. 
+
+Silviana Fernandes Mariz. UM “ARREMEDO DE PENITENCIÁRIA” 
+
+11 
+
+DOSSIÊ 
+ 
+
+Essas alterações na cadeia se deram de maneira lenta e discordante com as diretrizes 
+penais. A higiene, a implementação de oficinas de trabalho, a vigilância e a regulação das 
+visitas, o controle de bebidas alcoólicas, entre outros itens, todos esses aspectos mostram 
+como  os  problemas  para  os  administradores  da  prisão  só  vieram  a  ser  minimamente 
+solucionados a partir de 1880. Antes, o que se definia como conquista para os chefes de polícia 
+era o aumento no número de celas individuais para impedir as constantes fugas (RELATÓRIO, 
+1859).  
+
+Ao se transferir a Casa de Correção para a Cadeia Pública parecem ter se transferido 
+também todos os problemas encontrados na primeira. A Casa Penitenciária de Fortaleza nasce 
+acumulando deficiências em sua estrutura física, a principal delas: a falta de recursos para a 
+sua ampliação, ficando sempre pequena para a infinidade de presos que chegavam de várias 
+províncias,  como  Rio  Grande  do  Norte,  Paraíba  e  Piauí;  sem  mencionar  criminosos 
+provenientes  do  interior  da  província,  a  grande  maioria  envolvidos  com  cangaceiros  e 
+justiceiros.5  
+
+De início, por volta de 1850 até meados de 1860, a cadeia de Fortaleza possuía uma 
+estrutura  bastante  simples,  contando  apenas  com  uma  parte  térrea,  formada  por  duas 
+pequenas alamedas, uma em frente à outra, contendo dez celas individuais, divididas por um 
+corredor; e um salão que se prestava à cela coletiva. Em 1858, tal estrutura já não atendia à 
+demanda de sentenciados, porque a cadeia da capital recebia infratores de várias localidades 
+e até de outras províncias, como Rio Grande do Norte, Paraíba e Piauí. Presos em Fortaleza, 
+os foragidos (muitos vinham fugidos de suas cidades, pelo fato de por lá já terem praticado 
+algum  ato  considerado  ilegal)  não  eram  remanejados  para  suas  cidades.  De  acordo  com 
+relatório de 1858, a cadeia suportava apenas, algo em torno de 70 condenados, e naquele 
+momento, já reunia mais de 200 presos.  
+
+Em 1876, já haviam levado à cabo o trabalho de expansão da cadeia – finalmente, o 
+andar superior tinha sido construído, tendo transferido as salas da enfermaria e do corpo de 
+guarda da cadeia para lá; a parte térrea passou a abrigar exclusivamente as celas e as salas de 
+oficinas.  Entretanto,  o  número  de  presos  já  havia  superado  400  (RELATÓRIO,  1858).  Nos 
+
+ 
+
+5  O  grupo  dos  Viriatos  foi  o  que  mais  preocupou  e  mais  prejuízos  rendeu  aos  cofres  públicos,  devido  aos 
+constantes assaltos promovidos contra às cadeias públicas do interior para libertar companheiros. Como solução, 
+aqueles ligados a grupos considerados perigosos como os Viriatos eram encaminhados para a Cadeia da capital 
+cearense, por esta inspirar maior rigidez na segurança (VICTOR, 1943). 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 5–24, jan./abr. 2022 
+
+DOSSIÊ 
+
+12 
+
+relatórios de presidentes de província do período, que se estendem de 1850 até 1870, são 
+constantes as preocupações com a pretensão em torná-la mais que uma ampla prisão; uma 
+penitenciária, lugar onde se pudesse efetivar o cumprimento das penas.  
+
+Antônio Bezerra de Menezes (1996), em seu relato “A Cidade de Fortaleza”, confirma 
+o  modelo  arquitetônico  utilizado  na  cadeia  pública  de  Fortaleza  que  havia  sido  projetado 
+seguindo  o  modelo  de  Auburn;  mas,  o  que  se  vê  em  relatório  de  1859  do  presidente  de 
+província Silveira de Souza é a atenuação do modelo americano, ao descrever a construção de 
+uma segunda ala na cadeia: 
+
+A segunda ala, a que dei começo, estava sendo feita no systema cellular, o 
+mais aprovado na Europa e n’America, tendo as cellas maiores a capacidade 
+precisa para admitir 15 prezos, e as menores 6, somente. Não é o systema 
+propriamente americano com o seu terrivel isolamento, nem tão pouco o 
+pessimo systema de aglomeração ainda empregado n’esta cadeia, é um meio 
+termo  que  permitte  distinguir  as  classes  e  os  crimes  sem  diminuir  nem 
+aggravar as penas applicadas pela lei. (RELATÓRIO, 1859)  
+
+Mesmo  tendo  sido  construída  sob  o  modelo  auburniano,  a  Cadeia  Pública  de 
+Fortaleza ao longo dos anos foi acumulando uma mescla de elementos empregados em várias 
+penitenciárias, algumas delas da Europa. O principal intento era fazer com que o detento 
+ficasse  em  completo  estado  de  isolamento,  que  era  segundo  os  administradores  o  ponto 
+fundamental na regeneração dos valores morais cristãos.  
+
+Apesar  de  ter  sido  prevista  em  Regulamento  Provincial  de  1835, a  construção  da 
+cadeia seguindo o modelo arquitetônico de Auburn, verdadeira utopia dos chefes de polícia 
+locais, continuou suspensa até meados de 1870. O incômodo pela ausência de uma cadeia aos 
+moldes das penitenciárias europeias e norte-americanas persistia, visto que as condições de 
+infraestrutura eram mínimas, não permitindo que os preceitos postulados pelos criminalistas 
+norte-americanos fossem seguidos à risca, como exemplo o mais importante que era manter 
+o criminoso isolado, inclusive durante as horas de trabalho. 
+
+O que consta nos relatórios são lamentos e reclamações por não se dispor ainda na 
+capital da província de equipamento à altura das demais transformações urbanísticas que por 
+ora se davam na cidade como um todo. Com a ativação da Cadeia (1855), o Quartel Geral 
+(“Cadeia  do  Crime”)  não  mais  abrigou  presos,  elevando  o  número  de  recolhidos  e 
+diversificando os delitos, não apenas dentro da cadeia como um todo; mas dentro das próprias 
+células, visto que não havia número de celas suficientes para que se procedesse a uma divisão 
+
+Silviana Fernandes Mariz. UM “ARREMEDO DE PENITENCIÁRIA” 
+
+13 
+
+DOSSIÊ 
+ 
+
+por crimes, mas apenas por sexo. Somente em 1859, deu-se início à construção de algumas 
+celas, o que era visto pelos administradores como um grande melhoramento, pois facilitava o 
+processo de controle e identificação daqueles considerados mais obstinados e avalentados. 
+
+Já no ano de 1859, o chefe de polícia ressalta a necessidade de apenas expandir as 
+edificações, mas também de melhorar as instalações sanitárias; sempre se remetendo aos 
+modelos francês e norte-americano (RELATÓRIO, 1859). Aliás, a questão do saneamento foi 
+uma  grande  preocupação  dos  chefes  de  polícia;  primeiro,  porque  a  cidade  passava  pelo 
+processo de higienização urbana, o qual não ditava postulados apenas nas vidas privadas das 
+pessoas,  mas,  sobretudo,  na  vida  pública;  e,  depois,  porque  crime  e  medicina  estavam 
+fortemente  imbricados  no  século  XIX.  Por  diversas  vezes,  chegou  a  se  acreditar  entre  os 
+círculos  de  estudos  criminalísticos  que  o  delinquente  era  alguém  com  algum  tipo  de 
+comprometimento somático, e não simplesmente como acometido de qualquer desvio de 
+comportamento,  ou  perturbação  mental,  como  também  se  chegou  a  defender 
+posteriormente.  
+
+Entre  as  principais  preocupações  concernentes  ao  assunto 
+
+‘higienização’  e 
+‘saneamento’, predominava o constante cuidado em se propiciar a maior ventilação possível, 
+visto  que  à  época  (século  XIX)  se  acreditava  que  grande  parte  das  doenças,  sobretudo  as 
+respiratórias - como era o caso da tuberculose, conhecida como tísica, que se tornou famosa 
+na cidade por vitimar várias pessoas e que encontrou dentro da cadeia ambiente propício para 
+uma infestação – eram transmitidas pelos ares contaminados.  
+
+Em relatório do presidente de província Souza e Mello, o chefe de polícia reclama do 
+fechamento de duas janelas, o que segundo ele havia acirrado o problema da higiene dentro 
+da cadeia, além de não ter solucionado a constante presença do que ele chama de bebidas 
+espirituosas Várias são as falas de presidentes de província e chefes de polícia a reprovarem a 
+condição higiênico-sanitária da cadeia. Em 1859, o bacharel Ernesto Augusto Amorim do Valle 
+é categórico ao sentenciar que “o estado geral d’este edifico, a falta de espaço para os prezos 
+existentes,  a  pessima  distribuição  dos  commodos  e  a  impossibilidade  de  asseio  com  tal 
+systema de prisões torna esta cadeia a mais antihygienica possivel” (RELATÓRIO, 1838). 
+
+ Em 1877, no relatório do presidente Cavalcanti Pessoa (RELATÓRIO, 1877 - 1881), o 
+depoimento do chefe de polícia publiciza o número de mortos nos últimos doze meses: de 16 
+presos falecidos, 11 morreram de tísica (tuberculose). Sendo o número total de presos para 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 5–24, jan./abr. 2022 
+
+DOSSIÊ 
+
+14 
+
+aquele  ano  (1877)  de  417  detentos,  a  quantidade  de  mortos  pode  ser  considerada  baixa; 
+entretanto, dentro do número de mortos, 16 vítimas, apenas 5 tiveram outra causa de morte 
+- sem dúvida é um número expressivo.  
+
+Vasculhando outros documentos, tamanha preocupação com a saúde dos detentos 
+parece  ser  apenas  um  jogo  de  simulação,  ou  algo  muito  recente,  visto  que  uma  das 
+penalidades  existentes,  pelo  menos  até  fins  da  década  de  1860,  era  obrigar  os  detentos 
+condenados a trabalhos forçados (os “calcetas”), transportando contaminados pela varíola 
+até o lazareto, ou então, os conduzindo até o cemitério da cidade. Em 1866, o carcereiro da 
+Cadeia Pública autoriza a saída de “duas parelhas de presos, devidamente incorrentados, a 
+fim de conduzirem para o hospital de Jacarecanga duas bixigosas desvalidas, moradoras na 
+rua da Lapa.”6 Até 1862, um sistema de ventilação e a colocação de vasos higiênicos nas celas 
+ainda não havia sido implantado, se configurando apenas como projeto, conforme consta no 
+relatório  do  Presidente  de  Província  Cunha  Figueiredo  Júnior:  “Acha-se  organisado  um 
+projecto  de  ventilação  e  collocação  de  cloacas  inodoras  em  todas  as  prisões.  Logo  que  o 
+permittir  o  estado  do  cofre  mandarei  realizar  este  melhoramento,  cuja  necessidade  é 
+reconhecida.” (RELATÓRIO, 1862). 
+
+Em 1881, houve uma discussão sobre a liberação de verba pela Assembleia Legislativa 
+Provincial para se empreender o uso de um recurso utilizado nas prisões europeias, o qual 
+impedia o contato dos detentos entre si. No caso de Fortaleza, tal equipamento seria de bom 
+uso para separar os criminosos à noite: 
+
+Para separar os presos durante à noite, tive em vista a adopção de biombos 
+ou  alcovas  de  ferro,  que  estão  sendo  introduzidas  nas  casas  centraes  da 
+França, e vi applicadas com grande economia nas de Leyden e Leewarden, na 
+Hollanda;  e  até  nos  commodos  supplementares  das  próprias  prisões 
+cellulares da Bélgica. (RELATÓRIO, 1877 – 1881) 
+
+Na realidade, a defesa pela adoção do equipamento se justificativa pela necessidade 
+de  solucionar  o  problema  da  superlotação  nas  celas,  pois  os  biombos  de  ferro  a  serem 
+
+ 
+
+6 Portaria do chefe de polícia do Ceará, Antônio Joaquim Buarque de Nazaré. Ano:1866. Apud: LIMA (Filho), 
+Porfírio. Op. Cit. p.29. O mesmo procedimento foi adotado durante a epidemia de cólera-morbo ocorrida no 
+Ceará durante os anos de 1862 até 1864. Maranguape, cidade próxima à Fortaleza, era o destino para onde o 
+chefe de polícia autorizava a transferência de presos da capital, a fim de auxiliarem os médicos que tratavam 
+dos infectados. Para se ter ideia da gravidade desta epidemia durante o referido período, basta mencionar o 
+número de mortes provocadas em Fortaleza e Maranguape: 362 e 1.960, respectivamente; tendo no total, 
+atingido mortalmente 11 mil cearenses por toda a província. (PONTE, 1999, p.78) 
+
+Silviana Fernandes Mariz. UM “ARREMEDO DE PENITENCIÁRIA” 
+
+15 
+
+DOSSIÊ 
+ 
+
+implantados separariam metricamente cada preso, tornando as celas coletivas em espaços 
+individuais  exclusivos  para  dormir  –  eram  as  chamadas  “divisões  suplementares”  ou,  no 
+original, quartiers de décombrement. As medidas solicitadas para a cadeia de Fortaleza eram 
+2 metros de altura, 2 de comprimento e 1,40 de largura – de acordo com o chefe de polícia, 
+eram as medidas costumeiras dos sentenciados. 
+
+No caso de Fortaleza, o administrador da cadeia solicitava a construção de duzentos 
+biombos dentro da penitenciária, que era o número de presos que ficavam nos grandes salões 
+coletivos. Cada salão receberia cem alcovas a partir da sua divisão em quatro espaços menores 
+que receberiam, cada um, vinte cinco biombos de ferro. Ao invés de construir paredes, seriam 
+colocadas estruturas de ferro (loges grillés), as quais podiam ser removidas durante o dia e 
+serem recolocadas à noite. O experimento, caso fosse conseguido, seria primeiro testado nas 
+oficinas da estrada de ferro de Baturité, que por ora estavam em funcionamento.7  
+
+Mas, em 1876, o chefe de polícia lamenta o péssimo aparelho de punição disponível 
+
+para Fortaleza, que não permitiam cumprir o papel de reintegração social: 
+
+Em  face  deste  elevado  algarismo  e  do  acanhamento  do  edifício, 
+principalmente tendo deixado de ser elevada toda a cobertura á altura da 
+fachada central, é fácil imaginar-se em que condições desagradáveis acham-
+se  os  408  presos,  distribuídos  pelas  28  pequenas  celulas  ou  prisões. 
+Accrescente-se o facto de ser a enfermaria um dos peiores compartimentos 
+do  andar  superior,  e  limitado  pelo  abaixamento  do  telhado  ou  coberta, 
+accrescente-se ainda o serviço das materias fecaes em cubos de madeira em 
+cada prisão, sendo transportados pelos presos diariamente para um canno 
+de  esgoto,  pessimamente  construído  a  um  lado  da  muralha,  donde  por 
+muitas vez, por falta de declive e facil escoamento para o mar, as materias 
+teem regorgitado para o solo. A cadeia, pois, desta cidade tão civilisada já, 
+não preenche o importantíssimo fim a que foi destinado. (ALP, 1876)  
+
+Não  apenas  a  disposição  física  do  prédio  e  o  sistema  sanitário  da  cadeia  se 
+configuravam como lacunas em relação ao modelo que se dizia ser desejado como o ideal. 
+Além da precariedade de espaço físico e de serviços médico-higienistas, havia a deficiência no 
+serviço de iluminação e consequente segurança da cadeia. Em suma, de modo geral, ao longo 
+das décadas de 50, 60 e 70 do século XIX, a cadeia pública apenas acumulará inúmeras e 
+variadas deficiências nos seus objetivos de “recuperação” social. Mesmo a partir de 1880, toda 
+
+ 
+
+7 A implantação desse recurso, no entanto, não foi concretizada em razão da produção de tais biombos ocorrer 
+apenas na França que exportava para demais países europeus como Holanda e Bélgica; e, devido ao pequeno 
+pedido solicitado, não se poderia atender, pois não era vantajoso nem para a Casa Central de Gard, nem para a 
+fábrica fornecedora Dyle et Bacaloon, situada em Louvain; únicas fornecedoras de tal equipamento. 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 5–24, jan./abr. 2022 
+
+DOSSIÊ 
+
+16 
+
+essa  gama  de  dificuldades  não  será  superada.  A  falta  de  orçamento  permitirá  apenas  a 
+manutenção  de  algo  que  ainda  estava  bem  longe  de  ser  ao  menos  o  arremedo  de  uma 
+penitenciária.8  
+
+Oficinas de Trabalho e disciplinamento para redução de custos do Estado  
+
+Constatamos, na seção anterior, a negligência e uma certa ausência do poder estatal 
+na organização da Cadeia Pública de Fortaleza. Ao longo de quase todo século XIX (a pesquisa 
+se deteve a documentos de 1820 até 1890) é possível se afirmar a completa precariedade no 
+estabelecimento  desse órgão.  A  Cadeia  Pública  existiu  tendo  sempre como  meta banir  os 
+problemas da superlotação e da falta de recursos, o que emperrava todos os demais recursos 
+de disciplinamento e controle, como as oficinas e a escola.  
+
+Os modelos penitenciários europeu e norte-americano foram muito mal copiados, 
+em  um  processo  bem  mais  amplo  e  profundo  de  marginalização  desse  indivíduo, 
+impossibilitando qualquer tipo de regeneração. Ao se tratar da sistematização do trabalho na 
+Cadeia,  ela  se  deu  de  forma  lenta,  ou  seja,  o  próprio  Estado  patrocinou  a  “ociosidade 
+licenciosa” de que tanto criticava, a partir do momento em que não disponibilizava para todos 
+o acesso ao trabalho e à escola e delegava ao carcereiro o poder de “selecionar” quem deveria 
+e poderia frequentá-los.  
+
+As oficinas de trabalho datam desde o início das atividades da cadeia, ou seja, 1855, 
+contando apenas com as oficinas de beneficiamento do algodão e a de ferraria. Pelo que 
+indicam as fontes, estas foram transferidas da Casa de Correção para a Cadeia Pública, visto 
+que  eram  as  mesmas  existentes  no  estabelecimento  correcional.  Sobre  a  implantação  e 
+reforma das oficinas da Casa de Correção, o Presidente de Província Souza e Mello informa 
+que  “Augmentou-se  o  telheiro  e  n’elle  se  achão  collocados  os  engenhos  de  descaroçar 
+algodão; dividio-se o grande sallão onde anteriormente estavão sete engenhos, e n’uma das 
+divisões se accomodou a Ferraria, hoje entregue ao artífice engajado Mènard.” (RELATÓRIO, 
+1855). 
+
+Assim  como  outros  itens  da  Cadeia,  a  implantação  desse  recurso  foi  lenta  e 
+completamente  desaconselhável  para  a  saúde  dos  detentos,  além  das  latrinas  que  se 
+
+8 Expressão empregada pelo chefe de polícia Francisco José de Souza Nogueira, em relatório do presidente de 
+província Cavalcanti Pessoa (RELATÓRIO, 1877 – 1881). 
+
+ 
+
+Silviana Fernandes Mariz. UM “ARREMEDO DE PENITENCIÁRIA” 
+
+17 
+
+DOSSIÊ 
+ 
+
+encontravam mal-arranjadas, a oficina de sapateiro, instalada a partir de 1871, se constituía 
+como um dos principais focos de dispersão de doenças, por ser abafada e exalar forte cheiro 
+de  produtos  químicos  nocivos  ao  aparelho  respiratório  dos  detentos  (SECRETARIA,  1885). 
+Entretanto,  há  de  se  reconhecer  o  intenso  e  constante  esforço  dos  administradores  em 
+efetivar o trabalho dentro da Cadeia, não apenas por acreditarem na redenção moral dos 
+criminosos  através  do  trabalho,  mas  por  visualizarem  no  trabalho  a  solução  de  vários 
+problemas internos, relacionados com a liberação de verba orçamentária para as prisões. 
+
+Em 1863, o chefe de polícia cobra a construção de espaço para as oficinas de trabalho, 
+as  quais  não  tinham  ainda  começado  a  funcionar.  O  alto  custo  aos  cofres  públicos  pela 
+manutenção de vários presos considerados pobres e que tinham direito a receber um auxílio 
+de  240  réis,  foi  o  principal  motor  que  ajudou  a  acelerar  esse  processo  de  instalação  das 
+oficinas (RELATÓRIO, 1863). Até meados da década de 1870, os chefes de polícia lamentavam 
+por não terem como manter ocupadas as mentes dos presos, por faltar escola, trabalho e 
+religião, alicerces considerados básicos na reabilitação social.  
+
+As  primeiras  oficinas 
+
+instaladas  e  postas  em  funcionamento  foram  a  de 
+beneficiamento do algodão e a de ferraria, logo em seguida vieram a de carpintaria e a de 
+sapataria,  esta  última  era  a  mais  frequentada  pelos  presos.  Em  1877,  iniciou-se  o 
+funcionamento  de  três  oficinas,  com  trabalho  sistematizado  e  regular.  O  trabalho  nessas 
+oficinas veio a ser claramente estipulado (quem teria acesso / quantas horas por dia / quantos 
+dias por semana / de quem era o material de trabalho) somente a partir de 1884, com o 
+Regulamento  da  Cadeia  Pública  de  Fortaleza.  Anteriormente  a  tal  resolução,  os 
+administradores tinham como parâmetro o antigo regulamento da Casa de Correção, o qual 
+estabelecia as seguintes regras: 
+
+Art.  18º  -  O  serviço  das  mulheres  será  fiar,  coser,  engommar,  e  tecer.  O 
+governo fornecerá a prisão com utensílios necessários para o trabalho das 
+mesmas. 
+Art.  19º  -  O  terreno  contíguo  à  casa  de  correcção  servirá  para  fazer-se  o 
+accresécimo com telheiros próprios para o trabalho do descaroçamento do 
+algodão  e  para  tenda  de  carapina,  ferreiro  e  outras  oficinas,  não  sendo 
+permittido  por  forma  alguma  occuparem-se  os  commodos  da  casa  com 
+algodão ou outros generos, além do necessário para o serviço de um ou dous 
+dias (BARROSO, 1863). 
+
+ O trabalho em oficinas permaneceu como atividade exclusiva dos homens por muito 
+tempo, mesmo após o Regulamento de 1884. As mulheres eram autorizadas a trabalhar dentro 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 5–24, jan./abr. 2022 
+
+DOSSIÊ 
+
+18 
+
+de  suas  próprias  celas,  aliás  da  única  cela  que  era  reservada  a  elas,  onde  tinham  a 
+“oportunidade”  de  aprenderem  a  se  fazer  “boas  donas  do  lar”,  através  de  atividades 
+necessárias ao trato familiar. Essa era a forma encontrada de puni-las, visto que as poucas 
+ingressas na cadeia (o número máximo encontrado ao longo do período compreendido pela 
+pesquisa,  foi  12  encarceradas)  eram  enquadradas  em  crimes  como  vadiagem,  prática  do 
+meretrício  ou  de  aborto.  No  caso  delas,  o  objetivo  não  era  encaminhá-las  ao  mercado  de 
+trabalho, mas para dentro dos lares. Quanto aos homens, o principal objetivo era potencializar 
+seus corpos para a produção de atividades que estavam ascendendo em Fortaleza, como o caso 
+do beneficiamento do algodão. 
+
+Pelo fato de serem apenas três oficinas para atender um universo de mais de 200 
+presos, antes desse ano, a grande maioria era utilizada sob a forma de calcetas, ou seja, presos 
+condenados emprestados para realizar obras públicas, como a limpeza de ruas, o transporte 
+de doentes para hospitais ou corpos para o cemitério. Geralmente, eram obras pequenas que 
+demandavam  poucos  dias  e  poucos  presos,  os  quais  eram  liberados  para  o  trabalho  em 
+parelhas, acorrentados e acompanhados por guardas pelas vias públicas da cidade. 
+
+Já a partir da década de 1880, a adoção do trabalho como meio de reabilitação dos 
+detentos foi ampliada na cadeia. É tentador relacionar essa liberação ao aumento no número 
+de  presos  dentro  da  cadeia,  que,  por  sua  vez,  se  liga  ao  da  libertação  dos  escravos  ter 
+acontecido no Ceará no ano de 1884, lançando no mercado um excedente de pessoas sem 
+trabalho ou realizando atividades autônomas proibidas pelos códigos de postura. Aliás, ao 
+longo dos vários relatórios, se percebe um decréscimo no número de crimes e aumenta o 
+número de infrações e delitos. 
+
+A existência de todo esse maquinário de “recuperação” do preso, ou o desejo de que 
+ele venha a existir e funcionar, significa não apenas a vontade política em tornar Fortaleza 
+uma  cidade  realmente  civilizada,  tanto  quanto  Paris  ou  cidades  dos  Estados  Unidos;  mas 
+também na crença nos preceitos de reintegração social dos presos, em que estes voltariam à 
+sociedade para compor a força produtiva da cidade. A partir da década de 1880, há um intenso 
+combate  à  vadiagem  (ou  o  que  era  considerado  vadiagem)  e  junto  a  tal  interesse  houve 
+também a liberação da mão-de-obra escrava, o que impulsionou algumas mudanças dentro 
+da cadeia, as quais não foram tão frutíferas pelo aumento de número de encarcerados. 
+
+Silviana Fernandes Mariz. UM “ARREMEDO DE PENITENCIÁRIA” 
+
+19 
+
+DOSSIÊ 
+ 
+
+Não apenas o número de oficinas foi ampliado, passando a ocupar cinco salas no 
+prédio da cadeia, como também se passou a se permitir aos presos homens que trabalhassem 
+da mesma forma como as mulheres, ou seja, dentro de suas celas, realizando atividades como 
+cestaria, chapelaria e charutaria. O dinheiro auferido nas vendas lhes pertencia e os auxiliava 
+a sustentar suas famílias. Quanto aos trabalhos realizados sob a forma de calcetas, não havia 
+remuneração. Aliás, essa foi uma estratégia iniciada em 1881, durante o governo de Pádua 
+Fleury: 
+
+O trabalho, além de ser elemento poderoso de moralisação, por occupar o 
+espírito do preso, tornal-o merecedor de um peculio e habitual-o a ganhar 
+subsistencia honesta, depois de cumprir a sentença, é uma indemnisação das 
+despesas que oneram o orçamento provincial. Como elemento indispensável 
+da pena, o trabalho é obrigatório, quer no recinto, quer fóra da prisão: como 
+meio econômico, deve ser organisado, aproveitando-se as forças do preso, 
+creando-se a industria nas prisões e tirando-lhe todas as vantagens que della 
+pode resultar. (...). Além do trabalho nas officinas de sapateiro, carpinteiro, 
+ferreiro e outras industrias egualmente uteis, a construcção do caes, a da 
+propria  Alfandega  e  a  do  posto,  arrancarão  esses  infelizes  do  estado  de 
+abjecção em que jazem. (...). Todos estes melhoramentos (de infra-estrutura 
+realizados na cadeia), nos quaes se empregaram os presos como operários e 
+mestres de officio, despenderam-se até 16 do corrente 16: 154$960, muito 
+menos do terço do valor do trabalho de 200 condemnados em um anno. 
+(RELATÓRIO, 1881)  
+
+Foi durante o governo de Pádua Fleury que o administrador da cadeia estipulou pela 
+primeira vez a quantidade de horas trabalhadas: dez horas por dia ao longo de 300 dias por 
+ano. O cálculo era preciso: “Dusentos homens que trabalhem effectivamente dez horas por 
+dia,  nos  tresentos  dias  utéis  do  anno,  podem  contribuir  com  o  rendimento  bruto  de 
+60:000$000.” (RELATÓRIO, 1881) 
+
+Em 1886, as oficinas somavam em número de cinco: três para sapataria e contava 
+com 77 trabalhadores; uma para a de carpintaria, com 9 trabalhadores e uma outra que era 
+dividida para as atividades de ferraria, com quatro trabalhadores e a de bengaleiro, com 17. 
+As demais ocupações como cestaria e alfaiataria eram realizadas dentro das celas, contando 
+respectivamente com 4 e 1 trabalhadores. No ano seguinte, 1887, o número de trabalhadores 
+havia  aumentado:  as  oficinas  de  sapataria  somavam  91  trabalhadores;  a  de  ferraria  e 
+bengaleiro somavam juntas 23 trabalhadores e a de carpinteiro, 13.  
+
+Em  arrolamento  populacional  realizado  para  o  mesmo  ano,  os  dados  são  mais 
+completos, constando a quantidade de presos no desempenho de outras atividades realizadas 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 5–24, jan./abr. 2022 
+
+DOSSIÊ 
+
+20 
+
+dentro da cela (as únicas realizadas em salas específicas eram as de sapateiro, carpinteiro, 
+ferreiro e bengaleiro; todas as demais, eram feitas nas celas); além de apontar para uma certa 
+disparidade  no  número  de  trabalhadores:  sapateiros  (103),  carpinteiro  (15),  ferreiro  (2), 
+enfermeiro (1), alfaiate (1), bengaleiro (10), jardineiro (1), surrador de couro (1), cesteiro (3), 
+amoleiro (1), pedreiro (3), culiteiro (1),  chapeleiro (2), aprendiz de carpinteiro (1), marceneiro 
+(1) e charuteiro (1), totalizando 147 trabalhadores, dentro de um universo de 239 detentos. 
+Além  dessas  categorias,  o  arrolamento  ainda  incluiu  outro  grupo,  bastante  numeroso,  os 
+considerados como “sem profissão”, que totalizam o número de 80 presos. (SECRETARIA DE 
+POLÍCIA, 1887). 
+
+A regulamentação de quem poderia frequentar ou não nas oficinas de trabalho está 
+
+disposta no Regulamento da Cadeia Pública de 1884, abaixo a saber: 
+
+Capítulo 7º - Das officinas 
+
+ 
+Art. 50 – Em quanto não for organizado o trabalho na Cadeia, só é permittido 
+ao  preso  de  bôa  conducta,  reconhecida  pelo  carcereiro,  trabalhar  nas 
+officinas, com tanto que saiba o offício e tenha os necessários utensílios. 
+Art. 51 – Os materiaes e utensílios para o trabalho serão comprados à custa 
+dos presos, por intermédio do administrador- carcereiro, seu ajudante ou 
+pessoa autorisada pelos presos consentindo o carcereiro; 
+Art.  52  –  Effectuada  alguma  compra  os  objectos  serão  immediatamente 
+depositados na respectiva officina, e ali entregues a quem pertencerem; 
+Art.  53  –  Os  presos,  precedendo  ordem  do  carcereiro,  sahirão  para  as 
+officinas às seis horas da  manhã, e regressarão para as prisões às quatro 
+horas da tarde, escoltados pela força necessaria; 
+§  Único  –  Esta  disposição  não  comprehende  a  turma  de  presos  que 
+diariamente freqüentar a escola, durante as horas da mesma. 
+Art.  54  –  Os  presos,  ao  sahirem  para  as  officinas,  e  ao  voltarem  para  as 
+prisões  serão  cuidadosamente  revistados  pelo  carcereiro  e  seu  ajudante, 
+ficando os instrumentos e mais objectos guardados nas officinas e estas logo 
+fechadas 
+§  Único  –  Os  portões  das  officinas  se  conservarão  fechados  durante  o 
+trabalho. 
+Art.  55  –  O  preso  que  comportar-se  mau  nas  officinas  ficará  privado  de 
+frequentala por 15 a 20 dias 
+Art. 56 – O que aproveitando-se de instrumentos existentes na officina tentar 
+evadir-se, offender ou tentar offender a algum companheiro, empregado da 
+cadeia ou qualquer outra pessôa, não poderá mais voltar à officina, além das 
+penas do artigo 199 
+Art. 57  –  O  producto de  qualquer trabalho pertencerá exclusivamente ao 
+preso que o fizer 
+
+ 
+
+9 “Art. 19 – Castigará os presos que se mostrarem desobedientes, com a prisão na solitaria de 1 a 3 dias, e com a 
+mesma prisão e ferros, de 1 a 15 dias, conforme a qualidade da falta, communicando o occorrido ao chefe de 
+polícia, que poderá minorar o castigo.” (SECRETARIA DE POLÍCIA, 1884) 
+
+Silviana Fernandes Mariz. UM “ARREMEDO DE PENITENCIÁRIA” 
+
+21 
+
+DOSSIÊ 
+ 
+
+Art. 58 – Os presos favorecidos com as officinas são obrigados a trabalhar nas 
+obras  de  que  necessitar  a  cadeia  e  para  as  quaes  elles  forem  aptos. 
+(SECRETARIA DE POLÍCIA, 1884) 
+
+Sobre os artigos 51 e 57, vale ressaltar a fala do chefe de polícia Olympio Manoel dos 
+Santos Vital que, discordando de tamanha ausência do poder público quanto à aquisição dos 
+materiais de trabalho e à comercialização dos produtos, teceu o seguinte comentário em seu 
+relatório: 
+
+Os  presos  não  podendo  fazer  por  si  mesmos  a  compra  dos  materiaes 
+indispensáveis  ao  seu  trabalho,  nem  a  venda  das  obras  que  produzem, 
+luctam com difficuldade para conseguir aquelles obtendo-os quasi sempre 
+por preços elevados, e entregam estes muitas vezes a especuladores que 
+ordinariamente  auferem  os  pequenos  lucros  que  elles  podiam  ter.  (ALP, 
+1887)  
+
+O que se entende de tais declarações (tanto do regulamento quanto do chefe de 
+polícia)  é  o  esforço  do  governo  em  se  ausentar  de  qualquer  responsabilidade  sobre  a 
+organização e participação nas atividades da Cadeia Pública. Se por vezes, há chefes de polícia 
+interessados em ajudar de alguma forma os presos, outras vezes (e bem mais recorrente), há 
+outras  urgências  mais  importantes  para  o  presidente  de  província  solucionar  –  o  que 
+demonstra o desamparo legal a essas pessoas que foram recolhidas por iniciativa do próprio 
+governo, porque se constituíam como empecilho a uma nova ordem emergente pautada no 
+lucro e na dinamização do comércio (daí preocuparem-se mais com aberturas de estradas e 
+obras afins).  
+
+Os que se negam a ver a importância de resolver o problema da falta de estrutura 
+(espaço,  higiene,  trabalho,  educação)  da  cadeia,  geralmente  enxergam  na  construção  de 
+pontes, na abertura de estradas e no alinhamento das ruas como o quesito mais premente 
+para a cidade; quanto aos reparos e melhoramentos da prisão central da província, o governo 
+parecia estar sempre à procura de uma maneira de reduzir suas responsabilidades financeiras, 
+como exemplo tem-se o emprego de presos em obras públicas. A desculpa para apropriação 
+da mão-de-obra do preso não era por sua regeneração moral, como em alguns discursos de 
+anos anteriores, mas simplesmente pela economia propiciada aos cofres públicos.  
+
+Este tipo de posicionamento não se constitui como peça única, não raro surgem em 
+meio a cifras e cálculos dos cofres públicos expressões de tamanha preocupação em utilizar o 
+preso como mão-de-obra gratuita. Em 1887, na fala apresentada pelo Presidente de Província 
+Enéas de Araújo Torreão à Assembleia Provincial, o referido presidente se reporta ao relatório 
+
+Hist. R., Goiânia, v. 27, n. 1, p. 5–24, jan./abr. 2022 
+
+DOSSIÊ 
+
+22 
+
+do chefe de polícia Olympio Manuel dos Santos Vital (o mesmo que se compadecia dos presos 
+por eles não poderem negociar bem os seus instrumentos e suas obras), onde se encontra o 
+animado  relato:  “Providenciei  [o  chefe  de  polícia]  igualmente  para  que  fosse  removido  o 
+grande entulho que existia em frente a muralha da cadeia: sendo o serviço feito pelos prezos 
+que a isto se prestaram sem retribuição alguma, e portanto sem a menor despeza para os 
+cofres.” (ALP, 1887)  
+
+Mais adiante, no mesmo relatório, o chefe de polícia, ao se referir à diária dada aos 
+presos como um grande ônus ao tesouro provincial, sugere o quanto antes a regularização e 
+expansão no número de oficinas para todos os detentos poderem trabalhar e assim cessar os 
+gastos referentes às diárias pagas.  
+
+Considerações Finais 
+
+O estudo da Cadeia Pública abre uma série de caminhos para a compreensão das 
+raízes históricas dos limites da cidadania no país, além de suscitar questões de pesquisa como 
+a relação entre escravizados e população livre; homens e mulheres, no interior de um mesmo 
+espaço de punição e controle; além de possibilitar a compreensão sobre como as formas de 
+punição e disciplina se desenvolveram posteriormente no período republicano. Nesse sentido, 
+a  continuidade  de  pesquisas  se  faz  necessária,  dadas  as  lacunas  do  conhecimento 
+historiográfico cearense que o presente artigo tentou suprir na medida da disponibilidade de 
+fontes.  
+
+Através  da  história  da  Cadeia  Pública  em  Fortaleza  percebe-se  como  o  trabalho 
+assumiu diferentes sentidos no período entre 1850 e 1888: de início, foi incorporado em um 
+sentido  retributivo,  como  forma  auxiliar  do  poder  das  famílias  de  posses,  interessadas  na 
+supervisão, guarda e punição de escravizados recalcitrantes ou “sem” utilidade econômica; 
+posteriormente,  acompanhando  o  processo  de  racionalização  econômica  e  urbanização, 
+tornou-se forma de disciplinamento utilitário geral, de trabalhadores, homens e mulheres, 
+livres e escravizados que não se adequavam aos padrões morais e de poder da sociedade 
+cearense do século XIX.           
+
+Ao longo de todo o período, o trabalho na prisão nunca se associou efetivamente a 
+uma forma de reintegração social e construção da cidadania, mas sim como forma de redução 
+de custos do Estado e da iniciativa privada através de obras públicas e do sustento da própria 
+
+Silviana Fernandes Mariz. UM “ARREMEDO DE PENITENCIÁRIA” 
+
+23 
+
+DOSSIÊ 
+ 
+
+cadeia. A situação precária do estabelecimento, que os ganhos do trabalho prisional pouco 
+atenuavam, retratava as escolhas políticas e morais da elite cearense, mais interessada em 
+maneiras de reduzir despesas, ao mesmo tempo que controlar o nível de conflito advindo do 
+enfraquecimento  das  relações  escravistas  e  da  emergência  da  economia  fabril-industrial, 
+mesmo que às custas da vida dos apenados. Ademais, o controle do infrator nunca assumiu o 
+mesmo  nível  proposto  pelos  modelos  disciplinares,  sendo  permanente  o  uso  de  castigos 
+físicos e da situação de abandono à morte dadas as condições prisionais. 
+
+Dito  isto,  a  discussão  sobre  as  instituições  disciplinares  de  privação  de  liberdade, 
+numa  perspectiva  histórica,  se  mostra  ainda  mais  necessária  na  atualidade  a  fim  de 
+compreendermos os processos, os contextos e as condições que possibilitaram a emergência 
+das políticas de encarceramento no Brasil que, a despeito da extensa duração cronológica, 
+parecem  se  perpetuar  e  se  reproduzir  numa  mesma  historicidade,  com  poucas 
+descontinuidades e muitas permanências, conservando-se como destinadas prioritariamente 
+para pessoas pobres, negras e “desvalidas” de modo geral. A abordagem histórica, nesse caso, 
+é  fundamental  para  compreendermos  os  limites  e  as  contradições  dos  processos  de 
+construção de uma cidadania restrita, primeiramente, concedida a proprietários.    
+
+REFERÊNCIAS BIBLIOGRÁFICAS 
+ASSEMBLEIA  PROVINCIAL  DO  CEARÁ  (ALP).  Relatório  do  Chefe  de  Polícia  Interino  Julio  Barbosa  de 
+Vasconcellos. Biblioteca da Assembleia Legislativa do Ceará, 1876. 
+
+ASSEMBLEIA PROVINCIAL DO CEARÁ (ALP). Falla do chefe de polícia Olympio Manoel dos Santos Vital. 
+Fortaleza: Biblioteca da Assembleia Legislativa do Ceará, 1887. 
+
+BARROSO, José Liberto. Compilação das leis provinciaes do Ceará, comprehendendo os annos de 1835 
+a 1861. Rio de Janeiro: Typographia Universal de Laemmert, 1863. 
+
+BRETAS, Marcos Luiz; MAIA, Clarissa N.; SÁ, Flávio de; COSTA, Marcos (Org.). História das Prisões no 
+Brasil. v. 2, p. 155-181. Rio de Janeiro: Rocco, 2009.  
+
+CÂMARA  MUNICIPAL  DE  FORTALEZA.  Correspondências.  Fortaleza:  Arquivo  Público  do  Estado  do 
+Ceará, 1864-1871.  
+
+FOUCAULT, Michel. A Microfísica do poder. Rio de Janeiro: Graal, 1979. 
+
+KOERNER, Andrei. O impossível panóptico tropical-escravista: práticas prisionais, política e sociedade 
+no Brasil do século XIX. Revista Brasileira de Ciências Criminais, v. 35, p. 211-224, 2001. 
+
+LIMA (Filho), Porfírio. No tempo dos látegos e dos grilhões. Fortaleza: Typographia Progresso, 1931. 
+
+MENEZES, Antônio B. Descrição da cidade de Fortaleza. Fortaleza: EDUFC, 1996.  
+
+Hist. R., Goiânia, v. 27, n. 1, p. 5–24, jan./abr. 2022 
+
+DOSSIÊ 
+
+24 
+
+NOGUEIRA, Paulino. Revista do Instituto Histórico do Ceará. Fortaleza: Typographia Studart, 1889. 
+
+OLIVEIRA,  Fernanda  A.  Os  Modelos  Penitenciários  No  Século  XIX.  2007.  Disponível  em: 
+http://www.ufjf.br/virtu/files/2010/05/artigo-6-a-1.pdf. Acesso em: 31 ago. 2022. 
+
+OLIVEIRA, Luciano. Relendo ‘Vigiar e punir'. Dilemas-Revista de Estudos de Conflito e Controle Social, 
+v. 4, n. 2, p. 309-338, 2011. 
+
+PONTE, Sebastião Rogério. Fortaleza Belle Èpoque, reformas urbanas e controle social (1860 – 1930). 
+Fortaleza: Demócrito Rocha, 1999. 
+
+RELATÓRIO  de  Presidente  de  Província.  Rolo  nª  1.  Setor  de  Microfilmagem  da  Biblioteca  Pública 
+Menezes Pimentel, Fortaleza – CE, 1822. 
+
+RELATÓRIO  de  Presidente  de  Província.  Rolo  nª  1.  Setor  de  Microfilmagem  da  Biblioteca  Pública 
+Menezes Pimentel, Fortaleza – CE, 1838. 
+
+RELATÓRIO  apresentado  pelo  Presidente  de  Província  José  Maria  Bittencourt.  Rolo  nº1,  setor  de 
+microfilmagem, Biblioteca Pública Menezes Pimentel. Fortaleza – CE, 1841. 
+
+RELATÓRIO de Presidente de Província. Rolo nº2. Setor de Microfilmagem. Biblioteca Pública Menezes 
+Pimentel, Fortaleza – CE, 1855. 
+
+RELATÓRIO  de  Presidente  de  Província.  Rolo  n.º  2.  Setor  de  Microfilmagem.  Biblioteca  Pública 
+Menezes Pimentel. Fortaleza – CE, 1858. 
+
+RELATÓRIO de Presidente de Província. Rolo nº 2. Setor de Microfilmagem. Biblioteca Pública Menezes 
+Pimentel. Fortaleza – CE, 1863. 
+
+RELATÓRIO de Presidente de Província. Rolo nº 2. Setor de Microfilmagem. Biblioteca Pública Menezes 
+Pimentel. Fortaleza – CE, 1864. 
+
+RELATÓRIO de Presidente de Província. Rolo nº2. Setor de Microfilmagem. Biblioteca Pública Menezes 
+Pimentel, Fortaleza – CE,1859. 
+
+RELATÓRIO do Sr. Conselheiro André Augusto de Pádua Fleury. Rolo nº 06. Setor de Microfilmagem. 
+Biblioteca Pública Menezes Pimentel. Fortaleza – CE, 1877-1881.  
+
+RELATÓRIO  de  Presidente  de  Província.  Rolo  n.º  06.  Setor  de  Microfilmagem.  Biblioteca  Pública 
+Menezes Pimentel. Fortaleza – CE, 1881. 
+
+RELATÓRIO  de  Presidente  de  Província.  Rolo  nº  7.  Setor  de  Microfilmagem  da  Biblioteca  Pública 
+Menezes Pimentel. Fortaleza – CE, 1883. 
+
+SECRETARIA  DE  POLÍCIA.  Regulamento  da  Cadeia  Pública  do  Ceará.  Fortaleza,  Arquivo  Público  do 
+Estado do Ceará, 1884. 
+
+SECRETARIA de Polícia. Relatório. Fortaleza: Biblioteca da Assembleia Legislativa do Ceará, 1885. 
+
+SECRETARIA DE POLÍCIA. Arrolamento da população da freguesia de Nossa Senhora do Patrocínio. Livro 
+355. Fortaleza: Arquivo Público do Estado do Ceará, 1887. 
+
+VICTOR, Hugo. Chefes de Polícia no Ceará. Fortaleza: Typographia Minerva, 1943. 
+
+Silviana Fernandes Mariz. UM “ARREMEDO DE PENITENCIÁRIA” 
+
+

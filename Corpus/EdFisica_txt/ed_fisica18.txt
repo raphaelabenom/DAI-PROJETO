@@ -1,0 +1,932 @@
+Valores de referência da densidade mineral óssea de 
+universitários do sexo masculino
+
+https://doi.org/10.11606/issn.1981-4690.2023e37194698            
+
+Ricardo Flávio de Araujo Bezerra*
+Martim Francisco Bottaro Marques*
+Alexandre Sérgio de Araujo Bezerra**
+
+*Faculdade de 
+Educação Física, 
+Universidade de 
+Brasília, Brasília, DF, 
+Brasil.
+*Faculdade de 
+Medicina, Universidade 
+de Brasília, Brasília, DF, 
+Brasil.
+
+Resumo
+
+O objetivo deste estudo foi determinar valores de referência (média ± desvio padrão) da densidade mineral 
+óssea (DMO) da coluna lombar (L2-L4) e da extremidade proximal do fêmur (colo, trocânter maior, triângulo 
+de Ward e fêmur total) em universitários do sexo masculino. Foram medidas as densidades minerais ósseas 
+(DMOs) de 117 homens (25 sedentários e 92 ativos) com idades entre 20 e 35 anos, utilizando o método da 
+absorciometria radiológica por raios X de dupla energia (DXA). As DMOs obtidas (em g/cm2) para cada região 
+foram: L2-L4 - 1,24 ± 0,16; colo do fêmur - 1,22 ± 0,17; triângulo de Ward - 1,13 ± 0,21; trocanter maior - 1,02 ± 
+0,16 e fêmur total - 1,21 ± 0,16. Comparando estas DMOs com os valores de referência do fabricante do DXA 
+foram obtidos os respectivos escores T: 0,03 ± 1,30; 1,18 ± 1,32; 1,28 ± 1,62; 0,80 ± 1,43 e 0,90 ± 1,27. Houve 
+diferença estatisticamente significativa (p<0,001) entre os escores T obtidos com base no DXA e aqueles obtidos 
+com base na própria amostra, em todos as regiões do fêmur, mas não na coluna lombar (p=0,79). Ao comparar 
+as DMOs e os escores T entre sedentários e ativos, houve diferença estatisticamente significativa entre os valores 
+relacionados ao fêmur (p<0,01), mas não entre os relacionados à coluna lombar (p=0,05). Os dados sugerem 
+que cada indivíduo deve ter sua DMO avaliada com base em sua própria população e que há também uma 
+influência da atividade física sobre a DMO.
+
+Palavras-chave: Osteoporose; Densidade óssea; Doenças ósseas metabólicas; Absorciometria de fóton.
+
+Introdução
+
+A osteoporose é uma doença esquelética crônica 
+caracterizada pela deterioração microarquitetural do 
+tecido ósseo e perda de massa óssea1,2. Diante disso, 
+a  fratura  é  a  sua  principal  manifestação  clínica, 
+sendo a principal causa de fraturas na população 
+acima  de  50  anos3,4.  Muitas  vezes  o  indivíduo 
+está  acometido  pela  osteoporose  há  anos  sem 
+ter conhecimento e só vem a descobrir que está 
+com tal enfermidade após sofrer uma fratura que, 
+usualmente, ocorre nas vértebras e parte proximal 
+do fêmur4,5. É importante identificar idosos com 
+osteoporose  para  permitir  o  tratamento  mais 
+precoce possível3.
+
+A fratura é, nos dias de hoje, uma das principais 
+causas de morbidade e mortalidade da população de 
+idosos e vem crescendo exponencialmente no Brasil 
+e no mundo3,4,6-10. Uma fratura de corpo vertebral ou 
+do colo do fêmur, dentre outras consequências, pode 
+causar  dores  nas  costas,  diminuição  da  estatura, 
+cifose, compressão de nervos espinhais, dependência 
+de outras pessoas para realizar tarefas simples do 
+cotidiano e incapacidade de locomoção por meses 
+ou até mesmo anos6. Neste caso, de 20 a 40% das 
+pessoas morrem no mesmo ano em que a fratura 
+ocorre, em decorrência de pneumonia, trombose e 
+doenças cardíacas3,9,11,12. As fraturas que têm como 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194698  •  1
+
+etiologia a osteoporose também acarretam imensos 
+prejuízos financeiros. Estima-se que o Brasil gaste mais 
+de 310 milhões de dólares em despesas relacionadas 
+apenas às fraturas osteoporóticas8.
+
+Os estudos têm demonstrado uma relação entre 
+diminuição da densidade mineral óssea (DMO) e 
+aumento do risco de fraturas. A cada redução de um 
+desvio padrão na DMO, o risco de fratura aumenta 
+em duas a três vezes3. Ferramentas como o Fracture 
+Risk  Assessment Tool  (FRAX)  também  usam  a 
+DMO no modelo de cálculo do risco de fraturas13-15. 
+Logo, o exame fornece subsídios para a aquisição de 
+dados epidemiológicos consistentes, auxiliando na 
+determinação da necessidade ou não de um indivíduo 
+se submeter a algum tipo de tratamento3.
+
+Sedentarismo, imobilização prolongada, fumo, 
+ingestão excessiva de álcool, má nutrição, falta de 
+vitamina D e de cálcio são hábitos de vida a serem 
+observados e abandonados quando conveniente já 
+que induzem a uma baixa DMO3,15. No entanto, o 
+alvo principal das pesquisas têm sido as mulheres já 
+que, nelas, há uma maior prevalência em relação aos 
+homens. Ocorre que a osteoporose não é rara no sexo 
+masculino, tampouco as suas consequências16. As causas 
+mais comuns de osteoporose secundária nos homens 
+são o uso de glicocorticóide, doença gastrointestinal, 
+hipercalciúria, hipogonadismo (com consequente 
+baixa de testosterona), abuso de bebida alcoólica, 
+baixa ingestão de alimentos contendo cálcio, falta de 
+vitamina D, fumo, imobilização em leito hospitalar 
+ou domiciliar e o sedentarismo12,17,18. Há também 
+uma correlação positiva entre nível de atividade física 
+e DMO em homens19-21.
+
+Diversos autores têm procurado verificar quais 
+tipos  de  exercícios  estão  mais  relacionados  com 
+alterações  na  massa  óssea22,23.  Já  foi  verificado 
+aumento de massa óssea em praticantes de voleibol e 
+artes marciais, porém não se observou relação entre a 
+prática de natação e ciclismo e melhora na densidade 
+mineral óssea24-26. Os exercícios físicos, para indivíduos 
+mais idosos, ainda apresentam outros trunfos. Por 
+
+meio deles há uma melhora no equilíbrio, no padrão 
+da marcha, das reações de defesa e da propriocepção 
+de uma maneira geral3. Assim a pessoa previne quedas 
+e consequentemente fraturas, criando uma maior 
+independência, necessitando menos de ajuda externa 
+para realizar as atividades diárias e aprimorando sua 
+qualidade de vida.
+
+A maior massa óssea é atingida durante as duas 
+primeiras décadas de vida e durante o estirão de 
+crescimento na adolescência, os indivíduos atingem 
+até 90% de suas massas ósseas totais aos 17 anos27,28. 
+A partir desta idade há estabilização ou lento aumento, 
+diminuindo progressivamente em ambos os sexos a 
+partir dos 35 a 40 anos, com um declínio maior na 
+mulher após a menopausa. O pico de massa óssea tende 
+a ser maior em homens do que em mulheres29.
+
+A  literatura  demonstra  resultados  variáveis 
+quando se comparam diferentes populações com 
+os valores de referência e a população estudada, 
+podendo  os  valores  obtidos  serem  maiores  ou 
+menores que os de referência30,31. Em um estudo 
+turco,  quando  os  diagnósticos  foram  baseados 
+em dados da mesma população ao invés de dados 
+americanos,  a  prevalência  de  uma  baixa  DMO 
+em homens caiu de 42,8% para 15,8% na região 
+lombar e de 30,9% para 17,1% no colo do fêmur32. 
+Um  outro  estudo  no  Reino  Unido  verificou 
+uma  prevalência  28  pontos  percentuais  maior 
+de  casos  de  osteoporose  em  mulheres,  quando 
+utilizando  dados  americanos  em  relação  aos  da 
+própria  população33.  Ante  o  exposto  observa-
+se  a  necessidade  de  mais  estudos  relacionados 
+à  DMO  em  indivíduos  do  sexo  masculino.  É 
+necessário  também  que  se  obtenha  dados  de 
+referência  concernentes  à  DMO  de  indivíduos 
+em  todo  o  mundo  e  também  no  Brasil.  Dessa 
+forma,  o  objetivo  deste  estudo  foi  determinar 
+valores de referência da densidade mineral óssea 
+(média e desvio padrão) das vértebras L2-L4 e da 
+extremidade proximal do fêmur em uma população 
+de universitários do sexo masculino.
+
+Método
+
+Este  estudo  foi  desenvolvido  após  a  aprovação 
+em  Comitê  de  Ética  e  todos  os  participantes, 
+voluntários, assinaram termo de consentimento livre 
+e esclarecido. Foram incluídos no estudo participantes 
+voluntários  do  sexo  masculino,  com  idades  entre 
+20  e  35  anos,  recrutados  dentre  o  corpo  discente 
+
+de  uma  universidade.  Foram  excluídos  da  amostra 
+aqueles  com  patologias  que  pudessem  interferir  no 
+metabolismo ósseo como doença celíaca, doença de 
+Crohn,  hipo  ou  hipertireoidismo,  os  que  fizeram 
+uso de corticóide por 3 meses ou mais consecutivos 
+na  vida,  indivíduos  que  tenham  sofrido  fratura  de 
+
+2  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194698
+
+extremidade proximal do fêmur ou de coluna vertebral 
+lombar, aqueles que fumavam mais de 20 cigarros por 
+dia ou que eram consumidores exagerados de bebidas 
+alcoólicas,  ingerindo  regularmente  mais  do  que  os 
+limites recomendados.
+
+Foram mensurados estatura, massa corporal 
+e  composição  corporal  dos  participantes  do 
+estudo.  Um  questionário  de  atividade  física 
+também  foi  preenchido  para  classificar  os 
+indivíduos em sedentários e ativos.
+
+Para  cada  indivíduo  da  amostra  foram 
+medidas  as  DMOs  das  vértebras  L2-L4  e 
+da  região  proximal  do  fêmur  que  inclui  o 
+colo,  trocanter  maior  e  triângulo  de  Ward, 
+utilizando  o  aparelho  de  densitometria  por 
+raios  X  de  dupla  energia  (DXA),  modelo 
+LUNAR DPX-IQ. Esse mesmo equipamento 
+foi  utilizado  para  medir  a  composição  e  a 
+massa corporal, com varredura pela fonte de 
+raios X por todo o corpo.
+
+Para  a  aquisição  dos  valores  de  referência 
+de  DMO  da  região  proximal  do  fêmur  e 
+vértebras  lombares  foi  utilizada  estatística 
+descritiva  (média  e  desvio  padrão)  para 
+cada  sítio.  A  comparação  dos  escores  T 
+da  população  estudada  com  os  valores  de 
+referência da população presentes no software 
+do DXA foi realizada pelo teste t de Student 
+para uma amostra.
+
+Foi 
+
+feita  uma  comparação  entre  os 
+indivíduos sedentários e ativos da amostra, dos 
+resultados das variáveis idade, estatura, massa 
+corporal,  percentual  de  gordura,  DMOs 
+e  escores T  em  todos  os  sítios  medidos,  por 
+meio  do  teste  t  de  Student  para  amostras 
+independentes.  Utilizou-se  o  software  SPSS 
+em todas as análises e o nível de significância 
+adotado foi p<0,05.
+
+Resultados
+
+A  amostra  foi  composta  por  117  indivíduos, 
+sendo 25 sedentários e 92 ativos. A TABELA 1 
+apresenta os dados descritivos da amostra. Pode-se 
+observar que todas as médias de DMOs estão acima 
+de 1g/cm2 e que a avaliação da amplitude para cada 
+
+sítio demonstra que os menores valores de DMOs 
+são aproximadamente 50% mais baixos em relação 
+aos  maiores  valores.  A  DMO  média  medida  na 
+coluna foi maior do que as DMOs médias medidas 
+em quaisquer sítios do fêmur.
+
+TABELA 1 - Dados descritivos da amostra. N=117.
+
+Variável
+
+Idade (anos)
+
+Estatura (cm)
+
+Massa (kg)
+
+% Gordura
+
+DMO L2-L4
+
+DMO Colo do Fêmur
+
+DMO Ward
+
+DMO Trocanter
+
+DMO Fêmur Total
+
+Média ± DP
+
+24,68 ± 4,31
+
+175,97 ± 7,10
+
+71,95 ± 10,02
+
+17,54 ± 7,46
+
+1,24 ± 0,16
+
+1,22 ± 0,17
+
+1,13 ± 0,21
+
+1,02 ± 0,16
+
+1,21 ± 0,16
+
+Amplitude
+
+20 a 35
+
+158 a 194
+
+51,6 a 101,8
+
+5,5 a 36,9
+
+0,88 a 1,61
+
+0,82 a 1,68
+
+0,69 a 1,71
+
+0,70 a 1,47
+
+0,87 a 1,64
+
+A  TABELA  2  mostra  as  DMOs  médias 
+obtidas  na  amostra  deste  estudo  bem  como 
+os  valores  usados  como  base  de  dados  da 
+
+população  de  referência  do  DXA.  Estes 
+valores  são 
+fornecidos  pelo  manual  do 
+próprio equipamento.
+
+DMO: Densidade 
+Mineral Óssea (g/cm2).
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194698  •  3
+
+TABELA 2 - Comparativo entre as DMOs obtidas no estudo com os valores referenciais do DXA.
+
+Os dados estão 
+expressos como Média 
+e (N);
+DMO:Densidade Mineral 
+Óssea (g/cm2).
+
+Sítio
+
+DMO L2-L4
+DMO Colo do Fêmur
+DMO Ward
+DMO Trocanter
+DMO Fêmur Total
+
+Média da amostra
+
+Média referencial do DXA
+
+1,243 (117)
+1,223 (117)
+1,127 (117)
+1,018 (117)
+1,208 (117)
+
+1,241 (131)
+1,098 (139)
+1,038 (139)
+0,950 (139)
+1,105 (139)
+
+A TABELA 3 compara, para os 117 indivíduos, os 
+escores T baseados nos valores de referência da população 
+do DXA com os valores de referência obtidos pela amostra. 
+Os escores T médios obtidos tendo por base os valores da 
+população  do  DXA  foram  consideravelmente  maiores 
+do que zero em todos os sítios do fêmur, apresentando 
+diferenças  estatisticamente  significativas  (p<0,001).  No 
+
+entanto, os escores T médios das vértebras lombares se 
+revelaram  praticamente  idênticos  e  não  resultaram  em 
+uma diferença estatisticamente significativa (p=0,79). É 
+importante ressaltar que a média do escore T (a soma de 
+todos os escores T divididos pelo número de escores T) 
+obtida baseada na própria amostra será sempre zero e terá 
+o desvio padrão igual a um.
+
+TABELA 3 - Escores T baseados em valores de referência da população do DXA e da população do estudo.
+
+Os dados estão 
+expressos como Média 
+± DP (Amplitude);
+ap=0,79;
+bp<0,001.
+
+Escores T
+
+L2-L4a
+Colo do Fêmurb
+Wardb
+Trocanterb
+Fêmur Totalb
+
+Base no DXA
+
+0,03 ± 1,30 (-3,0 a 3,1)
+1,18 ± 1,32 (-1,9 a 4,7)
+1,28 ± 1,62 (-2,1 a 5,7)
+0,80 ± 1,43 (-2,1 a 4,9)
+0,90 ± 1,27 (-1,7 a 4,3)
+
+Base na Amostra
+
+0,00 ± 1,00 (-2,4 a 2,3)
+0,00 ± 1,00 (-2,3 a 2,7)
+0,00 ± 1,00 (-2,1 a 2,8)
+0,00 ± 1,00 (-2,0 a 2,8)
+0,00 ± 1,00 (-2,1 a 2,6)
+
+Ao  se  utilizar  os  critérios  da  Organização 
+Mundial de Saúde para diagnosticar osteoporose, 
+baseados  em  escores  T  da  população  do  DXA 
+ou  da  população  do  estudo,  determinou-se  o 
+
+número de indivíduos normais, osteopênicos ou 
+osteoporóticos  em  ambos  os  casos.  Os  valores 
+encontrados  estão  resumidos  nas  tabelas  de 
+número 4 a 8 para todos os sítios medidos.
+
+TABELA 4 - Aplicação do critério de diagnóstico da OMS de acordo com Escores T baseados na população de 
+referência do DXA e na população do estudo para as vértebras L2-L4.
+
+Os dados estão 
+expressos como N (%).
+
+Normal
+Osteopenia
+Osteoporose
+
+Os dados estão 
+expressos como N (%).
+
+Normal
+Osteopenia
+Osteoporose
+
+Base no DXA
+
+94 (80,3)
+20 (17,1)
+3 (2,6)
+
+Base no DXA
+
+115 (98,3)
+
+2 (1,7)
+0 (0,0)
+
+Base na Amostra
+
+101 (86,3)
+16 (13,7)
+0 (0,0)
+
+Base na Amostra
+
+98 (83,8)
+19 (16,2)
+0 (0,0)
+
+TABELA 5 - Aplicação do critério de diagnóstico da OMS de acordo com Escores T baseados na população de 
+referência do DXA e na população do estudo para o colo do fêmur.
+
+4  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194698
+
+TABELA 6 - Aplicação do critério de diagnóstico da OMS de acordo com Escores T baseados na população de 
+referência do DXA e na população do estudo para o triângulo de Ward.
+
+TABELA 7 - Aplicação do critério de diagnóstico da OMS de acordo com Escores T baseados na população de 
+referência do DXA e na população do estudo para o trocanter.
+
+Normal
+Osteopenia
+Osteoporose
+
+Normal
+Osteopenia
+Osteoporose
+
+Normal
+Osteopenia
+Osteoporose
+
+Base no DXA
+
+111 (94,9)
+
+6 (5,1)
+0 (0,0)
+
+Base no DXA
+
+104 (88,9)
+13 (11,1)
+0 (0,0)
+
+Base no DXA
+
+114 (97,4)
+
+3 (2,6)
+0 (0,0)
+
+Base na Amostra
+
+103 (88,0)
+14 (12,0)
+0 (0,0)
+
+Base na Amostra
+
+97 (82,9)
+20 (17,1)
+0 (0,0)
+
+Base na Amostra
+
+95 (81,2)
+22 (18,8)
+0 (0,0)
+
+Os dados estão 
+expressos como N (%).
+
+Os dados estão 
+expressos como N (%).
+
+Os dados estão 
+expressos como N (%).
+
+TABELA 8 - Aplicação do critério de diagnóstico da OMS de acordo com Escores T baseados na população de 
+referência do DXA e na população do estudo para o fêmur total.
+
+as 
+
+Ao  observar 
+
+cinco  últimas 
+
+tabelas 
+(TABELA  4  à  TABELA  8)  podemos  notar  que 
+só foram diagnosticados casos de osteoporose na 
+coluna  lombar  e  usando  como  base  os  valores 
+de  referência  do  DXA.  Neste  mesmo  sítio,  o 
+número de indivíduos normais foi maior quando 
+suas  DMOs  foram  comparadas  com  a  própria 
+população. Utilizando esta mesma população, de 
+modo inverso, houve uma menor prevalência de 
+normalidade  (e  consequentemente  mais  casos  de 
+baixa DMO) em todos as áreas do fêmur.
+
+Foram  considerados  indivíduos  com  baixa 
+DMO  aqueles  com  resultado  compatível  com 
+osteopenia ou osteoporose. Ao utilizar os valores 
+de referência da população do DXA o percentual 
+de  indivíduos  com  baixa  DMO  variou  entre 
+1,7% (TABELA 5) e 19,7% (TABELA 4 - soma 
+do percentual de osteopênicos e osteoporóticos), 
+
+com média de 8,0%. Utilizando os valores de 
+referência  da  amostra  analisada,  o  mesmo 
+percentual variou entre 12,0% (TABELA 6) 
+e 18,8% (TABELA 8), com média de 15,6%.
+A TABELA 9 compara diversas variáveis 
+entre os indivíduos sedentários (N=25) e os 
+ativos (N=92) da amostra. Houve diferença 
+estatisticamente  significativa  (p<0,01)  em 
+todos  os  sítios  relacionados  com  o  fêmur. 
+Não  houve  diferença 
+estatisticamente 
+significativa  no  que  se  refere  à  idade, 
+estatura,  massa  corporal  e  percentual 
+de  gordura.  Também  não  foi  detectada 
+diferença  nos  valores  da  coluna  lombar 
+(p=0,05). Todos os demais valores de DMO 
+e escores T de indivíduos ativos são maiores 
+em contraste com os dos sedentários.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194698  •  5
+
+TABELA 9 - Comparação entre os indivíduos sedentários e ativos da amostra.
+
+ap=0,05;
+bp<0,01;
+DMO: Densidade 
+Mineral Óssea em 
+(g∙cm2).
+
+Variável
+
+Idade (anos)
+
+Estatura (cm)
+
+Massa (kg)
+
+% Gordura
+
+DMO L2-L4a
+
+Escore T L2-L4a
+
+DMO Colo do Fêmurb
+
+Escore T Colo do Fêmurb
+
+DMO Wardb
+
+Escore T Wardb
+
+DMO Trocanterb
+
+Escore T Trocanterb
+
+DMO Fêmur Totalb
+
+Escore T Fêmur Totalb
+
+Discussão
+
+Sedentários (N=25)
+
+25,32 ± 4,47
+
+175,44 ± 6,81
+
+70,48 ± 11,09
+
+20,03 ± 8,13
+
+1,19 ± 0,20
+
+0,12 ± 1,63
+
+1,13 ± 0,19
+
+0,48 ± 1,47
+
+1,03 ± 0,22
+
+0,51 ± 1,68
+
+0,94 ± 0,17
+
+0,10 ± 1,54
+
+1,12 ± 0,18
+
+0,24 ± 1,39
+
+Ativos (N=92)
+
+24,50 ± 4,27
+
+176,12 ± 7,20
+
+72,35 ± 9,74
+
+16,87 ± 7,17
+
+1,26 ± 0,14
+
+0,15 ± 1,18
+
+1,25 ± 0,16
+
+1,37 ± 1,22
+
+1,15 ± 0,20
+
+1,49 ± 1,54
+
+1,04 ± 0,15
+
+0,99 ± 1,34
+
+1,23 ± 0,15
+
+1,08 ± 1,18
+
+Este estudo foi realizado com indivíduos entre 
+20 e 35 anos de idade pois, é nesta fase da vida, 
+que se atinge o pico de DMO29,34. Foi escolhido 
+o  sexo  masculino  devido  à  relativa  escassez  de 
+trabalhos de densitometria óssea com indivíduos 
+deste gênero.
+
+Sabe-se  que  a  DMO  de  descendentes  de 
+africanos  é  maior  quando  comparada  com  a  de 
+outras etnias35. Como a carga genética da população 
+brasileira  é  produto  de  um  complexo  processo 
+de  miscigenação  entre  ameríndios,  europeus  e 
+africanos  e,  a  proporção  na  qual  cada  um  destes 
+povos influenciou a população varia de região para 
+região,  a  cor  da  pele  é  um  pobre  prognosticador 
+de descendência africana36,37. Devido a este fato, o 
+estudo não foi limitado a uma ou outra raça.
+
+Este 
+
+com 
+
+estudo, 
+
+realizado 
+
+estudantes 
+universitários  brasileiros,  encontrou  resultados 
+bastante distintos de DMOs quando comparados 
+com os valores de referência do DXA baseados em 
+uma  população  de  americanos  e  europeus.  Com 
+exceção  das  vértebras  L2-L4  que  se  mostraram 
+praticamente 
+valores 
+
+idênticas, 
+
+todos 
+
+os 
+
+medidos  nos  demais  sítios  foram  maiores  nos 
+universitários analisados. Porém, deve-se ressaltar 
+que os valores de referência do DXA são de um 
+grupo  populacional  distinto  do  grupo  estudado, 
+constituído por brasileiros.
+
+Um possível motivo para estes resultados mais 
+elevados é o grande número de participantes ativos 
+deste estudo (92 indivíduos de 117). A literatura 
+mostra  haver  relação  direta  entre  DMO  e  nível 
+de  atividade  física22,38.  O  esporte  praticado  ou  o 
+tipo  de  exercício  físico  realizado  pela  população 
+estudada talvez explique os valores mais altos no 
+fêmur e não na coluna.
+
+Estudo  realizado  em  São  Paulo  com  38 
+estudantes  de  Medicina  do  sexo  masculino  com 
+idades  entre  20  e  25  anos,  encontrou  valores  de 
+DMO  de  1,30,  1,19,  1,12  e  1,00  g/cm2  para  a 
+coluna lombar, colo do fêmur, triângulo de Ward 
+e  trocanter,  respectivamente39.  Neste  estudo, 
+assim como no nosso, também foram encontradas 
+DMOs  mais  altas  nos  quatro  sítios  medidos,  do 
+que  os  valores  de  referência  do  DXA.  Os  alunos 
+de  São  Paulo  apresentaram  valores  mais  altos 
+
+6  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194698
+
+que  os  do  nosso  grupo  na  coluna  lombar,  mas 
+não  nos  demais  sítios.  Existem,  no  entanto, 
+trabalhos  com  resultados  contrários  ao  do  nosso 
+estudo como os apresentados por Zerbini et al13. 
+que  não  observaram  diferenças  estatisticamente 
+significativas  entre  brasileiros  e  americanos/
+europeus40. No entanto, a população em questão 
+era de homens com idade acima de 50 anos.
+
+Assim,  utilizando  os  critérios  da  Organização 
+Mundial  de  Saúde  (OMS),  pode-se  obter  um 
+diagnóstico da massa óssea dos participantes com 
+base em ambas as populações. Nosso estudo teve 
+sete casos de falsos positivos para baixa massa óssea 
+da coluna lombar. Isto quer dizer que indivíduos 
+são  diagnosticados  como  tendo  baixa  massa 
+óssea usando como base os valores do DXA, mas 
+considerados  normais  quando  suas  DMOs  são 
+comparadas com a população estudada. Em todos 
+os  outros  sítios  houve  casos  de  falsos  negativos,  ou 
+seja,  indivíduos  eram  diagnosticados  como  estando 
+com  suas  DMOs  normais  quando  na  verdade 
+apresentavam  uma  redução  na  comparação  com  a 
+população base do nosso estudo. Utilizando a própria 
+população e a população do DXA como referência, 
+a  prevalência  de  baixa  massa  óssea  é  de  em  média 
+15,6% e 8,0%, respectivamente, para todos os sítios.
+A  comparação  entre  os  indivíduos  sedentários 
+com os ativos do nosso grupo de estudo verificou 
+não haver diferenças estatisticamente significativas 
+entre DMO de L2-L4 e escore T de L2-L4. Quanto 
+às demais variáveis, todas apresentaram resultados 
+significativamente  maiores  no  grupo  dos  ativos. 
+Isto já era de se esperar pois há uma relação direta 
+entre DMO e nível de atividade física21-23,41.
+
+Os  dados  do  nosso  estudo  sugerem  que  cada 
+indivíduo  deve  ter  sua  densidade  mineral  óssea 
+(DMO)  diagnosticada  com  base  em  sua  própria 
+população.  Assim  previne-se  que 
+indivíduos 
+com  osteoporose  sejam  diagnosticados  como 
+normais  e  deixem  de  iniciar  um  tratamento  ou, 
+só o iniciem tardiamente, após sofrerem fraturas. 
+Evita-se também o oposto, onde se diagnostica que 
+outrem  está  com  baixa  DMO  quando  na  verdade 
+apresenta plena saúde óssea, poupando-a de desgastes 
+psicológicos por acreditar estar doente.
+
+O Brasil é um país onde sua população apresenta 
+uma  diversidade  étnica  muito  grande.  Logo,  os 
+dados  obtidos  neste  estudo  provavelmente  não  são 
+representativos  da  população  masculina  de  todo  o 
+país, valendo portanto, para populações de igual etnia 
+que vivem em condições ambientais semelhantes.
+
+Por  fim,  fica  claramente  demonstrada  a 
+importância da prática de exercícios físicos na 
+tentativa de se evitar a perda de massa óssea. No 
+entanto, a exata influência da prática desportiva 
+na  DMO  necessita  ser  mais  aprofundada  por 
+alguns  motivos,  dentre  eles,  o  fato  do  nosso 
+estudo ser transversal e não ter observado alguns 
+fatores  como  hábitos  alimentares  e  estilos  de 
+vida pregressos.
+
+Novos  estudos  em  adultos  jovens  devem  ser 
+realizados nas mais diversas populações. Ademais, 
+medidas de DMO devem ser feitas em indivíduos 
+que  praticam  diferentes  modalidades  esportivas, 
+para que se possa descobrir a influência de cada 
+uma  delas  na  massa  óssea  e  utilizá-las  como 
+método de prevenção contra a osteoporose e sua 
+principal manifestação clínica que é a fratura.
+
+Conflito de interesse
+
+Os autores não possuem qualquer conflito de interesse a ser declarado.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194698  •  7
+
+Abstract
+
+Reference values of bone mineral density of male university students.
+
+The purpose of this study was to determine reference values (mean ± standard deviation) of bone 
+mineral density (BMD) for the lumbar spine (L2-L4) and proximal femur (femoral neck, trochanter, 
+Ward´s triangle and total femur) of undergraduate students. BMD of 117 (25 inactive and 92 active) 
+men were measured aging 20 to 35 years using dual-energy X-ray absorptiometry (DXA). The BMD 
+values (g/cm2) for each site were: L2-L4 - 1,24 ± 00,16; femoral neck - 1,22 ± 0,17; Ward´s triangle - 
+1,13 ± 0,21; trochanter - 1,02 ± 0,16; and total femur - 1,21 ± 0,16. When comparing these BMD with 
+DXA´s reference values the following T scores were respectively obtained: 0,03 ± 1,30; 1,18 ± 1,32; 
+1,28 ± 1,62; 0,80 ± 1,43; and 0,90 ± 1,27. There were significant differences (p<0,001) between T 
+scores based on DXA population and sample population at all femur sites, but not at lumbar spine 
+(p=0,79). After comparing BMD and T scores of inactive and active students, significant differences 
+were found in femur sites (p<0,01) but not at lumbar spine (p=0,05). The data suggest that people 
+should have their BMD diagnosed based on their own population reference values and that there is 
+an influence of physical activity on BMD. 
+
+Keywords: Osteoporosis; Bone density; Metabolic bone diseases; Photon absorptiometry.
+
+Referências
+
+1. Barreto FC, Bucharles SGE, Jorgetti V. Treatment of osteoporosis in chronic kidney disease. Braz J Nephrol. 2021;43(4 
+suppl 1):654-9. 
+2. Brandi ML. Microarchitecture, the key to bone quality. Rheumatology. 2009;48(suppl 4):iv3-iv8. 
+3. Radominski SC, Bernardo W, Paula AP, et al. Diretrizes brasileiras para o diagnóstico e tratamento da osteoporose em 
+mulheres na pós‐menopausa. Rev Bras Reumatol. 2017;57:452-66. 
+4. Xavier RM, Giarola IC, Ocampos GP, Plapler PG, Camargo OP, Rezende MU. Profile of patients with osteoporotic 
+fractures and factors that decrease prevention. Acta Ortopédica Bras. 2019;27(2):95-9. 
+5. Coughlan T, Dockery F. Osteoporosis and fracture risk in older people. Clin Med Lond Engl. 2014;14(2):187-91. 
+6. Clynes MA, Harvey NC, Curtis EM, Fuggle NR, Dennison EM, Cooper C. The epidemiology of osteoporosis. Br 
+Med Bull. 2020;15(1):101-17. 
+7. Sözen T, Özışık L, Başaran NÇ. An overview and management of osteoporosis. Eur J Rheumatol. 2017;4(1):46-56. 
+8. Aziziyeh R, Amin M, Habib M, et al. The burden of osteoporosis in four Latin American countries: Brazil, Mexico, 
+Colombia, and Argentina. J Med Econ. 2019;22(7):638-44. 
+9. Marinho BCG, Guerra LP, Drummond JB, Silva BC, Soares MMS. The burden of osteoporosis in Brazil. Arq Bras 
+Endocrinol Metabol. 2014;58(5):434-43. 
+10 Pinheiro M de M, Eis SR. Epidemiology of osteoporotic fractures in Brazil: what we have and what we need. Arq Bras 
+Endocrinol Metabol. 2010;54(2):164-70. 
+11. Guzon-Illescas O, Perez Fernandez E, Crespí Villarias N, et al. Mortality after osteoporotic hip fracture: incidence, 
+trends, and associated factors. J Orthop Surg. 2019;14(1):203. 
+12. Pinheiro MM, Ciconelli RM, Martini LA, Ferraz MB. Clinical risk factors for osteoporotic fractures in Brazilian 
+women and men: the Brazilian osteoporosis study. Osteoporos Int. 2009;20(3):399-408. 
+13. Zerbini CAF, Szejnfeld VL, Abergaria BH, McCloskey EV, Johansson H, Kanis JA. Incidence of hip fracture in Brazil 
+and the development of a FRAX model. Arch Osteoporos. 2015;10(1):28. 
+14.  Oliveira  LG,  Carneiro  MLRG,  Souza  MPG,  Souza  CG,  Moraes  FB,  Camargo  FL.  Atualização  do  tratamento 
+medicamentoso da osteoporose. Rev Bras Ortop.  2021;56(05):550-7. 
+15. Compston JE, Drake MT. Defining very high fracture risk: is frax fit for purpose?. J Bone Miner Res. 2020;35(8):1399-403. 
+16. Lopes RF, Marchesi AO, Fossari RN, Cezar MC, Coeli CM, Farias MLF. Análise densitométrica da região femoral de 
+homens acima de 50 anos oriundos de um ambulatório de urologia. Rev Bras Reumatol. 2009;49(4)409-12.
+
+8  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194698
+
+17. Binkley N. Osteoporosis in men. Arq Bras Endocrinol Metabol. 2006;50(4):764-74. 
+18. Rao SS, Budhwar N, Ashfaque A. Osteoporosis in men. Am Fam Physician. 2010;82(5):503-8. 
+19. Florindo AA, Latorre M d. RDO, Jaime PC, Tanaka T, Pippa MGB, Zerbini CAF. Past and present habitual physical 
+activity and its relationship with bone mineral density in men aged 50 years and older in Brazil. J Gerontol A Biol Sci 
+Med Sci. 2002;57(10):M654-M7. 
+20. Kenny AM, Prestwood KM, Marcello KM, Raisz LG. Determinants of bone density in healthy older men with low 
+testosterone levels. J Gerontol A Biol Sci Med Sci. 2000;55(9):M492-7. 
+21. Proctor DN, Melton III LJ, Khosla S, Crowson CS, O’Connor MK, Riggs BL. Relative influence of physical activity, 
+muscle mass and strength on bone density. Osteoporos Int. 2000;11(11):944-52. 
+22. Cadore EL, Brentano MA, Kruel LFM. Efeitos da atividade física na densidade mineral óssea e na remodelação do 
+tecido ósseo. Rev Bras Med Esporte. 2005;11(6):373-9. 
+23. Avila JA, Avila RA, Gonçalves EM, Guerra Junior G. Influence of physical training on bone mineral density in healthy 
+young adults: a systematic review. Rev Assoc Médica Bras. 2019;65(8):1102-6. 
+24. Abrahin O, Rodrigues RP, Marçal AC, Alves EAC, Figueiredo RC, Sousa EC. Swimming and cycling do not cause 
+positive effects on bone mineral density: a systematic review. Rev Bras Reumatol Engl Ed. 2016;56(4):345-51. 
+25. Ito IH, Mantovani AM, Agostinete RR, Costa P, Zanuto EF, Christofaro DGD, et al. Practice of martial arts and bone 
+mineral density in adolescents of both sexes. Rev Paul Pediatr Engl Ed. 2016;34(2):210-5. 
+26. Mesquita WG, Fonseca RMC, França NM. Influência do voleibol na densidade mineral ossea de adolescentes do sexo 
+feminino. Rev Bras Med Esporte. 2008;14(6):500-3. 
+27. Silva CC, Goldberg TBL, Teixeira AS, Dalmas JC. Mineralização óssea em adolescentes do sexo masculino: anos críticos 
+para a aquisição da massa óssea. J Pediatr. 2004;80(6):461-7. 
+28. Rodrigues AM, Cintra IP, Santos LC, Martini LA, Mello MT, Fisberg M. Densidade mineral óssea, composição corporal 
+e ingestão alimentar de adolescentes modelos de passarela. J Pediatr. 2009;85(6)503-8.
+29. Boot AM, Ridder MAJ, Sluis IM, Slobbe I, Krenning EP, Muinck Keizer-Schrama SMPF. Peak bone mineral density, 
+lean body mass and fractures. Bone. 2010;46(2):336-41. 
+30. Petley GW, Cotton AM, Murrills AJ, et al. Reference ranges of bone mineral density for women in southern England: 
+the impact of local data on the diagnosis of osteoporosis. Br J Radiol. 1996;69(823):655-60. 
+31. Lee KS, Bae SH, Lee SH, Lee J, Lee DR. New reference data on bone mineral density and the prevalence of osteoporosis 
+in Korean adults aged 50 years or older: the Korea National Health and Nutrition Examination Survey 2008-2010. J 
+Korean Med Sci. 2014;29(11):1514-22. 
+32. Gürlek A, Bayraktar M, Ariyürek M. Inappropriate reference range for peak bone mineral density in dual-energy x-ray 
+absorptiometry: implications for the interpretation of t-scores. Osteoporos Int. 2000;11(9):809-13. 
+33. Ahmed AIH, Blake GM, Rymer JM, Fogelman I. Screening for osteopenia and osteoporosis: do the accepted normal 
+ranges lead to overdiagnosis?. Osteoporos Int. 1997;7(5):432-8. 
+34. Lu J, Shin Y, Yen MS, Sun SS. Peak bone mass and patterns of change in total bone mineral density and bone mineral 
+contents from childhood into young adulthood. J Clin Densitom. 2016;19(2):180-91. 
+35. Hochberg MC. Racial differences in bone strength. Trans Am Clin Climatol Assoc. 2007;118:305-15. 
+36. Parra FC, Amado RC, Lambertucci JR, Rocha J, Antunes CM, Pena SDJ. Color and genomic ancestry in Brazilians. 
+Proc Natl Acad Sci. 2003;100(1):177-82. 
+37.  Pena  SDJ,  Carvalho-Silva  DR,  Alves-Silva  J,  Prado VF,  Santos  FR.  Retrato  molecular  do  Brasil.  Ciênc  Hoje. 
+2000;27(159):16-25. 
+38. Brandão CMA, Vieira JGH. Fatores envolvidos no pico de massa óssea. Arq Bras Endocrinol Metabol. 1999;43(6):401-8. 
+39. Szejnfeld VL, Lucasin  JR, Cruz JRS, Abreu JL, Dana Neto L, Atra E. Avaliaçäo do efeito dos exercícios sobre a 
+densidade óssea de indivíduos jovens. Rev Bras Reum. 1992;32(2)84-8. 
+40. Zerbini CAF, Latorre MRO, Jaime PC, Tanaka T, Pippa MGB. Bone mineral density in Brazilian men 50 years and 
+older. Braz J Med Biol Res. 2000;33(12):1429-35. 
+41. Carrasco M, Martínez I, Navarro MD. Atividade física na vida diária e densidade mineral óssea em mulheres idosas. 
+Rev Bras Med Esporte. 2015;21(1):22-6. 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194698  •  9
+
+Endereço
+Ricardo Flávio de Araujo Bezerra
+Faculdade de Educação Física 
+Campus Darcy Ribeiro
+70910-900 - Brasília - DF - Brasil 
+E-mail: rfabezerra@gmail.com
+
+Submetido: 06/02/2022
+Revisado: 28/06/2023
+Aceito: 07/07/2023
+
+10  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37194698
+
+

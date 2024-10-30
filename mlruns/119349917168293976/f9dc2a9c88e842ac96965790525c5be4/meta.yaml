@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/f9dc2a9c88e842ac96965790525c5be4/artifacts
+deleted_time: 1730154652059
+end_time: 1730154023889
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: f9dc2a9c88e842ac96965790525c5be4
+run_name: valuable-deer-750
+run_uuid: f9dc2a9c88e842ac96965790525c5be4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730154019180
+status: 3
+tags: []
+user_id: rapha

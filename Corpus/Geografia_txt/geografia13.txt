@@ -1,0 +1,1103 @@
+| ISSN: 1984-8501
+
+DOI: 10.5216/BGG.v43.68962
+
+Rogério Rego Miranda
+
+Resumo: A noção de Formação Econômico-Social (FES), elaborada por Marx e 
+Lênin,  vai  repercutir  em  diversos  outros  trabalhos  ﬁlosóﬁcos,  sociológicos, 
+históricos, econômicos e geográﬁcos. Na geograﬁa, particularmente a brasileira, 
+importantes  intelectuais  vão  expressar  a  necessidade  de  incorporar  a 
+dimensão espacial ao debate da FES, face a inseparabilidade entre sociedade e 
+espaço, propondo a categoria analítica formação socioespacial, a exemplo de 
+Milton Santos.  Nesse contexto, o artigo visa discutir a interpretação geográﬁca 
+brasileira acerca da noção de Formação Econômico-Social. Com o intuito de 
+alcançar  esse  objetivo  se  realizou,  em  termos  metodológicos,  a  revisão 
+bibliográﬁca  sobre  a  temática,  utilizando-se  de  autores  responsáveis  pela 
+construção teórica da FES e seus interlocutores.
+Palavras-chave:  Formação  Econômico-Social.  Formação  Socioespacial. 
+Geograﬁa.
+
+Résumé:La notion de Formation Socio-Économique (FSE), élaborée par Marx et 
+Lénine,  trouvera  un  écho  dans  plusieurs  autres  travaux  philosophiques, 
+sociologiques,  historiques,  économiques  et  géographiques.  En  géographie, 
+notamment  au  Brésil,  d'importants  intellectuels  exprimeront  la  nécessité 
+d'incorporer la dimension spatiale au débat sur l'économie sociale, étant donné 
+l'inséparabilité entre la société et l'espace, proposant la catégorie analytique de 
+la formation socio-spatiale, comme Milton Santos.   Dans ce contexte, l'article 
+prétend  discuter  l'interprétation  géographique  brésilienne  de  la  notion  de 
+formation  socio-économique.  Pour  atteindre  cet  objectif,  une  revue 
+
+| ISSN: 1984-8501
+
+DOI: 10.5216/BGG.v43.68962
+
+bibliographique sur le thème a été réalisée, en termes méthodologiques, en 
+utilisant les auteurs responsables de la construction théorique du FSE et leurs 
+interlocuteurs.
+Mots  clés:  Formation  socio-économique.  Formation  socio-spatiale. 
+Géographie.
+
+Abstract: The notion of Social-Economic Formation (SEF), elaborated by Marx 
+and  Lenin,  will  echo  in  several  other  philosophical,  sociological,  historical, 
+economic and geographic works. In geography, particularly in Brazil, important 
+intellectuals will express the need to incorporate the spatial dimension into the 
+debate of the Social-Social Economy, given the inseparability between society 
+and space, proposing the analytical category of socio-spatial formation, as in the 
+case of Milton Santos.  In this context, the article aims to discuss the Brazilian 
+geographic interpretation of the notion of Social-Economic Formation. In order 
+to achieve this objective, a bibliographical review on the theme was carried out, 
+using authors responsible for the theoretical construction of the SEF and their 
+interlocutors.
+Keywords: Socioeconomic formation. Socio-Spatial Formation. Geography.
+
+Rogério Rego Miranda
+
+Introdução
+
+A  noção  de  Formação  Econômico-Social 
+
+(FES)  que  se 
+apresentava de maneira embrionária em Marx, tem sua formulação 
+mais bem desenvolvida nos escritos de Lênin, que, por sua vez, vai 
+inﬂuenciar  autores  importantes,  como  Antonio  Gramsci  (1968), 
+especialmente  em  seu  conceito  de  Hegemonia,  e  Henri  Lefebvre 
+(1969),  aos  tratar  das  temporalidades  que  se  materializam  no 
+espaço.
+
+A FES igualmente vai repercutir nos estudos geográﬁcos, nos 
+quais geógrafos vão propor a incorporação da dimensão espacial à 
+sua construção conceitual, cujo exemplo mais elucidativo no Brasil é 
+o de Milton Santos (1977), ao conceber teoricamente a categoria 
+analítica  formação  socioespacial,  cuja  reﬂexão  lhe  permite,  de 
+acordo  com    Whitacker  (2019),  a  colaborar  com  a  renovação  da 
+Geograﬁa empreendida a partir das décadas de 1960/1970, na qual 
+há  uma  aproximação  dessa  ciência  com  o  marxismo,  alçando 
+entender o espaço enquanto partícipe do processo de totalização 
+histórica, como resultado de determinados modos de produção e de 
+suas  formações  econômicas  e  sociais,  logo,  o  espaço  geográﬁco 
+passa a ser compreendido como oriundo das relações sociais de 
+produção.
+
+Nesse  contexto,  o  artigo  visa  discutir  a 
+
+interpretação 
+geográﬁca  brasileira  acerca  da  noção  de  Formação  Econômico-
+Social. Com o intuito de alcançar esse objetivo se realizou, em termos 
+metodológicos, a revisão bibliográﬁca sobre a temática, utilizando-se 
+de  autores  responsáveis  pela  construção  teórica  da  FES  e  seus 
+interlocutores.
+
+O  trabalho  se  subdivide  em  dois  momentos.  O  primeiro  se 
+centra  na  contribuição  de  autores  clássicos  que  se  debruçaram 
+sobre a deﬁnição da noção de FES, a saber, Marx (2008) e Lênin 
+(1955;  1988),  bem  como  em  seus  interpretes,  tais  como  Gruppi 
+(1979),  Lefebvre  (1969)  e  Sereni  (2013).  O  segundo  se  reporta  a 
+dimensão  espacial  da  FES,  ou  melhor,  na  interpretação  que  a 
+geograﬁa brasileira produziu com relação a referida noção. Para esse 
+ﬁm, fez-se uso de trabalhos importantes de Santos (1977), Moraes 
+(1982), Silva (1991) e Moreira (2007).
+
+Formação Econômico-Social (FES) na leitura dos clássicos
+
+Marx, em sua obra Introdução à crítica da economia política, 
+indica que o tema do seu trabalho era a produção material, partindo 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+da  ideia  da  produção  humana  em  sociedade  e  a  produção  de 
+indivíduos  socialmente  determinada,  em  contextos  históricos 
+diferentes 
+(feudal,  capitalista  etc.),  que  apresentam  entre  si 
+determinadas características em comum. 
+
+Segundo o autor, a “produção em geral é uma abstração, mas 
+uma abstração razoável, pelo fato de que põe realmente em relevo e 
+ﬁxa  o  caráter  comum,  poupando-nos,  portanto,  as  repetições” 
+(MARX, 2008, p. 240). 
+
+Desta  feita,  preocupa-se  em  entender  as  regularidades  e 
+homogeneidades, porém sem perder de vista a diversidade. É nesse 
+contexto que Marx formula a ideia de formação econômico-social, 
+em que vestígios do passado são arrastados pelo presente. Em suas 
+palavras:
+
+A sociedade burguesa é a organização histórica da produção mais 
+desenvolvida, mais diferenciada. As categorias que exprimem suas 
+condições,  a  compreensão  de  sua  própria  organização  a  torna 
+apta para abarcar a organização e as relações de produção de 
+todas as formas de sociedades desaparecidas, sobre cujas ruínas e 
+elementos se acha ediﬁcada, e cujos vestígios, não ultrapassados 
+ainda,  leva  arrastando,  enquanto  que  tudo  o  que  fora  antes 
+apenas indicado se desenvolveu, tomando toda sua signiﬁcação 
+etc.[...].
+
+Como, além disso, a sociedade burguesa não é em si mais do que 
+uma  forma  antagônica  do  desenvolvimento,  certas  relações 
+pertencentes a formas anteriores nela só poderão ser novamente 
+encontradas completamente esmaecidas, ou mesmo disfaçadas; 
+por exemplo, a propriedade comunal. (Marx, 2008, p. 264-265)
+
+Marx chama à atenção ao fato de que em uma dada forma de 
+sociedade existe uma produção determinada, superior às demais, 
+identiﬁcando sua posição de inﬂuência sobre as  outras. 
+
+No caso da sociedade burguesa, a indústria corresponderia à 
+produção  dominante,  subjugando  a  agricultura,  sendo  está 
+dominada  pelo  capital.  Fato  semelhante  ocorre  com  a  renda 
+territorial, posto que nas formas em que predomina a propriedade 
+rural, sobressai-se a íntima relação com a natureza, mas naquelas 
+formas  em  que  o  capital  domina,  destaca-se  o  elemento  social 
+produzido historicamente. “Não se compreende a renda territorial 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+sem o capital; entretanto, compreende-se o capital sem a renda rural. 
+O  capital  é  a  potência  econômica  da  sociedade  burguesa,  que 
+domina tudo.” (MARX, 2008, p. 267)
+
+Segundo Sereni (2013), essa noção de “formação” (social) em 
+Marx tem um caráter dinâmico e processual, ao contrário da ideia de 
+forma,  porque  naquela  busca-se  distinguir  “diversas  e  sucessivas 
+épocas históricas, qualiﬁcadas como 'progressivas' e caracterizada 
+cada  uma  [...]  por  uma  série  ascendente  de 
+'tipos',  todos 
+compreendidos naquela mesma formação” (SERENI, 2013, p. 305). 
+Em outros termos, 
+
+Esta categoria expressa a unidade (e, agregaremos, a totalidade) 
+das diferentes esferas: econômica, social, política e cultural da 
+vida  de  uma  sociedade;  e  a  expressa,  além  disso,  na 
+continuidade e ao mesmo tempo na descontinuidade de seu 
+desenvolvimento  histórico.  (SERENI,  2013,  p.  315,  grifado  no 
+original)
+
+Lefebvre (1969) igualmente reﬂete sobre a noção de formação 
+econômico-social em Marx e, também em Lênin, salientando a maior 
+profundidade analítica dada à FES pelo último. Lefebvre assinala que a 
+ideia  de  “formação”  se  refere  a  uma  realidade  em  constante 
+transformação,  de  maneira  histórica  e  objetiva,  ao  passo  que 
+“econômico-social” signiﬁca dois aspectos inseparáveis e diferentes da 
+formação,  quais  sejam:  o  econômico,  que  se  refere  às  forças 
+produtivas e às relações práticas dos indivíduos em sociedade com a 
+natureza,  e  o  social,  que  indica  as  relações  estabelecidas  entre  os 
+homens, as relações de produção, classes e forças sociais. Em suma, 
+para Marx, “formação econômico-social” faz referência à sociedade 
+como o conjunto da história de seu desenvolvimento:  
+
+Para  Marx,  o  desenvolvimento  da  sociedade  e  a  sua  história 
+constituem  um  todo  (uma  totalidade);  mas  cada  momento  da 
+história, cada regime ou modo de produção constitui também um 
+conjunto, um todo (ou uma totalidade) que é necessário estudar 
+em si mesmo, sem o separar do desenvolvimento total. (LEFEBVRE, 
+1969, p. 190 grifado no original) 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+Lênin (1955) parte dessas premissas marxianas para formular 
+sua  compreensão  de  formação  econômico-social.  Em  seu  texto 
+Quem são os amigos do povo e como eles lutam contra os social-
+democratas, por um lado, polemiza com os subjetivistas, ou melhor, 
+com a sociologia subjetivista, para a qual o conceito de formação 
+econômico-social  é  supérﬂuo,  pois  não  trabalha  a  sociedade  em 
+geral,  haja  vista  que  Marx  investigou  a  lei  de  desenvolvimento  da 
+formação capitalista. Marx introduziu o materialismo na sociologia, 
+possibilitando-a tratar de modo rigoroso e cientíﬁco os problemas 
+históricos e sociais. 
+
+1
+
+Avançando  na  crítica,  Lênin  (1955)  indica  que  os  sociólogos 
+subjetivistas  distinguiram  com  diﬁculdade,  na  complexa  rede  de 
+fenômenos sociais, entre os que são importantes e os que não o são, 
+apresentando problemas para encontrar um critério objetivo para 
+essa diferenciação. Por outro, para Lênin:
+
+A análise das relações sociais materiais permitiu imediatamente 
+que  se  observassem  a  repetição  e  a  regularidade  e  se 
+sintetizassem  os  sistemas  dos  diversos  países  num  conceito 
+fundamental de formação social. Somente esta síntese permitiu 
+que se passasse da descrição dos fenômenos sociais (e de sua 
+avaliação  do  ponto  de  vista  do  ideal)  à  análise  rigorosamente 
+cientíﬁca dos mesmos, a qual evidencia, por exemplo, que é que 
+diferencia um país capitalista de outro e investiga o que é comum a 
+todos eles. (LÊNIN, 1955, p. 114)
+
+A hipótese exposta acima possibilitou a existência de uma 
+sociologia cientíﬁca, pois apenas reduzindo as relações sociais às 
+relações de produção e estas, por sua vez, ao nível das forças 
+produtivas,  se  conseguiu  uma  base  sólida  para  representar  o 
+desenvolvimento das formações sociais como processo histórico 
+natural. Marx formulou esta hipótese tendo em vista as formações 
+econômico-sociais  (dentre  as  quais  sobressaiu  o  sistema  da 
+economia mercantil), e mediante dados substantivos analisou as 
+leis  que  regem  o  funcionamento  dessa  formação  e  o  seu 
+desenvolvimento, salientando que sua análise se limita às relações 
+de  produção  existentes  entre  os  membros  da  sociedade, 
+compreendendo  como  está  se  transforma  em  uma  economia 
+capitalista e cria classes antagônicas (burguesia e proletariado); e 
+como desenvolve as atividades do trabalho social e fornece com 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+ele um elemento que entra em contradição irreconciliável com os 
+fundamentos  da  própria  organização  capitalista.  Esses  elementos 
+seriam o esqueleto de O Capital, mas Marx avançou e explicou a 
+estrutura e o desenvolvimento de uma formação social determinada 
+exclusivamente  pelas  relações  de  produção,  estudando  as 
+superestruturas  correspondentes  a  essas  relações  de  produção 
+(LÊNIN, 1955). 
+
+De acordo com Gruppi (1979), a análise marxista se enriqueceu 
+com a noção de formação econômico-social de Lenin, cujo debate 
+possibilitou  compreender  a  sociedade  não  como  uma  formação 
+indistinta, assentada em uma explicação pautada em leis universais, 
+mas de cunho meta-histórico, deixando de lado a relação concreta 
+entre  os  diversos  elementos  que  a  compõem.  Para  Lênin,  a 
+sociedade se desenvolve em distintas formações econômico-sociais, 
+das quais se determinam as leis particulares que as regem. Assim, “a 
+abstração  determinada  se  forma  em  função  da  reconstrução  da 
+determinação concreta”. (GRUPPI, 1979, p. 10, grifado no original)
+
+Esta noção de formação econômico-social foi levada a cabo por 
+Lênin em sua obra principal, O desenvolvimento do capitalismo na 
+Rússia, em que o autor se contrapõe à tese dos populistas de que em 
+seu país não haveria um progresso do capitalismo, visto que negam 
+suas contradições. Em outras palavras, para eles não seria possível o 
+desenvolvimento  do  capitalismo  na  Rússia  tendo  em  vista  a 
+inexistência  de  um  mercado  adequado, 
+logo,  o  capitalismo 
+corresponderia a um caminho desviante que deveria ser evitado com 
+o intuito de salvaguardar a comunidade camponesa. 
+
+Lênin  (1988),  no  entanto,  adverte  que  a  desagregação  e  a 
+pauperização  da  comunidade  camponesa  são  condições  para  o 
+desenvolvimento  do  capitalismo,  visto  que  a  “liberação”  de  uma 
+parcela  dos  produtores  dos  meios  de  produção 
+implica  a 
+transferência desses meios para outros sujeitos, convertendo-os em 
+capital;  consequentemente,  os  novos  proprietários  desses  meios 
+irão produzir, sob a forma de mercadorias, os produtos que outrora 
+eram  consumidos  pelo  produtor,  ampliando  o  mercado  interno. 
+Igualmente indica os diferentes interesses de classe no interior da 
+Revolução Russa, manifestos na dualidade da classe campesina:  
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+ A revolução está trazendo cada vez mais à luz a dualidade do 
+campesinato,  evidente  quer  do  ponto  de  vista  da  sua  situação, 
+quer  do  ponto  de  vista  do  seu  papel.  De  um  lado,  os  imensos 
+remanescentes da economia baseada na corveia e toda sorte de 
+resíduos  da  servidão  diante  de  uma  pauperização  inédita  e  da 
+ruína  dos  camponeses  pobres  explicam  plenamente  as  raízes 
+profundas  do  movimento  revolucionário  camponês,  do  espírito 
+revolucionário  do  campesinato  enquanto  massa.  De  outro,  a 
+estrutura internamente contraditória de classe dessa massa, seu 
+caráter  pequeno  burguês,  o  antagonismo  interno  entre  as 
+tendências  proprietárias 
+e  proletárias  manifestaram-se 
+claramente  no  processo  revolucionário,  na  natureza  dos 
+diferentes  partidos  e  nas  numerosas  correntes  políticas  e 
+ideológicas.  As  vacilações  do  pequeno  proprietário  arruinado, 
+vacilando entre a burguesia contrarrevolucionária e o proletariado 
+revolucionário, são tão inevitáveis como este outro fenômeno que 
+se  observa  em  toda  sociedade  capitalista:  uma  insigniﬁcante 
+minoria de pequenos produtores se enriquece, “sobe na vida”, se 
+aburguesa, enquanto a imensa maioria se arruína completamente, 
+transformando-se em trabalhadores assalariados ou paupérrimos 
+ou vivem eternamente no limite da condição proletária. (LÊNIN, 
+1988, p. 9-10)
+
+Lefebvre (1969), ao apontar os avanços de Lênin com relação à 
+noção  de  formação  econômico-social,  indica  que  cada  formação 
+apresenta leis particulares subordinadas às leis gerais da formação 
+econômico-social,  salientando  que  a  lei  geral  estipula  que  o 
+desenvolvimento 
+pelo 
+desenvolvimento das forças produtivas. 
+
+condicionado 
+
+sociedade 
+
+da 
+
+é 
+
+Em suma, a formação econômica se refere tanto à história e ao 
+desenvolvimento  da  sociedade  em  geral  quanto  a  momentos  ou 
+fases sucessivos – em outros termos, a modos de produção. Essa FES 
+indica  que  o  desenvolvimento  histórico  e  social  não  avança 
+homogeneamente, logo, as formações econômico-sociais sucessivas 
+na história, coexistindo no momento atual com o capitalismo, não 
+são  externas  à  ele,  uma  vez  que  as  “formas  sucessivas  de 
+propriedade e de posse do solo, o artesanato, a pequena produção e 
+o pequeno comércio, veem-se a pouco e pouco subordinados ao 
+grande  capital.  O  crescimento  do  capitalismo  não  se  faz  duma 
+maneira,  é  multiforme  e  multilateral”.  (LEFEBVRE,  1969,  p.  201, 
+grifado no original)
+
+Desta feita, o capital ora dissolve as relações preexistentes, ora 
+corrói e sujeita estas relações e, por conseguinte, as “estruturas de 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e73523 
+
+Rogério Rego Miranda
+
+formações  anteriores  ao  capitalismo  podem  ou  desaparecer  ou 
+permanecer  gozando  duma  independência  aparente.  A  realidade 
+essencial exprime-se numa lei: a lei da subordinação ao capitalismo 
+das formas e estruturas anteriores”. (LEFEBVRE, 1969, p. 202, grifado 
+no original)
+
+fundamental 
+
+importância  à  noção  de 
+
+Outro  avanço  de  Lênin  (1955;1988)  consistiu  na  lei  do 
+desenvolvimento  desigual,  ideia  também  embrionária  em  Marx 
+(2008),  de 
+formação 
+econômico-social,  pois  Lênin  aponta  que  na  escala  mundial 
+coexistem  níveis  de  desenvolvimento  díspares,  o  que  ocorre 
+igualmente no interior dos países capitalistas – a exemplo das regiões 
+–,  acarretando  uma  redeﬁnição  dos  princípios  revolucionários  do 
+marxismo, haja vista a impossibilidade de uma revolução simultânea 
+em todos os países. Em resumo, “signiﬁca que as forças produtivas, as 
+relações  sociais  e  as  superestruturas  (políticas,  culturais)  não 
+avançam igualmente, simultaneamente, ao mesmo ritmo histórico”. 
+(LEFEBVRE, 1969, p. 225-226) 
+
+Martins  (1996),  ao  discutir  o  pensamento  lefebvriano  (1969) 
+acerca de Marx (2008) e Lênin (1955;1988), discorre sobre a noção de 
+FES, que objetiva indicar o tempo das relações sociais, pois embora 
+“nascidas” em momentos históricos diferentes, coexistem entre si 
+assimetricamente numa relação de “descompasso e desencontro”. 
+Ainda segundo Martins (1996), Lefebvre (1969) encontra uma relação 
+entre o espacial e o temporal, sugerida nos textos marxianos, e sua 
+interpretação  sobre  a  noção  de  formação  econômico-social  se 
+distancia  e  se  alarga  em  relação  à  visão  marxista  de  caráter 
+economicista,  que  via  na  lei  do  desenvolvimento  desigual  uma 
+gradação  de  riqueza  sintetizada  na  dicotomia  simplista  entre 
+desenvolvimento e subdesenvolvimento. Isto porque:  
+
+Lefebvre  entende  que  a  desigualdade  dos  ritmos  do 
+desenvolvimento histórico decorre do desencontro que na práxis 
+faz  do  homem  produtor  de  sua  própria  história  e,  ao  mesmo 
+tempo, o divorcia dela, não o torna senhor do que faz. Sua obra 
+ganha vida própria, torna-se objeto e objetivação que subjuga em 
+renovada sujeição o seu sujeito. A formação é econômica e social 
+porque abrange simultaneamente esses dois âmbitos da práxis: a 
+natureza (o econômico) e a sociedade (o social). O homem age 
+sobre a natureza na atividade social de atender suas necessidades. 
+Constrói relações sociais e concepções, ideias, interpretações que 
+dão sentido àquilo que faz e àquilo de que carece. Reproduz, mas 
+também produz – isto é, modiﬁca, revoluciona – a sociedade, base 
+de sua atuação sobre a natureza, inclusive a sua própria natureza. 
+Ele  se  modiﬁca,  ediﬁca  a  sua  humanidade,  agindo  sobre  as 
+condições  naturais  e  sociais  da  sua  existência,  as  condições 
+propriamente econômicas. (MARTINS, 1996, p. 19)
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+Esta visão de Lefebvre (1969), apropriada por Martins (1996), 
+abre várias possibilidades quanto ao desenvolvimento desigual do 
+tempo (história) e do espaço (geograﬁa), pois esse último materializa 
+as temporalidades coexistentes e provenientes de relações sociais 
+de momentos diversos.  
+
+A  dimensão  espacial  da  formação  econômico-social  foi 
+discutida por diversos geógrafos brasileiros como Santos (1977), 
+Moraes (1982), Silva (1991) e Moreira (2007). 
+
+Um dos precursores desse debate no Brasil foi Milton Santos 
+(1977) que critica o interesse signiﬁcativo da Geograﬁa pela forma 
+em detrimento da formação, desconsiderando o dinamismo social 
+que  produz  e  metamorfoseia  as  formas.  Por  compreender  que 
+existe uma relação umbilical entre a história e o espaço, o autor 
+considera  a  formação  econômico-social  como  uma  categoria 
+fundamental para a proposição de uma teoria do espaço social, 
+visto que se refere ao processo de diferenciação das sociedades 
+internamente e em relação às forças externas. A base explicativa 
+corresponde  à  produção,  para  a  qual  o  trabalho  do  homem  é 
+central  na  transformação  do  espaço  de  acordo  com 
+leis 
+historicamente deﬁnidas. Nesse sentido não é possível pensar em 
+formação  econômico-social  (FES)  sem  uma  base  espacial,  daí  o 
+autor  propor  a  ideia  de  Formação  Econômica,  Social  e  Espacial 
+(também  usa  as  expressões  formação  espacial  e  formação 
+socioespacial). 
+
+As FESs permitem o conhecimento de uma sociedade na sua 
+totalidade  e  em  suas 
+frações,  sem  perder  de  vista  o 
+desenvolvimento  societal.  Seu  estudo  genético  possibilita 
+reconhecer  as  similaridades  entre  as  FESs,  assim  como  a 
+especiﬁcidade  de  cada  uma,  distinguindo-as  e  em  seu  interior 
+apreendendo o particular como uma parte do todo, um momento 
+deste, o qual, por sua vez, se reproduz nessas frações. Como a 
+sociedade é mutável suas funções são igualmente dinâmicas, logo, 
+apresentam formas que se alteram de acordo com o movimento 
+totalizador da formação econômico-social que se articula ao modo 
+de produção (SANTOS, 1977). 
+
+Em termos metodológicos, o modo de produção se refere ao 
+todo que se apresenta como a possibilidade de realização e as FESs 
+são partes desse todo, correspondem à realização da possibilidade, 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+sua dimensão concreta. Na verdade, existe uma indissociabilidade 
+entre Modo de Produção (MP), FES e espaço, visto que os processos 
+que engendram o MP (sejam eles produção, circulação, distribuição e 
+consumo)  são  deﬁnidos  historicamente  e  espacialmente  em  um 
+movimento  uníssono  materializado  em  uma  formação  social,  que 
+contém o complexo das distintas formas técnicas e organizacionais 
+da produção, referente às variadas relações de produção existentes 
+que possuem uma referência espacial – aliás, a diferenciação dos 
+lugares é resultado do arranjo espacial dos MPs particulares, que, 
+consequentemente,  vão  apresentar  um  “valor”  distinto  de  acordo 
+com os níveis qualitativos e quantitativos dos modos de produção e 
+suas  combinações.  Em  termos  gerais,  “os  modos  de  produção 
+escrevem a História no tempo, as formações sociais escrevem-na no 
+espaço,  compreendem  a  sua  dimensão  particular  e  concreta” 
+(SANTOS, 1977, p. 88).
+
+Essas  contribuições  vão 
+
+inﬂuenciar  os  demais  autores 
+supracitados, embora em graus variados. Moraes (1982) propõe que 
+a aproximação entre a geograﬁa e o materialismo histórico deve ser 
+balizada  em  termos  metodológicos  e  com  base  na  teoria  do 
+conhecimento, atendo-se ao procedimento analítico e explicativo e a 
+questões de princípios e de posicionamento frente à realidade. 
+
+(1970) 
+
+fornece 
+
+Para  esse  ﬁm,  Lukács 
+
+importantes 
+considerações metodológicas. Apesar de não tratar do espaço de 
+maneira  mais  direta,  discute  questões  gerais  acerca  de  método, 
+concepção, possibilidade de estudar os sujeitos individualizados, de 
+existência  e  formas  de  manifestações  especíﬁcas.  Isso  porque  a 
+proposta  lukacsiana  se  fundamenta  na  gnoseologia da  existência, 
+indicando a anterioridade do ser em relação à consciência, logo, o 
+pensamento  é  colocado  como  uma  apropriação  humana  do  real 
+mediada pelo trabalho. A realidade e o conhecimento são dinâmicos, 
+por  isso  o  saber  é  aproximado,  sendo  absoluto  e  relativo.  Nesse 
+sentido, a reﬂexão tem como critério de validade a existência (não 
+fragmentada) do seu objeto no real que deve ser apreendido numa 
+perspectiva  genética,  em  que  se  pesquisam  as  relações  em  suas 
+formas fenomênicas e se observa em quais condições essas formas 
+podem  vir  a  ser  mais  complexas  e  mediatizadas,  sempre 
+considerando  as  conexões  e  não  suas  partes  isoladas.  A  ciência, 
+assim, é construída no processo de trabalho no momento em que se 
+estabelece  no  homem  a  consciência  da  causalidade  do  mundo 
+exterior. O trabalho, por seu turno, tem uma perspectiva ﬁnalista 
+(teleológica) e em seu ato, ação e pensamento se diferenciam, sendo 
+o  último  uma  interioridade  do  sujeito,  a  qual  deve  se  sujeitar  à 
+causalidade do mundo exterior para concretizar seus objetivos, e 
+que necessita realizar um planejamento e uma avaliação anterior a 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+sua  materialização  no  real.  Ao  materializar  um  produto  (segunda 
+natureza) por meio do trabalho, a consciência objetiva-se.
+
+Com  base  nesses  elementos,  Moraes  (1982)  propõe  uma 
+ontologia do espaço, a qual enquanto natureza em si (orgânica e 
+inorgânica) é a realidade em que se forma o ser social, que por meio 
+do trabalho teleológico transforma o mundo exterior, conferindo-lhe 
+uma marca e tornando funcionais para o homem os objetos naturais. 
+Com o desenvolvimento das forças produtivas, a partir da elevação 
+do  pensamento,  ao  construir  categorias  particulares  e  conexões 
+mais  mediatizadas,  há  um  afastamento  da  primeira  natureza  e 
+chega-se a uma consciência do espaço coletivo e da demarcação 
+territorial (emergem noções como distância, fronteira, extensão etc. 
+que são inferências da prática). 
+
+A apreensão do espaço se realiza pela apropriação, entendida 
+como uma categoria histórica concreta, remetendo à natureza em 
+movimento, historicizada e transformada. Nesse sentido, a natureza 
+é vista como potencialidade da apropriação humana, com o intuito 
+de  satisfazer  suas  necessidades.  “O  ser  é  apreendido  como  o 
+processo  histórico-concreto  de  valorização  do  espaço,  parte 
+movente  movida  da  totalidade  social”  (MORAES,  1982,  p.  50).  Sua 
+especiﬁcidade é deﬁnida na existência de marcos territoriais (formas 
+históricas  de  valorização  do  espaço  que  funcionam  como  forças 
+produtivas da sociedade) que condicionam determinadas relações 
+sociais  em  decorrência  da  sua  organização  espacial,  a  qual  é 
+igualmente engendrada por relações sociais.
+
+Entendendo  o  ser  como  a  valorização do  espaço,  devem-se 
+considerar as mediações em que o modo de produção lhe deﬁne o 
+movimento. Assim, Moraes (1982) diferencia o “valor do espaço” e o 
+“valor  no  espaço”.  No  primeiro  caso  o  valor  corresponde  à 
+potencialidade natural e no segundo o valor é criado, resultado do 
+trabalho. Ambos se manifestam em unidade visto que:
+
+Moreira  (2007),  por  seu  turno,  compreende  que  o  espaço 
+corresponde a uma entidade que reúne dois processos importantes 
+para  a  análise  de  uma  formação  econômico-social,  a  saber:  a 
+produção  social  e  o  controle  de  suas  instituições  e  relações  de 
+
+a substantivação de um dado potencial implica no dispêndio de 
+uma  quantidade  de  trabalho  que  se  materializa  no  espaço. 
+Porém, se o móvel que condiciona a apropriação de uma dada 
+porção  do  globo  estiver  numa  ou  noutra  forma  de  valor,  o 
+resultado  e  a  dinâmica  do  processo  de  apropriação  serão 
+diferentes. (MORAES, 1982, p. 51)
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+classes. Para o autor, o processo que produz o espaço geográﬁco é o 
+mesmo que produz a formação econômico-social, e, por esse motivo, 
+apresenta estrutura e leis de movimento desta, consequentemente, 
+denominada  de  formação  espacial  ou  formação  socioespacial,  tal 
+qual  propôs  Santos  (1977).  A  formação  espacial  apresenta  a 
+estrutura  e  está  contida  na  formação  econômico-social,  em  uma 
+relação dialética que possibilita, pelo conhecimento da estrutura e 
+dos movimentos da formação espacial, compreender tais elementos 
+da formação econômico-social. 
+
+Dessa  maneira,  é  perceptível,  por  meio  dos  objetos  que 
+compõem o arranjo espacial, a aglutinação do espaço e das relações 
+que  compõem  a  estrutura  da 
+formação  econômico-social, 
+evidenciando  que  esses  elementos  do  arranjo  espacial  adentram 
+uma  lógica  que  reproduz  aquela  do  modo  de  produção  a  que 
+pertencem. Esses objetos espaciais só podem ser apreendidos no 
+interior da totalidade social, devendo-se distinguir as relações sociais 
+que  a  originam  e 
+lhes  ordenam.  Assim,  o  arranjo  espacial 
+corresponde à estrutura da totalidade social, logo, o conhecimento 
+das  leis  que  deﬁnem  o  processo  de  reprodução  social,  base  da 
+totalidade,  é  que  deve  ser  suporte  da  análise  espacial;  assim,  o 
+arranjo espacial revela as leis da reprodução social.
+
+A formação espacial resulta de dois conjuntos de interações 
+que se articulam, a saber: a interação homem-meio e as interações 
+homem-homem. Salientamos que os homens se relacionam com a 
+natureza  através  das  relações  sociais  desenvolvidas  por  eles  no 
+processo de produção de bens necessários à existência, dos quais o 
+trabalho  é  o  elemento  mediador  que  transforma  a  natureza. 
+Portanto, a análise da formação espacial refere-se igualmente a do 
+processo do trabalho dentro da produção. “A formação espacial é o 
+todo estrutural do espaço produzido” (MOREIRA, 2007, p. 67). Isso 
+porque os homens suprem suas necessidades convertendo terra em 
+vida por meio do trabalho social. 
+
+O arranjo espacial proveniente dessa formação socioespacial 
+materializa  os  objetos  produzidos  e  acumulados  no  processo  de 
+desenvolvimento das sociedades, em termos técnicos e intelectuais. 
+E para que essa produção seja contínua é imprescindível que o ato de 
+produzir  resulte  em  bens  de  consumo  e  bens  que  possibilitem  a 
+continuidade da produção. Esta pode ser simples (quando é repetida 
+nas mesmas proporções ano após ano) ou ampliada (ao se repetir de 
+maneira  mais  ampla  a  cada  ano),  sendo  a  última  modalidade  a 
+responsável  pelo  aumento  da  riqueza.  Nesse  processo,  o  espaço 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+apresenta  uma  signiﬁcativa  participação,  visto  que  os  objetos  do 
+arranjo  espacial  são  os  elementos  que  dispõem  os  homens  em 
+termos de condições de reprodução. Logo, o controle sobre esses 
+meios  de  reprodução  são  bastante  disputados  em  termos  de 
+exercício de poder dentro da formação econômico-social (MOREIRA, 
+2007).
+
+Os  objetos  espaciais  no  modo  de  produção  capitalista  são 
+meios  de  produção  e  reprodução  do  capital,  em  outros  termos, 
+correspondem aos meios pelos quais a força de trabalho, ao produzir 
+mercadoria,  produz  mais-valia  e  sua  incorporação  ampliada  ao 
+capital. Desta feita, o controle desses objetos implica o controle da 
+reprodução da sociedade capitalista. A formação espacial materializa 
+a luta entre capital e trabalho pelo controle dos meios e modos de 
+reprodução  –  inicialmente  porque  a  extração  de  elementos  da 
+primeira natureza garante a reprodução sob a forma de matéria-
+prima  ou  capital  circulante,  posteriormente  porque  por  meio  da 
+recriação  de  condições  geográﬁcas  de  reprodução  se  dinamiza  a 
+reprodução do capital ﬁxo. Por ﬁm, o uso do capital circulante e ﬁxo 
+resulta na reprodução da sociedade capitalista. A permanência da 
+ordem  espacial  garante  a  reprodução  ampliada  da  sociedade  na 
+história  em  termos  de  uma  existência  duradoura,  clariﬁcando  o 
+vínculo  umbilical  entre  formação  espacial  e  formação  econômico-
+social (MOREIRA, 2007).
+
+2
+
+A  produção  de  bens  é  decorrente  das  necessidades  de 
+consumo, salientando que a produção e o consumo são regidos por 
+leis  historicamente  determinadas  da  sociedade,  próprias  de  cada 
+modo  de  produção,  ratiﬁcando  que  os  bens  provenientes  da 
+produção desaparecem no momento do consumo, logo, esta precisa 
+ser  refeita  continuamente  para  que  exista  a  reprodução.  Aqui  se 
+colocam as articulações das instâncias que deﬁnem como formação 
+econômico-social uma sociedade determinada e dessas instâncias 
+com  a  formação  espacial  enquanto  totalidade  na  História.  Na 
+sociedade  capitalista  existe  uma  estrutura  social  de  classes  que 
+deﬁnirá  o  processo  da  formação  econômico-social  em  geral, 
+sobremaneira  no  processo  de  produção:  ao  se  reproduzirem  as 
+relações  econômicas  existentes,  se  reproduzirá  igualmente  a 
+estrutura  de  classes  em  geral,  e  para  a  sua  continuidade  se  faz 
+necessária  a  superestrutura  com  suas  relações  sociais,  jurídicas, 
+políticas, ideológicas e culturais que possibilitam a perpetuação da 
+infraestrutura (economia) (MOREIRA, 2007).
+
+Nesse contexto, a formação econômico-social é estruturada 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+por três níveis de relações (instâncias), quais sejam: a infraestrutura 
+referente à instância econômica, e duas relativas a superestruturas 
+(instância  jurídico-política  e  instância  cultural-ideológica).  Essas 
+instâncias se articulam e se diferenciam. Se não, vejamos.
+
+Na instância infraestrutural (econômica), o espaço apresenta 
+um  arranjo  espacial  econômico,  que  resulta  da  forma  como  se 
+exprimem  no  interior  desta  instância  as  forças  produtivas  e  as 
+relações de produção. As primeiras articulam a força, os objetos e os 
+meios de trabalho: estes dois últimos são os meios de produção, 
+enquanto  as  forças  produtivas  diferenciam-se  entre  forças  de 
+trabalho e meios de produção. Apenas “quando a força de trabalho 
+põe os meios de produção em movimento é que as forças produtivas 
+se uniﬁcam e ganham vida como um todo, efetivamente atuando 
+como forças” (MOREIRA, 2007, p.71). 
+
+Assim,  o  espaço  se  situa  como  força  produtiva  de  duas 
+maneiras: objeto de trabalho (primeira natureza) e meio de trabalho 
+(segunda natureza). Há uma simbiose entre as relações de produção 
+e o conjunto das forças produtivas, o que dá lugar a uma contradição 
+à  medida  que  as  relações  de  produção  regulam  e  deﬁnem  o 
+movimento de conjunto das forças produtivas, organizando-as como 
+meios  de  reprodução,  liberando  ou  não  o  seu  desenvolvimento, 
+contraditando o grau de desenvolvimento das forças produtivas e o 
+controle das relações de produção (MOREIRA, 2007).
+
+No capitalismo há um alto grau de desenvolvimento das forças 
+produtivas, pois há uma forte mediação da técnica na relação entre 
+homem e natureza, o que gera uma ampla divisão social e territorial 
+do  trabalho.  Incluem-se  aí  as  relações  de  produção  que  se 
+expressam a partir da relação de propriedade, ou seja, a força de 
+trabalho pertence ao trabalhador, que a vende em troca dos meios 
+de  subsistência;  ao  passo  que  os  meios  de  produção  são  da 
+burguesia, que necessita da força de trabalho para transformar esses 
+meios em forças produtivas; para tanto, a burguesia compra essa 
+força, de modo que, ao fundir a totalidade das forças produtivas, leva-
+as  a  produzir  mais-valia.  Essas  relações  de  propriedade  vão  se 
+transformando no interior do movimento da produção capitalista, 
+logo, diferenciam-se e multiplicam-se em outras formas, a exemplo 
+da relação de trabalho, de troca, dentre outras, o que complexiﬁca as 
+relações  de  produção,  que  uma  vez  conﬁguradas  como  espaço 
+fazem-no  instância  de  regulação  das  relações  sociais  (MOREIRA, 
+2007). 
+
+Instâncias  superestruturais 
+
+(jurídico-política  e  cultural-
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+ideológica): há uma relação entre a regulação do espaço e a instância 
+superestrutural,  que  leva  à  apreensão  de  um  arranjo  espacial 
+jurídico-político e de um ideológico-cultural em termos de paisagem. 
+As instâncias superestruturais mobilizam o espaço como forma de 
+controlar possíveis conﬂitos que adentram os processos econômicos 
+mediante  as  contradições  estruturais  do  sistema  capitalista.  O 
+arranjo  espacial  jurídico-político  é  sobremaneira  regulado  pelo 
+Estado com objetivos diversos, a exemplo da regulação das relações 
+entre classes ou frações de classes sociais, conquista de territórios, 
+alocação  do  capital,  dentre  outros,  mostrando  seu  vínculo 
+demasiado com a infraestrutura. O arranjo espacial ideológico, por 
+sua  vez,  apresenta  as  instituições  pelas  quais  os  valores  são 
+veiculados,  reproduzidos  e  assimilados  no  interior  da  sociedade, 
+como escola, igrejas, prisões etc. Espaços especíﬁcos que sintetizam 
+o  todo,  desenvolvendo  as  noções  de  mundo  e  hierarquia,  em 
+múltiplas escalas (MOREIRA, 2007). 
+
+Em suma, para Moreira (2007), a formação espacial, enquanto 
+um conceito de totalidade, pode auxiliar na análise das formas de 
+organização das sociedades nos diversos tempos da História. Torna-
+se necessário descortinar a essência nas aparências, apreendendo 
+as  leis  que  regulam  as  formas  ou  estruturas,  tal  qual  o  arranjo 
+espacial, compreendido como uma estrutura de objetos espaciais 
+que  apresentam  uma  localização-distribuição  que  possibilita  uma 
+descrição e uma análise, da qual se pode depreender a formação 
+espacial.
+
+Silva  (1991)  também  busca  debater  o  caráter  ontológico  do 
+espaço,  que  se  coloca  como  uma  subtotalidade,  uma  formação. 
+Logo, constitui um objeto apreendido pela consciência. Salientamos 
+que a formação apresenta a forma e o processo, sendo o lugar a 
+expressão  mais  elementar  da  geograﬁa  em  sua  objetivação 
+enquanto espaço-terrestre, mas que se manifesta como território, 
+região  e  área  –  portanto,  como  forma  –,  e  é  igualmente  uma 
+totalidade de relações de localização, desta feita, é um complexo de 
+formas  que  se  materializam  como  relações,  portanto  como 
+processos. “Daí que formação é um ser (forma e processo) que é e 
+vem a ser, como resultado do trabalho, determinação do modo de 
+produção” (SILVA, 1991, p.107).
+
+A formação é matéria, mas também produção social tal qual o 
+modo  de  produção  que  em  sua  manifestação  natural  e  social  só 
+podem  ser  explicados  como  formações  acrescidas  de  suas 
+particularidades e singularidades, por essa razão são construções 
+lógico-reais que possibilitam a apreensão do natural e do social. “As 
+formações naturais e sociais supõem o trabalho e, por isso, relações 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+de produção [...]. Então, a formação geográﬁca põe-se como lugar e, 
+desde logo, como habitat e habitar” (SILVA, 1991, p. 108). Todavia 
+corresponde igualmente ao lugar de trabalho, consumo e circulação. 
+Em suma, a formação natural-social é uma manifestação geográﬁca 
+do  modo  de  produção,  pois  exprime  sua  particularidade  e 
+singularidade  em  termos  de  recortes  do  real.  Possui  uma 
+determinação  originária:  “seu  ser  é  posto  como  contradição  de 
+momentos do movimento” (SILVA, 1991, p. 108), concorrendo para 
+que  a  formação  possua  uma  limitação  temporal  de  existência 
+deﬁnida  na  espacialidade  do  modo  de  produção.  “A  formação 
+geográﬁca se põe, então, como organização do espaço: organização 
+em si e organização para o homem. Daí como valor em si e valor para 
+outro” (SILVA, 1991, p. 108).
+
+Silva (1991) trabalha a ideia de formação espacial com base nas 
+proposições de Moraes (1982) e de Moreira (2007), porém busca 
+discutir a noção de formação social pautada nas interpretações de 
+Hindess e Hist (1978) e a relação entre FES e MP baseado em Thiollent 
+(1976), Luporini (1976), Sereni (2013), Texier (1976) e Labica (1976). 
+Para fazer sua proposição de relacionar a formação social ao espaço, 
+empresta o argumento de Castells (1977), que faz uma reﬂexão sobre 
+o espaço como base material indispensável ao desenvolvimento das 
+atividades humanas, mas que, como uma grandeza física, não diz 
+muito sobre as relações sociais. Porém, enquanto espaço construído 
+historicamente pelas relações sociais, ele as condiciona, embora não 
+as determine. Existe um signiﬁcado social das mais variadas formas 
+de espaço e sua divisão. A cada modo de produção ou estágio deste 
+existe uma redeﬁnição do espaço em termos teóricos e das relações 
+concretas  deﬁnidas  entre  os  diferentes  espaços.  Assim,  as 
+especiﬁcidades espaciais manifestam a instância dominante de um 
+modo  de  produção,  que  no  caso  do  capitalismo  é  o  econômico. 
+Entretanto,  o  espaço  é  construído  conjunturalmente,  ou  seja,  em 
+termos de formação social. 
+
+Seguindo  essa  linha  de  raciocínio,  Silva  (1991)  indica  que  a 
+realizada 
+discussão  empreendida  por  Castells 
+paralelamente  ao  objeto  da  geograﬁa  e  para  considerar  esse 
+elemento  retoma  os  argumentos  de  Santos  (1977)  explicitados 
+anteriormente.
+
+(1977)  é 
+
+Esses autores apresentam elementos analíticos comuns, muito 
+embora  diferenças  sejam  perceptíveis  e  importantes  de  serem 
+destacadas.  Em  termos  de  aproximações  possuem  o  objetivo  de 
+construir uma teoria do espaço social a partir do debate da Formação 
+Econômico-Social – apesar de Moraes (1982) desenvolver a categoria 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+particularidade a partir de Lukács (1970) – o qual expressa o caráter 
+particular,  concreto  e  historicamente  determinado  do  modo  de 
+produção. 
+
+Nessa  mediação  entre  FES  e  espaço,  este,  pelo  seu  arranjo 
+espacial,  materializa  o  movimento,  as 
+leis  e  os  elementos 
+constituintes da FES, assim como a condiciona, ou seja, é resultado e 
+ao mesmo tempo produz a FES, existindo uma relação dialética entre 
+eles. Outro aspecto comum é a categoria trabalho como mediação 
+entre o espaço (orgânico-inorgânico) e o homem, que para satisfazer 
+suas necessidades transforma o espaço natural (primeira natureza) 
+em espaço social (segunda natureza), o qual manifesta os elementos 
+da  FES  e  a  condiciona.  No  caso  do  capitalismo,  reproduzirá  e 
+condicionará (relativamente) as relações desiguais, contraditórias e 
+conﬂitivas entre as classes sociais – o aspecto do conﬂito foi mais bem 
+explorado por Moreira (2007).
+
+Entretanto, questionamentos devem ser tecidos, isto porque 
+algumas  lacunas  ﬁcaram  no  meio  do  caminho,  as  quais  são 
+provenientes  do  momento  histórico  em  que  os  textos  foram 
+produzidos  e  a  ﬁliação  ﬁlosóﬁca  e  teórica  (muitas  vezes  eclética) 
+assumida pelos autores. Santos (1997), por exemplo, segundo Peet 
+(1996),  apresenta  em  sua  proposição  uma  síntese  de  distintas 
+matrizes epistemológicas, dentre as quais destaca a inﬂuência do 
+existencialismo  sartreano  ao  observar  a  “materialidade 
+local 
+exercendo  um  efeito  sobre  os  seres  humanos  numa  espécie  de 
+inércia-dinâmica;  condicionada  pelo  espaço,  a  práxis  humana  é 
+forma realmente ativa que recria o espaço” (PEET, 1996, p.165); mas 
+Peet  (1996)  também  torna  visível  o  peso  do  estruturalismo 
+althusseriano  –  embora  Milton  Santos  criticasse  seu  viés 
+economicista – ao relacionar a autonomia relativa de Althusser ao 
+espaço e a suas relações. Ainda de acordo com Peet, essas ideias na 
+época (1970-1980) eram revolucionárias, possibilitando a integração 
+soﬁsticada do marxismo a outras teorias sociais. Entretanto, o que 
+resulta desse ecletismo? 
+
+Menezes (2015), ao discutir epistemologicamente o debate da 
+categoria  trabalho  na  geograﬁa  brasileira,  descortina  algumas 
+incongruências analíticas nos autores supracitados, isto porque, no 
+intuito  de  combater  a  fragmentação  disciplinar  oriunda  da  crise 
+sofrida pelas ciências no ﬁm dos anos 1950 e começo da década de 
+1960,  a  ciência  geográﬁca  apresenta  soluções  “internalistas”  com 
+proposições  que  vão  desde  uma  perspectiva  mais  aplicada  e 
+manualística, com formas fenomenológicas que se aproximam de 
+proposições  lógico-idealistas,  até  uma  crítica  do  trabalho  distante 
+dos  problemas  socioeconômicos 
+reais,  conservando  uma 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+Considerações ﬁnais 
+
+“aglutinação  eclética”  cujo  sistema,  salvaguardado  pelo  nome  de 
+dialético, não apresenta contradição.
+
+A  Formação  Econômico-Social,  inicialmente  formulada  por 
+Marx, apresentou diversas contribuições intelectuais de grandes 
+pensadores marxistas, como Lênin (1955, 1988), Thiollent (1976), 
+Luporini  (1976),  Sereni  (2013),  Texier  (1976),  Labica  (1976)  e 
+Lefebvre (1969).
+
+ Contudo,  nesse  trabalho,  ressaltou-se  as  elaborações  de 
+Lênin  acerca  da  FES.  Para  esse  autor  a  “formação”  se  remete  a 
+condição mutável, histórica e objetiva da realidade; o “econômico” 
+se reporta as forças produtivas e as relações práticas dos sujeitos 
+com a natureza; e o social se refere as relações entre os homens, as 
+relações de produção e as classes sociais. Em termos gerais, Lênin 
+atenta para a inexistência de um movimento societal homogêneo, 
+ou seja, a sociedade se desenvolve em diferentes FES, que resultam 
+em leis particulares que as determinam, logo, o desenvolvimento 
+histórico  ocorre  de  maneira  desigual,  coexistindo  distintas 
+formações  econômico-sociais  no  mesmo  plano  do  capitalismo, 
+articulando-se a esse modo de produção, subordinando-se a ele.  
+
+Esse debate é enriquecido pela incorporação da dimensão 
+espacial  realizada  por  reconhecidos  geógrafos,  dentre  os  quais 
+destaca-se Milton Santos (1977), alçando romper com a geograﬁa 
+quantitativa, mais preocupada com a forma, reduzindo o espaço a 
+sua  expressão  geométrica,  matemática  e 
+indiferente  ao 
+movimento  das  sociedades,  assemelhando-se  mais  a  uma 
+“fotograﬁa  de  alguns  de  seus  momentos.  Ora,  as  fotograﬁas 
+permitem apenas uma descrição e a simples descrição não pode 
+jamais  ser  confundida  com  a  explicação.  Somente  esta  pode 
+pretender  ser  elevada  ao  nível  do  trabalho  cientíﬁco”  (SANTOS, 
+2004, p.75).
+
+ De  acordo  com  Santos  (2004),  as  FES,  enquanto  uma 
+categoria  teórica,  possuem  aspectos  concretos  que  autorizam 
+considerar as especiﬁcidades de cada sociedade, compreendida 
+como uma realidade historicamente determinada, amparada em 
+uma  base  territorial.  Logo,  o  uso  da  referida  categoria  afasta 
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+interpretações  que  fragmentam  a  realidade,  consequentemente, 
+conduz a uma análise espacial que prima pela totalidade social e os 
+seus movimentos. 
+
+Nesse  contexto  que  Santos  (2004)  vai  propor  a  categoria 
+formação socioespacial, com vistas a contribuir com uma leitura do 
+espaço  humano,  metamorfoseado  pelo  movimento  histórico 
+produzido  em  várias  escalas  e  atravessado  pelas  noções  de 
+totalidade e de estrutura, universal e de particular, que deveriam ser 
+consideradas de  maneira  uniﬁcada  e em  um  mesmo movimento 
+uníssono, no qual a sociedade seria reconhecida em sua interação 
+com a natureza transformada, como seu agente transformador e 
+igualmente resultado dela.  
+
+A categoria “concerne à evolução diferencial das sociedades – 
+em seu próprio quadro e em relação com forças externas das quais 
+frequentemente lhe vem um impulso motor (SANTOS, 2004. p.246). 
+Concomitantemente,  “a  base  fundamental  da  explicação  vem  da 
+produção, isto é, do trabalho do homem para transformar, segundo 
+leis historicamente determinadas, o espaço com o qual o grupo se 
+confronta” (Idem).
+
+ Essas  reﬂexões  de  Milton  Santos  vão  inﬂuenciar  diversos 
+trabalhos cientíﬁcos como os discutidos nesse artigo e ainda hoje 
+fundamenta teoricamente várias teses de doutorado, conforme foi 
+indicado no texto de Whitacker (2019), expressando a relevância de 
+sua contribuição.  
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+Referências
+
+CASTELLS, Manuel. 
+Paulo, AGB, 1977.
+GRAMSCI, Antonio. 
+Janeiro: Civilização Brasileira, 1968. 
+GRUPPI,  Luciano. 
+1979.
+HINDESS, Barry; HIRST, P. Q. 
+
+ Seleção de Textos, n. 3, São 
+
+. Rio de 
+
+.  Rio  de  Janeiro:  Graal, 
+
+Zahar, 1978.
+LABICA,  Véase  George.  Cuatro  observaciones  sobre 
+los 
+conceptos de modo de producción y formación económica de la 
+sociedade. In: LUPORINI, C., SERENI, E. 
+
+. Lisboa: Moraes, 1969.
+
+LEFEBVRE, Henri. 
+LÊNIN, Vladimir Ilitch. Quem são os “amigos do povo” e como 
+lutam  os  social-democratas?  In:______. 
+.  Rio  de 
+Janeiro: Vitória, 1955. 
+______. 
+: o processo de 
+formação  do  mercado  interno  para  a  grande  indústria.  São 
+Paulo: Abril Cultural, 1988.
+LUKÁCS,  Georg. 
+
+Nelson Coutinho e Leandro Konder. Rio de Janeiro: Civilização 
+Brasileira, 1970.
+LUPORINI.  Cesare.  Dialética  marxista  e  historicismo. 
+LUPORINI,  C.,  SERENI,  E. 
+México: Siglo XXI, 1976.
+MARTINS, José de Souza. As temporalidades da história na dialética 
+de Lefebvre. In:______. (Org.). 
+. São 
+Paulo: Hucitec, 1996. 
+MARX,  Karl. 
+Expressão Popular, 2008.
+MENEZES,  Sócrates  Oliveira. 
+
+.  São  Paulo: 
+
+In: 
+ 
+
+Humana,  Programa  de  Pós-Graduação  em  Geograﬁa  Humana, 
+Universidade  de  São  Paulo,  São  Paulo,  2015.  Disponível  em: 
+https://teses.usp.br/teses/disponiveis/8/8136/tde-10032016-
+142512/publico/2016_SocratesOliveiraMenezes_VCorr.pdf.
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+ Acesso em: 09 abr. 2016.
+MORAES, Antônio Carlos Robert. Em busca da ontologia do espaço. 
+In: MOREIRA, Ruy (Org.) 
+: o saber é posto em 
+questão. Rio de Janeiro: Vozes, 1982. 
+MOREIRA,  Ruy. 
+
+2007.
+PEET, Richard. Milton Santos no exílio: os anos 70. In: SOUZA, Maria 
+Adélia Aparecida de (Org.). 
+ 
+São Paulo: Hucitec, 1996. p. 164 -168.
+SANTOS,  Milton.  Espaço  e  sociedade:  e  formação  da  sociedade 
+como teoria e como método. In: 
+, São 
+Paulo, n. 54,1977.
+______. 
+crítica. São Paulo: Edusp, 2004.
+SERENI, Emilio. 
+social”. Revista de geograﬁa meridiano, n. 2, 2013, p. 297-346.
+SILVA.  Armando  Corrêa  da. 
+Contexto, 1991.
+THIOLLENT, M. 
+
+: da crítica da geograﬁa a uma geograﬁa 
+
+: a categoria de “formação econômico-
+
+  São  Paulo: 
+
+TEXIER, Jacques. Desacuerdos sobre la deﬁnición de los conceptos. 
+In: LUPORINI, C., SERENI, E. 
+ 
+México: Siglo XXI, 1976
+WHITACKER, Guilherme Magon. A operacionalização do conceito 
+Formação  Econômica-Social:  o  nexo  entre  o  marxismo  e  a 
+geograﬁa  de  Milton  Santos. 
+.  Presidente 
+Prudente/SP, n. 13, v. 06, p. 48-76, 2019.
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+Rogério Rego Miranda
+
+Publisher
+
+Universidade  Federal  de  Goiás.  Instituto  de  Estudos 
+Socioambientais.  Programa  de  Pós-graduação  em  Geograﬁa. 
+Publicação no Portal de Periódicos UFG.
+
+As ideias expressadas neste artigo são de responsabilidade de seus 
+autores,  não  representando,  necessariamente,  a  opinião  dos 
+editores ou da universidade.
+
+Informação do autor
+
+Rogério Rego Miranda, Professor Adjunto I no curso 
+de  licenciatura  e  bacharelado  em  Geograﬁa  da 
+Universidade  Federal  do  Sul  e  Sudeste  do  Pará 
+(UNIFESSPA) - Campus de Marabá. Possui graduação em 
+Geograﬁa  pela  Universidade  Federal  do  Pará  (2006)  e 
+Mestrado  em  Organização  e  Gestão  do  território  pela 
+Universidade  Federal  do  Pará  (2009).  Doutorado  em 
+Geograﬁa Humana pela USP. Tem experiência na área de 
+Geograﬁa Agrária e Urbana, atuando principalmente nos 
+seguintes  temas:desenvolvimento  regional;  políticas 
+públicas  de  desenvolvimento  rural;  agricultura 
+camponesa;  relação  urbano  e  rural  e  movimentos 
+socioterritoriais.
+
+Data de recebimento 27 de julho de 2022
+Aceite em 16 de outubro de 2022
+Publicação em 01 de setembro de 2023
+
+Boletim Goiano de Geograﬁa  . 2023, v. 43: e68962 
+
+

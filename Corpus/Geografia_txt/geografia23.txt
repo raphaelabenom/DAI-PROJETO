@@ -1,0 +1,3378 @@
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+ 
+https://doi.org/10.51359/2238-6211.2023.257566   
+
+Licença  Creative  Commons  Atribuição  4.0 
+Internacional.  CC  BY -  permite  que  outros 
+distribuam, remixem, adaptem e criem a partir do seu trabalho, mesmo 
+para fins comerciais, desde que lhe atribuam o devido crédito pela criação 
+original. 
+ 
+
+ ANÁLISE BOTTOM-UP DO NEXUS ÁGUA-ENERGIA-ALIMENTO 
+
+NA AMAZÔNIA ORIENTAL 
+
+ 
+
+Gislleidy Uchôa Tavares1 - Orcid: https://orcid.org/0000-0002-6285-4680  
+
+Adryane Gorayeb2 - Orcid: https://orcid.org/0000-0002-7304-8836  
+
+Christian Brannstrom3 - Orcid: https://orcid.org/0000-0002-6619-2020  
+
+Lucas Seghezzo4 - Orcid: https://orcid.org/0000-0002-9525-5131  
+
+Martín Alejandro Iribarnegaray5 - https://orcid.org/0000-0001-9388-5626  
+
+Luci Cajueiro Carneiro Pereira6 - Orcid: https://orcid.org/0000-0002-3494-3248 
+
+ 
+
+1 Universidade Federal do Ceará, Fortaleza, Ceará, Brasil* 
+2 Universidade Federal do Ceará, Fortaleza, Ceará, Brasil** 
+3 Texas A&M University, College Station, Texas, EUA*** 
+4 Universidad Nacional de Salta, Salta, Argentina**** 
+5 Universidad Nacional de Salta, Salta, Argentina***** 
+6 Universidade Federal do Pará, Bragança, Pará, Brasil****** 
+
+Artigo recebido em 16/02/2023 e aceito em 30/07/2023 
+
+Publicado: Out/2023 
+
+RESUMO 
+O conceito nexus é aplicado em muitos contextos globais para gerar entendimentos sobre as relações entre os setores 
+água,  energia  e  alimento  e  para  aprimorar  as  investigações  que  procuram  melhorar  as  condições  de  vida  das 
+comunidades  marginalizadas.  Os  estudos  sobre  o  nexus  são  incipientes  e  alicerçados  a  partir  de  metodologias 
+majoritariamente quantitativas “de cima para baixo” (top-down), utilizando-se de uma escala nacional, com poucos 
+exemplos de abordagens participativas e colaborativas. Há uma necessidade de compreender, de forma integrada e 
+participativa, a partir de abordagens “de baixo para cima” (bottom-up), como as comunidades entendem o nexus 
+água-energia-alimento.  Neste  trabalho  ajudamos  a  preencher  lacunas  de  conhecimento  relevantes  ao  nexus  na 
+Amazônia  Oriental  e  a  descrever  os  procedimentos  metodológicos  para  enriquecer  a  geografia  humana  e 
+socioambiental.  Foram  aplicadas  metodologias  quali-quantitativas  (Matriz  SWOT  e  Método  Q)  para  determinar 
+
+ 
+
+* Mestre em Geografia pela Universidade Federal do Ceará - UFC, e-mail: gislleidyuchoa@hotmail.com 
+**  Doutora  em  Geografia  pela  Universidade  Estadual  Paulista,  Campus  de  Rio  Claro;  Professora  do  Departamento  de 
+Geografia da Universidade Federal do Ceará - UFC, e-mail: gorayeb@ufc.br 
+***  Doutor  em  Geografia  pela  University  of  Wisconsin;  Professor  da  Texas  A&M  University;  Membro  Permanente  do 
+Programa de Pós-Graduação em Geografia da Universidade Federal do Ceará - UFC, e-mail: cbrannst@geos.tamu.edu 
+****  PhD.  em  Ciências  Ambientais  pela  Wageningen  University;  Professor  da  Universidad  Nacional  de  Salta,  e-mail: 
+lucas.seghezzo@gmail.com  
+***** Doutor em Ciências Biológicas pela Universidad Nacional de Salta; Professor da Universidad Nacional de Salta, e-mail:  
+iribarnegarayma@gmail.com 
+****** Doutora em Ciências do Mar pela Universitat Politècnica de Catalunya; Professora da Universidade Federal do Pará, 
+Campus de Bragança, e-mail: luci.cajueiro@gmail.com 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ISSN 0104-5490 
+
+225 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PKS 
+
+PUBLIC 
+KNOWLEDGE 
+PROJECT 
+
+https://periodicos.ufpe.br/revistas/revistageografia 
+
+ 
+
+OJS 
+
+OPEN  
+JOURNAL 
+SYSTEMS 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+entendimentos  “de  baixo  para  cima”  do  nexus  água-energia-alimento  de  comunidades  rurais  e  ribeirinhas  do 
+Nordeste Paraense. Identificamos de maneira empírica quatro subjetividades que mostram como as comunidades 
+entendem o nexus: Fator 1: Renda e água; Fator 2: Prioridade energia no nexus; Fator 3: Alimento é a prioridade; e 
+Fator  4:  Conexão  água-energia-alimento.  As  descobertas  sugerem  meios  para  alcançar  uma  governança  mais 
+inclusiva e sustentável do nexus água-energia-alimento. 
+ 
+Palavras-chave: matriz SWOT/FOFA; método Q; metodologias participativas; nordeste Paraense; comunidades 
+ribeirinhas. 
+
+BOTTOM-UP ANALYSIS OF THE WATER-ENERGY-FOOD NEXUS IN THE 
+
+EASTERN AMAZON 
+
+ 
+ABSTRACT 
+The nexus concept is applied in many global contexts to generate understandings about the relationships among the 
+water, energy and food sectors and to enhance research that seeks to improve the living conditions of marginalized 
+communities. Studies on the nexus are incipient and based on mostly quantitative “top-down” methodologies, using 
+a national scale, with few examples of participatory and collaborative approaches. There is a need to understand, in 
+an integrated and participatory way using a “bottom-up” approach, how communities understand the water-energy-
+food  nexus.  Here  we  help  fill  knowledge  gaps  relevant  to  the  nexus  in  the  Eastern  Amazon  and  describe 
+methodological  procedures  to  enrich  human  and  socio-environmental  geography.  Qualitative  and  quantitative 
+methodologies were applied (SWOT Matrix and Q Method) to determine bottom-up understandings of the water-
+food-energy  nexus  of  rural  and  riverside  communities  in  Northeast  Pará.  We  empirically  determined  four 
+subjectivities  showing  how  communities  understand  the  nexus:  Factor  1:  Income  and  water;  Factor  2:  Energy 
+priority  in  the  nexus;  Factor  3:  Food  is  the  priority;  and  Factor  4:  Water-energy-food  connection.  The  findings 
+suggest means to achieve more inclusive and sustainable governance of the water-energy-food nexus. 
+ 
+Keywords: SWOT matrix; Q method; participatory methodologies; northeast Pará; riverside communities. 
+ 
+
+ANÁLISIS BOTTOM-UP DEL NEXOS AGUA-ENERGÍA-ALIMENTOS EN LA 
+
+AMAZONÍA ORIENTAL 
+
+ 
+RESUMEN 
+El concepto de nexos se aplica en muchos contextos globales para  entender las relaciones entre los sectores del 
+agua, la energía y los alimentos, y en investigaciones que buscan mejorar las condiciones de vida de comunidades 
+marginadas. Los estudios sobre nexos son incipientes y se basan principalmente en metodologías cuantitativas “de 
+arriba hacia abajo” (top-down), utilizando una escala nacional, con pocos ejemplos de enfoques participativos y 
+colaborativos. Surge la necesidad de comprender, de manera integrada y participativa usando enfoques “de abajo 
+hacia arriba” (bottom-up), cómo entienden las comunidades afectadas los nexos entre agua, energía y alimentos. 
+En este trabajo ayudamos a llenar vacíos de conocimiento sobre estos nexos en la Amazonía Oriental y describimos 
+procedimientos metodológicos para enriquecer la geografía humana y socioambiental. Se aplicaron metodologías 
+cualitativas y cuantitativas (Matriz FODA y Metodología Q) para determinar de abajo hacia arriba los nexos agua-
+energía-alimentos  en  comunidades  rurales  y  ribereñas  del  Nordeste  de  Pará.  Identificamos  de  manera  empírica 
+cuatro subjetividades que muestran de qué manera las comunidades entienden estos nexos:  Factor 1: Ingresos y 
+agua; Factor 2: Prioridad energética en el nexo; Factor 3: La comida es la prioridad; y Factor 4: Conexión agua-
+energía-alimentos.  Los  resultados  podrían  servir  para  lograr  una  gobernanza  más  sustentable  e  inclusiva  de  los 
+nexos entre agua, energía y alimentos. 
+ 
+Palabras clave: matriz SWOT/FODA; metodología Q; metodologías participativas; noreste de Pará; comunidades 
+ribereñas. 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+226 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+ 
+ 
+INTRODUÇÃO 
+
+O  conceito  nexus  aborda  as  interligações  entre  o  meio  ambiente  (através  dos  recursos  naturais  e 
+
+ecossistemas)  e  o  desenvolvimento  humano  (através  das  seguranças  hídrica,  energética  e  alimentar) 
+
+(KARLBERG et al., 2015). Essa abordagem visa compreender as sinergias e trade-offs dos recursos e os 
+
+impactos  ambientais  relacionados,  visando  a  governança,  a  gestão  integrada  e  o  desenvolvimento  de 
+
+políticas intersetoriais (KARLBERG et al., 2015; ALBRECHT; CROOTOF; SCOTT, 2018). 
+
+Esse  tema  tem  tido  interesse  crescente  devido  às  preocupações  sobre  a  escassez  de  recursos 
+
+principalmente  no  Sul  Global  (KRATFL  et  al.,  2019).  Deste  modo,  entendemos  o  nexus  como  uma 
+
+abordagem utilizada para o alcance do desenvolvimento sustentável que deve ser focado na justiça social, 
+
+desenvolvimento  político-econômico  e  conservação  ambiental.  Em  adição  a  isso,  esse  sistema  sofre 
+
+pressões diretas referentes às mudanças climáticas, urbanização e crescimento populacional. 
+
+Duas formas de abordagem e de aplicação nexus existem na bibliografia internacional: (i) As abordagens 
+
+top-down, que aplica uma visão nexus “de cima para baixo”, em uma escala mais ampla em que não há a 
+
+participação  dos  atores-chave  (ALBRECHT;  CROOTOF;  SCOTT,  2018;  MERCURE  et  al.,  2019; 
+
+DAHER et al., 2019; FODEN et al., 2019; DALLA FONTANA et al., 2020) e (ii) as abordagens bottom-
+
+up, que consistem em uma visão “de baixo para cima”, na qual os atores-chave participam e tornam-se 
+
+agentes principais da análise do  nexus  (KARLBERG  et  al., 2015;  LEAL et  al., 2018;  KRATFL et al., 
+
+2019; MELLONI et al., 2020). 
+
+De acordo com Albrecht, Crootof e Scott (2018), mais da metade dos artigos sobre o nexus não tratam a 
+
+tríade água-energia-alimento. Além disso, os autores, ao analisarem 245 trabalhos sobre o nexus, mostram 
+
+que  apenas  2  trabalhos  abordam  o  engajamento  das  partes  interessadas,  apenas  8  tratam  o  nexus  com 
+
+oficinas participativas e 70% dos trabalhos utilizam apenas abordagens quantitativas. 
+
+Segundo Dalla Fontana et al. (2020), a maioria dos estudos do nexus brasileiro utiliza uma escala nacional 
+
+e  apenas  15,2%  foca  em  contextos  locais.  Os  autores  apontam  que  todas  as  regiões  brasileiras  foram 
+
+contempladas com estudos sobre o nexus, exceto a região Norte. Assim, as pesquisas sobre o contexto 
+
+nexus no Brasil são incipientes, sobretudo na Região Norte, onde tais estudos ainda permanecem ausentes. 
+
+Corroborando  com  Melloni  et  al.  (2020),  a  partir  da  participação  de  diferentes  públicos  e  partes 
+
+interessadas,  há  uma  representação  mais  democrática  das  necessidades  sociais,  podendo  impedir 
+
+implementações de políticas desnecessárias e encontrar as melhores respostas para a governança e gestão 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+227 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+integrada  do  nexus.  Nesse  sentido,  colaborando  para  atender  as  lacunas  dos  estudos  nexus  (poucos 
+
+métodos participativos envolvendo os grupos sociais em escala local e a ausência de tais estudos na região 
+
+Norte), o objetivo desta pesquisa é entender o nexus de “baixo para cima”, em sua tríade água-energia-
+
+alimento, através do cotidiano de atores sociais de comunidades rurais e ribeirinhas da Amazônia Oriental, 
+
+em particular, as comunidades de Ponta do Urumajó, no município de Augusto Corrêa e a comunidade de 
+
+Arimbú, no município de Bragança, ambas localizadas no Nordeste do estado do Pará (Figura 1). 
+
+Figura 1: Mapa de localização das comunidades de Ponta do Urumajó e Arimbú – Pará. 
+
+Fonte: Tavares, março de 2021. 
+
+Avançamos os trabalhos na geografia humana de KRATFL et al. (2019), que enfoca em jovens em regiões 
+
+urbanizadas no Sudeste, usando metodologias compatíveis com a abordagem “bottom up” aplicadas em 
+
+outro  contexto  brasileiro. A  combinação  de  metodologias  apresentadas  aqui  contribui  oferecendo  um 
+
+caminho  interessante  para  as  pesquisas  geográficas  na  área  socioambiental  e  possibilita  auxiliar  as 
+
+políticas públicas da região. 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+228 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+METODOLOGIA 
+
+As  metodologias  aplicadas  em  ambas  as  comunidades  foram:  (1)  Metodologia  SWOT  (FOFA,  em 
+
+português)  para  o  diagnóstico  socioambiental  comunitário,  integrado  com  atividades  de  extensão 
+
+universitária, para levantar e discutir questões sobre água, alimento e energia e (2) Método Q para análise 
+
+quali-quantitativa da percepção do discurso dos gestores comunitários em relação ao nexus. Ressalta-se 
+
+que os princípios teórico-metodológicos para a realização da Matriz SWOT e do Método Q, bem como os 
+
+procedimentos  aplicados  nas  oficinas  de  extensão  universitária,  podem  ser  encontrados  de  forma  mais 
+
+detalhada em Tavares (2022). 
+
+Ressalta-se que todos os dados foram coletados mantendo os procedimentos relativos à ética em pesquisa 
+
+social de acordo com a Resolução nº 466/2012 do Conselho Nacional de Saúde (CNS/MS), que trata da 
+
+pesquisa envolvendo Seres Humanos, sob Certificado de Apresentação de Apreciação Ética– CAAE/ UFC 
+
+46462821.0.0000.5054 da Plataforma Brasil. 
+
+Metodologia SWOT 
+
+A  Metodologia  SWOT  teve  origem  na  área  de  Gestão  Empresarial,  tratando-se  de  uma  ferramenta 
+
+estrutural capaz de entender o ambiente, incorporando uma base de dados para o planejamento estratégico. 
+
+Apesar de ter sido direcionada para a área da administração, a SWOT vem sendo aplicada em diversos 
+
+contextos  brasileiros  e  com  distintas  formas  de  aplicação.  Assim,  essa  metodologia  é  aplicada  em 
+
+diferentes áreas, inclusive na Geografia Humana, para obter dados sobre a perspectiva socioambiental em 
+
+diagnósticos participativos como em Freitas (2019), Gorayeb et al. (2021), Tavares et al. (2019), entre 
+
+outros. Além disso, a aplicação da Metodologia SWOT no estudo do nexus brasileiro é incipiente, sendo 
+
+aplicada apenas em algumas pesquisas internacionais como em Saidmamatov et al. (2020) e Karlberg et 
+
+al. (2015). 
+
+A sigla SWOT compõe as palavras Strengths, Weaknesses, Opportunities e Threats. A sigla foi traduzida 
+
+como  FOFA,  em  português,  sendo  acrônimo  das  palavras:  “Forças”,  “Oportunidades”,  “Fraquezas”  e 
+
+“Ameaças”, em que cada coluna da matriz é constituída por uma palavra. A coluna “Forças” é representada 
+
+pelos pontos fortes e potenciais da temática discutida; “Oportunidades” apresenta os interesses, benefícios 
+
+e  as  circunstâncias  favoráveis;  “Fraquezas”  contém  os  pontos  fracos,  fragilidades  e  limitações;  e 
+
+“Ameaças”  representa  os  riscos  e  perigos.  As  colunas  “Forças”  e  “Oportunidades”  indicam  aspectos 
+
+positivos  e  as  colunas  “Fraquezas”  e  “Ameaças”  indicam  aspectos  negativos.  No  entanto,  as  colunas 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+229 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+“Forças” e “Fraquezas” indicam fatores internos, algo que se tem controle; e as colunas “Oportunidades” 
+
+e “Ameaças” representam fatores externos, variáveis que não se tem controle (Figura 2). 
+
+Figura 2: Aspectos da Matriz FOFA. 
+
+Interno 
+
+Externo 
+
+Forças 
+
+Oportunidades 
+
+Fraqueza 
+
+Ameaças 
+
+Positivo 
+
+Negativo 
+
+Fonte: Tavares et al. (2019). 
+
+Desta forma, a Matriz FOFA nesta pesquisa  foi  constituída, resumidamente, por seis  pontos principais 
+
+(Figura 3): (1) aproximação com a comunidade através de oficinas de extensão universitária, a partir de 
+
+contatos  com  os  representantes  comunitários;  (2)  partilha  de  conhecimento  da  metodologia  com  a 
+
+comunidade, onde foram repassadas as ideias conceituais e os aspectos da Matriz FOFA; (3) apresentação 
+
+das perguntas norteadoras que guiaram as discussões para a construção da matriz; (4) preenchimento das 
+
+matrizes, em grupos, de forma autônoma, constituindo as “FOFinhas” (matrizes preenchidas nos grupos); 
+
+(5) construção coletiva da matriz “FOFÃO”: única planilha que aglomerou e sintetizou as ideias principais 
+
+expostas nas “FOFinhas”; e (6) discussão coletiva final, ranking dos elementos principais de cada coluna 
+
+da matriz, utilizando a planilha-síntese (FOFÃO) e a definição dos três elementos considerados mais fortes 
+
+entre os elementos que receberam nota máxima (5), o que denominamos “TOP 3+”.  
+
+Figura 3: Síntese do passo a passo para aplicação da Metodologia SWOT/FOFA. 
+
+Passo 1
+
+Passo 2
+
+Passo 3
+
+Passo 4
+
+Passo 5
+
+Passo 6
+
+• Apresentação 
+
+• Explicação da 
+
+da equipe e 
+temática 
+proposta; 
+ 
+
+Metodologia 
+FOFA; 
+ 
+
+• Oficinas de 
+
+ 
+* Matrizes dos subgrupos 
+** Matriz-síntese do grupo 
+
+extensão 
+universitária. 
+
+• Explicação da 
+elaboração das 
+FOFinhas* e 
+FOFÃO**.  
+
+• Discussão das 
+
+perguntas 
+norteadoras. 
+
+• Elaboração 
+
+ 
+ 
+das 
+ 
+FOFinhas* 
+ 
+de cada 
+equipe de 
+ 
+forma 
+autônoma. 
+
+ 
+
+• Realização do 
+
+FOFÃO** a 
+partir da 
+síntese das 
+FOFinhas*; 
+ 
+
+• Justificativa 
+
+dos elementos 
+elencados. 
+ 
+
+Fonte: Os autores. 
+
+• Ranking dos 
+elementos da 
+Matriz FOFA; 
+ 
+
+• Definição do 
+
+TOP 3+. 
+
+ 
+ 
+ 
+
+O ranking foi enumerado de 1 a 5 (do menos importante ao mais importante) para dar maior visibilidade 
+
+aos dados levantados e eleger os elementos do nexus que mereciam destaque, de acordo com as discussões 
+
+das  comunidades.  Naquele  momento,  todos  os  participantes  opinaram,  dando  notas  aos  elementos  da 
+
+matriz  e  definindo  os  três  elementos  mais  fortes  (TOP3+).  Esse  procedimento  foi  desenvolvido,  pois 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+230 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+houve  uma  tendência  de  os  participantes  atribuírem  nota  5  para  todos  os  elementos.  A  partir  disso, 
+
+conseguimos destacar os elementos de importância máxima em cada coluna da matriz. 
+
+As oficinas de extensão universitária foram desenvolvidas para crianças e adultos, tornando-se cruciais 
+
+para o desenvolvimento e aplicação da metodologia nas comunidades, pois impulsionaram a motivação e 
+
+o comparecimento dos moradores nas atividades propostas. Além disso, a qualidade e validade dos dados 
+
+obtidos foi assegurada devido aos trabalhos de extensão realizados que envolveram a comunidade, criando 
+
+laços de confiança e aproximação entre a comunidade e os pesquisadores. As atividades planejadas foram 
+
+divulgadas com o apoio de lideranças locais e desenvolvidas a partir de cada setor do nexus, inserindo, 
+
+também, atividades demandadas pela comunidade, como as oficinas de geração de renda (Quadro 1). 
+
+Quadro 1: Atividades extensionistas desenvolvidas juntamente com a Matriz FOFA. 
+
+TEMÁTICA 
+
+OFICINAS DE EXTENSÃO 
+
+Segurança Hídrica 
+
+Adultos: oficina de construção de porta objeto e carteira utilizando caixa 
+
+Crianças: oficina sobre o ciclo da água e construção do terrário. 
+
+de leite e oficina de macramê. 
+
+Crianças: oficina de preparação de salada de frutas (higienização das 
+
+Segurança Alimentar 
+
+mãos e frutas, corte de frutas e degustação). 
+
+Adultos: oficina de preparação de geleia de pimenta e geleia de cupuaçu. 
+
+Segurança Energética 
+
+Crianças: oficina de construção de cata-vento de papel. 
+
+Adultos: oficina de trufas de chocolate e cupuaçu. 
+
+Fonte: Os autores. 
+
+O diagnóstico socioambiental participativo foi composto por perguntas norteadoras (Quadro 2), divididas 
+
+em  eixos,  a  partir  dos  pressupostos  teóricos  do  desenvolvimento  humano  e  sustentável:  Segurança 
+
+Alimentar, Segurança Energética e Segurança Hídrica. As questões de partida orientaram as discussões e 
+
+forneceram elementos que ampliaram os diálogos e possibilitaram a obtenção de dados qualitativos das 
+
+percepções locais com maior aprofundamento, considerando o nexus água-energia-alimento. 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+231 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+Quadro 2: Perguntas norteadoras do diagnóstico participativo. 
+1  Como você define a regularidade de acesso ao alimento? 
+
+2  Como você define a sua renda em relação ao poder de compra dos alimentos? 
+
+SEGURANÇA 
+ALIMENTAR 
+
+3  Como você define o seu poder de escolha dos alimentos? 
+
+4  Como você define a sua produção de alimentos? 
+
+5  O que você consome é nutricionalmente adequado e seguro? 
+
+6  Como você define o uso de agrotóxicos? 
+
+SEGURANÇA 
+ENERGÉTICA 
+
+SEGURANÇA 
+
+HÍDRICA 
+
+1 
+
+3 
+
+4 
+
+5 
+
+7  Qual o seu nível de acesso aos programas assistenciais do governo? 
+
+Quais  as  principais  fontes  energéticas  utilizadas  em  nível  domiciliar?  Ou  qual  a  fonte 
+primária energética utilizada nas residências? 
+
+2  Qual o impacto no bioma Amazônico frente à fonte primária energética domiciliar? 
+
+Qual o nível de satisfação com o serviço energético prestado em nível domiciliar e em 
+relação à energia pública? 
+Qual o nível de impacto no orçamento familiar para garantir o acesso à energia (elétrica e 
+térmica)? 
+Quais os fatores locais mais relevantes para definir a (in)satisfação e, consequentemente, 
+a segurança energética? 
+
+6  Quais alternativas podem ser implantadas para garantir maior segurança energética? 
+
+1  Com relação às fontes de água, como você define seu acesso à água? 
+
+2  Quanto à confiabilidade do abastecimento, como você define a disponibilidade de água? 
+
+3  Como você define a situação dos recursos hídricos na região onde mora? 
+
+4 
+
+Considerando  todos  os  tipos  de  usos,  como  você  define  a  confiança  na  água  que  você 
+utiliza? 
+
+5  Como você define a qualidade da água que você bebe? 
+
+6  Você e sua família fazem algum tratamento na água antes de beber? 
+
+7 
+
+8 
+
+Em relação ao que você e sua família gastam com água, o quanto você considera que o 
+valor gasto com água afeta sua renda mensal? 
+Alguma  vez  questões  relacionadas  com  a  água  provocaram  stress  ou  mudanças  na  sua 
+rotina e da sua família? 
+
+Fonte: Os autores. 
+
+Com base nisso, a Matriz FOFA foi construída durante cinco encontros com a comunidade de Ponta do 
+
+Urumajó  (município  de  Augusto  Corrêa,  Pará)  e  quatro  encontros  com  a  comunidade  de  Arimbú 
+
+(município de Bragança, Pará), realizados nos meses de outubro de 2018 e julho de 2019. Em Ponta do 
+
+Urumajó, os encontros contaram com a participação de 18 pessoas no setor hídrico, 16 pessoas no setor 
+
+alimentar e 14 pessoas no setor energético. Já Arimbú obteve participação de 16 pessoas no setor hídrico, 
+
+13 pessoas no setor alimentar e 18 participantes no setor energético (Figura 4). Cada encontro abordava 
+
+um setor do nexus, sendo, respectivamente, hídrico, alimentar e energético. Foi optado pela realização dos 
+
+encontros por setores isolados, pois assim acreditou-se extrair o máximo de informações sobre cada setor. 
+
+Nesses encontros foram  elaborados painéis demonstrativos resumindo o conceito de cada nexus, como 
+
+forma  de  auxiliar  a  compreensão  dos  participantes  das  oficinas,  assim  como  facilitar  a  partilha  dos 
+
+conhecimentos em cada atividade. 
+
+ 
+ 
+
+ 
+
+ 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+232 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+Figura 4: Aplicação da Matriz SWOT/FOFA 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+. 
+
+ 
+ 
+ 
+B 
+ 
+
+A 
+
+A: Oficina de Segurança Hídrica em Arimbú. B: Oficina de Segurança Alimentar em Ponta do Urumajó. 
+
+Fonte: A: Rabelo, outubro de 2018; B: Monteiro, julho de 2019. 
+
+A  ideia  principal  desta  etapa  metodológica  foi  a  de  obter  o  máximo  diversidade  de  dados  qualitativos 
+
+sobre cada tema, com abordagens individuais e coletivas, em camadas de informações que se agregaram 
+
+em uma única planilha detalhada. Todas as oficinas foram gravadas com autorização do grupo, seguindo 
+
+as  normas  do  Comitê  de  Ética,  para  posterior  transcrição  dos  argumentos  que  justificavam  o 
+
+preenchimento das matrizes, principalmente durante o ranking na etapa final da aplicação do método. As 
+
+transcrições foram utilizadas na aplicação do Método Q durante a construção das frases do Concourse e 
+
+para fundamentar as análises dos resultados. 
+
+Metodologia Q 
+
+O  Método  Q,  utilizado  por  várias  equipes  de  geógrafos  na  academia  anglo-americana  (ROBBINS; 
+
+KRUEGER,  2000;  EDEN;  DONALDSON; WALKER,  2005;  SEGHEZZO;  BRANNSTROM,  2022)  e 
+
+implementado  para  analisar  temáticas  socioambientais  brasileiras  (FRATE;  BRANNSTROM,  2015; 
+
+FRATE;  BRANNSTROM,  2017;  FRATE  et  al.,  2019;  FRATE;  BRANNSTROM,  2019),  utiliza  da 
+
+análise  fatorial  estatística  para  analisar  a  subjetividade  humana,  procurando  identificar  discursos 
+
+semelhantes  e  as  divergências  entre  os  indivíduos.  Segundo  Eden,  Donaldson  e  Walker  (2005),  esse 
+
+método  é  mais  democrático  do  que  outros  métodos  de  análise  utilizados  para  estudos  sobre  a  opinião 
+
+pública, pois essa metodologia aceita as opiniões mais complexas e múltiplas. O Método Q pode ser útil 
+
+aos  métodos  da  Geografia  Humana,  “desde  que  seja  usado  de  forma  criativa  e  reflexiva  e  com  plena 
+
+consciência de suas dimensões interpretativas e não como um exercício de processamento de números” 
+
+(EDEN; DONALDSON; WALKER, 2005, p. 413).  
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+233 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+No Método Q, a subjetividade é conceituada como a perspectiva compartilhada entre várias pessoas sobre 
+
+uma  situação  específica,  sendo  revelada  quando  o  ponto  de  vista  é  expresso  através  de  algo  concreto 
+
+(ROBBINS; KRUEGER, 2000). Os participantes concretizam sua subjetividade classificando afirmações 
+
+sobre  um  tema,  determinado  pelos  pesquisadores  por  meio  do  Q-Sort.  As  subjetividades  analisadas 
+
+agrupam-se de acordo com sua semelhança e são alocadas em grupos de perspectivas diferentes que são 
+
+chamados de factors (fatores). Quando as avaliações de vários participantes têm alta correlação entre si, 
+
+significa que eles têm pontos de vista semelhantes e, portanto,  pertencem  à mesma perspectiva  social. 
+
+Assim, o Método Q utiliza das abordagens quantitativas e qualitativas de formas complementares para 
+
+medir as perspectivas sociais sobre questões relacionadas à sustentabilidade e à governança ambiental de 
+
+uma maneira sistemática e replicável (SEGHEZZO; BRANNSTROM, 2022; SNEEGAS et al., 2021). 
+
+Não se encontrou a aplicação do Método Q nos estudos do nexus água-energia-alimento brasileiro. No 
+
+entanto,  a  Metodologia  Q  foi  aplicada  em  contextos  internacionais  para  compreender  as  diferentes 
+
+perspectivas sociais nas questões relacionadas à água, à energia e ao alimento, isoladamente, como em 
+
+Frate; Brannstrom (2015), Nost, Robertson e Lave (2019) e Iribarnegaray et al. (2014; 2019). Além disso, 
+
+corroborando  com  Sneegas  et  al.  (2021),  o  uso  do  Método  Q  em  outros  estudos  não  precisa  ser 
+
+independente, podendo integrar-se com outras metodologias. Deste modo, nesta pesquisa, os resultados 
+
+das  discussões  levantadas  durante  a  aplicação  do  diagnóstico  participativo,  utilizando  a  Metodologia 
+
+SWOT/FOFA, foram conduzidos de forma complementar à Metodologia Q. 
+
+Para a coleta e análise de dados da Metodologia Q são apresentadas as seguintes etapas (SEGHEZZO; 
+
+BRANNSTROM, 2022): (1) criação do Concourse, (2) identificação do P-Set, (3) realização do Q-Sort e 
+
+(4) análise e interpretação dos resultados. Essas etapas também estão presentes no trabalho de Sneegas 
+
+(2020),  em  que  destaca  que  os  estudos  geralmente  seguem  tal  protocolo  desde  a  introdução  da 
+
+Metodologia Q na Geografia Humana no ano de 2000. 
+
+O Concourse é definido a partir dos discursos sobre um determinado tema ou domain, que aqui definimos 
+
+como o nexus água-energia-alimento. Para construir as frases do Concourse, utilizaram-se as transcrições 
+
+das gravações realizadas durante a aplicação da Matriz SWOT/FOFA, em que atende a lacuna de oficinas 
+
+e grupos focais serem uma das fontes de Concourse menos utilizadas na pesquisa científica, mencionada 
+
+por Sneegas et al. (2021). O objetivo foi identificar frases em que melhor destacavam as características 
+
+do nexus presentes em ambas as comunidades e que se adequassem para as necessidades do Método Q, 
+
+desconsiderando-se o que era muito específico e que representasse apenas uma das duas comunidades. As 
+
+frases  específicas  para  uma  comunidade  não  seriam  compreensíveis  na  outra  comunidade  e  causaria 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+234 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+dúvidas  entre  as  pessoas  entrevistadas,  comprometendo  a  confiabilidade  dos  dados  obtidos.  Por  isto, 
+
+optou-se  por  frases  no  Concourse  que  abordassem  temas  observados  em  ambas  as  comunidades 
+
+analisadas. 
+
+De início, foram pré-selecionadas um total de 156 frases sobre a comunidade de Arimbú (66 frases do 
+
+contexto alimentar, 43 do contexto hídrico e 47 do contexto energético) e 135 frases sobre a comunidade 
+
+de  Ponta  do  Urumajó  (46  frases  do  contexto  alimentar,  41  do  contexto  hídrico  e  48  do  contexto 
+
+energético). Em dezembro de 2019, as frases pré-selecionadas passaram por uma rodada de avaliação com 
+
+os autores, orientada pelas características desejadas, sendo elas: 1) realidade das comunidades; 2) situação 
+
+social  atual;  e  3)  consequências.  Assim,  foram  selecionadas  47  frases,  13  sobre  o  setor  hídrico,  19 
+
+alimentares e 15 energéticas, que foram posteriormente reelaboradas e revisadas para que pudessem dar 
+
+origem  às  frases  finais  e  atender  aos  critérios  para  o  Método  Q.  Importante  destacar  que  as  frases 
+
+precisavam  ser,  categoricamente,  positivas  ou  negativas  para  serem  causadoras  de  opiniões  e  para 
+
+trazerem destacados “pontos de vista” para o preenchimento do Q-Sort. 
+
+As 47 frases selecionadas foram agrupadas e sintetizadas em 36 frases finais, sendo 11 sobre o contexto 
+
+hídrico,  12  sobre  o  contexto  energético  e  13  sobre  o  contexto  alimentar.  Todavia,  algumas  das  frases 
+
+integravam de forma completa o nexus água-energia-alimento e não somente a algum setor específico. 
+
+Por fim, as frases finais para a aplicação do Método Q receberam uma numeração aleatória do número 1 
+
+ao 36. 
+
+O  P-Set  é  constituído  pelos  participantes  do  Método  Q,  que  são  cuidadosamente  selecionados  para 
+
+construir  uma  amostra  relevante  da  temática  em  questão.  Nesta  pesquisa,  os  participantes  foram 
+
+selecionados  a  partir  dos  contatos  das  próprias  comunidades;  e  outros,  em  sua  grande  maioria,  foram 
+
+selecionados no decorrer do campo a partir de indicações. 
+
+O P-Set incluiu atores-chave como secretários, estudantes, professores, servidores públicos, entre outros, 
+
+atendendo intencionalmente ao critério de estarem inseridos no contexto hídrico, alimentar e energético e 
+
+com opiniões significativas para representar o nexus. Desse modo, foi construída uma amostra relevante 
+
+de 22 participantes, sendo 16 homens e 06 mulheres, ambos na faixa de idade entre 21 e 62 anos, 07 com 
+
+ensino médio completo,  12 com  ensino superior  completo,  01 com  ensino fundamental  completo  e 02 
+
+com ensino fundamental incompleto. Ressalta-se que o número de participantes para ser considerado uma 
+
+amostra válida é definido a partir da média do número de frases do Concourse. Além disso, o Método Q 
+
+não  se  preocupa  em  atender  grandes  números  de  participantes,  sendo  seu  foco  maior  nas 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+235 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+representatividades e na importância (social, política, administrativa, etc.) que o sujeito tem no contexto 
+
+analisado. 
+
+Para a aplicação do Q-sort foi produzido um painel com uma pergunta para nortear a análise: “Ordene as 
+
+frases que melhor representam o que você concorda e discorda sobre a relação do  nexus água-energia-
+
+alimento nas comunidades rurais e ribeirinhas do médio e baixo curso do rio Caeté (Bragança / Augusto 
+
+Corrêa - PA)” e um grid com 36 espaços em branco para a ordenação das frases definidas no Concourse 
+
+de acordo com o grau de concordância ou discordância de cada participante (Figura 5). As frases foram 
+
+produzidas  em  cartas  com  velcro  para  facilitar  a  fixação  delas  no  banner.  Além  disso,  foi  também 
+
+produzido uma folha de campo com o grid para salvar o gabarito das respostas coletadas. 
+
+Figura 5: Painel de orientação e preenchimento do Q-Sort pelos participantes do P-Set. 
+
+Fonte: Tavares, março de 2020. 
+
+As entrevistas do Q-Sort foram realizadas com os 22 participantes do P-Set em março de 2020, antes das 
+
+restrições pandemia de COVID-19 no Brasil serem aplicadas, e seguiram um protocolo de introdução ao 
+
+tema e explicação sobre o preenchimento com o objetivo de alocar as frases da maneira mais adequada 
+
+dentro  da  sua  visão  e  opinião  de  forma  individualizada.  Ao  fixar  a  carta  da  frase  em  um  local,  os 
+
+participantes explicavam o seu “ponto de vista” e seu raciocínio de preenchimento do Q-Sort, sendo feita 
+
+a gravação com devida autorização prévia. 
+
+A  entrevista  desenvolveu-se  dentro  de  uma  conversa  compreensível  para  todos  os  participantes,  sendo 
+
+notório  que  as  respostas  não  foram  colocadas  de  forma  aleatória,  confirmando  a  validade  dos  dados 
+
+coletados durante a aplicação do Método Q para análise e interpretação. O tempo de duração da entrevista 
+
+se deu de forma variada, durando, de forma geral, em torno de 40 minutos. 
+
+A  análise  dos  Q-Sorts  foi  guiada  pelo  software  analítico  gratuito  Ken-Q  Analysis  versão  1.0.6  (site: 
+
+https://shawnbanasick.github.io/ken-q-analysis/), com o objetivo de realizar a análise fatorial para agrupar 
+
+os participantes por “ponto de vista” em fatores e analisar as percepções obtidas durante as aplicações dos 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+236 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Q-Sorts. Para a Entrada de dados (Data Input) foi elaborada uma planilha em Excel (.xlsx) com os dados 
+
+dos  Q-Sorts  dos  participantes.  Em  seguida,  foi  feita  a  Matriz  de  Correlação  (Correlation  Matrix)  para 
+
+correlacionar os Q-Sorts, a Extração de Fatores (Factor Extraction) e a Rotação automática dos Fatores 
+
+(Factor Rotation). Ressalta-se que a análise foi replicada três vezes pelos co-autores independentemente, 
+
+obtendo os mesmos resultados.  
+
+Foram  selecionados  4  fatores  por  serem  mais  apropriados  para  explicar  as  perspectivas  sociais  locais, 
+
+seguindo o método de decisão multicritério baseado em critérios de extração de fatores comumente usados 
+
+(SNEEGAS et al., 2022). Assim, foi realizada a Rotação Varimax na qual identificou todas as perspectivas 
+
+sociais significativas possíveis e o Carregamento dos Fatores (Factor Loadings), em que foi selecionado 
+
+o Auto-Flag para p < 0,1 ocorrendo a exibição dos “flagged” de cada um dos quatro fatores. Além disso, 
+
+o  software  web  também  apresentou  dados  como Autovalores  (Eigenvalues),  Variância  Explicada  (%), 
+
+Confiabilidade Composta, Erro padrão do Factor Z-Scores, entre outros. 
+
+RESULTADOS 
+
+Foram  construídas  três  matrizes  SWOT/FOFA  nas  comunidades  de  Ponta  do  Urumajó  e  Arimbú, 
+
+totalizando seis matrizes, para a obtenção de dados sobre o modo de vida no contexto hídrico, energético 
+
+e alimentar em ambas as comunidades. Em relação ao contexto hídrico, os participantes das atividades 
+
+em Ponta do Urumajó levantaram 34 elementos (8 Forças, 10 Oportunidades, 9 Fraquezas e 7 Ameaças) 
+
+e em Arimbú foram levantados 36 (10 Forças, 8 Oportunidades, 9 Fraquezas e 9 Ameaças). No contexto 
+
+alimentar, a comunidade de Ponta do Urumajó levantou 40 elementos (11 Forças, 8 Oportunidades, 11 
+
+Fraquezas e 10 Ameaças) e em Arimbú foram levantados 50 (16 Forças, 10 Oportunidades, 12 Fraquezas 
+
+e 12 Ameaças). Já no contexto energético, os participantes de Ponta do Urumajó levantaram 45 elementos 
+
+(8 Forças, 12 Oportunidades, 16 Fraquezas e 9 Ameaças) e em Arimbú foram levantados 32 (7 Forças, 9 
+
+Oportunidades, 8 Fraquezas e 8 Ameaças) (Quadro 3). 
+
+Na comunidade de Ponta do Urumajó, no contexto hídrico, foram elencados a caixa d’água e poços como 
+
+forças.  É  mencionada  a  fraqueza  da  bomba  de  captação  da  caixa  d'água  comunitária,  que  preocupa  os 
+
+moradores devido a interrupções no motor da bomba e falta de energia para captação de água, interferindo na 
+
+confiabilidade da disponibilidade hídrica. No contexto alimentar, foi destacado como força o peixe e a farinha 
+
+devido ao seu fator nutricional e a sua disponibilidade. Outro elemento mencionado é o acesso a embarcações 
+
+maiores para garantia da realização de uma maior rota para a pesca e um maior espaço de armazenamento do 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+237 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+pescado. No contexto energético, os participantes destacaram o fato de a região conter recursos hídricos em 
+
+abundância para geração de energia nas hidrelétricas. 
+
+Já em Arimbú, no contexto hídrico, o rio, o inverno (período chuvoso) e poços foram destacados como forças. 
+
+É mencionado o tratamento da água no poço comunitário em oportunidades, pois, segundo os moradores, a 
+
+água não é própria para o consumo. Outra oportunidade importante é a questão da conscientização ambiental 
+
+do rio e suas margens, que podem prejudicar a segurança hídrica e alimentar da região. No contexto alimentar, 
+
+os participantes destacaram a criação de animais e a plantação. Foi destacado a estrada de acesso à comunidade 
+
+de Arimbú em fraquezas, pois, em períodos de precipitação, a estrada fica totalmente inacessível, isolando os 
+
+moradores e comprometendo o acesso ao alimento. No contexto energético, foi mencionado a lenha, o carvão 
+
+e o gás de cozinha como as principais fontes de energia térmica, sendo a lenha a mais utilizada devido ao 
+
+elevado preço do gás de cozinha. 
+
+Assim, foi observado que a comunidade da Ponta do Urumajó sobrevive predominantemente da pesca, com 
+
+poucas atividades agrícolas; já a comunidade de Arimbú sobrevive predominantemente de atividades agrícolas 
+
+e agropecuárias, com poucas atividades pesqueiras. Ambas as comunidades possuem pequenas criações de 
+
+animais de pequeno porte. Parte da renda dos moradores é advinda de programas assistenciais do governo, 
+
+como o Bolsa Família. Percebeu-se também que o alto custo da energia elétrica e do gás de cozinha foram 
+
+classificados como uma das principais fraquezas e ameaças para as comunidades pois o possível aumento de 
+
+seus  preços  compromete  o  orçamento  familiar,  levando  aos  moradores  a  optarem  entre  o  pagamento  da 
+
+energia, a compra do gás de cozinha e o acesso a alimentos. 
+
+A partir dos resultados, observou-se que, apesar de uma comunidade sobreviver predominantemente da pesca 
+
+e a outra de atividades agrícolas, as problemáticas e carências encontradas em relação ao nexus são, de forma 
+
+geral,  as  mesmas,  ocorrendo  diferenças  ínfimas  pelas  atividades  predominantemente  executadas.  A  partir 
+
+desse resultado foi optado por realizar uma análise Q para ambas as comunidades. Além disso, as discussões 
+
+ocorridas  no  preenchimento  da  SWOT  deram  origem  às  frases  que  compuseram  o  Concourse,  em  que 
+
+posteriormente receberam numeração aleatória de 1 a 36 (em anexo). 
+
+Além disso, os resultados obtidos na Matriz SWOT/FOFA foram vinculados ao método de mapeamento 
+
+participativo com o objetivo de complementar e espacializar os dados alcançados, fornecendo subsídios para 
+
+o conhecimento da realidade social, ambiental, territorial e política do nexus nas comunidades, bem como para 
+
+o desenvolvimento de possíveis estratégias de identificação e minimização de impactos (Tavares et al., 2021). 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+238 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Quadro 3: Síntese dos resultados da Matriz SWOT/FOFA nas comunidades de Ponta do Urumajó e Arimbú. 
+
+PONTA DO URUMAJÓ 
+
+ARIMBÚ 
+
+FORÇAS 
+
+Caixa d'água*  
+
+OPORTUNIDADES 
+Pagamento em dia* 
+
+Poço* 
+
+Acesso a todos* 
+
+FRAQUEZAS 
+
+AMEAÇAS 
+
+FORÇAS 
+
+OPORTUNIDADES 
+
+Escassez da água* 
+Bomba hidráulica* 
+
+Corte de energia* 
+
+Maré seca* 
+
+Rio* 
+
+Inverno* 
+
+Água encanada* 
+Conscientização* 
+
+Pesca no mar* 
+
+Mar como renda* 
+
+Falta de água* 
+
+Poços cheios* 
+
+Tratamento da água* 
+
+Desunião da 
+comunidade* 
+
+Limpeza e tampa da 
+
+Poluição do mar e 
+
+Caixa d’água sem 
+
+Custo da água não 
+
+caixa d’água 
+
+desperdício/descuido 
+
+tampa 
+
+afeta a renda 
+
+comunitário pela 
+
+Manutenção do poço 
+
+Má qualidade da 
+
+Pesca e horta 
+Preço acessível 
+
+Impurezas 
+Distribuição 
+
+Falta de chuva 
+
+Poluição 
+
+Água encanada 
+Poço individual 
+
+Peixe* 
+
+Barcos maiores* 
+
+Lixo no mar* 
+
+Cursos (geração de 
+
+Alimentos de má 
+
+Criação de bovinos 
+
+soltos* 
+
+Criação de 
+animais* 
+
+Plantação* 
+
+prefeitura 
+Mais poços 
+
+Inverno 
+
+Cursos* 
+
+Auxílios para 
+
+plantação* 
+
+Nexus/SWOT 
+
+ÁGUA 
+
+ALIMENTO 
+
+Qualidade e 
+
+disponibilidade 
+
+da água 
+
+Pouco gasto 
+
+Água encanada 
+
+Farinha* 
+
+Bolsa Família* 
+Pesca / renda 
+Chuvas no 1° 
+
+renda)* 
+Auxílios* 
+Plantação 
+
+Acesso a farinha 
+semestre do ano 
+(preço) o ano todo 
+Acesso a escolha  Curso (filetar peixe) 
+
+Hidrelétrica* 
+
+Baixar custos* 
+
+Acesso à água* 
+
+Geração de 
+emprego* 
+
+Renda* 
+
+Auxílios* 
+
+Quantidade do peixe 
+
+no verão* 
+
+qualidade* 
+
+Falta de médicos* 
+Preço da farinha 
+
+Deslocamento para 
+
+obter alimentos 
+Industrializados  
+Falta de energia* 
+
+Alto custo* 
+
+Depender da 
+
+energia* 
+
+ENERGIA 
+
+Energia elétrica 
+e gás de cozinha 
+Energia pública 
+
+Possuir 
+
+Assistência da 
+
+companhia elétrica 
+
+Energia solar 
+Melhorias na 
+
+eletrodomésticos 
+
+potência energética 
+
+Falta de acesso para 
+toda a comunidade 
+Cobrança de taxas 
+
+Falta de fiscalização 
+
+(*) Elementos destacados no TOP 3+. 
+
+Cortes de auxílios* 
+
+Farinha* 
+
+Mais empregos* 
+
+Muita chuva 
+
+Bolsa Família 
+
+Consumo de enlatados  
+
+Alto custo 
+
+Não usar 
+
+agrotóxicos 
+Peixe / rio 
+
+Preço mais acessível 
+Venda da farinha e 
+
+polpa de frutas 
+
+Horta comunitária 
+
+Aumento do valor* 
+
+Energia elétrica* 
+
+Placa solar* 
+
+Rompimento da 
+
+Carvão, gás e 
+
+Baixar o preço da 
+energia e do gás* 
+
+Fiscalização na rede 
+
+barragem* 
+
+Falta de chuva 
+(hidrelétrica)* 
+Acidentes com 
+energia elétrica 
+
+Insegurança 
+
+lenha* 
+
+Hidrelétrica* 
+
+Boa potência 
+
+energética 
+
+elétrica* 
+
+ruins* 
+
+Auxílio gás 
+
+Preço injusto do 
+
+consumo 
+
+hidrelétrica* 
+Acidentes por 
+falta de energia 
+Preços elevados 
+
+União 
+
+Cursos técnicos 
+
+Falta de energia 
+
+Queda de energia 
+
+Não ocorre 
+
+Gerador elétrico para 
+
+(queima de aparelhos) 
+
+desmatamento 
+
+cada comunidade 
+
+Demora na 
+assistência  
+
+Período 
+chuvoso 
+
+FRAQUEZAS 
+Desmatamento* 
+Poluição do rio* 
+
+Água não 
+tratada* 
+
+água do poço 
+comunitário 
+
+AMEAÇAS 
+
+Seca* 
+
+Agrotóxico* 
+
+Falta de 
+
+preservação* 
+Poluição dos 
+poços pelas 
+
+fossas 
+
+Bomba d’água 
+Veneno no rio 
+Falta de energia  Má qualidade 
+Estrada (período 
+Agrotóxico em 
+outros locais* 
+
+chuvoso)* 
+
+Dependência da 
+
+produção* 
+
+Falta de 
+
+transporte* 
+
+Preço elevado* 
+Falta de auxílios 
+
+Terra infértil* 
+Muita chuva 
+
+Falta de 
+
+Roubo da 
+plantação 
+
+Desperdício 
+
+armazenamento  
+Industrializados 
+Energia pública*  Desmatamento* 
+Preço elevado da 
+Rompimento da 
+energia e do gás* 
+Estradas e pontes 
+
+Falta de água na 
+
+barragem* 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+239 
+
+Fonte: Os autores.
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Em  relação  ao  Método  Q,  foram  identificados  quatro  fatores  com  suas  respectivas  variáveis 
+
+(participantes do Q-Sort). Cada fator recebeu entre 3 e 7 flag (quantidade de membros representativos 
+
+que foram verificados), em que 2 participantes não foram carregados em nenhum dos quatro fatores 
+
+por  não  obterem  alta  correlação  com  nenhuma  das  perspectivas  sociais  identificadas.  Os  quatro 
+
+fatores  apresentam  49%  da  variância  explicada  dos  dados,  em  que  todos  os  fatores  selecionados 
+
+tiveram “eigenvalue” (autovalores) acima de 1,0 e confiabilidade composta acima de 0,9. Destaca-se 
+
+que  essas  características  estão  dentro  dos  padrões  normais  na  bibliografia  (Sneegas  et  al.,  2021), 
+
+significando que devemos proceder para a interpretação dos fatores (Quadro 4).  
+
+Quadro 4: Característica dos Fatores 
+
+ 
+
+Fator 1 
+
+Fator 2 
+
+Fator 3 
+
+Fator 4 
+
+N° de Variáveis de Definição 
+
+Coeficiente Relativo Médio 
+
+Confiabilidade Composta 
+
+Erro padrão do Factor Z-scores 
+
+7 
+
+0,8 
+
+0,966 
+
+0,184 
+
+4 
+
+0,8 
+
+0,941 
+
+0,243 
+
+6 
+
+0,8 
+
+0,96 
+
+0,2 
+
+3 
+
+0,8 
+
+0,923 
+
+0,277 
+
+Autovalores (Eigenvalues) 
+
+4,781589 
+
+2,616538 
+
+1,772934 
+
+1,642028 
+
+Variância explicada (%) 
+
+16 
+
+11 
+
+14 
+
+8 
+
+Fonte: Os autores. 
+
+Para  realizar  a  interpretação  conferimos  quais  as  frases  do  Concourse  foram  identificadas  como 
+
+estatisticamente  significativas  (p  <0,05  ou  p  <0,01)  (em  anexo). A  significância  em  p  refere-se  à 
+
+probabilidade de os resultados não serem aleatórios e sim estatisticamente significativos, em que p 
+
+<0,05 possui 95% e p <0,01 possui 99% de possibilidade de não aleatoriedade. 
+
+Fator 1: Renda e água 
+
+O Fator 1 foi interpretado como “renda e água” por destacar, principalmente, as frases significantes 
+
+estatisticamente relacionadas as questões financeiras e as problemáticas com a água. Por exemplo, as 
+
+frases mostram as preocupações sobre os problemas da falta de fiscalização na energia elétrica e o 
+
+aumento de tarifas (frase 29), falta de pagamento da conta de energia ocasionado pelo baixo poder 
+
+aquisitivo que interfere no abastecimento da água (frase 19), ausência de recursos para construção de 
+
+cercas (frase 4) e falta de uma cooperativa de pescadores, em que impacta a renda dos moradores da 
+
+comunidade (frase 2). 
+
+Destacaram-se doze frases significantes estatisticamente para caracterizar o Fator 1. Tais frases tratam 
+
+principalmente sobre  como  o baixo  poder aquisitivo  das comunidades interfere na água, energia e 
+
+alimento (frases 19, 4 e 2). Esse fator também concorda com assuntos sobre a importância dos auxílios 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+240 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+do governo para a energia térmica (frase 35), sobre os programas de transferência de renda serem os 
+
+principais fatores para garantia do nexus (frase 20), a falta de fiscalização na energia elétrica (frase 
+
+29) e sobre os períodos de chuvas causarem transtorno na compra de alimentos (frase 25). 
+
+Além disso, esse fator discorda, sobretudo, das frases ligadas à segurança hídrica da região em que a 
+
+água  encanada é ideal  para o consumo e há uma distribuição igualitária  entre todos os moradores 
+
+(frase 22) e que a água do poço comunitário é melhor que a água do poço individual (frase 24). Esse 
+
+fator também discorda de frases sobre o uso de agrotóxico contaminar a água e o alimento (frase 36), 
+
+o uso do carvão e lenha serem prejudiciais ao meio ambiente e causarem desmatamento (frase 15) e 
+
+sobre as famílias não plantarem de forma satisfatória por não possuir capacitação adequada. 
+
+Fator 2: Prioridade energia no nexus 
+
+Interpretamos  o  Fator  2  como  “prioridade  energia  no  nexus”  por  destacar,  sobretudo,  frases 
+
+significantes estatisticamente relacionadas à energia elétrica e térmica nas comunidades. Por exemplo, 
+
+as  frases  que  destacam  os  impactos  negativos  do  uso  do  carvão  e  da  lenha  (frase  15),  fontes 
+
+alternativas de energia (frase 5), cortes na energia elétrica e carência de lenha ocasionada pelas chuvas 
+
+(frase 33 e frase 31), falta de fiscalização na energia elétrica (29) e gerador de eletricidade (frase 16). 
+
+Destacaram-se  onze  frases  significantes  estatisticamente  para  caracterizar  o  Fator  2.  Essas  frases 
+
+ressaltam  principalmente  questões  sobre  o  período  de  chuvas  ameaçar  a  qualidade  da  água,  a 
+
+disponibilidade  de  energia  elétrica  e  carência  de  lenha  seca  para  cocção  de  alimentos  (frase  33)  e 
+
+afetar  também  a  energia  térmica  pois  as  famílias  não  conseguem  obter  lenha  de  boa  qualidade, 
+
+precisando comprar gás de cozinha, impactando negativamente o orçamento familiar (frase 31). Esse 
+
+fator também concorda com frases em que prevalece a temática sobre meio ambiente destacado na 
+
+energia elétrica e térmica (frases 15 e 5), falta de fiscalização na energia elétrica (frase 29) e falta de 
+
+armazenamento adequado para os alimentos (frase 7). 
+
+Além  disso,  esse  fator  discorda,  sobretudo,  de  frases  sobre  a  falta  de  união  ou  a  falta  de  uma 
+
+cooperativa impedir a ajuda financeira ou o recebimento de auxílios do poder público e da prefeitura 
+
+interferindo no abastecimento hídrico, aquisição de alimentos e segurança energética (frases 23 e 2). 
+
+Esse fator discorda também de frases sobre o acesso aos alimentos (frase 1), queda e falta de energia 
+
+elétrica (frase 16) e sobre os programas de transferência de renda serem os principais fatores para a 
+
+garantia do nexus (frase 20). 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+241 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Fator 3: Alimento é a prioridade 
+
+O Fator 3 interpretou-se como “alimento é a prioridade” por destacar, sobretudo, frases significantes 
+
+estatisticamente que tratam sobre disponibilidade, acesso e produção de alimentos. Por exemplo, as 
+
+frases destacam os prejuízos na disponibilidade de alimentos (frase 13), ausência de infraestrutura 
+
+cria  problemas  para  a  produção  agrícola  (frase  32),  programas  de  governo  interferirem  na 
+
+disponibilização e acesso ao alimento (frase 3), problemáticas do gado crido solto na plantação (frase 
+
+4) e falta de armazenamento adequado geram perdas da produção (frase 7). 
+
+Destacaram-se  dez  frases  significantes  estatisticamente  para  caracterizar  o  Fator  3.  Essas  frases 
+
+ressaltam questões sobre desperdícios, perdas e prejuízos na produção para os agricultores, no qual 
+
+interfere  negativamente  na  segurança  alimentar  das  pessoas  (frases  32,  7  e  4).  Esse  fator  também 
+
+concorda com frases relacionadas aos programas e auxílios do governo serem positivos na obtenção 
+
+de alimentos (frase 3) e  sobre o alto custo  do gás de cozinha interferir na renda das famílias e na 
+
+disponibilidade de alimentos (frase 13). 
+
+Esse fator discorda, sobretudo, dos argumentos ligados à segurança hídrica da região, sobre a água 
+
+encanada  ser  ideal  para  o  consumo  e  haver  uma  distribuição  igualitária  entre  todos  os  moradores 
+
+(frase 22) e sobre a água do poço da comunidade ser melhor que a água do poço individual (frase 24). 
+
+Além  disso,  esse  fator  discorda  também  sobre  os  programas  de  transferência  de  renda  serem  os 
+
+principais fatores para garantia do nexus (frase 20), o peixe e a farinha serem fortemente confiáveis 
+
+(frase 18) e sobre as fontes alternativas de energia serem ideais para o meio ambiente (frase 5).  
+
+Fator 4: Conexão água-energia-alimento 
+
+O Fator 4 foi interpretado como “Conexão água-energia-alimento” por destacar, frases significantes 
+
+estatisticamente que tratam sobre as conexões água-energia-alimento, água-alimento e energia-água. 
+
+Por exemplo, as frases sobre os auxílios do governo serem os principais fatores para garantir o nexus 
+
+água-energia-alimento (frase 20) e o uso de agrotóxico contaminar a água e o alimento (frase 36). 
+
+Discorda sobre a manutenção ruim da rede elétrica interferir no abastecimento hídrico (frase 12) e os 
+
+períodos de chuva causarem transtornos para aquisição de alimentos (frase 25).  
+
+Destacaram-se  sete  frases  significantes  estatisticamente  para  caracterizar  o  Fator  4.  Esse  fator 
+
+concorda com frases que ressaltam questões sobre os programas de transferência de renda serem os 
+
+principais fatores para garantia do nexus (frase 20), o peixe e a farinha serem fortemente confiáveis 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+242 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+(frase 18), o uso de agrotóxicos contaminar a água e o alimento (frase 36) e a falta de fiscalização no 
+
+uso de energia (frase 29). 
+
+Além disso, esse fator discorda de frases relacionadas aos períodos de chuvas causarem insegurança 
+
+alimentar  (frase  25),  sobre  insegurança  energética  interferir  no  abastecimento  hídrico  (frase  12)  e 
+
+sobre nunca acontecer qualquer conflito em relação a água (frase 34). 
+
+DISCUSSÃO 
+
+Ambas as comunidades pesquisadas compreendem as interligações e dependências entre os setores 
+
+do nexus, porém as interligações não são compreendidas de forma única. Os resultados mostram que 
+
+existem  quatro  maneiras  diferentes  para  entender  estas  interligações  (Renda  e  água;  Prioridade 
+
+energia no nexus; Alimento é a prioridade; e, Conexão água-energia-alimento). 
+
+Assim, foram identificadas as interligações dos setores do  nexus dentro de ambas as comunidades 
+
+(Figura 6), em que: (i) o contexto hídrico e o contexto energético estão interligados na distribuição e 
+
+no  acesso  à  energia  advinda  das  hidrelétricas  e  na  demanda  de  energia  para  o  funcionamento  da 
+
+bomba de capitação e abastecimento de água das comunidades (Fator 1: Renda e água); (ii) o contexto 
+
+energético interligado ao alimentar em relação ao uso, majoritariamente, da energia térmica advinda 
+
+da lenha e do carvão para cocção dos alimentos (Fator 2: Prioridade energia no nexus); (iii) o contexto 
+
+alimentar  interligado  ao  hídrico,  pois  se  faz  necessário  haver  disponibilidade  de  água  nos 
+
+reservatórios e rios para a garantia da pesca, a realização da higienização, a cocção dos alimentos, a 
+
+irrigação agrícola e a dessedentação dos animais (Fator 3: Alimento é a prioridade); (iv) o contexto 
+
+hídrico, energético e alimentar interligados no sistema nexus, no qual pode ser visualizada a demanda 
+
+de energia elétrica para o abastecimento hídrico na higienização dos alimentos, produção agrícola e 
+
+criação de animais e uso da energia térmica advinda da lenha e carvão e boa qualidade hídrica para a 
+
+cocção dos alimentos (Fator 4: Conexão água-energia-alimento). 
+
+Observa-se  que  o  nexus  compreendido  nas  comunidades  paraenses  a  partir  de  uma  perspectiva 
+
+bottom-up apresenta resultados múltiplos, mais inclusivos e distintos dos resultados indicados pelos 
+
+estudos top-down, sobretudo, aos estudos de Mercure et al. (2019) aplicados em uma escala nacional 
+
+no contexto brasileiro, que focou em quatro estudos de caso: (1) vínculo água-energia, com foco no 
+
+uso da água para hidroeletricidade, (2) vínculo energia-alimento, com foco na competição por terra, 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+243 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+(3) vínculo água-alimentos, com  foco na produção de alimentos; e (4) vínculos  simultâneos água-
+
+energia-alimento, com foco na mudança indireta da cobertura e escassez da terra. 
+
+Figura 6: Nexus água-energia-alimento nas comunidades de Ponta do Urumajó e Arimbú. 
+
+Fonte: Os autores. 
+
+ 
+
+Nesta pesquisa, ressalta-se que os fatores incluíram frases significativas estatisticamente para o nexus 
+
+água-energia-alimento. Isto sugere que nas comunidades existem outras interpretações de como os 
+
+três elementos interagem entre si, que diferem do conceito desenvolvido na bibliografia de Mercure 
+
+et al. (2019). Em razão de tais interconexões, compreende-se que o gerenciamento de um setor do 
+
+nexus  pode  afetar  os  outros  setores,  considerando  o  nível  de  conexão  entre  eles.  Além  disso,  o 
+
+elemento “auxílios” é relevante, e não deve ser separado da concepção do nexus. 
+
+A partir disso, se torna fundamental indicar ações que visem uma governança do nexus mais inclusiva 
+
+e  sustentável. Assim,  algumas  diretrizes  podem  ser  encontradas  na  própria  matriz  SWOT/FOFA, 
+
+sobretudo nas colunas relacionadas às oportunidades, as quais  foram elencadas algumas melhorias 
+
+para  a  gestão  local  da  água,  energia  e  alimento,  como:  acesso  de  água  encanada  para  todos  da 
+
+comunidade;  preços  mais  acessíveis  da  energia  elétrica  e  gás  de  cozinha;  tratamento  e  análise  da 
+
+qualidade da água nos poços individuais e comunitários; promoção de cursos de geração de renda e 
+
+emprego relacionados ao setor alimentar e energético; melhorias e regularização das embarcações; 
+
+baixo  custo  para  produção  de  alimentos;  fiscalização  e  reavaliação  do  consumo  de  energia; 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+244 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+iluminação  pública  eficiente;  uso  de  fontes  de  energias  alternativas;  promoção  de  palestras 
+
+educacionais para conter o consumo de alimentos enlatados e industrializados; entre outros. 
+
+Em todos os setores do nexus, de ambas as comunidades, é destacado a importância dos auxílios e 
+
+programas de governo para a garantia hídrica, alimentar e energética, em que os preços elevados do 
+
+gás  de  cozinha  e  da  energia  elétrica  afetam  o  contexto  nexus,  principalmente  na  aquisição  de 
+
+alimentos. Nesse sentido, torna-se necessário impulsionar os auxílios como o Bolsa Família, auxílio-
+
+gás, auxílio para o agricultor e, não menos importante, o auxílio da Prefeitura Municipal de Augusto 
+
+Corrêa e Bragança que assegura o funcionamento da bomba de captação da água do poço comunitário. 
+
+CONCLUSÕES 
+
+A pesquisa realizou um diagnóstico do nexus água-energia-alimento em comunidades ribeirinhas na 
+
+Amazônia  Oriental  (as  comunidades  paraenses  de  Ponta  do  Urumajó,  no  município  de  Augusto 
+
+Corrêa, e a comunidade de Arimbú, no município de Bragança) a partir da abordagem bottom-up (de 
+
+baixo  para  cima),  tratando-se  do  primeiro  estudo  do  nexus  água-energia-alimento  na  região 
+
+Amazônica. O uso da abordagem bottom-up possibilitou compreender o nexus a partir de uma escala 
+
+local, proporcionando a inclusão das perspectivas e visões dos grupos sociais, tornando-os agentes 
+
+principais da análise do nexus. 
+
+Os procedimentos metodológicos aplicados foram a construção de matrizes SWOT/FOFA e o Método 
+
+Q.  O  uso  dessas  metodologias  no  contexto  do  nexus  brasileiro  é  inovadora,  sobretudo  quando 
+
+aplicadas  de  forma  associada.  A  Metodologia  SWOT/FOFA  foi  utilizada  como  estratégia 
+
+metodológica de diagnóstico participativo e resultou na obtenção de dados válidos sobre o modo de 
+
+vida comunitário  e a realidade local  do  nexus, sendo  possível  identificar as características sociais, 
+
+econômicas  e  ambientais  das  comunidades.  As  atividades  de  extensão  foram  essenciais  para  a 
+
+construção  da  pesquisa  e  contribuíram,  significativamente,  para  o  engajamento  das  comunidades 
+
+durante  a  aplicação  da  metodologia  devido  à  relação  de  confiança  e  aproximação  com  as 
+
+comunidades. 
+
+Já o Método Q foi utilizado para analisar as subjetividades dos participantes em relação ao nexus. As 
+
+discussões ocorridas durante a realização da matriz  SWOT/FOFA formaram  material para compor 
+
+parte da metodologia, tornando-se essencial para a sua execução. A partir da aplicação e análise do 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+245 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Método Q, foi possível identificar a distinção de quatro subjetividades:  Fator 1: Renda e água, em 
+
+que destaca questões financeiras de baixo poder aquisitivo e as problemáticas com a água; Fator 2: 
+
+Prioridade energia no nexus, no qual prevalece perspectivas relacionadas à energia elétrica e térmica 
+
+nas comunidades; Fator 3: Alimento é a prioridade, em que ressalta questões sobre disponibilidade, 
+
+acesso  e  produção  de  alimentos;  e  Fator  4:  Conexão  água-energia-alimento,  no  qual  destaca  as 
+
+conexões água-energia-alimento, água-alimento e energia-água. Assim, conclui-se que os moradores 
+
+da Ponta do Urumajó e de Arimbú não compreendem o funcionamento do nexus em nível comunitário 
+
+de  forma  homogênea  pois  existem  interpretações  ou  subjetividades  diferentes  sobre  água-energia-
+
+alimento, enfatizando um elemento ou outro, ou enfatizando o papel de políticas do estado. 
+
+Com enfoque nos aspectos discursivos a partir de metodologias participativas, a pesquisa contribui 
+
+com  a  introdução  dos  estudos  do  nexus  na  Região  Norte  e  preenche  lacunas  relevantes  ao  nexus 
+
+brasileiro, tais como: (i) estudo do nexus água-energia-alimento com abordagens bottom-up; (ii) uso 
+
+de  metodologias  qualitativas,  participativas  e  colaborativas;  (iii)  análise  do  nexus  dentro  de  uma 
+
+escala local; (iv) compreensão das interligações entre água, energia e alimento a partir das visões e 
+
+perspectivas comunitárias; e (v) estudo do nexus na região Norte do Brasil.  
+
+As metodologias representam ferramentas para a formulação de políticas ambientais, pois incorporam 
+
+a análise do discurso nos estudos, possibilitando de as preocupações comunitárias serem consideradas 
+
+pelos  governantes.  Além  disso,  as  metodologias  atendem  à  dicotomia  do  uso  das  abordagens 
+
+qualitativas e quantitativas  em  pesquisas  geográficas (MARCHI, 2015),  pois  esta pesquisa  mostra 
+
+como  as  metodologias  podem  ser  utilizadas  de  forma  complementar,  no  qual  o  Método  Q  produz 
+
+resultados quantitativos (fatores) que precisam ser interpretados em base de dados qualitativos. 
+
+Portanto, entende-se que compreender o nexus utilizando a abordagem bottom-up faz-se necessária e 
+
+significativa,  pois  valoriza  a  perspectiva  comunitária  com  resultados  obtidos  de  forma  inclusiva  e 
+
+participativa, traz uma representação da sociedade na tomada de decisão e colabora para uma gestão 
+
+de  recursos  que,  de  fato,  contemple  as  necessidades  locais.  Isto  posto,  é  preciso  dar  ênfase  na 
+
+construção de um planejamento que seja participativo, integrando governantes, responsáveis pelos 
+
+setores do nexus, pesquisadores e a comunidade. 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+246 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+AGRADECIMENTOS 
+
+Aos  moradores  das  comunidades  de  Ponta  do  Urumajó  e  Arimbú  pela  participação  nas  atividades  e 
+
+contribuição  para  a  realização  desta  pesquisa.  Ao  Projeto  CNPq/  Nexus  I  Proc.  nº  441489/2017-6 
+
+“Tecnologias  sociais  e  ações  integradas  de  sustentabilidade  para  a  garantia  da  segurança  hídrica, 
+
+energética e alimentar em nível comunitário no semiárido cearense” e Projeto Universal MCTI/ CNPq Nº 
+
+01/2016:  “Períodos  de  seca  no  semiárido  e  na  Amazônia  Oriental:  influência  sobre  ecossistemas 
+
+aquáticos, paisagens e comunidades vulneráveis”. 
+
+REFERÊNCIAS 
+
+ALBRECHT, T. R.; CROOTOF, A.; SCOTT, C. A. The Water-Energy-Food Nexus: A systematic 
+review of methods for nexus assessment. Environmental Research Letters. [S.l.]: IOPSCIENCE, 
+v. 13, n. 4, p. 26, 2018. Disponível em: http://doi.org/10.1088/1748-9326/aaa9c6. Acesso em: 13 
+fev. 2023. 
+
+BRASIL. Resolução nº466, de 12 de dezembro de 2012. Diário Oficial [da] República Federativa 
+do Brasil, Brasília, DF, 13 jun. 2013. Disponível em: http://bit.ly/1mTMIS3. Acesso em: 11 mai. 
+2015. 
+
+DAHER, B.; HANNIBAL, B.; PORTNEY, K. E.; MOHTAR, R. H. Toward creating an 
+environment of cooperation between water, energy, and food stakeholders in San Antonio. Science 
+of the Total Environment. [S.l.]: ELSEVIER, v. 651, p. 2913-2926, 2019. Disponível em: 
+http://doi.org/10.1016/j.scitotenv.2018.09.395. Acesso em: 16 fev. 2023 
+
+DALLA FONTANA, M.; MOREIRA, F. A.; DI GIULIO, G. M.; MALHEIROS, T. F. The water-
+energy-food nexus research in the Brazilian context: What are we missing?. Environmental 
+Science & Policy. [S.l.]: ELSEVIER, v. 112, p. 172-180, 2020. Disponível em: 
+http://doi.org/10.1016/j.envsci.2020.06.021. Acesso em: 13 fev. 2023. 
+
+EDEN, S.; DONALDSON, A.; WALKER, G. Structuring subjectivities? Using Q methodology in 
+human geography. Area, [s. l.] v. 37, n. 4, p. 413-422, 2005. Disponível em: 
+http://doi.org/10.1111/j.1475-4762.2005.00641.x. Acesso em: 13 fev. 2023. 
+
+FODEN, M.; BROWNE. A. L.; EVANS, D. M.; SHARP, L.; WATSON, M. The water–energy–
+food nexus at home: New opportunities for policy interventions in household sustainability. The 
+Geographical Journal, [s.l.]. v. 185, n. 4, p. 406-418, 2019. Disponível em: 
+http://doi.org/10.1111/geoj.12257. Acesso em: 16 fev. 2023. 
+
+FRATE, C. A.; BRANNSTROM, C. Will Brazil's ethanol ambitions undermine its agrarian reform 
+goals? A study of social perspectives using Q-method. Journal of Rural Studies. [S.l.]: 
+ELSEVIER, v. 38, p. 89-98, abril 2015. Disponível em: 
+http://doi.org/10.1016/j.jrurstud.2014.10.007. Acesso em: 13 fev. 2023. 
+
+FRATE, C. A.; BRANNSTROM, C. How do stakeholders perceive barriers to large-scale wind 
+power diffusion? A Q-method case study from Ceará state, Brazil. Energies, [s.l.]. v. 12, n. 11, p.1-
+14, 2019. Disponível em: http://doi.org/10.3390/en12112063. Acesso em: 12 mai. 2023. 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+247 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+FRATE, C. A.; BRANNSTROM, C.; MORAIS, M. V. G.; CALDEIRA-PIRES, A. A. Procedural 
+and distributive justice inform subjectivity regarding wind power: A case from Rio Grande do 
+Norte, Brazil. Energy Policy. [S.l.]: ELSEVIER, v. 132, p. 185-195, 2019. Disponível em: 
+http://doi.org/10.1016/j.enpol.2019.05.027. Acesso em: 12 mai. 2023. 
+
+FRATE, C. A.; BRANNSTROM, C. Stakeholder subjectivities regarding barriers and drivers to the 
+introduction of utility-scale solar photovoltaic power in Brazil. Energy Policy, v. 111, p. 346-352, 
+2017. Disponível em: http://doi.org/10.1016/j.enpol.2017.09.048. Acesso em: 12 mai. 2023. 
+
+FREITAS, F. S. Utilização de metodologias participativas na construção do diagnóstico e 
+prognóstico da ZEIS Bom Jardim, Fortaleza, Ceará. 2019. 30 f. Monografia (Bacharelado em 
+Geografia) - Centro de Ciências, Universidade Federal do Ceará, Fortaleza, 2019. Disponível em: 
+http://www.repositorio.ufc.br/handle/riufc/50834. Acesso em: 21 jan. 2022.  
+
+GORAYEB, A.; SANTOS, J. O.; SILVA, R. B.; XAVIER, T. W. F.; MARINHO, A. S.; MORAES, 
+M. A. S.; SANTOS, A. B.; SILVA, G. M. C.; NASCIMENTO, S. L. M.; SOUSA, L. C.; TAVARES, 
+G. U.; SANTOS JUNIOR, J. B. Cartografia Social e a Produção de Dados Participativos para o 
+Zoneamento Ecológicoeconômico Costeiro do Ceará. In: SOUTO, R. D.; LEAL DE MENEZES, P. 
+M.; COUTO FERNANDES, M. (org.). Mapeamento Participativo e Cartografia Social: 
+Aspectos Conceituais e Trajetórias de Pesquisa. Rio de Janeiro: Raquel Dezidério Souto, p. 62-89, 
+2021. Disponível em: https://doi.org/10.5281/zenodo.5779902. Acesso em: 13 fev. 2023. 
+
+IRIBARNEGARAY, M. A.; DE LA ZERDA, M. F. E.; HUTTON, C. M.; BRANNSTROM, C.; 
+LIBERAL, V. I.; TEJERINA, W. A.; SEGHEZZO, L. Water-conservation policies in perspective: 
+insights from a Q-method study in Salta, Argentina. Water Policy, [s.l.], v. 16, n. 5, 897-916, 2014. 
+Disponível em: https://doi.org/10.2166/wp.2014.159. Acesso em: 16 fev. 2023. 
+
+IRIBARNEGARAY, M. A.; SULLIVAN, A.; RODRIGUEZ-ALVAREZ, M. S.; BRANNSTROM, 
+C.; SEGHEZZO, L.; WHITE, D. Identifying diverging sustainability meanings for water policy: A 
+Q-method study in Phoenix, Arizona. Water Policy, [s.l.], v. 23, n. 2, 291-309, 2021. Disponível 
+em: https://doi.org/10.2166/wp.2021.033. Acesso em: 16 fev. 2023. 
+
+KARLBERG, L.; HOFF, H.; AMSALU, T.; ANDERSSON, K.; BINNINGTON, T.; FLORES-
+LÓPEZ, F.; DE BRUIN, A.; GEBREHIWOT, S.G.; GEDIF, B.; ZUR HEIDE, F.; JOHNSON, O.; 
+OSBECK, M.; YOUNG, C. Tackling complexity: understanding the food-energy-environment 
+nexus in Ethiopia's Lake tana sub-basin. Water Alternatives, [s.l.], v. 8, n. 1, p. 710-734, 2015. 
+Disponível em: https://www.water-alternatives.org/index.php/alldoc/articles/vol8/v8issue1/273-a8-
+1-6. Acesso em: 13 fev. 2023. 
+
+KRAFTL, P.; BALASTIERI, J. A. P.; CAMPOS, A. E. M.; COLES, B.; HADFIELD-HILL, S.; 
+HORTON, J.; SOARES, P. V.; VILANOVA, M. R. N.; WALKER, C.; ZARA, C. (Re) thinking (re) 
+connection: Young people, “natures” and the water–energy–food nexus in São Paulo State, Brazil. 
+Transactions of the Institute of British Geographers, [s.l.], v. 44, n. 2, p. 299-314. 2019. 
+Disponível em: https://doi.org/10.1111/tran.12277. Acesso em: 13 fev. 2023. 
+
+LEAL, R. N.; BALESTIERI, J. A. P.; ZARA, C.; WALKER, C.; HALL, J.; KRAFTL, P. (Re) 
+Conectando o Nexo: Percepção de Jovens Brasileiros sobre o Nexo Água-Energia-Alimento. 
+Educação em Foco, Juiz de Fora, v. 23, n. 3, p. 963-988, 2018. Disponível em: 
+https://doi.org/10.34019/2447-5246.2018.v23.20112. Acesso em 16 fev. 2023. 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+248 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+MARCHI, M. Pluralismo metodológico em pesquisa geográfica: alternativas ao hermetismo 
+científico. Geosaberes, Fortaleza, v. 6, n. 11, p. 03-09, 2015. ISSN 2178-0463. Disponível em: 
+http://www.geosaberes.ufc.br/geosaberes/article/view/304. Acesso em: 15 fev. 2023. 
+
+MELLONI, G.; TURETTA, A. P. D.; BONATTI, M.; SIEBER, S. A. Stakeholder Analysis for a 
+Water-Energy-Food Nexus Evaluation in an Atlantic Forest Area: Implications for an Integrated 
+Assessment and a Participatory Approach. Water, [s.l.], v. 12, n. 7, p. 1-15, 2020. Disponível em: 
+https://doi.org/10.3390/w12071977. Acesso em: 13 fev. 2023. 
+
+MERCURE, J. F.; PAIM, M. A.; BOCQUILLON, P.; LINDNER, S.; SALAS, P.; MARTINELLI, P.; 
+BERCHIN, I. I.; DE ANDRADE GUERRA, J. B. S. O.; DERANI, C.; DE ALBUQUERQUE 
+JUNIOR, C. L.; RIBEIRO, J. M. P.; KNOBLOCH, F.; POLLITT, H.; EDWARDS, N. R.; 
+HOLDEN, P. B.; FOLEY, A.; SCHAPHOFF, S.; FARACO, R. A.; VINUALES, J. E. System 
+complexity and policy integration challenges: The Brazilian energy-water-food nexus. Renewable 
+and Sustainable Energy Reviews. [S.l.]: ELSEVIER, v. 105, p. 230-243, 2019. Disponível em: 
+https://doi.org/10.1016/j.rser.2019.01.045. Acesso em: 16 fev. 2023. 
+
+NOST, E.; ROBERTSON, M.; LAVE, R. Q-method and the performance of subjectivity: 
+Reflections from a survey of US stream restoration practitioners. Geoforum, v. 105, p. 23-31, 2019. 
+Disponível em: https://doi.org/10.1016/j.geoforum.2019.06.004. Acesso em: 13 fev. 2023. 
+
+ROBBINS, P.; KRUEGER, R. Beyond bias? The promise and limits of Q method in human 
+geography. The Professional Geographer, [s.l.], v. 52, n. 4, p. 636-648, 2000. Disponível em: 
+https://doi.org/10.1111/0033-0124.00252. Acesso em: 13 fev. 2023. 
+
+SAIDMAMATOV, O.; RUDENKO, I.; PFISTER, S.; KOZIEL, J. Water–energy–food nexus 
+framework for promoting regional integration in Central Asia. Water, [s.l.]. v. 12, n. 7, p. 1896. 
+2020. Disponível em: https://doi.org/10.3390/w12071896. Acesso em: 13 fev. 2023. 
+
+SEGHEZZO, L.; BRANNSTROM, C. A metodologia Q para análise qualiquantitativa das 
+percepções sociais das energias renováveis. In: BRANNSTROM, C.; SEGHEZZO, L.; GORAYEB, 
+A. (org.). Descarbonização na América do Sul: Conexões entre o Brasil e a Argentina. Mossoró: 
+Edições UERN, p. 80-101, 2022. Disponível em: 
+http://www.observatoriodaenergiaeolica.ufc.br/wp-content/uploads/2022/07/ADRYANE-
+DESCARBONIZACAO-NA-AMERICA-DO-SUL.pdf. Acesso em: 16 fev. 2023. 
+
+SNEEGAS, G.; SEGHEZZO, L.; BRANNSTROM, C.; JEPSON, W.; ECKSTEIN, G. Do not put 
+all your eggs in one basket: social perspectives on desalination and water recycling in Israel. Water 
+Policy, [s.l.]. v. 24, n. 11, p.1772-1795, 2022. Disponível em: https://doi.org/10.2166/wp.2022.085. 
+Acesso em 16 fev. 2023. 
+
+SNEEGAS, G.; BECKNER, S.; BRANNSTROM, C.; JEPSON, W.; LEE, K.; SEGHEZZO, L. 
+Using Q-methodology in environmental sustainability research: A bibliometric analysis and 
+systematic review. Ecological Economics. [S.l.]: ELSEVIER, v. 180, p. 106864, 2021. Disponível 
+em: https://doi.org/10.1016/j.ecolecon.2020.106864. Acesso em: 13 fev. 2023. 
+
+SNEEGAS, G. Making the case for critical Q methodology. The Professional Geographer, [s.l.], 
+v. 72, n. 1, p. 78-87, 2020. Disponível em: https://doi.org/10.1080/00330124.2019.1598271. Acesso 
+em: 13 fev. 2023. 
+
+TAVARES, G. U. Diagnóstico participativo do Nexus água-energia-alimento em comunidades 
+rurais e ribeirinhas na Amazônia Oriental. 2022. 207 f. Dissertação (Mestrado em Geografia) - 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+249 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Universidade Federal do Ceará, Fortaleza, 2022. Disponível em: 
+http://www.repositorio.ufc.br/handle/riufc/70074. Acesso em: 16 fev. 2023. 
+
+TAVARES, G. U.; DA SILVA, R. B.; Xavier, T. W. D. F.; Gorayeb, A.; Brannstrom, C. Participatory 
+Mapping and SWOT in the context of the Water-Food-Energy Nexus for attaining SDGs in Eastern 
+Amazonia. Proc. Int. Cartogr. Assoc., 4, 105, 2021. Disponível em: https://doi.org/10.5194/ica-
+proc-4-105-2021. Acesso em: 13 fev. 2023. 
+
+TAVARES, G. U.; LIMA, A. E. F.; GORAYEB, A.; CARVALHO JUNIOR, P. R. A.; SANTOS 
+JUNIOR, J. B. Utilização da matriz SWOT como metodologia de diagnóstico participativo de 
+segurança alimentar em nível comunitário no semiárido. Coletânea 8: Paisagens semiáridas: 
+estrutura, dinâmica e adaptação. In: PINHEIRO, L. S.; GORAYEB, A. (Org.). Geografia Física e 
+as Mudanças Globais. Fortaleza: Editora UFC, 2019. Disponível em: 
+https://imprensa.ufc.br/pt/geografia-fisica-e-as-mudancas-globais/. Acesso em 13 fev. 2023.
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+250 
+
+ 
+
+ 
+
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+ANEXO: Tabela Z-score, Rank (posição no Q-sort) e Significância estatística (p < 0,05 e p < 0,01) dos fatores. 
+
+Frases 
+
+Fator 1 
+
+Fator 2 
+
+Fator 3 
+
+Fator 4 
+
+Z-score  Rank  Z-score  Rank  Z-score  Rank 
+
+Z-score 
+
+Rank 
+
+A estrada ruim e o transporte precário dificultam o acesso aos alimentos pelas famílias que 
+residem  em  comunidades  rurais.  Mesmo  que  as  pessoas  tenham  dinheiro  para  comprar 
+alimentos  frescos  e  naturais,  elas  não  conseguem  obtê-los  facilmente  na  própria 
+comunidade, o que interfere em seu poder de escolha alimentar e induz ao consumo de 
+enlatados e embutidos pelas famílias. 
+A falta de uma cooperativa impede que os pescadores recebam auxílios e projetos do poder 
+público  para  fazer  a  manutenção  das  embarcações,  comprar  novos  barcos  e  construir 
+estruturas de armazenamento de pescado. Essa ausência de organização interna interfere 
+diretamente na renda das famílias e impacta no orçamento para comprar alimentos e para 
+pagar em dia a conta de energia elétrica. 
+Os  programas  e  auxílios  do  governo  (como  o  Bolsa  Família  e  o  Salário  Maternidade) 
+interferem  de  forma  positiva  na  disponibilização,  no  acesso  e  no  investimento  para  a 
+produção dos alimentos. 
+O  gado  criado  solto  pode  ser  um  problema  nas  comunidades  rurais,  pois  muitos 
+proprietários não têm recursos para construir cercas e os animais comem e destroem as 
+plantações, causando prejuízos aos agricultores. 
+As fontes alternativas de energia, como a solar e a eólica, são ideais para o meio ambiente 
+e  as  pessoas  das  comunidades,  pois  garantem  uma  boa  disponibilidade  de  potência 
+energética e o baixo valor de custo do consumo de energia. 
+As famílias não plantam de forma satisfatória porque não possuem capacitação adequada 
+para  isto.  Deveria  existir  assistência  técnica  rural  na  comunidade,  pois  isto  impacta 
+diretamente à disponibilidade de alimentos para todos. 
+Apesar da boa produção de alimentos (agricultura e pesca) em certos períodos do ano, não 
+há armazenamento adequado de pescados (refrigeradores) e dos produtos agrícolas (locais 
+secos,  limpos  e  protegidos).  A  falta  de  estoque  ocasiona  grandes  perdas  da  produção, 
+queda  na  renda  familiar  e  déficit  de  consumo  nutricional  das  pessoas  (insegurança 
+alimentar). 
+O crescimento de famílias nas comunidades causa a contaminação dos poços, devido ao 
+aumento do número de fossas. 
+
+0,15** 
+
+18 
+
+-0,75** 
+
+28 
+
+0,87 
+
+8 
+
+1,06 
+
+7 
+
+0,68** 
+
+7 
+
+-1,13* 
+
+33 
+
+-0,24 
+
+21 
+
+-0,24 
+
+22 
+
+-0,42 
+
+23 
+
+-0,11 
+
+18 
+
+1,24** 
+
+4 
+
+0,28 
+
+15 
+
+1,49** 
+
+4 
+
+-0,48 
+
+25 
+
+0,49** 
+
+13 
+
+-1,01 
+
+32 
+
+0,2 
+
+16 
+
+1,46* 
+
+3 
+
+-1,19** 
+
+32 
+
+0,52 
+
+11 
+
+-1,14** 
+
+33 
+
+-0,33* 
+
+23 
+
+0,9 
+
+7 
+
+0,41 
+
+14 
+
+-1,28 
+
+34 
+
+1,15* 
+
+8 
+
+0,34* 
+
+15 
+
+-0,82 
+
+28 
+
+1,33 
+
+6 
+
+-0,26 
+
+22 
+
+-0,39 
+
+22 
+
+1,2 
+
+6 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+251 
+
+ 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+O  alto  custo  da  energia  elétrica  e  do  gás  de  cozinha  interferem  fortemente  na  renda 
+familiar. É comum, no dia-a-dia, deixar de comprar alimentos para juntar dinheiro para 
+pagar a CELPA ou comprar o gás. 
+A  boa  quantidade  de  chuva  no  primeiro  semestre  do  ano  causa  a  despreocupação  em 
+relação à falta de água no ano, pois os poços ficam bem abastecidos e há água para todos. 
+A água encanada da comunidade (poço comunitário) e a água de beber (poço individual) 
+são confiáveis e não precisam de nenhum tratamento. 
+A  manutenção  ruim  da  rede  elétrica  e  a  falta  de  energia,  muitas  vezes  ocasionadas  no 
+período  de  chuva,  interferem  diretamente  no  abastecimento  hídrico  doméstico  nas 
+comunidades, causando estresse e conflitos entre familiares, pois é necessário ter energia 
+constante para o funcionamento dos motores de captação de água dos poços. 
+O  alto  custo  do  gás  de  cozinha  interfere  na  renda  das  famílias,  prejudicando  a 
+disponibilidade de alimentos de qualidade para as refeições, o que ocasiona um consumo 
+maior de alimentos mais baratos e com preparações mais rápidas (que gastam menos gás), 
+como os enlatados e embutidos. 
+Os  alimentos  de  má  qualidade  vendidos  nos  mercadinhos  da  comunidade  estimulam  a 
+compra  e  o  consumo  de  nutrientes  de  baixa  qualidade,  como  enlatados,  embutidos, 
+salgadinhos e refrigerantes. O consumo desses alimentos prejudica, cada vez mais, a saúde 
+das crianças que vivem no interior, interferindo negativamente em sua cultura alimentar. 
+O uso do carvão e lenha nas casas é prejudicial ao meio ambiente e à saúde das pessoas. 
+A  retirada  da  lenha  e  a  produção  de  carvão  ocasionam  desmatamento  e  queimadas, 
+prejudicando fauna, flora, solo e água. 
+A queda e a falta de energia comprometem os aparelhos domésticos e a CELPA não exerce 
+seu  dever  de  arcar  com  os  prejuízos  dos  moradores.  Uma  boa  alternativa,  seria  cada 
+comunidade ter seu próprio gerador à diesel, pois isto é ideal para garantir energia para 
+todos. 
+A produção da farinha de mandioca e a pesca (rio e mar) garantem a segurança alimentar 
+das famílias e são a principal fonte de renda e trabalho nas comunidades. 
+O  peixe  e  a  farinha  são  fortemente  confiáveis,  muito  consumidos  nas  comunidades  e 
+nutricionalmente adequados. 
+A falta de pagamento da conta de energia por alguns moradores, devido ao seu baixo poder 
+aquisitivo, interfere no abastecimento de água da comunidade, gerando cortes e conflitos 
+em relação à gestão do funcionamento da bomba d’água. 
+
+-0,45 
+
+24 
+
+1,38 
+
+4 
+
+1,15 
+
+6 
+
+0,03 
+
+16 
+
+-0,28 
+
+-2,46 
+
+22 
+
+36 
+
+-0,23 
+
+-1,77 
+
+20 
+
+35 
+
+-1,04 
+
+-2,25 
+
+30 
+
+36 
+
+-1,3 
+
+-2,3 
+
+34 
+
+36 
+
+0,22 
+
+15 
+
+0,77 
+
+10 
+
+0,24 
+
+18 
+
+-0,91** 
+
+30 
+
+-0,59 
+
+25 
+
+0,01 
+
+16 
+
+1,39** 
+
+2 
+
+-0,2 
+
+20 
+
+0,17 
+
+17 
+
+-0,25 
+
+21 
+
+0,43 
+
+14 
+
+0,99 
+
+-0,87** 
+
+30 
+
+1,58* 
+
+2 
+
+0,84 
+
+9 
+
+0,61 
+
+-0,86 
+
+29 
+
+-1,71** 
+
+34 
+
+-0,5 
+
+25 
+
+0 
+
+17 
+
+0,55* 
+
+12 
+
+-0,18* 
+
+19 
+
+1,16 
+
+5 
+
+1,61 
+
+0,59 
+
+10 
+
+0,35 
+
+13 
+
+-0,95** 
+
+29 
+
+1,31* 
+
+1,62** 
+
+2 
+
+-0,86 
+
+29 
+
+0,3** 
+
+16 
+
+-1,49 
+
+35 
+
+8 
+
+9 
+
+2 
+
+5 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+252 
+
+ 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+A  falta  de  união  dos  moradores  impede  a  ajuda  financeira  da  prefeitura  na 
+
+Os programas de transferência de renda (Bolsa Família) e outros possíveis auxílios (por 
+exemplo,  o  Salário  Maternidade),  financiados  pelo  Governo  Federal  e  Prefeitura 
+Municipal,  são  os  principais  fatores  que  garantem  as  seguranças  hídrica,  energética  e 
+alimentar das famílias nas comunidades. 
+As pessoas que vivem na comunidade compram alimentos de menor qualidade nutricional 
+(enlatados e embutidos) vendidos nos mercadinhos locais porque não têm opção, já que é 
+difícil ir à cidade devido as estradas ruins e alagadas no período das chuvas. Além disso, 
+as passagens e a gasolina são caras. 
+A água encanada é um benefício para todos da comunidade, pois é ideal para o consumo 
+e há uma distribuição igualitária entre todos os moradores. 
+ 
+manutenção da Bomba D’água que auxilia no abastecimento da comunidade. 
+A água da caixa d’água que vem do poço da comunidade é melhor do que a água do poço 
+individual,  pois  tem  garantia  de  qualidade,  vazão  constante  e  nunca  falta,  permitindo 
+abastecer todas as casas. 
+Os  períodos  de  chuva  causam  transtornos  para  comprar  e  vender  alimentos  nas 
+comunidades, pois as estradas ficam intransitáveis, há o possível alagamento da plantação 
+e os rios ficam perigosos para navegar. 
+A cobrança da taxa de serviços elétricos não prestados pela CELPA, como a iluminação 
+pública, afeta a renda das famílias, prejudicando o poder de compra e, consequentemente, 
+a disponibilidade de alimentos em casa. 
+O incentivo do poder público à agricultura familiar melhora a disponibilidade de alimentos 
+nutritivos para as famílias e reduz o consumo de enlatados e industrializados. 
+A falta de resolução das problemáticas de energia da comunidade está relacionada com a 
+demora no atendimento no escritório da CELPA. Dever-se-ia ter um atendimento especial 
+para o interior. 
+A falta de fiscalização do mau uso de energia, como o uso de “gatos”, ameaça a segurança 
+dos  moradores,  pois  ocorrem  acidentes  com  animais  e  famílias  e  aumenta  o  custo  de 
+energia para os demais moradores. 
+A lenha e o carvão são melhores que o gás de cozinha, pois seu uso é mais barato ou de 
+graça, além do fato dos alimentos cozidos com lenha ou assados com carvão ficarem mais 
+saborosos. 
+
+0,62* 
+
+9 
+
+-2,1** 
+
+36 
+
+-0,62** 
+
+27 
+
+1,46* 
+
+3 
+
+-0,19 
+
+21 
+
+0,64 
+
+12 
+
+0,5 
+
+12 
+
+-0,46 
+
+23 
+
+-0,78* 
+
+28 
+
+0,96 
+
+9 
+
+-1,47* 
+
+34 
+
+1,42 
+
+1,54 
+
+3 
+
+-0,91** 
+
+31 
+
+0,25** 
+
+17 
+
+2,16 
+
+4 
+
+1 
+
+-0,93* 
+
+31 
+
+0,28 
+
+14 
+
+-1,48* 
+
+35 
+
+-0,08 
+
+19 
+
+1,45* 
+
+5 
+
+0,71 
+
+11 
+
+0,61 
+
+11 
+
+-0,58** 
+
+25 
+
+-0,07 
+
+20 
+
+0,18 
+
+15 
+
+-0,88 
+
+28 
+
+-1,25 
+
+33 
+
+0,58 
+
+11 
+
+-0,34* 
+
+24 
+
+0,81 
+
+10 
+
+0,52 
+
+10 
+
+0,23 
+
+14 
+
+-0,67 
+
+27 
+
+-0,06 
+
+19 
+
+-0,9 
+
+29 
+
+1,82* 
+
+1 
+
+1,21* 
+
+6 
+
+-0,58** 
+
+26 
+
+0,42* 
+
+13 
+
+0,01 
+
+19 
+
+-0,87 
+
+30 
+
+-0,07 
+
+20 
+
+-0,46 
+
+24 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+253 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Durante o período das chuvas, as famílias não conseguem obter lenha de boa qualidade 
+para cozinhar os alimentos e, por isso, precisam comprar gás de cozinha, que é muito caro, 
+impactando negativamente o orçamento familiar. 
+A ausência de infraestrutura e assistência técnica adequada são problemas graves para os 
+agricultores, pois muitos não possuem transporte para escoar as suas produções e não têm 
+conhecimento sobre técnicas de conservação e armazenamento dos produtos colhidos. Isto 
+gera grandes desperdícios e prejuízos na zona rural. 
+O período de chuvas ameaça a qualidade da água, pois a chuva transporta lixo e lama para 
+o rio, e ameaça também a disponibilidade de energia elétrica e térmica, pois neste período 
+podem  ocorrer  cortes  na  energia  elétrica  e  carência  de  lenha  seca  para  cozinhar  os 
+alimentos. 
+Nunca  aconteceu  qualquer  conflito  ou  estresse  na  comunidade  em  relação  à  água,  pois 
+sempre houve água em abundância e de qualidade para todos. 
+Apesar  dos  moradores  da  comunidade  fazerem  um  uso  alternado  da  lenha  e  do  gás,  as 
+famílias usariam menos lenha e carvão se existisse pagamento de um “auxílio gás” (Bolsa 
+Gás), dado pelo governo. 
+O uso de agrotóxico por outras comunidades ou por nossa própria comunidade contamina 
+a água e o alimento, ameaçando a qualidade de vida dos moradores. 
+
+(*) indica significância em p <0,05 
+(**) indica significância em p <0,01 
+Frases sem valor p não apresentam significância estatística.  
+
+Fonte: Os autores. 
+
+-0,97 
+
+32 
+
+1,2** 
+
+7 
+
+-0,42 
+
+23 
+
+-0,97 
+
+31 
+
+-0,62 
+
+26 
+
+-0,67 
+
+26 
+
+1,37** 
+
+3 
+
+-0,64 
+
+26 
+
+0,5* 
+
+13 
+
+1,25* 
+
+5 
+
+-0,44 
+
+24 
+
+-0,21 
+
+21 
+
+-1,81 
+
+35 
+
+-1,1 
+
+32 
+
+-1,32 
+
+33 
+
+-0,03** 
+
+18 
+
+0,66* 
+
+8 
+
+-0,02 
+
+17 
+
+-1,14 
+
+31 
+
+-0,64 
+
+27 
+
+-0,67** 
+
+27 
+
+1,61 
+
+1 
+
+2,13 
+
+1 
+
+0,5** 
+
+12 
+
+Tavares; Gorayeb; Brannstrom; Seghezzo; 
+Iribarnegaray; Pereira, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+254 
+
+ 
+
+31 
+
+32 
+
+33 
+
+34 
+
+35 
+
+36 
+
+ 
+
+

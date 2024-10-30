@@ -1,0 +1,1002 @@
+Exercícios físicos em pacientes hospitalizados por Covid-19: 
+perfil dos atendimentos e recomendações práticas
+
+https://doi.org/10.11606/issn.1981-4690.2023e37e193858
+
+Bruno Margueritte Costa*
+Edher Lucas Antunes*
+Rafael Carlos Sochodolak*
+Rodrigo Alves*
+Sabrina Fornazzari*
+Leandro Martinez Vargas*/**
+Nilo Massaru Okuno*/**
+
+*Hospital Universitário 
+Regional dos Campos 
+Gerais, Ponta Grossa, 
+PR, Brasil.
+**Departamento de 
+Educação Física, 
+Universidade Estadual 
+de Ponta Grossa, PR, 
+Brasil.
+
+Resumo
+
+O objetivo do presente estudo foi identificar as características dos atendimentos realizados por 
+Profissionais de Educação Física durante o internamento hospitalar por COVID-19, assim como, elaborar 
+uma recomendação para a prática clínica nesse tipo de atendimento. Os dados de caracterização 
+dos sujeitos e de intervenção foram coletados através de prontuário eletrônico, e correspondeu a 
+2286 atendimentos de 756 pacientes no período entre janeiro a setembro de 2021. Foi verificado 
+uma média de 5,1 ± 1,3 exercícios realizados por sessão de exercício físico. Na categoria exercício 
+aeróbio, nota-se prevalência do cicloergômetro pedal (14,4%) e cicloergômetro manual (8,1%). 
+Quanto ao fortalecimento dos membros superiores, os exercícios de flexão de ombro ou elevação 
+frontal (64,6%), remada fechada (54,8%) e abdução de ombro ou elevação lateral (40,2%) foram os 
+mais prevalentes. Para membros inferiores, observa-se prevalência dos exercícios de extensão de 
+joelho (63,4%) e flexão de quadril (57,5%). Além disso, nas escalas de monitoramento da sessão, foi 
+observado que o percentual da frequência cardíaca máxima foi de 64,2 ± 10,7%, a mínima saturação 
+periférica de oxigênio foi de 87,3 ± 4,4%, também foi observado o valor médio de 4,1 ± 1,7 pontos 
+na percepção subjetiva de esforço e o valor de 0,2 ± 1,2 na escala visual de dor, demonstrando que 
+as sessões foram realizadas na transição do domínio de intensidade moderado/pesado. Do total de 
+atendimentos, apenas 38 foram interrompidos, os quais, por dessaturação (1,3%) ou outros motivos 
+(0,9%). Os resultados indicam que a intervenção realizada se mostrou viável, segura e bem tolerada 
+em pacientes hospitalizados com COVID-19.
+
+Palavras-chave: Hospitalização; Atividade física; Coronavírus; Diretiva de prática clínica.
+
+Introdução
+
+A Educação Física é uma área de conhecimento 
+que tem como objeto de estudo o movimento e a 
+motricidade humana. Tradicionalmente, a atuação do 
+Profissional de Educação Física (PEF) é relacionada 
+a atividades físicas e esportivas de lazer e/ou alto 
+rendimento, todavia ao longo das últimas décadas o 
+PEF também tem atuado na promoção e prevenção da 
+saúde, em atividades realizadas em Hospitais e Unidades 
+
+Básicas de Saúde1,2.
+
+Como forma de reconhecer e definir a atuação 
+dos PEFs em diferentes níveis de atenção à saúde, 
+inclusive ambientes hospitalares, a Resolução nº 391, 
+de 26 de agosto de 2020, estabelece que compete ao 
+PEF a prescrição e orientação de exercícios físicos 
+com  objetivo  de  recuperação  e  reabilitação  de 
+indivíduos hospitalizados3.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858  •  1
+
+Os benefícios proporcionados pela atuação do 
+PEF em ambientes hospitalares são relacionados ao 
+tratamento agudo de condições clínicas, dos efeitos 
+deletérios do imobilismo, assim como na redução do 
+tempo de permanência hospitalar4,5.
+
+Devido  a  característica  de  acometimento 
+respiratório, e nos casos severos de acometimento 
+sistêmico,  os  indivíduos  hospitalizados  por 
+COVID-19 tendem a permanecer internados por 
+até três semanas6, sendo que a maior parte desse 
+período o paciente permanece acamado7. Além disso, 
+devido as medidas restritivas de isolamento social para 
+conter o alastramento do vírus, a população em geral 
+apresentou tendência de diminuição dos níveis de 
+atividade física8. Somados, a hipoxemia, a redução do 
+nível de atividade física prévia a hospitalização, o uso 
+de medicamentos e o período acamado no hospital 
+
+podem trazer consequências severas do ponto de 
+vista físico/motor e atrasar a plena recuperação do 
+indivíduo9,10, as quais podem ser atenuadas com o 
+início precoce da reabilitação com exercícios físicos 
+no ambiente hospitalar.
+
+Ainda que extremamente relevante para o cuidado 
+holístico  dos  indivíduos,  não  há  muitos  estudos 
+nacionais relatando as experiências da prática de 
+exercícios físicos durante o tempo de permanência 
+hospitalar para tratamento adjuvante da COVID-19. 
+Deste modo, o objetivo do presente estudo é apresentar 
+as características dos atendimentos realizados pelos PEFs 
+durante o internamento hospitalar por COVID-19 em 
+pacientes do Hospital Universitário da Universidade 
+Estadual de Ponta Grossa (HU/UEPG), assim como, 
+propor recomendações para a prática clínica nesse 
+tipo de atendimento.
+
+Método
+
+ Os dados foram obtidos a partir de buscas no 
+prontuário eletrônico no período de janeiro a setembro 
+de 2021 dos indivíduos hospitalizados na Clínica 
+COVID-19  do  HU/UEPG.  Foram  incluídos  na 
+pesquisa 2286 atendimentos de 756 pacientes que 
+foram acompanhados pelos PEFs no HU/UEPG. 
+Os critérios de inclusão foram: ter sido internado na 
+Clínica COVID-19 do HU/UEPG; ter sido atendido 
+pelos PEFs do HU/UEPG; possuir idade ≥ 18 anos; 
+possuir  diagnóstico  de  COVID-19.  O  presente 
+estudo respeitou os preceitos éticos e a legislação que 
+rege a pesquisa com seres humanos e foi aprovado 
+pela Comissão Nacional de Ética em Pesquisa, em 
+30 de novembro de 2020, através do Parecer CAAE 
+no 4.429.866. Todos os procedimentos garantiram 
+anonimato e sigilo das informações.
+
+Os dados contidos no prontuário de cada paciente 
+apresentavam informações relacionadas às sessões 
+de exercício físico conduzidas: nome dos exercícios 
+realizados, volume de séries de cada movimento, 
+número de repetições por série, tempo de intervalo 
+entre séries e exercícios, número de exercícios por 
+sessão, materiais utilizados, frequência cardíaca (FC) 
+do início da sessão e do pico do esforço, menor e 
+maior saturação periférica de oxigênio (SpO2) durante 
+a sessão, percepção subjetiva de esforço (PSE) aferida 
+pela escala de Borg adaptada11, escala visual analógica de 
+
+percepção de dor (EVA)12 e as justificativas das sessões 
+que precisaram ser interrompidas.
+
+Também foram coletados os dados de caracterização 
+dos sujeitos: idade, sexo, nível de consciência por 
+meio  da  Escala  de  Coma  de  Glasgow  (ECG)13, 
+força muscular14, mobilidade e restrições motoras, 
+necessidade de oxigenoterapia, duração dos sintomas, 
+tempo hospitalizado e comorbidades prévias. Além 
+disso,  foram  registrados  os  resultados  de  exames 
+complementares como: valor da pressão arterial de 
+oxigênio na gasometria arterial, assim como a presença 
+tromboembolismo  pulmonar  diagnosticado  por 
+angiotomografia e a classificação de acometimento 
+pulmonar por meio de tomografia computadorizada 
+(TC).  Os  achados  da TC  considerados  foram: 
+opacidade em vidro fosco periférico bilateral com 
+ou  sem  consolidação  ou  linhas  intralobulares 
+visíveis;  opacidade  multifocal  em  vidro  fosco  de 
+morfologia arredondada com ou sem consolidação 
+ou  linhas  intralobulares  visíveis;  halo  reverso  ou 
+outros  achados  de  pneumonia  em  organização15. 
+Sendo  considerado  a  severidade:  acometimento 
+pulmonar leve (<25%); acometimento pulmonar 
+moderado  (25-50%);  acometimento  pulmonar 
+acentuado (>50%).
+
+Os dados coletados foram analisados e descritos de 
+acordo com os procedimentos de estatística descritiva.
+
+2  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858
+
+Resultados
+
+Os  dados  foram  obtidos  através do sistema de 
+prontuário eletrônico do HU/UEPG, e correspondem 
+ao número de atendimentos (n = 2286) no período 
+compreendido  entre  os  meses  de  janeiro  a 
+
+setembro de 2021.
+
+As características gerais e funcionais dos sujeitos 
+referentes ao primeiro atendimento são observados 
+na TABELA 1.
+
+TABELA 1 - Caracterização dos sujeitos (n = 756).
+
+Sintomas de COVID-19 (dias)
+
+Variável
+
+Homens (n)
+
+Mulheres (n)
+
+Idade (anos)
+
+Hospitalização (dias)
+
+Necessidade de UTI (n)
+
+Necessidade de IOT (n)
+
+ECG (u.a.)
+
+Força Muscular (u.a.)
+
+Sedestação (n)
+
+Ortostatismo (n)
+
+Deambulação (n)
+
+Restrição ao Leito (n)
+
+Oxigenoterapia (n)
+SpO2 em Repouso (%)
+pO2 (mmHg)
+
+Resultado
+
+403 (53,3%)
+
+353 (46,7%)
+
+51,5 ± 14,5
+
+18,0 ± 10,5
+
+8,6 ± 9,1
+
+163 (21,6%)
+
+98 (13,0%)
+
+15,0 ± 0,2
+
+57,4 ± 6,6
+
+709 (93,8%)
+
+600 (79,4%)
+
+558 (73,8%)
+
+47 (6,2%)
+
+368 (48,7%)
+
+92,4 ± 2,7
+
+68,0 ± 19,7
+
+Valores em 
+frequência absoluta 
+e relativa. 
+u.a. = unidades 
+arbitrárias; 
+n = número; 
+mmHg = milímetro 
+de mercúrio; 
+ECG = escala de 
+coma de Glasgow; 
+UTI = unidade de 
+terapia intensiva; 
+IOT = intubação 
+orotraqueal; 
+SpO2 = saturação 
+periférica de 
+oxigênio; 
+pO2 = pressão 
+arterial de oxigênio.
+
+Na  TABELA  2  é  apresentado  os  dados  de 
+comprometimento  pulmonar  avaliado  pela TC 
+dos pacientes que foram atendidos. Nota-se maior 
+prevalência do acometimento pulmonar acentuado 
+(40,6%),  e  menos  frequente,  acometimento 
+pulmonar  leve  (13,9%),  sendo  a  principal 
+intercorrência  clínica  derivada  da  COVID-19,  o 
+tromboembolismo pulmonar (8,1%). Em 10,4% 
+dos pacientes, não foi realizado o exame de TC. Ao 
+analisar a presença de comorbidades, observou-se 
+prevalência de hipertensão arterial (37,2%), diabete 
+melito (19,4%), e obesidade (18,7%).
+
+Em relação aos exercícios realizados (TABELA 3), 
+observa-se uma média de 5,1 ± 1,3 exercícios por 
+
+sessão. No exercício aeróbio, o exercício mais realizado 
+foi o cicloergômetro pedal (14,4%) e em seguida, 
+cicloergômetro  manual  (8,1%)  e  subir  degrau 
+(7,8%). Quanto aos exercícios de fortalecimento 
+dos membros superiores, os exercícios de flexão de 
+ombro ou elevação frontal com halteres de mão/
+banda  elástica  (64,6%),  remada  fechada  sentada 
+com banda elástica (54,8%) e abdução de ombro ou 
+elevação lateral com halteres de mão/banda elástica 
+(40,2%), foram os mais prevalentes. Em relação ao 
+fortalecimento de membros inferiores, observa-se 
+maior frequência de exercícios de extensão de joelho 
+(63,4%), flexão de quadril (57,5%) e agachamento/
+sentar e levantar (16,4%).
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858  •  3
+
+TABELA 2 - 
+
+Comprometimento pulmonar, intercorrências clínicas e comorbidades (n = 756).
+
+Valores em frequência 
+absoluta e relativa. 
+*88 (11,6%) sujeitos 
+sem dados de TC.
+
+Valores em frequência 
+absoluta e relativa. 
+MMSS = membros 
+superiores; 
+MMII = membros 
+inferiores.
+
+Comprometimento Pulmonar*
+
+Tromboembolismo Pulmonar
+
+61 (8,1%)
+
+Intercorrências Clínicas
+
+Comorbidades
+
+Variável
+
+Leve
+Moderado
+Acentuado
+
+Hipertensão Arterial
+Diabete Melito
+Cardiopatias
+Pneumopatias
+Doença Cerebrovascular
+Gestante
+Obesidade
+Tireoideopatias
+Dislipidemia
+
+TABELA 3 - 
+
+Exercícios realizados (n = 2286).
+
+Variável
+Exercícios por Sessão
+Número de Séries
+Número de Repetições
+Intervalo entre Exercícios (minutos)
+Alongamento/Mobilidade Articular
+
+Exercícios Aeróbios
+
+Exercícios de Fortalecimento de MMSS
+
+Exercícios de Fortalecimento de MMII
+
+Cicloergômetro Manual
+Cicloergômetro Pedal
+Subir em Degrau
+
+Flexão de Cotovelo
+Extensão de Cotovelo
+Flexão de Ombro
+Desenvolvimento de Ombro
+Abdução de Ombro
+Supino
+Remada
+
+Agachamento/Sentar e Levantar
+Elevação de Pelve
+Abdução de Quadril
+Flexão de Quadril
+Extensão de Joelho
+Flexão Plantar
+Outros
+
+Resultado
+
+105 (13,9%)
+255 (33,7%)
+307 (40,6%)
+
+281 (37,2%)
+147 (19,4%)
+48 (6,3%)
+53 (7,0%)
+8 (1,1%)
+7 (0,9%)
+
+141 (18,7%)
+44 (5,8%)
+28 (3,7%)
+
+Resultado
+5,1 ± 1,3
+
+1-3
+6-15
+1-3
+
+447 (19,6%)
+
+186 (8,1%)
+329 (14,4%)
+178 (7,8%)
+
+760 (33,2%)
+185 (8,1%)
+1476 (64,6%)
+489 (21,4%)
+920 (40,2%)
+177 (7,7%)
+1252 (54,8%)
+
+376 (16,4%)
+114 (5,0%)
+151 (6,6%)
+1314 (57,5%)
+1450 (63,4%)
+234 (10,2%)
+255 (11,2%)
+
+4  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858
+
+Na TABELA 4, é demonstrado o valor de FC de 
+85,3 ± 15,9 bpm antes do início da sessão, FC pico 
+de 108,2 ± 18,5 bpm, e percentual da FC máxima 
+atingida foi de 64,2 ± 10,7%. Na SpO2, a média do 
+valor máximo observado nas sessões foi de 93,0 ± 3,7%, 
+e a mínima observada foi de 87,3 ± 4,4%, ambos 
+parâmetros fisiológicos de monitoramento das sessões. 
+Além disso, nas escalas de monitoramento perceptivos 
+das sessões, foi observado o valor médio de 4,1 ± 1,7 
+
+pontos de PSE e o valor de 0,2 ± 1,2 na EVA. Durante 
+todo o período, apenas 38 (1,7%) atendimentos foram 
+interrompidos, dos quais, o principal motivo foi 
+dessaturação (1,3%) (TABELA 4).
+
+Assim,  a  partir  do  levantamento  das  variáveis 
+utilizadas para a prática e monitoramento da sessão, 
+no QUADRO 1 é proposto as recomendações práticas 
+para atendimentos hospitalares com exercícios físicos 
+em pacientes COVID-19.
+
+TABELA 4 - 
+
+Monitorização dos atendimentos (n = 2286).
+
+Variável
+
+FC em Repouso (bpm)
+FC Pico (bpm)
+FC Máxima (%)
+SpO2 Mínima Durante a Sessão (%)
+SpO2 Máxima Durante a Sessão (%)
+PSE (u.a.)
+EVA de Dor (u.a.)
+Atendimentos Interrompidos (%)
+
+Dessaturação (%)
+Outros (%)
+
+Motivos para interrupção
+
+Resultado
+
+85,3 ± 15,9
+108,2 ± 18,5
+64,2 ± 10,7
+87,3 ± 4,4
+93,0 ± 3,7
+4,1 ± 1,7
+0,2 ± 1,2
+38 (1,7)
+
+30 (1,3)
+8 (0,3)
+
+QUADRO 1 - 
+
+Recomendação  prática  de  atendimentos  hospitalares  com  exercícios  físicos  em  pacientes  com 
+COVID-19.
+
+Variável
+Aquecimento/Volta à calma
+Exercícios Aeróbios
+Exercícios de Fortalecimento
+FC
+SpO2 
+Intensidade (PSE)
+Frequência (diária)
+
+Resultado
+
+Alongamentos e mobilidade articular
+1 a 2 exercícios
+3 a 5 exercícios
+60 a 70% da FC máxima
+≥ 88%
+3-5 (Borg 1-10), 11-14 (Borg 6-20)
+1-2 sessões
+
+Valores em média 
+± desvio padrão ou 
+frequência relativa. 
+FC = frequência 
+cardíaca; 
+bpm = batimentos por 
+minuto; 
+u.a. = unidades 
+arbitrárias; 
+SpO2 = saturação 
+periférica de oxigênio; 
+PSE = percepção 
+subjetiva de esforço; 
+EVA: escala visual 
+analógica de dor.
+
+FC = frequência 
+cardíaca; 
+SpO2 = saturação 
+periférica de oxigênio; 
+PSE = percepção 
+subjetiva de esforço.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858  •  5
+
+Discussão
+
+Os principais resultados desse estudo foram: 1) 
+as sessões envolveram treinamento combinado, 
+sendo os exercícios de fortalecimento muscular 
+mais  realizados;  2)  a  intensidade  de  esforço 
+esteve na transição entre o domínio moderado 
+e  o  pesado;  3)  os  exercícios  físicos  realizados 
+em  ambiente  hospitalar  em  indivíduos  com 
+COVID-19 foram seguros.
+
+Exercícios físicos
+
+No  presente  estudo,  os  exercícios  de 
+fortalecimento  muscular,  principalmente  os 
+uniarticulares,  foram  predominantes  quando 
+comparados  aos  exercícios  aeróbios.  Devido  a 
+característica  de  acometimento  pulmonar  com 
+padrão restritivo e hipoxemia da COVID-19, os 
+exercícios aeróbios tendem a ser pouco tolerados16. 
+De modo semelhante, em outras condições clínicas 
+que  envolvem  um  prejuízo/déficit  do  sistema 
+respiratório, como na doença pulmonar obstrutiva 
+crônica, fibrose cística e asma, também é observado 
+intolerância ao esforço, devido ao aumento da carga 
+ventilatória proporcionada pelo exercício aeróbio, 
+a  qual  não  é  correspondida,  nessas  condições 
+crônicas17. De maneira semelhante, os exercícios de 
+fortalecimento muscular também podem ser poucos 
+tolerados, devido fatores periféricos como redução 
+da extração de oxigênio pelo músculo16, todavia, os 
+mesmos quando realizados segmentados são melhor 
+tolerados devido a menor sobrecarga ventilatória/
+muscular  imposta  ao  sistema,  principalmente 
+quando realizada em cargas baixas e moderadas18. 
+Além disso, após o período agudo da doença, os 
+fatores  periféricos  predominam  sobre  os  efeitos 
+ventilatórios na intolerância ao esforço16,19,20. Em 
+outras condições clínicas, o benefício da realização 
+de exercícios físicos no ambiente hospitalar pode 
+se  relacionar  à  melhora  funcional,  atenuação  da 
+perda muscular associado ao imobilismo e menor 
+tempo de permanência hospitalar21,22, sejam esses 
+exercícios  de  predominância  aeróbia  (exemplos: 
+cicloergômetro e caminhadas), de fortalecimento 
+muscular  (exemplos:  bandas  elásticas,  halteres, 
+anilhas,  peso  corporal,  escadas)  ou  combinado. 
+No  presente  estudo,  não  é  possível  mensurar  os 
+efeitos dessa intervenção, no entanto, foi observado 
+o  uso  tanto  de  exercícios  aeróbios  quanto  de 
+fortalecimento muscular, sendo que os exercícios 
+de fortalecimento foram mais predominantes. Em 
+
+um cenário de hospitalização, ambos os protocolos 
+são importantes para atenuar os efeitos deletérios do 
+internamento, principalmente o de fortalecimento 
+muscular,  a  fim  de  evitar  a  disfunção  muscular 
+ou buscar a reabilitação nesse sistema, no qual o 
+paciente durante o internamento e em alguns casos 
+perde a sua independência funcional, e no pós-alta 
+é o principal fator de intolerância ao esforço em 
+pacientes que tiveram COVID-1916. 
+
+O  exercício  de  fortalecimento  muscular  com 
+materiais alternativos, como bandas elásticas e/ou 
+peso corporal, promove ganho de força23,24, melhora 
+funcional25 e metabólica26 de maneira semelhante 
+ao observado no exercício resistido tradicional. No 
+presente estudo foi observado que o exercício de 
+flexão de ombro e extensão de joelho foram os mais 
+utilizados entre os exercícios de fortalecimento para 
+membros superiores e inferiores, respectivamente. 
+A  flexão  de  ombro  é  um  movimento  simples  e 
+dinâmico  que  proporciona  ativação  de  vários 
+músculos, sendo os principais, o deltoide, peitoral 
+maior  e  os  músculos  do  manguito  rotador27. 
+Estudos  anteriores  demonstraram  uma  relação 
+de atrofia dos músculos dos membros superiores 
+durante  o  internamento  hospitalar  com  piores 
+desfechos clínicos28,29. Por sua vez, o movimento 
+de extensão de joelho é amplamente utilizado em 
+protocolos de reabilitação em ambiente hospitalar e 
+ambulatorial30-32 e possui como benefício principal 
+ativação dos músculos da coxa, principalmente o 
+reto femoral33, os quais, são severamente afetados 
+durante a hospitalização4.
+
+O exercício aeróbio promove ajustes favoráveis 
+aos  fatores  de  risco  tradicionais  para  doenças 
+crônicas  não  transmissíveis.  De  modo  agudo,  o 
+exercício aeróbio possui característica hipotensora 
+em indivíduos fisicamente ativos34, e em indivíduos 
+sedentários35,  o  qual  pode  ser  interessante  no 
+contexto  da  COVID-19,  tendo  em  vista  as 
+possíveis alterações da PA durante o internamento 
+hospitalar36.  No  presente  estudo  foi  observado 
+que  o  exercício  de  cicloergômetro  foi  o  mais 
+utilizado como exercício aeróbio. O exercício de 
+cicloergômetro é usualmente realizado em protocolos 
+de reabilitação de doenças respiratórias37,38, sendo 
+efetivo na manutenção/ganho de condicionamento 
+cardiorrespiratório38.  Devido  a  possibilidade  de 
+uso de ergômetros portáteis, esse exercício tem boa 
+viabilidade no contexto da COVID-19, onde são 
+necessárias maiores restrições de contato, pois pode 
+
+6  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858
+
+ser posicionado dentro do quarto de hospitalização 
+ou até mesmo sobre o leito hospitalar37.
+
+Intensidade
+
+A  intensidade  é  uma  variável  essencial  no 
+controle  da  sessão  com  exercícios  físicos,  a  fim 
+de garantir eficiência e segurança da intervenção, 
+principalmente no contexto hospitalar, assim como, 
+reprodutibilidade  do  protocolo,  no  âmbito  da 
+pesquisa científica. No presente estudo foi observado 
+que a intensidade das sessões esteve na transição 
+entre o domínio moderado e pesado. No estudo de 
+Braun et al.39 e De Asteasu et al.40 com exercícios 
+físicos  em  ambiente  hospitalar,  foi  observado  a 
+aplicação  de  intensidade  moderada  e  leve  (PSE: 
+12-14 pontos na escala de Borg 6-20; 30-60% de 
+uma repetição máxima (1 RM); respectivamente) 
+durante as sessões com benefícios na mobilidade 
+dos  pacientes  e  força  muscular,  enquanto  que 
+Martínez-Velilla  et  al.41 realizaram  as  sessões 
+em  intensidade  moderada  e  observaram  que  no 
+grupo intervenção houve menor declínio funcional 
+relacionado à hospitalização, e Troosters et al.42 
+realizaram  as  sessões  em  alta  intensidade  (PSE: 
+6  pontos  na  escala  de  Borg  1-10)  com  melhora 
+na  função  muscular  dos  músculos  dos  membros 
+inferiores. Todavia,  outros  estudos  não  relatam 
+especificamente a intensidade das atividades físicas 
+realizadas, ainda que seja apontado que as mesmas 
+eram realizadas de acordo com a capacidade clínica 
+dos indivíduos38,43,44. Portanto, os exercícios físicos 
+no ambiente hospitalar, podem ser realizados em 
+domínios de intensidade semelhantes ao observados 
+nas condições do treinamento físicos convencional, 
+sendo necessário o ajuste às capacidades individuais 
+e acompanhamento clínico de um profissional para 
+garantir a segurança da atividade. 
+
+No  contexto  da  COVID-19,  os  estudos  que 
+realizaram exercícios físicos em ambiente hospitalar 
+tiveram  controles  de  intensidade  semelhantes  ao 
+demais estudos esse tipo de intervenção em outras 
+condições clínicas, todavia, com maior atenção a 
+dessaturação de oxigênio e aumento da frequência 
+respiratória. Puchner et al.45 realizaram o controle 
+das  variáveis  de  intensidade  através  de  avaliação 
+inicial  com  teste  cardiorrespiratório  para  os 
+exercícios aeróbios e teste de 1 RM para os exercícios 
+de fortalecimento, assim como, registavam a PSE, 
+todavia,  não  foi  relatado  a  intensidade  utilizada 
+para a intervenção. De maneira semelhante Sakai 
+et al.46 conduziram um levantamento retrospectivo 
+
+sobre o uso de reabilitação remota em indivíduos 
+hospitalizados  em  enfermarias  exclusivas  de 
+COVID-19.  Nesse  estudo  foi  utilizado  a  FC  e 
+SpO2  como  controle  de  intensidade  das  sessões, 
+no  entanto,  também  não  foi  apresentado  os 
+intervalos  desses  parâmetros  no  estudo.  Curci 
+et  al.47  dividiram  os  indivíduos  pós-UTI  com 
+COVID-19 em dois grupos, sendo adotado como 
+critério  a  necessidade  de  oxigenoterapia,  para 
+realização dos exercícios físicos durante a estadia 
+na  enfermaria.  Nesse  estudo,  a  intensidade  foi 
+controlada a partir da tolerância dos pacientes aos 
+exercícios  propostos.  Por  sua  vez,  Udina  et  al.18 
+realizaram  um  programa  de  reabilitação  intra-
+hospitalar.  As  sessões  de  fortalecimento  foram 
+iniciadas  em  intensidades  leves  e  progrediam  de 
+acordo com a capacidade dos sujeitos (30 a 80% 
+1 RM), até atividades em intensidade moderadas 
+e altas, enquanto que os exercícios aeróbios foram 
+realizados  na  intensidade  moderada  (PSE:  3  a 
+5 pontos na escala de Borg 1-10). Wang et al.48 
+em uma revisão escrita por especialistas no início 
+da pandemia a fim de respaldar profissionais que 
+atuam nas áreas de reabilitação, sugeriram o uso 
+de intensidade semelhante a observada no presente 
+estudo  (PSE:  4  a  6  pontos  na  escala  de  Borg 
+1-10). Esses estudos demonstram que a prática de 
+exercícios físicos no contexto da COVID-19 pode 
+seguir critérios gerais de controle de intensidade, 
+desde que sejam respeitadas as particularidades dessa 
+condição clínica. No presente estudo, foi observado 
+uma semelhança dos atendimentos realizados com 
+os demais protocolos aplicados na literatura. 
+
+Segurança
+
+Não  houve  nenhum  evento  adverso  grave 
+relacionado  ao  exercício  físico  durante  os 
+atendimentos,  e  apenas  1,7%  dos  mesmos 
+necessitaram  ser  interrompidos  precocemente.  A 
+segurança da prática de exercícios físicos tem sido 
+observada em diversos contextos de reabilitação49-51, 
+assim  como  em  ambientes  hospitalares39,41.  A 
+utilização  de  critérios  clínicos  para  seleção  dos 
+indivíduos  e  início  das  sessões,  assim  como, 
+constante monitorização dos pacientes são fatores 
+chaves que contribuem para a garantia e manutenção 
+da segurança dos atendimentos. Para tal, estudos 
+anteriores  foram  realizados  com  profissionais 
+capacitados  e  habilitados  para  a  prescrição  de 
+exercícios  físicos21,39,41,  verificação  da  frequência 
+cardíaca52, monitorização da SpO2, principalmente, 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858  •  7
+
+em condições de doenças do sistema respiratório38 
+e  PSE39.  Em  programas  de  treinamento  físico,  a 
+intervenção deve ser prescrita a partir dos parâmetros 
+observados  nas  avaliações  físicas,  porém,  no 
+ambiente hospitalar, principalmente em condições 
+respiratórias  agudas  ou  crônicas  exacerbadas, 
+pode  haver  impossibilidade  da  realização,  sendo 
+necessário  o  monitoramento  contínuo53.  No 
+presente estudo, foi utilizado os critérios clínicos de 
+seleção de atendimentos padronizado da instituição, 
+assim como, controle da FC, SpO2 e PSE. 
+
+Dentre  as  sessões  que  necessitaram  ser 
+interrompidas, o principal motivo foi dessaturação 
+periférica de oxigênio. Para interromper a sessão, o 
+critério utilizado foi se os indivíduos apresentassem 
+valor  de  SpO2  ≤  88%  e/ou  queda  ≥  Δ5  pontos 
+percentuais  do  valor  de  repouso  após  o  fim  do 
+período de descanso (1-3 minutos) entre as sessões 
+de  exercício,  assim  como,  se  fosse  observado 
+SpO2  ≤  88%  em  repouso  o  exercício  não  era 
+iniciado54. Todavia, pelo acometimento pulmonar 
+característico da COVID-19, a oscilação do valor 
+da saturação de oxigênio é esperada em situações 
+de aumento da demanda fisiológica, como durante 
+um esforço físico55.
+
+Apesar de um grande número de atendimentos, 
+no presente estudo não foram observadas quedas 
+dos  pacientes  durante  a  intervenção,  as  quais, 
+tendem  a  serem  mais  frequentes  em  situações 
+de  fragilidade  dos  pacientes,  principalmente, 
+quando  esses  indivíduos  são  submetidos  a  um 
+protocolo  de  exercícios  físicos41.  Outros  estudos 
+na  literatura  apontam  para  melhor  controle  no 
+risco de queda quando as atividades são realizadas 
+
+com supervisão, dessa forma, tornando esse evento 
+adverso equivalente a indivíduos não submetidos a 
+prática de exercícios físicos durante a hospitalização 
+e/ou  reabilitação40,41,52.  A  ausência  desse  evento 
+adverso nesse estudo reforça a segurança das sessões, 
+desde que realizada com controle das variáveis e com 
+um profissional para supervisão.  
+
+Limitações
+
+Esse estudo tem alguns pontos fortes e algumas 
+limitações. Para nosso conhecimento esse é o único 
+estudo que investigou a atuação prática do PEF em 
+ambiente hospitalar no contexto da pandemia por 
+COVID-19. Além disso, o presente estudo possui 
+elevado número de atendimentos com detalhamento 
+das sessões, facilitando, portanto, uma recomendação 
+prática  para  outros  serviços  e/ou  profissionais. 
+Devido a característica observacional e retrospectiva 
+desse  estudo,  não  é  possível  fazer  uma  relação 
+do  modelo  adotado  para  os  atendimentos  com 
+possíveis benefícios para o estado clínico dos sujeitos 
+envolvidos na pesquisa.  Todavia, os procedimentos 
+adotados durante as sessões se mostraram seguros, 
+possibilitando a continuidade das investigações e 
+novos estudos para, finalmente, ser mensurado os 
+resultados desse tipo de intervenção no contexto da 
+COVID-19. Além disso, considerando a abordagem 
+do modelo FITT (frequência, intensidade, volume 
+e tipo de exercício), à luz da presente experiência 
+em  pacientes  hospitalizados  com  COVID-19,  é 
+proposto recomendações práticas, seguras e de baixo 
+custo para exercícios físicos no ambiente hospitalar 
+nessa população.
+
+Conclusão
+
+Esses resultados apresentam implicações clínicas 
+importantes para a prescrição de exercícios físicos 
+em pacientes hospitalizados com COVID-19. A 
+intervenção  mostrou-se:  a)  viável,  mesmo  que 
+restritos ao quarto hospitalar devido precauções de 
+contaminação; b) segura, visto que a necessidade 
+
+de  interrupções  das  sessões  foi  muito  baixa;  c) 
+bem  tolerada,  com  monitoramento  contínuo, 
+uso  de  intensidade  moderada  a  pesada,  escolha 
+de exercícios aeróbios e de fortalecimento e uso 
+de  equipamentos  de  baixo  custo,  em  pacientes 
+hospitalizados com COVID-19.
+
+8  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858
+
+Abstract
+
+Physical exercise in hospitalized Covid-19 patients: profile of care and practical recommendations.
+
+The aim of this study was identify the characteristics of care from Physical Education Professionals 
+during  length  of  stay  in  hospital  by  COVID-19,  as  well  as  to  elaborate  a  clinical  practice 
+recommendation about this care. The data were collected by medical record and were 2286 cares 
+from 756 patients between January to September, 2021. It was observed a mean of 5.1 ± 1.3 
+exercises performed by session. In aerobic training, the most prevalent were portable bicycle for 
+legs (14.4%) and portable bicycle for hands (8.1%). In strength training for uppers limbs, the most 
+prevalent were shoulder flexion (64.6%), rowing (54.8%), and shoulder abduction (40.2%). For 
+lower limps the most prevalent were knee extension (63.4%), and hip flexion (57.5%). Moreover, 
+in physiological monitoring scales, it was observed that the maximal heart rate percentage was 
+64.2 ± 10.7% and the minimal peripheral oxygen saturation was 87.3 ± 4.4%. In perceptive scales, 
+it was observed that the rating of perceived exertion was 4.1 ± 1.7 points and in pain perception 
+was 0.2 ± 1.2 points, therefore the sessions were performed between a transition from moderate 
+to heavy intensity domain. Among the total of cares, only 38 were interrupted due desaturation 
+(1.3%) or other reasons (0.9%). The results indicate that the intervention performed were feasible, 
+safe and well-tolerated in hospitalized COVID-19 patients. 
+
+Keywords: Hospitalization; Physical activities; Coronavirus; Practice guideline.
+
+Referências
+
+1. Pedersen BK, Saltin B. Exercise as medicine–evidence for prescribing exercise as therapy in 26 different chronic diseases. 
+Scand J Med Sci Sports. 2015;25:1-72.
+2. Souza Filho BAB, Tritany EF, Smethurst WS, Barros MVG. Inserção dos Cuidados Paliativos na formação dos profissionais 
+de educação física. Rev Bras Ativ Fís Saúde. 2021;26:1-6.
+3. Conselho Federal de Educação Física. Resolução nº 391, de 26 de agosto de 2020. Sec. 1. 
+4. Kortebein P, Symons TB, Ferrando A, et al. Functional Impact of 10 Days of Bed Rest in Healthy Older Adults. J 
+Gerontol A Biol Sci Med Sci. 2008;297:1076-81.
+5. Deutz NEP, Pereira SL, Hays NP, et al. Effect of β-hydroxy-β-methylbutyrate (HMB) on lean body mass during 10 
+days of bed rest in older adults. Clin Nutr. 2013;32:704-12.
+6. Chen J, Qi T, Ling Y, et al. Clinical progression of patients with COVID-19 in Shanghai, China.  J Infect. 2020;80:1-6.
+7. Kiekens C, Boldrini P, Andreoli A, et al. Rehabilitation and respiratory management in the acute and early post-acute 
+phase “Instant paper from the field” on rehabilitation answers to the COVID-19 emergency. Eur J Phys Rehabil Med. 
+2020;56:323-6.
+8. Costa CLA, Costa TM, Barbosa Filho VC, Bandeira PFR, Siqueira RCL. Influência do distanciamento social no nível 
+de atividade física durante a pandemia do COVID-19. Rev Bras Ativ Fís Saúde. 2020;25:1-6.
+9. Xu Z, Shi L, Wang Y, et al. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. 
+Lancet Respir Med. 2020;8:420-2.
+10. Zheng Z, Jiang L, Zhang S, et al. Neuromuscular blocking agents for acute respiratory distress syndrome: an updated 
+meta-analysis of randomized controlled trials. Respir Res. 2020;13:1-11.
+11.  Foster  C,  Florhaug  JA,  Franklin  J,  et  al.  A  new  approach  to  monitoring  exercise  testing.  J  Strength  Cond  Res. 
+2001;15:109-15.
+12. Williamson A, Hoggart B. Pain: a review of three commonly used pain rating scales. J Clin Nurs. 2005;14:798-804.
+13. Teasdale G, Jennett B. Assessment of coma and impaired consciousness: a practical scale. Lancet. 1974;304:81-4.
+14. Medical Research Council. Aids to the examination of the peripherical nervous system (War Memorandum nº 7). 
+Londres, 1943.
+15. Simpson S, Kay FU, Abbara S, et al. Radiological Society of North America expert consensus document on reporting 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858  •  9
+
+chest CT findings related to COVID-19: endorsed by the Society of  Thoracic Radiology, the American College of Radiology, 
+and RSNA - Secondary Publication. J Thorac Imaging. 2020;35:219-27.
+16. Baratto C, Caravita S, Faini A, et al. Impact of COVID-19 on exercise pathophysiology: a combined cardiopulmonary 
+and echocardiographic exercise study. J App Physiol. 2021;130:1470-8.
+17. Marillier M, Bernard AC, Verges S, Neder JA. The role of peripheral muscle fatigability on exercise intolerance in 
+COPD. Expert Rev Respir Med. 2021;15:117-29.
+18. Udina C, Ars J, Morandi A, Vilaró J, Cáceres C, Inzitari M. Rehabilitation in adult post-COVID-19 patients in post-
+acute care with therapeutic exercise. J Frailty Aging. 2021;10:297-300.
+19. Clavario P, Marzo V, Lotti R, et al. Cardiopulmonary exercise testing in COVID-19 patients at 3 months follow-up. 
+Int J Cardiol. 2021;340:113-8.
+20.  Singh  I,  Joseph  P,  Heerdt  PM,  et  al.  Persistent  exertional  intolerance  after  COVID-19:  insights  from  invasive 
+cardiopulmonary exercise testing. Chest. 2021; 21:3635-7.
+21. De Asteasu MLS, Martínez-Velilla N, Zambom-Ferraresi F, et al. Changes in muscle power after usual care or early 
+structured exercise intervention in acutely hospitalized older adults. J Cachexia Sarcopenia Muscle. 2020;14:997-1006.
+22. Valenzuela PL, Morales JS, Castillo-García A, et al. Effects of exercise interventions on the functional status of acutely 
+hospitalised older adults: a systematic review and meta-analysis. Ageing Res Rev. 2020;61:101076.
+23. Martins WR, Oliveira RJ, Carvalho RS, Damasceno V, Silva VZ, Silva MS. Elastic resistance training to increase muscle 
+strength in elderly: a systematic review with meta-analysis. Arch Gerontol Geriatr. 2013;57:8-15.
+24. Tsuzuku S, Kajioka T, Sakakibara H, Shimaoka K. Slow movement resistance training using body weight improves 
+muscle mass in the elderly: a randomized controlled trial. Scand J Med Sci Sports. 2018;28:1339-44.
+25. Souza D, Barbalho M, Vieira CA, Martins WR, Cadore EL, Gentil P. Minimal dose resistance training with elastic 
+tubes promotes functional and cardiovascular benefits to older women. Exp Gerontol. 2019;115:132-8.
+26. Schwanbeck SR, Cornish SM, Barss T, Chilibeck PD. Effects of training with free weights versus machines on muscle 
+mass, strength, free testosterone, and free cortisol levels. J Strength Cond Res. 2020;34:1851-9.
+27. Wattanaprakornkul D, Halaki M, Boettcher C, Cathers I, Ginn KA. A comprehensive analysis of muscle recruitment 
+patters during shoulder flexion: an electromyographic study. Clin Anat. 2011;24:619-26.
+28. Nakanishi N, Takashima T, Oto J. Muscle atrophy in critically ill patients: a review of its cause, evaluation, and 
+prevention. J Med Invest. 2020;67:1-10.
+29. Nakanishi N, Oto J, Tsutsumi R, Akimoto Y, Nakano Y, Nishimura M. Upper limb muscle atrophy associated with 
+in-hospital mortality and physical function impairments in mechanically ventilated critically ill adults: a two-center 
+prospective observational study. J Intensive Care. 2020;8:1-9.
+30. Kronborg L, Bandholm T, Palm H, Kehlet H, Kristensen MT. Effectiveness of acute in-hospital physiotherapy with 
+knee-extension strength training in reducing strength deficits in patients with a hip fracture: a randomized controlled 
+trial. PLoS One. 2017;29:e0179867.
+31. Larsson A, Palstam A, Lofgren M, et al. Resistance exercise improves muscle strength, health status and pain intensity 
+in fibromyalgia: a randomized controlled trial. Arthritis Res Ther. 2015;17:1-15.
+32. Voet NBM, Elly LVDK, Engelen BGM, et al. Strength training and aerobic exercise training for muscle disease. 
+Cochrane Database Syst Rev. 2019;9:CD003907.
+33. Escamilla RF, Fleisig GS, Zheng N, Barrentine SW, Wilk KE, Andrews JR. Biomechanics of the knee during closed 
+kinetic chain and open kinetic chain exercises. Med Sci Sports Exerc. 1998;30:556-69.
+34. Carpio-Rivera E, Moncada-Jiménez J, Salazar-Rojas W, Solera-Herrera A. Acute effects of exercise on blood pressure: 
+a meta-analytic investigation. Arq Bras Cardiol. 2016;106:422-33.
+35. Hamer M. The anti-hypertensive effects of exercise. Sports Med. 2006;36:109-16.
+36. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. 
+Lancet. 2020;395:497-506.
+37. Martí JD, McWilliams D, Gimeno-Santos E. Physical therapy and rehabilitation in chronic obstructive pulmonary 
+disease patients admitted to the intensive care unit. Semin Respir Crit Care Med. 2020;41:886-98.
+38. Torres-Sánchez I, Valenza MC, Cabrera-Martos I, López-Torres I, Benítez-Feliponi A, Conde-Valero A. Effects of an 
+exercise intervention in frail older patients with chronic obstructive pulmonary disease hospitalized due to and exacerbation: 
+a randomized controlled trial. COPD. 2017,14:37-42.
+39. Braun T, Gruneberg C, Submilch K, et al. An augmented prescribed exercise program (APEP) to improve mobility of 
+older acute medical patients - a randomized, controlled pilot and feasibility trial. BMC Geriatr. 2019;19:1-20.
+
+10  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858
+
+40. De Asteasu MLS, Martínez-Velilla N, Zambom-Ferraresi F, et al. Assessing the impact of physical exercise on cognitive 
+function in older medical patients during acute hospitalization: secondary analysis of a randomized trial. Plos Med. 
+2019;16:e1002852.
+41. Martínez-Velilla N, Casas-Herrero A, Zambom-Ferraresi F, et al. Effect of exercise intervention on functional decline 
+in very elderly patients during acute hospitalization: a randomized clinical trial. J Am Med Ass. 2019;179:28-36.
+42. Troosters T, Probst VS, Crul T, et al. Resistance training prevents deterioration in quadriceps muscle function during 
+acute exacerbations of chronic obstructive pulmonary disease. Am J Respir Crit Care Med. 2010;181:1072-7.
+43. Hu FW, Huang YT, Lin HS, Chen CH, Chen MJ, Chang CM. Effectiveness of a simplified reablement program to 
+minimize functional decline in hospitalized older patients. Geriatr Gerontol Int. 2020;20:436-42.
+44. Jones CT, Lowe AJ, MacGregor L, Brand CA, Tweddle N, Russel DM. A randomized controlled trial of an exercise 
+intervention to reduce functional decline and health service utilization in the hospitalized elderly. Australas J Ageing. 
+2006; 25:126-33.
+45. Puchner B; Sahanic S, Kirchmair R, et al. Beneficial effects of multi-disciplinary rehabilitation in postacute COVID-19: 
+an observational cohort study. Eur J Phys Rehabil Med. 2021;57:189-98.
+46. Sakai T, Hoshino C, Yamaguchi R, Hirao M, Nakahara R, Okawa A. Remote rehabilitation for patients with COVID-19. 
+J Rehabil Med. 2020;52:1-8.
+47. Curci C, Negrini F, Ferrilo M, Bergonzi R, Bonacci E, Camozzi DM. Functional outcome after inpatient rehabilitation 
+in postintensive care unit COVID-19 patients: findings and clinical implications from a real-practice retrospective study. 
+Eur J Phys Rehabil Med. 2021;57:443-50.
+48. Wang TJ,  Chau  B,  Lui  M,  Lam  GT,  Sin  N,  Humbert  S.  Physical  medicine  and  rehabilitation  and  pulmonary 
+rehabilitation for COVID-19. Am J Phys Med Rehabil. 2020;99:769-74.
+49. Leclerc A, Foidart-Dessalle M, Tomasella M, et al. Multidisciplinary rehabilitation program after breast cancer: benefits 
+on physical function, anthropometry and quality of life. Eur J Phys Rehabil Med. 2017;53:633-42.
+50. Smolis-Bak E, Rymuza H, Kazimierska B, et al. Improvement of exercise tolerance in cardiopulmonary testing with 
+sustained safety after regular training in outpatients with systolic heart failure (NYHA III) and an implantable cardioverter-
+defibrillator. Prospective 18-month randomized study. Arch Med Sci. 2017;13:1094-101.
+51. Vonbank K, Strasser B, Mondrzyk J, et al. Strength training increases maximum working capacity in patients with 
+COPD–randomized clinical trial comparing three training modalities. Respir Med. 2012;106:557-63.
+52. Kitzman DW, Whellan DJ, Duncan P, et al. Physical rehabilitation for older patients hospitalized for heart failure. N 
+Engl J Med. 2021;385:203-16.
+53. Rice H, Harrold M, Fowler R, Watson C, Waterer G, Hill K. Exercise training for adults hospitalized with an acute 
+respiratory condition: a systematic scoping review. Clin Rehabil. 2020;4:45-55.
+54. American Thoracic Society. American College of Chest Physicians. ATS/ACCP statement on cardiopulmonary exercise 
+testing. Am J Respir Crit Care Med. 2003;167:211-77.
+55. Davies P, Jones T, Bartilotti-Matos F, Crowe T, Russel A, Sykes C. Exercise-induced hypoxia among emergency 
+department patients admitted for suspected COVID-19. Emerg Med J. 2021;38:1-4.
+
+Endereço
+Bruno Margueritte Costa
+Hospital Universitário Regional dos Campos Gerais
+Serviço de Educação Física
+Rua Alameda Nabuco de Araújo, 601
+84031-510 - Ponta Grossa - PE - Brasil
+E-mail: lbruno.mtt.tkd@hotmail.com
+
+Submetido: 30/12/2021
+Revisado: 29/01/2022
+Aceito: 18/08/2022
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37193858  •  11
+
+

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/7d585614f8534dfd8acad65283088c2c/artifacts
+deleted_time: 1730137565599
+end_time: 1730137534179
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: 7d585614f8534dfd8acad65283088c2c
+run_name: incongruous-seal-343
+run_uuid: 7d585614f8534dfd8acad65283088c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730137530904
+status: 3
+tags: []
+user_id: rapha

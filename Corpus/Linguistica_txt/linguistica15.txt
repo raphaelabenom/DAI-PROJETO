@@ -1,0 +1,1211 @@
+Propriedades coesivas e semântico-
+pragmáticas do conector complexo por isso 
+no português brasileiro contemporâneo
+
+Cohesive and semantic-pragmatic properties of the 
+complex connector por isso in contemporary Brazilian 
+Portuguese
+
+Propiedades cohesivas y semántico-pragmáticas del 
+conector complejo por isso em portugués brasileño 
+contemporáneo
+
+ 
+
+Monclar Guimarães Lopes 
+Universidade Federal Fluminense (UFF), Niterói, Rio de Janeiro, Brasil. 
+E-mail: monclarlopes@id.uff.br
+
+Mayra Laurindo Rabello
+Universidade Federal Fluminense (UFF), Niterói, Rio de Janeiro, Brasil. 
+E-mail: mayra_laurindo@id.uff.br 
+
+Resumo: Neste artigo, descrevemos as propriedades coesivas e semân-
+tico-pragmáticas do conector complexo por isso no português brasileiro 
+contemporâneo. Para esse fim, analisamos 100 dados de uso do Corpus do 
+Português (base Now) à luz dos pressupostos teóricos da Linguística Fun-
+cional Centrada no Uso e da Linguística Textual. Nossos resultados apon-
+tam que o referido conector apresenta três aspectos particulares que não 
+constam dos compêndios gramaticais: i) assume três valores semânticos 
+distintos no domínio da causalidade; ii) possui propriedades coesivas tan-
+to sequenciais quanto referenciais; iii) articula orações, períodos e pará-
+grafos, com diferenças quanto ao escopo remissivo nesses três níveis.
+
+Palavras-chave: Conector complexo por isso. Propriedades semântico-
+-pragmáticas. Propriedades coesivas. Linguística Funcional Centrada no 
+Uso. Linguística Textual.
+
+Abstract:  In  this  paper,  we  describe  the  cohesive  and  semantic-
+pragmatic properties of the complex connector por isso in contemporary 
+Brazilian Portuguese. To reach this goal, we analyzed 100 tokens from the 
+Portuguese Corpus (Now Database) applying the theoretical assumptions 
+of  Usage-Based  Linguistics  and  Text  Linguistics.  Our  results  indicate 
+that this connector shows three specific aspects that are not present 
+in grammar textbooks: i) it assumes three different semantic values in 
+the domain of causality; ii) it has cohesive properties, both sequential 
+and referential; iii) it articulates clauses, periods, and paragraphs, with 
+differences regarding the cross-reference scope at these three levels.
+
+Keywords: Complex connector por isso. Semantic-pragmatic properties. 
+Cohesive properties. Usage-based Linguistics. Text Linguistics.
+
+Resumen:  En  este  artículo,  describimos  las  propiedades  cohesivas  y 
+semántico-pragmáticas del conector complejo por isso en el portugués 
+brasileño  contemporáneo.  Analizamos  100  ocurrencias  del  Corpus 
+do Portugués (Base Now) a la luz de  los fundamentos de  la Lingüística 
+Funcional Centrada en el Uso y la Lingüística Textual. Nuestros resultados 
+indican  que  este  conector  tiene  tres  aspectos  particulares  ausentes 
+en  las  gramáticas:  i)  asume  tres  valores  semánticos  diferentes  en  el 
+dominio de la causalidad; ii) tiene propiedades cohesivas secuenciales y 
+referenciales; iii) articula cláusulas, periodos y párrafos, con diferencias 
+en cuanto al alcance de la referencia en estos tres niveles.
+
+Palabras  clave:  Conector  complejo  por  isso.  Propiedades  semántico-
+-pragmáticas. Propiedades cohesivas. Lingüística Funcional Centrada en 
+el Uso. Lingüística Textual.
+
+ 
+
+ 
+Submetido em 17 de maio de 2022. 
+
+                    Aceito em 11 de agosto de 2022.  
+                    Publicado em 01 de novembro de 2022.
+
+ 
+
+Introdução
+
+Na tradição gramatical, é muito comum que se atribua a por 
+isso a classificação de conjunção coordenativa conclusiva. Sob esse 
+ponto  de  vista,  o  respectivo  elemento  é  empregado  na  articula-
+ção de orações “gramaticalmente independentes” (LIMA, 2003, p. 
+260), com a finalidade de exprimir uma relação de conclusão ou 
+consequência (cf. CUNHA; CINTRA, 2001; KURY, 2000), e concorre 
+pelo uso com outras conjunções da mesma classe, como logo, pois, 
+portanto, por conseguinte, assim etc. Vejamos, à guisa de ilustração, 
+como as referidas obras definem e exemplificam essas conjunções 
+e/ou as orações por elas introduzidas:
+
+Quadro 1. Conjunções e orações conclusivas na tradição gramatical.
+
+CONJUNÇÕES CONCLUSIVAS servem para ligar à anterior uma ora-
+ção que exprime conclusão, consequência. São: logo, pois, portanto, 
+por conseguinte, por isso, assim etc.
+
+Cunha e Cintra 
+(2001, p. 581)
+
+Conheci, pois, Ari Ferreira, quando comecei a trabalhar em Clínica 
+Médica, portanto em 1924. (P. Nava, BM, 329).
+
+Nas duas frases a experiência é a mesma. Na primeira não instrui, 
+ logo prejudica. (Almada Negreiros, NG, 150). 
+
+ORAÇÕES CONCLUSIVAS: a segunda oração coordenada exprime 
+conclusão ou consequência lógica da primeira. As orações conclu-
+sivas são introduzidas pelas conjunções logo, portanto, então, as-
+sim, por isso, por conseguinte, pois (posposta ao verbo), de modo que, 
+em vista disso etc.
+
+“Teu amigo está doente e sem recursos; deves, portanto, auxiliá-lo e 
+confortá-lo” (Said Ali, GS, 185).
+
+“A  desintegração  do  núcleo  libera  calor,  logo  fornece  trabalho.” 
+
+Kury (2000, p. 68)
+
+CONJUNÇÕES CONCLUSIVAS
+
+Relacionam pensamentos tais, que o segundo encerra a conclusão 
+do  enunciado  no  primeiro.  São:  logo,  pois,  portanto,  consequente-
+mente, por conseguinte etc.
+
+Lima (2003, p. 185)
+
+Exemplos:
+
+Teu carro já está velho; logo, não pode subir a serra.
+Foste injusto com teu amigo; deves, pois, desculpar-te. 
+
+Fonte: Autoria própria.
+
+Bechara  (2004),  diferentemente  dos  autores  supracitados, 
+considera que esses elementos de valor conclusivo não têm esta-
+tuto de conjunção, mas sim de advérbio. Embora reconheça que 
+essas unidades atuam na articulação interoracional – e também 
+intertextual (cf. BECHARA, 2004, p. 322) –, entende que elas não 
+têm as mesmas propriedades das conjunções, uma vez que po-
+dem estar articuladas a uma conjunção e apresentam liberdade 
+posicional, conforme podemos observar nos dois exemplos abai-
+xo (BECHARA, 2004, p. 322), em que portanto se justapõe à con-
+junção “e” – ocorrências (a) e (b) – e é deslocado para o interior da 
+oração – ocorrência (b):
+
+a) Não foram ao mesmo cinema e, portanto, não se poderiam 
+encontrar.
+b) Ele e, portanto, seu filho são responsáveis pela denúncia.
+
+ Defendemos que a posição de Bechara (2004) quanto à clas-
+sificação categorial dos conectores1 conclusivos é mais adequada 
+– sendo, inclusive, afim com outras visões contemporâneas, como 
+a de Castilho (2014) e a de Raposo et al (2015), por exemplo. No 
+entanto, entendemos que ainda existem três pontos frágeis a se-
+rem  investigados  e  descritos,  tanto  no  que  diz  respeito  à  classe 
+
+1 Empregamos, aqui, o termo “conector” em conformidade com a perspectiva de Rosário e Sambrana (2021). Trata-se de uma 
+categoria ampla, que abriga diferentes classes de palavras (como conjunções e advérbios) que atuam na articulação de ora-
+ções, períodos ou parágrafos. 
+
+dos conectores conclusivos quanto às especificidades de por isso, 
+nosso objeto de estudo. 
+
+Em primeiro lugar, mesmo sabendo da existência de estudos 
+que compartilham a ideia de que os conectores conclusivos – como 
+por isso – podem veicular noções tanto de conclusão quanto de con-
+sequência, eles não apresentam critérios de análise que nos per-
+mitam diferenciar essas duas concepções semânticas. Além disso, 
+encontramos, em nossos dados, um terceiro valor semântico-prag-
+mático2 para o conector por isso, pertencente ao domínio do ato de 
+fala, nos termos de Sweetser (1990). Trata-se de um aspecto que 
+não está descrito na literatura gramatical investigada. Como ilustra-
+ção, segue uma ocorrência em que esse sentido é observado:
+
+(01) A orientação teórica é essencial para uma militância revo-
+lucionária, “sem teoria revolucionária não existe movimento re-
+volucionário”,  nos  ensinou  Lênin.  A  teoria  deve  estar  aliada  à 
+experiência e à militância cotidiana. Por isso, nas universidades 
+de férias, além dos cursos, os participantes também têm uma 
+experiência de trabalho coletivo e estudo3.
+
+Sweetser  (1990),  sob  uma  orientação  da  Pragmática,  declara 
+que  todas  as  relações  da  causalidade  de  uma  língua  podem  ser 
+descritas com base em três domínios da causalidade: o domínio do 
+conteúdo, o epistêmico e o de ato de fala. Feitas as devidas associa-
+ções, entendemos que podemos atribuir, ao domínio do conteúdo, 
+a noção de consequência; ao epistêmico, a noção de conclusão; ao 
+de ato de fala, o valor “elaboração”, termo adotado por nós com 
+base em uma das relações lógico-semânticas propostas por Halli-
+day (2004)4. Esta categoria tem como característica principal a apre-
+sentação de um esclarecimento, exposição ou exemplificação, ao 
+trazer informações adicionais sobre a unidade discursiva anterior. 
+
+2 A expressão “valor semântico-pragmático”, no lugar de “valor semântico”, é empregada por entendermos que o sentido atri-
+buído à expressão depende diretamente do contexto em que o elemento é empregado.
+3  Disponível  em:  https://www.causaoperaria.org.br/44a-universidade-de-ferias-sera-uma-experiencia-unica/.  Acesso  em:  27 
+dez. 2021.
+4 Explicaremos melhor esses três domínios nas próximas seções deste artigo, bem como as distinções entre as noções de con-
+sequência, conclusão e elaboração.
+
+É  o  que  ocorre  em  (01),  uma  vez  que  o  período  encabeçado  por 
+por isso acrescenta informações ao período que lhe antecede, ao 
+mencionar as atividades da Universidade de Férias que ilustram seu 
+compromisso com a articulação entre teoria e prática. 
+
+Em segundo lugar, na descrição tradicional, o foco está na arti-
+culação de unidades oracionais, cujo escopo máximo é o período. 
+A despeito de Bechara (2004), diferentemente dos outros autores 
+previamente  citados,  reconhecer  que  os  conectores  conclusivos 
+atuam também na articulação intertextual – isto é, na articulação 
+de unidades discursivas de extensão superior à frase, como na co-
+nexão de períodos e parágrafos, por exemplo –, o estudioso não 
+propõe uma análise detalhada do fenômeno, que nos possibilite 
+aferir a existência de diferenças formais e/ou funcionais entre es-
+ses três diferentes níveis.
+
+Em último lugar, por isso é tratado, nessas obras, no mesmo 
+bojo de todos os outros conectores conclusivos. Não obstante es-
+ses elementos sejam normalmente apresentados como variantes 
+nas gramáticas, dado que são potencialmente alternáveis entre si 
+em seus contextos de uso, há certas particularidades em por isso. 
+No que tange à estrutura, é um conector complexo, formado por 
+dois elementos: uma preposição, por, e um pronome demonstra-
+tivo, isso. No que diz respeito às propriedades coesivas, por atua 
+na sequenciação, na medida em que promove a articulação entre 
+predicações ou proposições, e isso, na referenciação, já que é um 
+encapsulador e, dessa maneira, remete a uma porção prévia e deli-
+mitada de texto. Sobre esse último aspecto, é possível dimensionar 
+o escopo remissivo de isso, de acordo com a posição do conector.
+
+A esse respeito, na ocorrência (01), mais acima, podemos obser-
+var que o conector se encontra na posição interperíodo e sua sub-
+parte isso tem como escopo remissivo o período anterior: “a teoria 
+deve estar aliada à experiência e à militância cotidiana”. Já em (02), 
+a seguir, o escopo é mais amplo: por isso está na posição interpará-
+grafo e o pronome demonstrativo isso faz remissão a todo o pará-
+grafo precedente, constituído de dois períodos e diversas orações.
+
+(02) Para María Marroquín, a vida em El Salvador se tornou intole-
+rável depois que membros de uma gangue que extorquia dinhei-
+ro  mataram  vários  comerciantes  no  marcado  onde  trabalhava. 
+Ela também passou a temer pela vida do filho de 27 anos, David, 
+depois que um primo foi sequestrado e desapareceu sem deixar 
+rastros.
+
+Por isso, no ano passado, aos 52 anos, ela decidiu sair do país. A 
+diferença é que, ao contrário dos muitos conterrâneos que to-
+maram a mesma decisão difícil, ela preferiu atravessar o Atlân-
+tico, rumo à Europa, em vez de se juntar aos milhares que estão 
+seguindo a pé para o norte, na esperança de chegar aos EUA e 
+obter asilo ali5.
+
+Neste artigo, buscamos descrever, mais  detidamente, esses 
+três aspectos que acabamos de mencionar, ou seja: i) os três di-
+ferentes valores semântico-pragmáticos veiculados pelo conector 
+por  isso:  consequência,  conclusão  e  elaboração;  ii)  suas  proprie-
+dades coesivas particulares, sendo por um elemento de sequen-
+ciação e isso, de referenciação; iii) a relação existente entre o nível 
+de articulação do conector – se oracional, interperíodo ou inter-
+parágrafo – e o escopo remissivo do pronome demonstrativo isso, 
+uma das subpartes do conector. Para além desses objetivos, nossa 
+análise também busca chegar a algumas generalizações quanto às 
+propriedades formais e funcionais do referido conector.
+
+Essa investigação foi realizada, principalmente, à luz dos pres-
+supostos  teóricos  da  Linguística  Funcional  Centrada  no  Uso  (cf. 
+FURTADO DA CUNHA et al., 2013; OLIVEIRA; ROSÁRIO, 2016, entre 
+outros)  e  da  Linguística  Textual  (cf.  KOCH,  2003;  FÁVERO,  2004). 
+Duas  outras  abordagens  convergentes  complementam  nossa 
+análise:  a  Linguística  Sistêmico-Funcional  (HALLIDAY,  2004)  e  a 
+Pragmática (SWEETSER, 1990). As conclusões a que chegamos são 
+oriundas da análise de 100 ocorrências de uso – extraídas da base 
+
+5  Disponível  em:  https://www.gazetadopovo.com.br/mundo/em-vez-de-tentar-chegar-aos-eua-centro-americanos-comecam-
+-a-fugir-para-a-europa/. Acesso em: 10 jan. 2022.
+
+Pressupostos teóricos
+
+de  dados  Now,  do  site  Corpus  do  Português  –,  interpretadas  sob 
+uma metodologia quali-quantitativa (cf. CUNHA LACERDA, 2016).
+
+Quanto à organização, este texto apresenta cinco seções. Além 
+desta introdução, há: pressupostos teóricos; Corpus e metodolo-
+gia; análise de dados e considerações finais. Por fim, as referências 
+bibliográficas encerram o artigo.
+
+Duas abordagens teóricas subsidiam nossos estudos: a Linguís-
+tica Funcional Centrada no Uso (LFCU)6 e a Linguística Textual (LT). 
+A primeira, de maneira análoga aos demais modelos funcionalistas, 
+descreve as línguas naturais com base em dados empíricos de uso, 
+uma vez que vê a gramática como um sistema adaptativo moldado 
+por duas forças: uma interna, originada no domínio da língua; outra 
+externa, pertencente ao domínio dos requisitos funcionais do dis-
+curso (cf. DU BOIS, 1985). O que diferencia a LFCU das outras pers-
+pectivas de base funcional é que ela busca suas generalizações por 
+meio da observação de aspectos tanto formais (fonológicos e mor-
+fossintáticos) quanto funcionais (semânticos, pragmáticos e discursi-
+vos), dando-lhes importância equivalente e entendendo-lhes como 
+interdependentes, na medida em que se influenciam mutuamente: 
+[[FORMA]   [FUNÇÃO]] (cf. TRAUGOTT; TROUSDALE, 2013).
+
+A  segunda  –  a  Linguística  Textual  –  busca,  nas  palavras  de 
+Marcuschi  (1983,  p.  12),  descrever  as  “operações  linguísticas  e 
+cognitivas reguladoras e controladoras da produção, construção, 
+funcionamento e recepção de textos escritos ou orais”. Para nos-
+sa pesquisa, importam as operações linguísticas e cognitivas que 
+atuam na progressão textual, mais especificamente, os mecanis-
+mos que estabelecem a coesão do texto.
+
+6 O termo Linguística Funcional Centrada no Uso foi cunhado, no Brasil, pelo Grupo de Estudos Discurso e Gramática. O nome 
+representa a união de duas abordagens linguísticas: de um lado, a Linguística Funcional Norte-Americana praticada na Costa 
+Oeste; de outro, a Gramática de Construções Baseada no Uso. A substituição de “baseada” por “centrada” foi uma sugestão do 
+saudoso Mário Martelotta, que considera que a abordagem funcional não apenas se baseia no uso, mas, sim, tem como centro 
+da análise o uso linguístico.
+
+Como sabemos, há dois processos coesivos principais, descri-
+tos amplamente na literatura linguística (cf. KOCH, 2003; FÁVERO, 
+2004; entre outros): a sequenciação – ou coesão sequencial – e a 
+referenciação – ou coesão referencial. A primeira diz respeito “aos 
+procedimentos  linguísticos  por  meio  dos  quais  se  estabelecem, 
+entre segmentos do texto [...] diversos tipos de relações semânti-
+cas e/ou pragmáticas à medida que faz o texto progredir” (KOCH, 
+2003, p. 53); a segunda, aos elementos da superfície do texto res-
+ponsáveis pela “remissão a outro(s) elemento(s) nela presentes ou 
+inferíveis a partir do universo textual” (KOCH, 2003, p. 31).
+
+Na literatura vigente, esses dois processos coesivos são apre-
+sentados como distintos, de modo que um determinado elemento 
+deve  ser  interpretado  como  uma  estrutura  de  sequenciação  ou 
+de referenciação. Não obstante esse fato, por isso é formado por 
+dois componentes, cada qual atuando em um desses processos: a 
+preposição por estabelece a sequenciação de segmentos, de um 
+lado, e o pronome demonstrativo isso encapsula predicações pré-
+vias no contexto, de outro.
+
+Segundo Conte (2003, p. 177), o encapsulamento é um “recurso 
+coesivo pelo qual um sintagma nominal funciona como uma pará-
+frase resumitiva de uma porção precedente de texto”. Ele é um me-
+canismo de referenciação que assume uma função tanto retrospec-
+tiva quanto prospectiva. Remete a um trecho precedente de texto 
+– normalmente uma predicação – e transforma-o em referente, isto 
+é, em tópico discursivo. É o que ocorre no dado abaixo. Veja:
+
+(03)  [...]  Diante  de  uma  câmera,  todo  indivíduo  se  transforma 
+em um ator, mesmo que exponha suas verdades mais íntimas e 
+profundas. Essa ideia, esboçada em obras anteriores de Eduardo 
+Coutinho, como “Santo Forte” e “Edifício Master”, ganha uma evi-
+dência incontornável em seu documentário mais recente, “Jogo 
+de Cena”, que chega agora ao DVD. [...]7.
+
+7  Folha de São Paulo, 07/12/98. Dado extraído de Lopes (2010, p. 32).
+
+Na ocorrência acima, essa ideia é um encapsulamento. Remete 
+a todo conteúdo do período precedente e transforma-o em objeto-
+de-discurso  (cf.  MONDADA;  DUBOIS,  2003).  Ao  mesmo  tempo 
+em  que  faz  esse  movimento  de  retroação,  promove  um  outro 
+prospectivo, na medida em que essa ideia passa a assumir a fun-
+ção de tópico discursivo.
+
+No caso do conector por isso, o pronome demonstrativo isso é 
+um encapsulador que envolve apenas o movimento de retroação. 
+Remete à porção prévia do texto, mas, diferentemente do exem-
+plo acima, não atribui ao conteúdo a que faz remissão o estatuto 
+de tópico discursivo. Na verdade, o movimento de prospecção per-
+tence à preposição por, que atua como um sequenciador. Dessa 
+maneira, podemos considerar que, na dimensão textual, é a re-
+lação de sequenciação que se sobressai em por isso, já que a pro-
+gressão textual é promovida por meio desse processo. 
+
+A despeito desse fato, no entanto, o aspecto referencial não 
+deve ser descartado, haja vista que a porção de texto encapsulada 
+pelo pronome demonstrativo isso não é aleatória. Como vimos na 
+análise das ocorrências (01) e (02), na primeira seção deste texto, o 
+escopo remissivo do pronome demonstrativo isso está associado à 
+posição do conector, ou seja, o escopo muda se o conector articula 
+orações, períodos ou parágrafos.
+
+Além da LFCU e da LT, os estudos da Pragmática (SWEETSER, 
+1990) e da Linguística Sistêmico-Funcional (HALLIDAY, 2004) com-
+plementam nossos estudos. De um lado, as investigações de Sweet-
+ser (1990) nos ajudam na interpretação dos valores semântico-prag-
+máticos de por isso nos três diferentes domínios da causalidade; de 
+outro, uma das categorias analíticas de Halliday (2004) nos dá um 
+melhor suporte para a especificação semântica do domínio do ato 
+de fala, como veremos a seguir.
+
+De acordo com Sweetser (1990), as relações de causalidade nas 
+línguas naturais se expressam em três domínios: o domínio do con-
+teúdo, o domínio epistêmico e o domínio do ato de fala. Relacio-
+nando os princípios de Sweetser (1990) a outros estudos sobre as 
+
+relações de causalidade, podemos considerar que o primeiro domí-
+nio envolve a causalidade do mundo real e conecta duas unidades 
+discursivas (D1 e D2) – que podem ser orações, períodos e parágra-
+fos –, por meio de uma relação de causa e consequência (ou conse-
+quência e causa). É de natureza factual, já que a relação estabele-
+cida entre D1 e D2 é concreta, independente do ponto de vista do 
+enunciador. Como exemplo desse domínio, Sweetser (1990, p. 77) 
+apresenta esta frase: John came back because he loved her (John vol-
+tou porque a amava). Nesse caso, devemos levar em consideração 
+o seguinte contexto discursivo: o enunciador está relatando um fato 
+do qual tem conhecimento – provavelmente, porque ouviu o relato 
+do próprio John, por exemplo. Ou seja, não se trata de uma inferên-
+cia, mas do relato de um fato observado do mundo. Sob essa ótica, 
+há uma relação de consequência na oração principal (John voltou) e 
+causa na oração subordinada (porque a amava).
+
+O  domínio  epistêmico,  por  sua  vez,  lida  com  realidades  po-
+tenciais,  mas  não  necessariamente  concretas.  Está  associado  às 
+inferências de um enunciador a partir das observações que ele faz 
+do  mundo.  Como  ilustração,  Sweetser  (1990,  p.  77)  apresenta  a 
+frase  John  loved  her,  because  he  came  back  (John  a  ama,  porque 
+ele voltou). Nesse caso, a oração subordinada apresenta um fato 
+tangível  do  mundo  (porque  John  voltou);  a  oração  principal,  uma 
+conclusão a que chega o enunciador: John a ama. Sob esse ponto 
+de vista, a conclusão lida não com a realidade propriamente dita, 
+mas com operações mentais, seja de natureza inferencial (dedu-
+tiva), como acabamos de ilustrar por meio da apreciação da frase 
+de Sweetser (1990), seja de natureza lógica, como as estabelecidas 
+por premissas: Todo homem é mortal (Premissa 1); Sócrates é ho-
+mem  (Premissa  2);  Logo,  Sócrates  é  mortal  (conclusão).  Portanto, 
+podemos entender que o que diferencia o domínio do conteúdo 
+do domínio epistêmico é que o primeiro existe no mundo – inde-
+pendentemente da perspectiva do enunciador –, enquanto o últi-
+mo é resultado da sua perspectiva.
+
+O último domínio é o de ato de fala, que está em conformidade 
+com a perspectiva de Grice (1975) e de Searle (1976). Nessa ótica, 
+
+a causalidade é expressa como uma forma de justificativa/esclare-
+cimento. Como ilustração, Sweetser (1990) apresenta a frase What 
+are you doing tonight, because there’s a good movie on? (O que você 
+vai fazer hoje à noite, porque tem um bom filme passando?). Nessa 
+sentença, observamos que a oração subordinada porque tem um 
+bom filme passando representa uma justificativa para um convite, 
+que pode ser inferido contextualmente. Isto é, o enunciador não 
+apenas demonstra interesse sobre o que seu enunciatário fará à 
+noite; ele, na verdade, está lhe fazendo um convite. 
+
+Como  podemos  observar,  a  justificativa  apresenta  um  nível 
+mais  abstrato  da  causalidade.  Podemos,  inclusive,  postular,  com 
+base nesses três domínios, que eles se organizam numa escala de 
+abstratização, em que o domínio do conteúdo é o mais concreto; o 
+ato de fala, o mais abstrato. Dessa maneira, a escala seria a seguin-
+te: conteúdo  epistêmico  ato de fala.
+
+No que diz respeito ao conector por isso, observamos que ele se 
+apresenta nos três domínios supracitados. No domínio do conteúdo, 
+ele encabeça as relações de consequência; no domínio epistêmico, 
+as relações de conclusão. Como o domínio de ato de fala apresenta 
+uma relação de justificativa/explicação, pensamos, a princípio, em 
+empregar o termo “explicação” para designá-lo. No entanto, como 
+essa categoria semântica é tradicionalmente relacionada às conjun-
+ções coordenativas explicativas – cujo sentido é distinto do empre-
+gado em por isso –, recorremos a uma categoria lógico-semântica 
+da Linguística Sistêmico-Funcional (HALLIDAY, 2004): a elaboração.
+Para Halliday (2004), a elaboração é um tipo de expansão ló-
+gico-semântica que envolve uma relação de igualdade, no plano 
+de  conteúdo,  entre  duas  unidades  de  informação:  1=2.  Trata-se 
+de uma macrocategoria semântica que comporta outras três cate-
+gorias mais específicas, a saber: a exposição, a exemplificação e o 
+esclarecimento. A análise que fizemos da ocorrência (02), na seção 
+anterior, por exemplo, serve como ilustração do uso de por isso 
+nesse domínio, ao qual atribuímos o valor semântico-pragmático 
+de esclarecimento. Vale ressaltar, no entanto, que há usos em que 
+
+por isso assume valores de exposição e exemplificação. Explorare-
+mos esses outros sentidos na seção de análise de dados.
+
+Corpus e metodologia
+
+Como mencionamos, a pesquisa adotou procedimentos quali-
+-quantitativos para constituir uma metodologia adequada à pesqui-
+sa linguística. Nesse sentido, utilizamos os pressupostos da Linguísti-
+ca de Corpus para constituir o corpus da pesquisa, que nos permitiu 
+analisar cuidadosamente as funções do conector. Foram levantadas 
+100 ocorrências de por isso na base Now, disponível no site Corpus do 
+Português8, porém ressaltamos que, dos dados selecionados, duas 
+unidades discursivas9 possuíam duas ocorrências cada, totalizando 
+102 ocorrências de por isso.
+
+Dos dados selecionados, nem todas as ocorrências de por isso 
+atuavam como conectores. Assim, descartamos 21 dados que não 
+atendiam ao objetivo da pesquisa e outros 15 foram excluídos por 
+serem dados duplicados. Assim, nesta pesquisa foram analisadas 
+66 ocorrências de por isso com função conectora. 
+
+Como ilustração, segue uma ocorrência de dado descartado. 
+Em (04), como é possível notar, por isso é um termo da oração, na 
+medida em que exerce a função de complemento nominal.
+
+(04) As japonesas são muito técnicas e defendem muito bem. É 
+preciso ter muita paciência para jogar com elas. Por enquanto 
+estamos indo muito bem e estamos felizes por isso10.
+
+Visando à descrição das propriedades formais11 (morfologia e 
+sintaxe) e funcionais (semântica, pragmática e discurso), de acor-
+
+8 https://www.corpusdoportugues.org/
+9 O termo unidade discursiva é empregado para definir as diferentes porções textuais que podem ser encapsuladas pelo co-
+nector aqui analisado, como: orações, períodos e parágrafos. Designamos como D1 a primeira unidade discursiva e como D2 a 
+segunda unidade discursiva.
+10 Nas ocorrências 01 a 03, especificamos o endereço eletrônico das ocorrências. A partir de agora, como informamos que todas 
+as ocorrências foram extraídas da base Now, do Corpus do Português, não identificaremos mais a localização de cada dado em sites 
+externos.
+11 Como os dados analisados são da modalidade escrita, optamos por não investigar as propriedades fonológicas neste trabalho.
+
+do com os pressupostos da LFCU, os seguintes fatores de análise 
+foram estabelecidos:
+
+Quadro 2. Fatores de análise definidos para descrição de por isso.
+
+Propriedades  
+morfológicas
+
+Propriedades  
+
+sintáticas
+
+Propriedades  
+semânticas
+
+Propriedades  
+pragmáticas
+
+- por isto pode ser uma variante de por isso, 
+isto é, encontram-se dados em que por isto 
+também  estabelece  conexão  entre  orações, 
+períodos e parágrafos?
+
+-  em  que  posições  o  conector  se  apresenta 
+no texto?
+-  quais  unidades  estruturais  conecta  (ora-
+ções, períodos e parágrafos)?
+- Há uma relação entre a unidade estrutural 
+em que o conector se apresenta e a porção 
+do texto encapsulada?
+
+- quais são as funções semânticas do conec-
+tor por isso? Essas funções semânticas podem 
+ser explicadas à luz dos domínios de Sweetser 
+(1990)?
+
+-  de  que  forma  os  elementos  co(n)textuais 
+colaboram para identificação da polissemia12 
+do por isso?
+
+Plano da 
+forma
+
+Plano da 
+função
+
+Propriedades  
+
+discursivo-funcionais
+
+- há promoção de uma coesão tanto referen-
+cial quanto sequencial em todas as ocorrên-
+cias de por isso?13
+
+Fonte: Elaboração própria.
+
+Desse modo, para avaliar esses fatores nas ocorrências, foram 
+selecionados três macrocritérios de análise: valor semântico-prag-
+mático; posição; e escopo remissivo. O valor semântico-pragmático 
+foi analisado seguindo as classificações de Marques e Pezatti (2015) 
+sobre os valores de consequência e conclusão, e de Lopes e Silva 
+(2022), com sua proposta de elaboração que abarca os valores de 
+esclarecimento,  exposição  e  exemplificação.  Ademais,  Sweetser 
+
+12  Uma vez que por isso pode veicular diferentes noções semânticas, a depender do contexto, consideramo-lo um conector de 
+natureza polissêmica.
+13 A pesquisa também previa a investigação da relação entre valor semântico-pragmático e sequência tipológica. No entanto, 
+não apresentamos esses dados neste texto, em virtude do espaço de que dispomos.
+
+Análise de dados
+
+(1990) também se faz presente na análise do referido macrocritério, 
+devido à associação entre os domínios da causalidade propostos 
+pela autora e os valores do conector aqui apresentados.
+
+O macrocritério de posição visava identificar o nível de cone-
+xão da conector, ou seja, identificar se conectava orações, períodos 
+ou parágrafos. O escopo remissivo foi selecionado para identificar 
+a quais e a quantas orações, períodos ou parágrafos o conector 
+fazia referência. 
+
+Em termos quantitativos, os dados a seguir apresentam o pa-
+norama dos usos identificados de por isso. O gráfico 1 demonstra 
+que, no macrocritério, valor semântico-pragmático, a relação de 
+conclusão se mostrou a mais produtiva com 38 ocorrências, se-
+guida da relação de elaboração, com 20 ocorrências. A relação de 
+consequência foi a menos produtiva, com apenas 8 ocorrências. 
+Em equivalência aos domínios da causalidade (SWEETSER, 1990), o 
+gráfico 2 demonstra a predominância do domínio epistêmico, refe-
+rente às relações de conclusão, com 58% dos resultados, seguido 
+do domínio do ato de fala, equivalente às relações de elaboração, 
+com 30% e, por último, o domínio do conteúdo, representando as 
+relações de consequência, com 12%.
+
+Gráfico 1. Valor semântico-pragmático de por isso.
+
+Fonte: Elaboração própria.
+
+Gráfico 2. Representação dos domínios da causalidade (SWEETSER, 1990)14.
+
+ 
+
+Fonte: Elaboração própria.
+
+No  macrocritério  seguinte,  posição,  temos  a  representação 
+dos níveis de conexão em que o por isso atua. Nesse caso, o co-
+nector  se  mostrou  mais  produtivo  em  relações  interperíodo,  na 
+medida em que articula períodos diferentes de um mesmo pará-
+grafo. Ao todo, foram 36 ocorrências. A relação intraperíodo, que 
+liga orações de uma mesma sentença, teve a segunda maior fre-
+quência: 25 ocorrências. E as relações interparágrafo, que conec-
+tam diferentes parágrafos de um mesmo texto, foram menos pro-
+dutivas: apenas 5 ocorrências.
+
+O último macrocritério, escopo remissivo, que visava a iden-
+tificar o escopo encapsulado pelo pronome demonstrativo “isso” 
+nos diferentes níveis de conexão, está representado no gráfico 4. 
+No nível intraperíodo, as ocorrências que relacionavam apenas a 
+oração anterior foram as mais frequentes, com 20 ocorrências, re-
+presentando  80%  das  relações  desse  nível,  e  apenas  5  ocorrên-
+cias possuíam duas ou mais orações anteriores como escopo, re-
+presentando 20% das relações do nível. No nível interperíodo, 26 
+ocorrências retomavam apenas o período anterior e 10 retoma-
+
+14 Cabe frisar que há uma correspondência entre os gráficos 1 e 2. Sendo assim, o domínio do conteúdo (12%), no gráfico 2, re-
+presenta as 8 ocorrências de consequência no gráfico 1; o domínio epistêmico (58%), as 38 ocorrências de conclusão; o domínio 
+do ato de fala (30%), as 20 ocorrências de elaboração.
+
+vam dois ou mais períodos anteriores, representando, respectiva-
+mente, 72% e 28% das relações do nível. Por fim, todas as relações 
+do nível interparágrafo retomavam apenas o parágrafo anterior, 
+de modo que não foram identificadas relações com dois ou mais 
+parágrafos como escopo remissivo.
+
+Gráfico 3. Níveis de conexão de por isso.
+
+Fonte: Elaboração própria.
+
+Gráfico 4. Escopo remissivo de por isso por nível de conexão.
+
+Fonte: Elaboração própria.
+
+Passemos, agora, a uma abordagem qualitativa dos dados le-
+vantados. Nota-se que por isso atua como conector, relacionando 
+diferentes  unidades  discursivas.  Ocorre  principalmente  em  se-
+quências dissertativas/argumentativas, narrativas e descritivas e a 
+conexão por ele realizada exprime diferentes valores semânticos-
+-pragmáticos, que sintetizamos como: consequência, conclusão e 
+elaboração. Observemos as ocorrências abaixo:
+
+(05) A finalidade da exposição é celebrar o Dia Mundial do Fusca, 
+que foi no último dia 22. “As pessoas estavam viajando por causa 
+do feriado do São João e, por isso, adiamos o evento”, conta Júlio.
+
+(06)  O  lagartinho-de-folhiço  foi  descoberto  em  1999  pela  pro-
+fessora e pesquisadora da UFRN, Elisa Freire, nas áreas rema-
+nescentes de Mata Atlântica do Parque da Cidade Dom Nivaldo 
+Monte e do Parque Estadual das Dunas. Por isso, a espécie foi ba-
+tizada com o nome científico de Coleodactylos Natalensis Freire.
+
+Em (05) temos o valor semântico-pragmático de consequência 
+que, prototipicamente, estabelece uma relação de causa e con-
+sequência entre as unidades discursivas. A consequência é con-
+ceituada, por Marques e Pezatti (2015), como o tipo de conexão 
+que apresenta uma relação de condição anterior e consequência 
+posterior, sem necessitar de raciocínio inferencial por parte do fa-
+lante. Além disso, esse valor semântico-pragmático é pertencente 
+ao  domínio  do  conteúdo  para  Sweetser  (1990).  Apresenta  uma 
+causalidade factual, em que a causa é anterior à consequência e 
+ambas são externas ao falante, uma vez que essa relação ocorre 
+independente de seu ponto de vista. No exemplo (05), a D1 “As 
+pessoas estavam viajando por causa do feriado do São João” atua 
+como a causa para o adiamento do evento expresso como conse-
+quência na D2: “por isso, adiamos o evento”.
+
+A relação estabelecida nesse exemplo é entendida como per-
+tencente ao domínio do conteúdo porque as pessoas viajarem no 
+
+feriado é um fato extralinguístico, é uma causa no mundo real que 
+implica em consequência também no mundo real, isto é, as pes-
+soas precisaram viajar para que, só depois, o evento fosse adiado.
+Seguindo com a análise, temos o valor de conclusão, que per-
+tence ao domínio epistêmico de Sweetser (1990), e vincula um con-
+teúdo menos factual, com diferentes níveis de verdade e que pode 
+ser interpretado de acordo com o ponto de vista. Marques e Pezatti 
+(2015) explicam que a relação de conclusão apresenta um raciocí-
+nio dedutivo (P portanto Q), em que temos duas premissas, uma ex-
+plícita e uma implícita, que possibilitam o desenvolvimento de uma 
+conclusão. Em (05), a D1 “O lagartinho-de-folhiço foi descoberto em 
+1999 pela professora e pesquisadora da UFRN, Elisa Freire, nas áreas 
+remanescentes de Mata Atlântica do Parque da Cidade Dom Nivaldo 
+Monte e do Parque Estadual das Dunas.” nos explica sobre a des-
+coberta do lagarto pela pesquisadora (premissa) e a D2 “Por isso, a 
+espécie foi batizada com o nome científico de Coleodactylos Natalen-
+sis Freire.” nos apresenta seu nome científico (conclusão). A relação 
+de conexão estabelecida entre essas unidades discursivas é menos 
+factual, porque não há entre os fatos expressos em D1 e D2 uma 
+relação implicativa necessária. Batizar o lagarto com o sobrenome 
+da pesquisadora é apenas uma das possibilidades da nomeação. Por 
+isso, pertence ao domínio epistêmico. Na relação de consequência, 
+por sua vez, D1 e D2 apresentam uma relação mais direta, muitas ve-
+zes, incontornável. É o que podemos observar em ocorrências, como, 
+por exemplo: “ele foi o mais rápido na corrida, por isso venceu”. 
+
+Em  seguida,  temos  o  valor  de  elaboração,  que  consiste  em 
+uma macrocategoria para os valores de esclarecimento, exposição 
+e exemplificação. A elaboração é uma proposta iniciada em Lopes 
+e Moura (2021), e continuada em Lopes e Silva (2022), que obje-
+tiva agrupar as relações pertencentes ao domínio do ato de fala 
+de Sweetser (1990). A proposta surgiu a partir da elaboração por 
+parataxe de Halliday (2004) em que duas unidades de informação 
+estão igualmente relacionadas (notação 1 = 2) no plano do conteú-
+do (LOPES; SILVA, 2022).
+
+Nessa  macrocategoria,  a  característica  prototípica  das  rela-
+ções  é  apresentar  uma  espécie  de  justificativa,  assim  a  unidade 
+discursiva introduzida pelo conector por isso elabora informações 
+adicionais sobre a afirmação apresentada na unidade discursiva 
+anterior. A elaboração abriga três valores: esclarecimento, exposi-
+ção e exemplificação. Vejamos os exemplos:
+
+(07) A ANP discorda do Ibama sobre a aplicação da Lei da Política 
+Nacional de Resíduos Sólidos, de 2010, para o descarte de casca-
+lhos. Segundo a agência, o assunto deve ter critérios estabeleci-
+dos pela Lei do Óleo. A AGU concordou com essa visão, mas deu 
+ao Ibama a liberdade de definir, qual, afinal, serão as normas 
+usadas. O órgão ambiental, porém, continua sem definir o as-
+sunto. O Ibama declarou que “já adotava critério para descarte” 
+antes da norma de 2018 e, por isso, a ausência de regra “não 
+representa a falta de controle ambiental”.
+
+(08) Segundo a analista do IBGE, Denise Guichard, houve uma 
+redução considerável no número de empresas e postos de tra-
+balho, e a recuperação segue lenta. “Está difícil para as empre-
+sas se estabelecerem e gerarem empregos. Por isso, tanto em 
+número  de  empresas  como  em  pessoal  assalariado,  estamos 
+em um patamar de o início de a década passada”, observa.
+
+(09) Segundo o tenente Pedro Reis, são observados todos os as-
+pectos legais quanto ao tema, incluindo a parte de regulação, 
+que envolve órgãos como ANATEL, ANAC e Força Aérea.
+
+“A segurança de voo é um fator muito importante. Por isso, de-
+dicamos uma semana inteira para o treinamento. Nosso objeti-
+vo é buscar sempre o aperfeiçoamento, tendo em vista a melho-
+ra do serviço para a população”, conta Reis.
+
+O esclarecimento, segundo Halliday (2004), é entendido como o 
+valor em que a primeira unidade discursiva é esclarecida, a partir de 
+
+alguma forma de explicação, pela segunda unidade discursiva. Com 
+isso, temos o exemplo (07), em que a D2 “por isso, a ausência de 
+regra ‘não representa a falta de controle ambiental’.” é utilizada para 
+explicar o motivo da não definição das regras. A D2, nesse sentido, 
+serve para esclarecer o conteúdo apresentado na D1, sublinhada.
+
+O valor de exposição, por sua vez, ocorre quando a segunda 
+unidade discursiva é usada para reafirmar, reforçar ou apresentar 
+uma nova perspectiva da afirmação apresentada na primeira uni-
+dade discursiva (HALLIDAY, 2004). Em (08), a D2 “Por isso, tanto em 
+número de empresas como em pessoal assalariado, estamos em 
+um patamar de o início de a década passada’” parafraseia o con-
+teúdo apresentado na D1 “Segundo a analista do IBGE, Denise Gui-
+chard, houve uma redução considerável no número de empresas 
+e postos de trabalho, e a recuperação segue lenta. ‘Está difícil para 
+as empresas se estabelecerem e gerarem empregos.”, reforçando 
+a mensagem de que as empresas e o mercado de trabalho passam 
+por um momento complicado.
+
+Por fim, temos o valor de exemplificação, em que a segunda 
+unidade discursiva desenvolve a tese apresentada na primeira uni-
+dade discursiva, o que é feito para especificá-la e, geralmente, uti-
+liza exemplos reais (HALLIDAY, 2004). Em (09), a D1 afirma que “A 
+segurança de voo é um fator muito importante.” e a D2 “Por isso, 
+dedicamos uma semana inteira para o treinamento.” cita o tempo 
+dedicado ao treinamento como exemplo dessa importância.
+
+Tendo estabelecido esses valores semântico-pragmáticos, se-
+guimos para os dados acerca dos níveis de conexão em que o por 
+isso atua. A análise observou a posição do conector e a porção de 
+texto encapsulada pelo pronome demonstrativo isso.
+
+Acerca da posição, assumimos que o conector se faz presente 
+em três níveis de conexão: oracional, conectando orações dentro 
+do  mesmo  período;  interperíodo,  conectando  diferentes  perío-
+dos dentro do mesmo parágrafo; e interparágrafo, conectando 
+parágrafos diferentes do mesmo texto. E sobre a porção de texto 
+encapsulada  pelo  pronome  demonstrativo,  objetivamos  enten-
+
+der a extensão da unidade discursiva retomada pelo pronome, 
+isto é, o escopo remissivo. 
+
+No  nível  oracional,  como  dito,  foram  encontradas  25  ocor-
+rências do por isso entre orações, promovendo sua coordenação. 
+Dentre essas ocorrências em que o por isso conecta orações, 20 
+retomam apenas a oração anterior e 5 referenciam duas ou mais 
+orações anteriores. Observemos duas ocorrências.
+
+(10) Em entrevista ao Foxsports.com.br, Rodolfo Landim, presi-
+dente do Flamengo confirmou a suspensão da negociação.
+
+“Sim, nós suspendemos a negociação. Os empresários dele pe-
+diram a minha liberação para conversarem com o Fluminense 
+a  respeito  de  uma  proposta,  mas  achei  melhor  não.  Nós  não 
+queremos de forma alguma ter um problema com o Fluminense 
+e por isso as negociações estão suspensas. Não vamos fazer um 
+novo movimento por ele”, disse Landim.
+
+(11)  De  acordo  com  informações  da  Polícia  Militar,  assim  que 
+foram acionados, os PMs fizeram um cerco na BR 482, no senti-
+do Dores do Rio Preto, e comunicaram as viaturas de Ibitirama, 
+caso o condutor tivesse seguido naquele trajeto.
+
+Os militares seguiram em direção a Celina, no município de Ale-
+gre, e foram informados que o carro havia passado na localidade 
+em alta velocidade e, por isso, seguiram em frente na intenção de 
+alcançar o infrator, que ao passar próximo à entrada da Cachoei-
+ra da Fumaça perdeu o controle do veículo e bateu no meio-fio.
+
+Ambas as ocorrências estão no nível oracional, uma com valor 
+de conclusão (10) e outra com valor de consequência (11). A dife-
+rença que se deve observar entre as ocorrências é que, apesar de 
+atuarem no mesmo nível de conexão, possuem escopos remissi-
+vos diferentes.
+
+Em (10), o por isso retoma apenas a unidade discursiva “Nós 
+não queremos de forma alguma ter um problema com o Flumi-
+
+nense”. Já em (11), o conector retoma duas orações na unidade 
+discursiva “Os militares seguiram em direção a Celina, no municí-
+pio de Alegre, e foram informados que o carro havia passado na 
+localidade em alta velocidade”. Percebemos, assim, que o escopo 
+retomado pelo por isso tende a ser relativamente menor quando 
+comparado com os outros níveis, como veremos a seguir.
+
+O nível interperíodo apresentou 36 ocorrências. Nelas, o por 
+isso  se  posiciona  no  começo  de  um  período  e  promove  relação 
+com o(s) período(s) anterior(es). Foram identificadas 26 ocorrên-
+cias que promoviam a conexão com o período anterior e 10 que 
+promoviam conexão com dois ou mais períodos.
+
+(12) Os dois movimentos participaram das convocações e da or-
+ganização do ato. Com palavras de ordem como “fora daqui” e 
+até “petralhas”, um grupo de cerca de 20 pessoas do Direita São 
+Paulo causou confusão.
+
+O conflito aconteceu porque o MBL apoia Sérgio Moro, mas não 
+apoia  Bolsonaro. Por  isso,  os  integrantes  do  Direita  São  Paulo 
+criticou com afinco o outro movimento com ideias de direita.
+
+(13) Um salgado que todo mundo ama: coxinha. Mas você sabe 
+preparar essa delícia de massa frita recheada com frango?! Fácil 
+de fazer, a coxinha agrada crianças e adultos e é superdeliciosa. 
+Por isso, a Rotisserie Bologna decidiu compartilhar sua receita 
+de sucesso já que são vendidas 4 mil coxinhas por mês.
+
+Nas ocorrências acima temos dois exemplos do uso de por isso, 
+ambos com valor conclusivo. Em (12) vemos uma retomada ape-
+nas do período anterior na unidade discursiva “O conflito aconte-
+ceu porque o MBL apoia Sérgio Moro, mas não apoia Bolsonaro”. 
+E, em (13) vemos uma retomada de três períodos na unidade dis-
+cursiva, como mostra o trecho sublinhado. Com esses exemplos, 
+percebemos que o nível interperíodo possui um escopo maior, vis-
+to que tende a retomar uma unidade discursiva mais extensa do 
+que as identificadas no nível oracional.
+
+No último nível de conexão, interparágrafo, propomos que o 
+conector por isso pode conectar também um parágrafo ao(s) seu(s) 
+anterior(es). Nos dados selecionados, foram identificadas apenas 
+5 ocorrências do conector nesse nível, todas remetendo ao pará-
+grafo anterior. Retomemos um exemplo:
+
+(02) Para María Marroquín, a vida em El Salvador se tornou in-
+tolerável depois que membros de uma gangue que extorquia 
+dinheiro mataram vários comerciantes no marcado onde tra-
+balhava. Ela também passou a temer pela vida do filho de 27 
+anos, David, depois que um primo foi sequestrado e desapare-
+ceu sem deixar rastros.
+
+Por isso, no ano passado, aos 52 anos, ela decidiu sair do país. 
+A diferença é que, ao contrário dos muitos conterrâneos que 
+tomaram  a  mesma  decisão  difícil,  ela  preferiu  atravessar  o 
+Atlântico, rumo à Europa, em vez de se juntar aos milhares que 
+estão seguindo a pé para o norte, na esperança de chegar aos 
+EUA e obter asilo ali.
+
+Na ocorrência (02), por isso possui o valor consecutivo, iniciando 
+um novo parágrafo e, ao mesmo tempo, promovendo a retomada 
+do parágrafo anterior, ou seja, da unidade discursiva sublinhada. 
+Em resumo, percebemos a clara relação entre a posição do conector 
+e a porção de texto retomada. A partir dos dados, podemos perce-
+ber que a extensão da unidade discursiva encapsulada pelo prono-
+me demonstrativo isso é influenciada pela posição do conector no 
+texto. Os conectores oracionais tendem a retomar porções textuais 
+menores do que os conectores interperíodos, esses, por sua vez, 
+costumam retomar porções menores do que os interparágrafos.
+
+Outro ponto de nossa análise de dados abarcou o processo 
+coesivo realizado por esse conector. A Linguística Textual entende 
+a  coesão  como  as  relações  de  sentido  estabelecidas  no  interior 
+do texto e que o definem como tal. Dentro desse conceito, a lite-
+ratura tende a distinguir os processos de coesão em referencial 
+
+e sequencial. Assim, apenas para relembrar, a coesão referencial 
+é compreendida como o processo que possibilita a retomada de 
+um elemento do texto anteriormente mencionado. E a coesão se-
+quencial, por sua vez, é definida como as relações de sentido esta-
+belecidas para a progressão textual.
+
+Nesse sentido, percebeu-se que o por isso tende a realizar os 
+dois processos de coesão de maneira conjunta. A estrutura desse 
+conector torna favorável que os dois processos coesivos estejam 
+presentes  nas  porções  textuais  que  ele  relaciona.  A  preposição 
+por permite a sequenciação de segmentos que possibilita a pro-
+gressão do texto, estabelecendo relações lógico-semântica (conse-
+quência) ou discursivo-argumentativas (conclusão ou elaboração), 
+enquanto o pronome demonstrativo isso promove a retomada de 
+uma  porção  textual  citada  a  priori,  isto  é,  a  referenciação.  Para 
+aprofundar a explicação, retomemos três ocorrências:
+
+(09) Em entrevista ao Foxsports.com.br, Rodolfo Landim, presi-
+dente do Flamengo confirmou a suspensão da negociação.
+
+“Sim, nós suspendemos a negociação. Os empresários dele pe-
+diram a minha liberação para conversarem com o Fluminense 
+a  respeito  de  uma  proposta,  mas  achei  melhor  não.  Nós  não 
+queremos de forma alguma ter um problema com o Fluminense 
+e por isso as negociações estão suspensas. Não vamos fazer um 
+novo movimento por ele”, disse Landim.
+
+(12) Um salgado que todo mundo ama: coxinha. Mas você sabe 
+preparar essa delícia de massa frita recheada com frango?! Fácil 
+de fazer, a coxinha agrada crianças e adultos e é superdeliciosa. 
+Por isso, a Rotisserie Bologna decidiu compartilhar sua receita 
+de sucesso já que são vendidas 4 mil coxinhas por mês.
+
+(02) Para María Marroquín, a vida em El Salvador se tornou in-
+tolerável depois que membros de uma gangue que extorquia 
+dinheiro mataram vários comerciantes no mercado onde tra-
+balhava. Ela também passou a temer pela vida do filho de 27 
+
+anos, David, depois que um primo foi sequestrado e desapare-
+ceu sem deixar rastros.
+
+Por isso, no ano passado, aos 52 anos, ela decidiu sair do país. A 
+diferença é que, ao contrário dos muitos conterrâneos que to-
+maram a mesma decisão difícil, ela preferiu atravessar o Atlân-
+tico, rumo à Europa, em vez de se juntar aos milhares que estão 
+seguindo a pé para o norte, na esperança de chegar aos EUA e 
+obter asilo ali.
+
+Esses exemplos foram utilizados para detalhar os níveis de co-
+nexão em que o conector atua, e os retomamos aqui porque esses 
+níveis são importantes para entender como os processos coesivos 
+são realizados. Percebemos que a relação entre a posição assu-
+mida  pelo  conector  e  o  escopo  por  ele  retomado  o  colocam  no 
+campo da microgramática – isto é, na dimensão suboracional ou 
+oracional – e, também, da macrogramática – isto é, na dimensão 
+superior ao período (cf. HASELOW, 2016). 
+
+Aplicando isso em nossa análise, ao atuar no nível oracional, 
+o  conector  por  isso  atua  no  nível  microgramatical,  pois  se  ocu-
+pa apenas da estrutura interna da oração. No entanto, o conec-
+tor também pode atuar em níveis interperíodo e interparágrafo, 
+promovendo articulação entre porções textuais maiores e, assim, 
+atuando no nível macrogramatical.
+
+Em (09), observamos que a preposição por atua possibilitan-
+do inferir qual foi o motivo por trás da ação tomada, mas a pre-
+posição atua em conjunto, como um chunking15, com o pronome 
+demonstrativo  isso  que  encapsula  a  oração  “Nós  não  queremos 
+de  forma  alguma  ter  um  problema  com  o  Fluminense”,  na  qual 
+o motivo foi apresentado. O mesmo procedimento se repete em 
+(12), só que no nível interperíodo, onde a preposição também pos-
+sibilita inferir a motivação da ação realizada, enquanto o pronome 
+demonstrativo retoma todos os períodos anteriores.
+
+15  Segundo Bybee (2010), entendemos por chunking o processo por meio do qual uma sequência de unidades usadas juntas 
+passa a formar uma unidade complexa.
+
+Para  finalizar,  em  (02),  temos  um  escopo  remissivo  ainda 
+maior, pois o conector atua no nível interparágrafo. Assim, a pre-
+posição possibilita uma progressão, introduzindo um novo tópico 
+que agrega à descrição sobre jornada de María ao sair de seu país, 
+mas o pronome demonstrativo retoma o parágrafo anterior que 
+contém os fatos que resultaram em sua decisão de deixar o país.
+
+Considerações finais
+
+O quadro abaixo sintetiza as respostas aos fatores de análi-
+se elaborados anteriormente e trabalhados ao longo deste artigo. 
+Desse modo, reservamos três pontos que não foram aprofunda-
+dos ao longo do trabalho para comentar aqui. O primeiro ponto 
+é  acerca  das  propriedades  pragmáticas  do  por  isso  que,  apesar 
+de  já  permearem  as  análises  empregadas,  julgamos  importante 
+reforçar. Os dados demonstraram sua polifuncionalidade e polis-
+semia, assim sua descrição depende, impreterivelmente, do co(n)- 
+texto  para  definir  sua  classificação,  sobretudo  morfossintática  e 
+semântica, visto que o por isso não apresenta uma única função e 
+significado vinculado. Sob esse ponto de vista, podemos afirmar 
+que por isso, na função de conector, sempre assume uma relação 
+pertencente ao domínio da causalidade, mas se essa relação será 
+de conclusão, consequência ou elaboração, dependerá do tipo de 
+relação contextual estabelecida entre D1 e D2.
+
+Quadro 3. Propriedades formais e funcionais de por isso.
+
+EIXO
+
+PROPRIEDADES
+
+TRAÇOS
+
+Morfológicas
+
+FORMA
+
+Sintáticas
+
+-  Formado  por  dois  elementos:  preposição 
+“por” e pronome demonstrativo “isso”;
+- Pode atuar como conector ou termo da oração.
+
+- Possui mobilidade;
+- Atua em diferentes níveis de conexão: oracio-
+nal, interperíodo e interparágrafo;
+-  Possibilita  remissão  a  diferentes  unidades 
+discursivas.
+
+Semânticas
+
+Pragmáticas
+
+Discursivo-fun-
+cionais
+
+FUNÇÃO
+
+-  Conector  polissêmico,  podendo  expressar 
+valores  de  consequência,  conclusão  e  elabo-
+ração.
+
+-  Sua  classificação  semântica  e  funcional  de-
+pende dos elementos co(n)textuais.
+
+-  Adota  funções  locais,  em  prol  da  microgra-
+mática;
+- Adota funções argumentais, em prol da ma-
+crogramática;
+-  Utilizado  em  sequências  dissertativo-argu-
+mentativas; narrativas e descritivas.
+
+Fonte: Elaboração própria.
+
+O segundo ponto diz respeito às propriedades morfológicas, 
+já que uma de nossas intenções era definir se por isto poderia ser 
+uma alternativa ao por isso, isto é, se também realizava ligação en-
+tre orações, períodos e parágrafos. Para responder isso, foi feita 
+uma breve análise das primeiras 50 ocorrências de por isto recu-
+peradas do Corpus Now. A busca demonstrou que o por isto, na 
+função de conector, também atua relacionando orações, períodos 
+e parágrafos16, dando margem para investigações futuras.
+
+O terceiro ponto diz respeito ao critério sintático da mobilida-
+de.  Embora  não  tenhamos  explorado  esse  critério  devidamente 
+nos dados apresentados neste texto, entendemos que por isso não 
+tem o estatuto de conjunção. Está mais próximo ao que Azeredo 
+(2014) chama de advérbio conjuntivo ou à classificação de advérbio 
+de Bechara (2004), na medida em que pode migrar para posições 
+diferentes dentro da unidade de informação que articula.
+
+O presente artigo objetivou apresentar o desenvolvimento da 
+pesquisa acerca da conector por isso, assim como os resultados 
+obtidos até o momento. Para isso, descrevemos as propriedades 
+formais e funcionais do conector, as relações semânticas que via-
+biliza, os níveis de conexão em que atua e o processo coesivo hí-
+brido que realiza.
+
+16 A análise dos valores semânticos e das propriedades construcionais de por isto não foi realizada, pois foge aos limites desta 
+pesquisa.
+
+Em suas relações semânticas, vimos que o conector viabiliza 
+valores  de  consequência,  conclusão  e  elaboração.  Valores  esses 
+que se estabelecem dentro dos domínios da causalidade descritos 
+por Sweetser (1990): domínio do conteúdo, domínio epistêmico e 
+domínio do ato de fala. Quanto aos níveis de conexão, vimos que 
+sua atuação ultrapassa a coordenação de orações proposta na tra-
+dição gramatical, atuando no nível oracional e em níveis supraora-
+cionais, com relações interperíodos e interparágrafos.
+
+Vimos, por fim, que por isso realiza, conjuntamente, os proces-
+sos de coesão sequencial, que possibilita a progressão do texto, e 
+de coesão referencial, que encapsula uma porção de texto ante-
+rior. A partir disso, desencadeia as relações lógico-semântica e dis-
+cursivo-argumentativas identificadas. Desse modo, a investigação 
+acerca desse objeto representou, para o domínio da conexão, uma 
+ampliação nas funções tradicionalmente descritas na literatura.
+
+Referências bibliográficas
+
+AZEREDO, José Carlos. Gramática Houaiss da Língua Portuguesa. São 
+Paulo: Publifolha, 2014.
+
+BECHARA, Evanildo. Moderna Gramática Portuguesa. Rio de Janeiro: 
+Lucerna, 2004.
+
+BYBEE, Joan. Language, Usage and Cognition. New York: Oxford 
+University Press, 2010.
+
+CASTILHO, Ataliba Teixeira de. Gramática do Português Brasileiro. São 
+Paulo: Contexto, 2014.
+
+CONTE, Maria-Elisabeth. Encapsulamento anafórico. In: CAVALCANTE, 
+Mônica; RODRIGUES, Bernadette (org.). Referenciação. Clássicos da 
+Linguística. V. 1. São Paulo: Contexto, 2003. p. 177-190.
+
+CUNHA, Celso; CINTRA, Lindley. Nova Gramática do Português 
+Contemporâneo. São Paulo: Nova Fronteira, 2001.
+
+CUNHA LACERDA, Patrícia Fabiane Amaral. O papel do método misto na 
+análise de processos de mudança em uma abordagem construcional: 
+reflexões e propostas. Revista Linguística/Revista do Programa de Pós-
+Graduação em Linguística da Universidade Federal do Rio de Janeiro, 
+Rio de Janeiro, Volume Especial, [s. n.], p. 83-101, 2016.
+
+DU BOIS, John. Competing Motivations. In: HAIMAN, John (ed.). Iconicity 
+in Syntax. Amsterdam/Philadelphia: John Benjamins, 1985. p. 343-365.
+
+FÁVERO, Leonor Lopes. Coesão e coerência textuais. São Paulo: Ática, 2004.
+
+FURTADO DA CUNHA, Maria Angélica et al. Linguística Funcional 
+Centrada no Uso: conceitos básicos e categorias analíticas. In: CEZARIO, 
+Maria Maura; FURTADO DA CUNHA, Maria Angélica (org.). Linguística 
+centrada no uso: uma homenagem a Mário Martelotta. Rio de Janeiro: 
+Mauad-Faperj, 2013. p. 13.39.
+
+GRICE, Herbert Paul. Logic and Conversation. In: COLE, Peter; 
+MORGAN, Jerry (ed.). Syntax and Semantics. New York: Academic Press, 
+1975. p. 41-58.
+
+HALLIDAY, Michael. An introduction to Functional Grammar. ed. 3. 
+London: Hodder Arnold, 2004.
+
+HASELOW, A. A processual view on grammar: Macrogrammar and the 
+final field in spoken syntax. Language Sciences, [s. l.], v. 54, [s. n.], p. 375-
+424, 2016.
+
+KOCH, Ingedore Grunfield Villaça. A coesão textual. São Paulo: Contexto, 
+2003.
+
+KURY, Adriano da Gama. Novas lições de análise sintática. São Paulo: 
+Ática, 2000.
+
+LIMA, Carlos Henrique da Rocha. Gramática Normativa da Língua 
+Portuguesa. Rio de Janeiro: José Olympio, 2003.
+
+LOPES, Monclar Guimarães. Encapsulamentos Semânticos em Perspectiva 
+Discursivo-Funcional. Orientador: Vanda Maria Cardozo de Menezes. 
+2010. Dissertação (Mestrado). 219 folhas. Mestrado em Língua 
+Portuguesa, Universidade Federal Fluminense, Niterói, 2010. 
+
+LOPES, Monclar Guimarães; SILVA, Simone Josefa. Propriedades coe-
+sivas e semânticas da construção complexa [com isso] à luz da lin-
+guística funcional centrada no uso. Revista Confluência, Liceu Literário 
+Português, Rio de Janeiro, n. 62, [s.v.], p. 240-269, 2022.
+
+LOPES, Monclar Guimarães; MOURA, Samara Costa. As construções 
+conectoras [com isso] e [como se não bastasse (x)] na promoção da 
+coesão híbrida. Revista Soletras, UERJ, Rio de Janeiro, [s. v.], n. 41, p. 189-
+215, 2021.
+
+MARCHUSCHI, Luiz Antonio. Linguística de Texto: o que é, como se faz. 
+Recife: Universidade Federal de Pernambuco, 1983.
+
+MARQUES, Norma Barbosa Novaes; PEZATTI, Erotilde Goreti. A relação 
+conclusiva na língua portuguesa: funções resumo, conclusão e conse-
+quência. São Paulo: Editora UNESP, 2015.
+
+MONDADA, Lorenza; DUBOIS, Danièle. Construção dos objetos de 
+discurso e categorização: uma abordagem dos processos de referencia-
+ção. In: CAVALCANTE, Mônica; RODRIGUES, Bernadete. Referenciação. 
+Clássicos da Linguística. v. 1. São Paulo: Contexto, 2003, p. 17-52.
+
+OLIVEIRA, Mariangela Rios; ROSÁRIO, Ivo da Costa do. Funcionalismo e 
+abordagem construcional da gramática. Revista Alfa, Unesp, São José do 
+Rio Preto, n. 60, v. 2, p. 233-259, 2016.
+
+RAPOSO, Eduardo Buzaglo Paiva et al. Gramática do Português. v. 1. 
+Lisboa: Fundação Calouste Gulbenkian, 2015.
+
+ROSÁRIO, Ivo da Costa; SAMBRANA, Vania Rosana Mattos. Análise fun-
+cional da construção conectora contrastiva “mas olha”. Revista Soletras, 
+UERJ, Rio de Janeiro, [s. v.], n. 41, p. 216-234, 2021.
+
+SEARLE, John. A Classification of Illocutionary Acts. Language in Society, 
+New York, v. 5, n. 1, p. 1-23, apr. 1976.
+
+SWEETSER, Eve. From Etymology to Pragmatics. Metaphorical and 
+Cultural Aspects of Semantic Structure. Peking: Peking University Press, 
+1990.
+
+TRAUGOTT, Elizabeth Closs; TROUSDALE, Graeme. Constructionalization 
+and Constructional Changes. New York: Oxford University Press, 2013.
+
+

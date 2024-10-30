@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119349917168293976/df95a5f8bc0a424b810151e221d809be/artifacts
+deleted_time: 1730137565607
+end_time: 1730137250909
+entry_point_name: ''
+experiment_id: '119349917168293976'
+lifecycle_stage: deleted
+run_id: df95a5f8bc0a424b810151e221d809be
+run_name: skillful-shrew-477
+run_uuid: df95a5f8bc0a424b810151e221d809be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730137247809
+status: 3
+tags: []
+user_id: rapha

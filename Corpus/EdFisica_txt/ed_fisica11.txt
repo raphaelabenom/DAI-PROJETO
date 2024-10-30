@@ -1,0 +1,809 @@
+Avaliação isocinética de extensores e flexores de joelho de 
+ciclistas amadores
+
+https://doi.org/10.11606/issn.1981-4690.2023e37195169
+
+Thais Andréia Schepa Weber*
+Letícia Pereira*
+Gerson Saciloto Tadiello* 
+Anderson Rech*
+Leandro Viçosa Bonetti*
+
+*Universidade de 
+Caxias do Sul, Caxias 
+do Sul, Rio Grande do 
+Sul, Brasil.
+
+Resumo
+
+O objetivo do presente estudo foi analisar o desempenho muscular de extensores e flexores de joelho 
+de ciclistas amadores do sexo masculino. Participaram deste estudo 20 ciclistas de estrada amadores, 
+do sexo masculino, com idade média de 37,70 (±4,34) anos, tempo médio de prática esportiva de 
+12,05 (±7,99) anos, frequência média de treino semanal de 4,75 (±1,16) dias e distância média semanal 
+percorrida de 301,90 (±97,44) quilômetros. Para avaliação do desempenho muscular dos extensores 
+e flexores de joelho foi utilizado um dinamômetro isocinético, no modo concêntrico-concêntrico, 
+nas velocidades angulares de 60°/s., 120°/s., 180°/s. e 240°/s. Os parâmetros analisados foram o pico 
+de torque de extensores e flexores de joelho, além da razão flexores/extensores. O teste t pareado 
+de Student foi utilizado para verificar assimetrias entre os membros e foi considerado o nível de 
+significância de p < 0,05. Na comparação entre o membro dominante e o membro não-dominante, 
+não foram observadas diferenças estatisticamente significativas entre os membros, tanto na análise 
+dos valores médios de pico de torque como da razão flexores/extensores em todas as velocidades 
+angulares avaliadas. Os resultados sugerem que, em ciclistas amadores, os movimentos cíclicos e 
+com exigências bilaterais idênticas podem ser responsáveis pelas simetrias encontradas. Entretanto, 
+os valores baixos da razão flexores/extensores apontam desequilíbrios musculares entre extensores 
+e flexores de joelho, o que pode resultar em um maior risco de lesões. 
+
+Palavras-chave: Ciclismo; Desempenho atlético; Dinamômetro de força muscular; Joelho.
+
+Introdução
+
+O  número  de  praticantes  do  ciclismo  vem 
+aumentando,  fazendo  desse  esporte  um  dos 
+esportes mais populares no mundo1,2. Diversas 
+modalidades  foram  criadas,  e  entre  as  mais 
+populares  pode-se  destacar  o  ciclismo  de 
+estrada,  ciclismo  em  pista,  mountain  bike, 
+BMX e para-ciclismo3,4. O ciclismo de estrada se 
+caracteriza por provas em trechos planos e longos, 
+geralmente  percorridos  em  altas  velocidades  e 
+em grandes grupos5. Esta modalidade também 
+
+se caracteriza pela presença de algumas variáveis 
+incontroláveis, como condições meteorológicas, 
+altitude, tática de equipe e direção do vento, as 
+quais podem afetar o desempenho do ciclista6.
+
+Apesar da prática do ciclismo trazer inúmeros 
+benefícios  à  saúde  e,  consequentemente,  à 
+melhora da qualidade de vida de seus praticantes1, 
+ciclistas recreativos apresentam um elevado índice 
+de lesões7. As regiões mais comumente afetadas 
+por lesões decorrentes do ciclismo são o ombro, 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195169  •  1
+
+coluna lombar, coluna cervical e o joelho8-10. O 
+joelho é a região dos membros inferiores mais 
+acometida por lesões em ciclistas11,12, sendo que 
+entre as principais causas desses eventos, está um 
+aumento desproporcional de força dos extensores 
+do joelho, quando comparados aos músculos do 
+grupo flexor12,13. Cabe, no entanto, salientar que 
+os elevados índices de lesões no joelho também 
+podem ser decorrentes de fatores intrínsecos e/ou 
+extrínsecos, incluindo volume de treinamento, 
+técnicas  inapropriadas3,  fatores  anatômicos, 
+funcionais,  retrações  musculotendíneas14  e 
+movimentos repetitivos que podem resultar em 
+lesões de origem não traumática15,16.
+
+Entretanto, além do risco de lesão provocado 
+pelos  desequilíbrios  musculares,  a  otimização 
+do  recrutamento  muscular  dos  extensores  e 
+flexores  de  joelho  também  é  importante  para 
+a  melhora  do  desempenho,  pois  são  grupos 
+musculares  que  contribuem  de  forma  distinta 
+nas  fases  da  pedalada17.  Por  isso,  a  avaliação  da 
+função  muscular  é  um  importante  parâmetro  a 
+ser  considerado,  tanto  para  projetar  programas 
+de  prevenção  de  lesões  como  para  identificar 
+déficits e melhorar o desempenho muscular dos 
+praticantes desta modalidade esportiva. Entre as 
+ferramentas de mensuração da função muscular, 
+destaca-se a dinamometria isocinética, um método 
+
+seguro, confiável e preciso de avaliação da força 
+muscular  em  velocidade  controlada18,19.  As 
+avaliações isocinéticas, além de serem utilizadas na 
+reabilitação, também são utilizadas para melhora 
+do  desempenho  muscular  e  identificação  de 
+fatores  de  risco  de  lesões  musculoesqueléticas20. 
+Dentre  as  variáveis  avaliadas,  o  pico  de  torque, 
+ou seja, o ponto de maior força em determinada 
+amplitude de movimento é a variável mais utilizada 
+e  a  comparação  entre  o  membro  dominante  e 
+membro  não-dominante21.  Outro  parâmetro 
+comumente  utilizado  para  análise  de  equilíbrio 
+muscular é a razão agonista/antagonista, sendo na 
+articulação do joelho também denominada razão 
+flexores/extensores,  que  é  calculada  a  partir  do 
+percentual  obtido  através  da  divisão  do  pico  de 
+torque concêntrico dos flexores pelo pico de torque 
+concêntrico  dos  extensores  de  joelho22-24.  No 
+entanto, apesar da literatura científica apresentar 
+um grande número de estudos sobre a avaliação 
+isocinética de extensores e flexores de joelho em 
+diferentes modalidades esportivas, foi encontrado 
+apenas  um  estudo  que  avaliou  praticantes  de 
+ciclismo  de  estrada,  porém  este  estudo  avaliou 
+atletas  de  alto  rendimento25.  Sendo  assim,  esse 
+estudo  teve  como  principal  objetivo  avaliar  o 
+desempenho muscular de extensores e flexores de 
+joelho de ciclistas de estrada amadores.
+
+Método
+
+A  presente  pesquisa  se  caracterizou  como 
+um  estudo  descritivo  e  observacional,  com 
+delineamento  transversal26.  Este  estudo  foi 
+aprovado (número do parecer 3.361.817) pelo 
+Comitê  de  Ética  e  Pesquisa  da  Universidade 
+de  Caxias  do  Sul  (UCS  -  Caxias  do  Sul,  Rio 
+Grande do Sul, Brasil) e conduzido de acordo 
+com a resolução nº 466 de 12 de dezembro de 
+2012,  do  Conselho  Nacional  de  Saúde,  que 
+aprova as diretrizes e normas regulamentadoras 
+de pesquisas envolvendo seres humanos. O local 
+de realização deste estudo foi o Laboratório de 
+Biomecânica do Centro Clínico da Universidade 
+de Caxias do Sul (CECLIN-UCS).
+
+Fizeram  parte  da  amostra  20  ciclistas  de 
+estrada amadores do sexo masculino, com idade 
+entre  25  e  45  anos  e  oriundos  de  equipes  de 
+ciclismo  da  serra  gaúcha.  O  número  amostral 
+foi  estabelecido  por  conveniência,  de  forma 
+
+intencional  e  não  probabilística26,  mediante 
+pesquisa prévia nas equipes de ciclismo locais. 
+Foram incluídos os ciclistas que: a) apresentaram 
+o Termo de Consentimento Livre e Esclarecido 
+(TCLE) assinado; b) estivessem em treinamento 
+regular, há ao menos seis meses, com frequência 
+mínima  de  três  vezes  por  semana;  c)  com 
+distâncias  semanais  percorridas  entre  150  e 
+500  quilômetros.  Foram  excluídos  os  ciclistas 
+que: a) apresentaram alguma doença aguda no 
+dia da avaliação; b) apresentaram alguma lesão 
+neuromusculoesquelética aguda e que os tenha 
+afastado das últimas três sessões de treinamento; 
+c) relataram alguma lesão de membros inferiores 
+nos 30 dias anteriores à avaliação.
+
+Em um primeiro momento, os ciclistas foram 
+abordados  pelos  pesquisadores  em  seus  locais  de 
+treinamento,  para  a  explicação  dos  objetivos  da 
+pesquisa  e  de  como  ocorreriam  as  avaliações  do 
+
+2  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195169
+
+desempenho  muscular.  Após  o  esclarecimento 
+de  eventuais  dúvidas,  os TCLE  assinados  foram 
+entregues  pelos  participantes,  previamente  ao 
+agendamento das primeiras avaliações. No dia da 
+avaliação,  os  ciclistas  realizaram  as  mensurações 
+antropométricas  e  responderam  um  questionário 
+sobre o tempo de prática esportiva, frequência de 
+treinamento semanal, distância semanal percorrida 
+e lesões pregressas. Após, foi realizada a avaliação 
+de  desempenho  muscular,  através  da  avaliação 
+isocinética, realizada no dinamômetro isocinético 
+do  Centro  Clínico  da  Universidade  de  Caxias 
+do Sul (Biodex System 4®, Biodex Medical Systems, 
+Shieley, Nova Iorque, EUA). Foram avaliados os 
+extensores  e  flexores  dos  joelhos,  utilizando-se 
+protocolos  baseados  nos  estudos  de  Stedile  et 
+al.27 e Bonetti et al.28. Primeiramente, os ciclistas 
+realizaram  exercício  de  aquecimento  em  uma 
+bicicleta  ergométrica  vertical  (BiocycleMagnetic 
+2500®,  Moviment,  São  Paulo,  Brasil),  por  8 
+minutos, com velocidade moderada (70-80 rotações 
+por  minuto)  e  sem  resistência.  Ao  finalizar  o 
+aquecimento, os ciclistas foram encaminhados ao 
+dinamômetro e foram posicionados em sedestação 
+na cadeira do dinamômetro com o tronco inclinado 
+em 85° e estabilizadas com cintos no tronco, cintura 
+pélvica e coxa (1/3 distal) para evitar movimentos 
+compensatórios, e o eixo motor do dinamômetro 
+foi alinhado com o eixo da articulação do joelho. A 
+avaliação ocorreu de forma bilateral, primeiramente 
+com o membro dominante (MD) e posteriormente 
+com o membro não dominante (MND). Os ciclistas 
+executaram três contrações musculares prévias (de 
+maneira subjetiva, realizaram a primeira contração 
+com  1/3  de  uma  contração  máxima,  a  segunda 
+
+com 2/3 e a terceira com contração máxima) em 
+cada uma das quatro velocidades angulares, para 
+ambos os membros e grupos musculares, para fins 
+de familiarização com o equipamento. O protocolo 
+foi de 5, 10, 15 e 20 repetições máximas no modo 
+concêntrico de cada movimento (flexão e extensão 
+de  joelhos),  nas  velocidades  angulares  de  60°/s., 
+120°/s.,  180°/s.  e  240°/s.,  respectivamente.  Foi 
+estipulado o tempo de 1 minuto de descanso entre 
+a avaliação em uma velocidade e outra, e o tempo de 
+3 minutos entre a avaliação de um membro e outro. 
+Os ciclistas foram avaliados por um mesmo avaliador, 
+com experiência em avaliação isocinética, e ao longo 
+da avaliação foram utilizados estímulos verbais para 
+estimular o ciclista a usar sua força máxima.
+
+Os dados coletados foram analisados por meio do 
+programa estatístico GraphPadPrism 6.0 (GraphPad, 
+Inc., San Diego, Califórnia, EUA). Para a descrição 
+das variáveis musculares de pico de torque (N.m) e 
+razão flexores/extensores (%), foi utilizada a estatística 
+descritiva com medidas de tendência central (média) 
+e de variabilidade (desvio padrão). Para verificar a 
+normalidade da distribuição dos dados, as informações 
+foram submetidas ao teste de normalidade de Shapiro-
+Wilk. Os dados apresentaram distribuição normal e 
+paramétrica e, por isso, o teste t pareado de Student foi 
+utilizado para verificar assimetrias entre os membros, 
+por meio da comparação entre os valores médios de 
+pico de torque (PT) e a razão flexores/extensores. Foi 
+considerado o nível de significância de p < 0,0529. 
+Assimetrias bilaterais entre os membros também foram 
+calculadas, usando uma equação específica que consistiu 
+em dividir a diferença entre os valores do PT ou da razão 
+flexores/ extensores do MD e do MND pelo valor do 
+MD e então, multiplicado por 100.
+
+Resultados
+
+As características antropométricas e informações 
+sobre  tempo  de  prática  esportiva,  frequência  de 
+treinamento  e  distância  percorrida  pelos  ciclistas 
+são apresentadas na TABELA 1. Com relação ao 
+Índice de Massa Corporal (IMC), a maior parte dos 
+participantes apresentaram valores dentro do que 
+é sugerido pela Organização Mundial de Saúde30, 
+sendo que apenas quatro apresentaram valores entre 
+25,0 e 29,9 Kg/m², considerado excesso de peso. 
+Embora  nenhum  participante  incluso  no 
+
+estudo  apresentou  lesões  nos  30  dias  anteriores 
+à  suas  avaliações,  foram  relatadas  algumas  lesões 
+prévias,  sendo  elas:  duas  rupturas  e  consequente 
+reconstruções  cirúrgicas  do  ligamento  cruzado 
+anterior  de  joelho,  uma  lesão  meniscal  e  uma 
+consequente  meniscectomia,  e  uma  fratura  de 
+fêmur. Quando questionados sobre a dominância 
+de membros inferiores, 18 relataram dominância 
+do  lado  direito  enquanto  apenas  dois  relataram 
+apresentar dominância do lado esquerdo.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195169  •  3
+
+TABELA 1 - Características dos participantes, apresentadas em valores médios (DP).
+
+IMC = índice de massa 
+corporal; 
+DP = desvio padrão;
+kg = quilogramas;
+m = metros;
+kg/m² = quilograma por 
+metro quadrado; 
+km = quilômetros.
+
+Idade (anos)
+Estatura (m)
+Massa corporal (kg)
+IMC (kg/m²)
+Tempo de prática (anos)
+Frequência treino semanal (dias)
+Distância semanal (km)
+
+37,70 (±4,34)
+1,76 (±0,07)
+75,05 (±8,11)
+24,05 (±1,45)
+12,05 (±7,99)
+4,75 (±1,16)
+301,90 (±97,44)
+
+A TABELA  2  apresenta  os  valores  médios  do 
+pico de torque dos extensores e flexores de joelho 
+e a TABELA 3 os valores médios da razão flexores/
+extensores; de ambos os membros, nas velocidades 
+angulares  de  60º/s.,  120º/s.,  180º/s.  e  240º/s. 
+Na  comparação  entre  os  membros,  não  foram 
+observadas diferenças estatisticamente significativas 
+entre o MD e o MND. Além disso, o índice de 
+simetria  médio  entre  os  membros  apresentou-se 
+abaixo dos 10% sugeridos pela literatura em todas 
+as velocidades angulares avaliadas.
+
+Na TABELA 3 ainda é possível observar que os 
+valores médios da razão flexores/extensores variaram 
+entre 49,20% (MD à 60º/s.) e 64,86% (MND à 
+240º/s.). Considerando que foram avaliadas quatro 
+velocidades  angulares  distintas  (incluindo  uma 
+velocidade alta, 240º/s.), pode-se observar que os 
+valores médios variaram pouco entre 60º/s. e 240º/s. 
+Além disso, os valores médios nas velocidades mais 
+altas,  180º/s.  e  240º/s.,  podem  ser  considerados 
+valores baixos, pois velocidades acima de 180º/s. 
+são esperados valores entre 70 e 80%31,32.
+
+TABELA 2 -  
+
+Valores médios (DP) do pico de torque (PT) da musculatura extensora e flexora de joelho dos membros 
+dominante e não dominante.
+
+PT extensores de joelho (N.m)
+
+PT flexores de joelho (N.m)
+
+Velocidades 
+angulares
+
+MD
+
+MND
+
+p
+
+MD
+
+MND
+
+DP = desvio padrão; 
+MD = membro 
+dominante; 
+MND = membro não 
+dominante.
+
+60º/s.
+120º/s.
+180º/s.
+240º/s.
+
+220,71 (±34,46)
+173,65 (±26,14)
+145,15 (±22,06)
+127,83 (±19,65)
+
+217,45 (±29,13)
+173,16 (±25,23)
+145,11 (±22,43)
+124,63 (±20,75)
+
+0,45
+0,88
+0,99
+0,26
+
+107,90 (±19,08)
+93,13 (±18,88)
+83,81 (±14,44)
+78,95 (±14,78)
+
+107,99 (±19,08)
+95,47 (±15,23)
+86,81 (±15,11)
+80,28 (±14,49)
+
+Assimetria 
+bilateral 
+
+(%)
+0,83
+0,00
+-0,18
+2,38
+
+TABELA 3 - Valores médios (DP) da razão flexores/extensores de joelho dos membros dominante e não dominante.
+
+DP = desvio padrão; 
+MD = membro 
+dominante; 
+MND = membro não 
+dominante.
+
+Velocidades 
+angulares
+
+60º/s.
+120º/s.
+180º/s.
+240º/s.
+
+Razão flexores/extensores (%)
+
+MD
+
+49,20 (±6,80)
+53,62 (±7,33)
+58,18 (±8,59)
+62,22 (±9,38)
+
+MND
+
+50,07 (±6,94)
+55,49 (±6,47)
+60,12 (±6,80)
+64,86 (±7,80)
+
+p
+0,61
+0,12
+0,24
+0,16
+
+Discussão
+
+Este estudo teve como objetivo principal analisar o 
+desempenho muscular de ciclistas amadores do sexo 
+masculino, no que tange o equilíbrio articular entre 
+flexores e extensores, bem como a simetria de forças 
+entre MD e MND. Os resultados da presente pesquisa 
+
+demonstraram simetrias entre os membros, ou seja, 
+não foram encontradas diferenças significativas na 
+comparação entre o MD e MND, tanto na análise 
+dos valores médios de pico de torque como da razão 
+flexores/extensores em todas as velocidades angulares 
+
+4  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195169
+
+Assimetria 
+bilateral 
+
+(%)
+-1,42
+-4,33
+-4,15
+-2,37
+
+p
+
+0,98
+0,36
+0,17
+0,54
+
+Assimetria 
+bilateral (%)
+
+-2,94
+-4,43
+-4,54
+-5,54
+
+avaliadas. Além disso, a diferença percentual entre os 
+membros foi inferior a 10% em todas as avaliações. 
+Os valores médios da razão flexores/extensores de 
+joelho apresentaram pouca variação entre as quatro 
+velocidades avaliadas, além de valores baixos nas 
+velocidades de 180º/s. e 240º/s.
+
+Com relação à comparação entre os membros 
+inferiores,  estudos  prévios  utilizando  distintas 
+metodologias  demonstraram  que  ciclistas 
+apresentam  assimetrias  entre  o  MD  e  o  MND, 
+diferentemente  das  constatações  de  força  no 
+presente estudo. Carpes et al.33 evidenciaram uma 
+maior  produção  de  torque  no  pedivela  do  MD 
+de seis ciclistas do sexo masculino num percurso 
+de 40km em um cicloergômetro. Utilizando uma 
+metodologia similar, Bertucci et al.34 avaliaram 11 
+ciclistas do sexo masculino e também observaram 
+que os atletas apresentaram maior torque no MD 
+durante a fase de potência da pedalada. No entanto, 
+a  aplicação  simétrica  de  forças  no  pedal  entre  o 
+MD e o MND não tem correlação direta com um 
+melhor desempenho, como demonstrado no estudo 
+de Bini e Hume35, com seis ciclistas/triatletas em 
+uma distância de 4km; e no estudo de Bini et al.36, 
+com 15 ciclistas de ambos os sexos em uma distância 
+de 20km. Quando a eletromiografia de superfície 
+foi utilizada para avaliar a atividade muscular de 
+ciclistas, não foram demonstradas diferenças entre 
+os membros na avaliação dos gastrocnêmios, bíceps 
+femoral e vasto lateral37,38. Devido a isso, Carpes 
+et al.37 sugerem que os estudos que demonstraram 
+maiores torques no pedivela no MD não têm relação 
+com  a  magnitude  da  ativação  muscular.  Cabe 
+salientar que, nos estudos anteriormente citados, a 
+participação dos MD e MND foram avaliadas de 
+forma específica em torno do movimento funcional 
+da  pedalada,  enquanto  o  presente  estudo  foi 
+realizado no dinamômetro isocinético. 
+
+No  que  se  refere  à  avaliação  isocinética  de 
+extensores  e  flexores  de  joelho  de  ciclistas,  a 
+literatura científica apresenta apenas um estudo. No 
+entanto, os autores apresentaram os resultados de 
+pico de torque e da razão flexores/extensores como 
+média  entre  o  MD  e  o  MND,  impossibilitando 
+a  comparação  com  os  resultados  da  presente 
+pesquisa25.  Já  Martins  e  Soares39  utilizaram  as 
+velocidades angulares de 90°/s. e 360°/s. para avaliar 
+isocineticamente 12 triatletas do sexo masculino e 
+demonstraram resultados similares ao deste estudo, 
+sem diferenças significativas entre os membros nas 
+análises do pico de torque de extensores, flexores 
+e da razão flexores/extensores; além de diferenças 
+
+inferiores a 10% em todos esses parâmetros. Essa 
+comparação  percentual  é  importante  na  prática 
+clínica, e é estabelecido que diferenças superiores a 
+10% entre os membros inferiores é um indicativo de 
+que os atletas apresentam um maior risco de lesões 
+nos membros inferiores40-43. Todavia, pode-se dizer 
+que  as  simetrias  entre  os  membros  inferiores  de 
+ciclistas, durante a análise de desempenho muscular 
+através da dinamometria isocinética é um resultado 
+esperado.  O  movimento  executado  pelo  ciclista 
+exige a coordenada combinação dos músculos dos 
+membros inferiores, de forma repetitiva e cíclica, 
+ou  seja,  sem  exigência  da  predominância  de  um 
+membro inferior com relação ao outro44. Assimetrias 
+musculares  de  atletas  adultos  são  esperadas  em 
+modalidades  esportivas  acíclicas  (basquetebol, 
+futebol, handebol), ou seja, que apresentam uma 
+maior alternância entre as exigências unilaterais dos 
+membros inferiores, sobrecarregando, geralmente, o 
+membro dominante45. O futebol é um exemplo de 
+como esta exigência unilateral pode ser identificada 
+através  da  avaliação  de  desempenho  muscular 
+utilizando  o  dinamômetro  isocinético,  tanto  em 
+atletas adultos amadores44 como profissionais47-48.
+
+No  que  se  refere  à  análise  dos  valores  médios 
+da razão flexores/extensores de joelho no grupo de 
+ciclistas estudado, em todas as quatro velocidades 
+avaliadas,  observou-se  que  os  valores  médios 
+tiveram  pequena  variação  entre  60º/s.  e  240º/s., 
+com os valores médios nas velocidades mais altas 
+(180º/s. e 240º/s.) considerados abaixo dos valores 
+adequados31-32.  A  razão  convencional,  ou  seja,  o 
+pico  de  torque  concêntrico  dos  flexores  dividido 
+pelo pico de torque de extensores do joelho foram 
+utilizados  para  esta  análise23,49.  Esta  razão  entre 
+grupos  musculares  antagonistas  e  agonistas  de 
+uma  articulação  específica  é  o  parâmetro  mais 
+utilizado para avaliação de equilíbrio muscular50,51. 
+Os valores recomendados pela literatura científica 
+para uma função normal da articulação do joelho 
+variam entre 50 e 80%49,52,53; sendo dependente do 
+ângulo do joelho e da velocidade selecionada50. Em 
+velocidades baixas, até 180º/s., os valores esperados 
+são entre 50 e 69%; enquanto em velocidades altas, 
+acima de 180º/s., os valores esperados são entre 70 e 
+80%, podendo chegar a aproximadamente 100% em 
+velocidades acima de 300º/s.31-32. No entanto, alguns 
+estudos  consideram  60%  como  valor  normativo 
+da razão flexores/extensores à 60º/s., considerando 
+que  atletas  com  valores  inadequados  apresentam 
+desequilíbrio muscular e maior risco de lesões31,32,54. 
+Na velocidade média de 60º/s., os ciclistas avaliados 
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195169  •  5
+
+no  presente  estudo  apresentaram  valores  médios 
+de  49,20%  e  50,07%,  para  o  MD  e  MND, 
+respectivamente. Ou seja, o MD apresenta-se abaixo 
+e o MND muito próximo dos 50%49,52 considerados 
+como ponto de corte por alguns autores, e abaixo 
+dos 60% sugerido por outros31,32,54. Além disso, à 
+240º/s., ambos os membros apresentaram valores 
+médios abaixo dos 70%, valor mínimo considerado 
+como um bom equilíbrio muscular entre flexores e 
+extensores de joelho. Rannama et al.25 avaliaram 17 
+ciclistas de estrada de alto nível (20 anos de idade 
+média), nas velocidades de 60°/s., 180°/s. e 240°/s. 
+e a média dos dois membros também demonstrou 
+valores  da  razão  abaixo  do  sugerido,  em  todas 
+velocidades avaliadas (57% a 60°/s., 60% a 180°/s. e 
+62% a 240°/s.). Já Silva et al.55, avaliaram 16 ciclistas 
+indoor (nove do sexo masculino e sete do feminino, 
+com média de idade de 25 anos) através do teste 
+de uma repetição máxima na cadeira extensora e 
+flexora, demonstrando uma razão flexores/extensores 
+de  51,1%.  Valores  da  razão  flexores/extensores 
+abaixo  do  indicado  pela  literatura  demonstram 
+uma  redução  da  função  dos  flexores  quando 
+comparado  aos  extensores  de  joelho,  sendo 
+considerado  um  fator  de  risco  potencial  para 
+lesões  no  joelho  (em  especial  do  ligamento 
+cruzado  anterior)  e  distensões  musculares 
+dos  flexores  de  joelho  (isquiotibiais)43,50,51,56. 
+Entretanto,  alguns  estudos  demonstraram  que 
+os valores da razão flexores/extensores de joelho 
+são  influenciados  diretamente  pelas  demandas 
+específicas  do  esporte  em  questão50,57,58.  Em 
+ciclistas, este desequilíbrio muscular se justifica 
+pelas exigências dos extensores na fase descendente 
+
+da pedalada ser muito superior à exigência dos 
+flexores  durante  a  fase  ascendente59,60,  ou  seja, 
+durante o ciclismo o movimento de extensão é mais 
+significativo que o de flexão de joelho55.
+
+A  presente  pesquisa  apresenta  algumas 
+limitações, sendo a principal o pequeno número 
+amostral, mesmo considerando a homogeneidade 
+da amostra de ciclistas. Além disso, a presente 
+amostra incluiu apenas ciclistas do sexo masculino, 
+sendo indicado que possíveis variações de valores 
+entre  homens  e  mulheres  sejam  estudadas  em 
+estudos vindouros. Por fim, apesar do presente 
+estudo ter avaliado quatro velocidades angulares, 
+o que predispõe uma interessante discussão sobre 
+a  influência  da  velocidade  sobre  o  perfil  das 
+razões analisadas, as avaliações foram realizadas 
+apenas no modo concêntrico. 
+
+Diante do exposto, os resultados desta pesquisa 
+permitem concluir que os ciclistas amadores do 
+sexo  masculino  avaliados  apresentam  simetrias 
+entre  os  membros  na  análise  de  extensores, 
+flexores e da razão flexores/extensores de joelho
+Possivelmente, essas simetrias ocorrem devido 
+aos movimentos dos membros inferiores durante 
+a  prática  do  ciclismo  serem  cíclicos  e  com 
+exigências  bilaterais  idênticas.  Entretanto,  os 
+resultados da análise da razão flexores/extensores 
+demonstraram desequilíbrios entre a musculatura 
+extensora e flexora de joelho, sugerindo um maior 
+risco  de  lesões.  Devido  a  isso,  é  fundamental 
+realizar um trabalho de fortalecimento específico 
+da musculatura flexora de joelhos, com o intuito 
+de equilibrar a razão flexores/extensores e, então 
+diminuir os riscos de lesões musculoesqueléticas.
+
+6  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195169
+
+Abstract
+
+Amateur cyclist’s isokinetic evaluation of knee’s extensors and flexors.
+
+The aim of the present study was to analyze the male amateur cyclists’ performance of knee’s extensors 
+and flexors muscles. Participated of the study twenty male amateur road cyclists, with a mean age of 
+37.70 (±4.34) years, mean time of sports practice of 12.05 (±7.99) years, mean frequency of weekly 
+training of 4.75 (±1.16) days, and average weekly distance traveled of 301.90 (±97.44) kilometers. To 
+evaluate the performance of the knee’s extensors and flexors muscles, an isokinetic dynamometer was 
+used, on concentric-concentric mode, at angular velocities of 60°/s., 120°/s., 180°/s. and 240°/s. The 
+parameters analyzed were the peak torque of knee’s extensors and flexors muscles and flexor/extensor 
+ratio. Student's paired t test was used to verify asymmetries between limbs and a significance level 
+of p < 0.05 was considered. In the comparison between the dominant limb and the non-dominant 
+limb, no statistically significant differences were observed between the limbs, both in the analysis of 
+the mean values of peak torque and the flexor/extensor ratio at all angular velocities evaluated. The 
+results suggest, in amateur cyclists, the cyclical movements with identical bilateral requirements may 
+be responsible for the symmetries found. However, low values of the flexor/extensor ratio indicate 
+muscle imbalances between knee’s extensors and flexors muscles, which can result in a higher risk 
+of injury. 
+
+Keywords: Cycling; Athletic performance; Muscle strength dynamometer; Knee.
+
+Referências
+
+1. Kleinpaul JF, Mann L, Diefenthaeler F, Moro ARP, Carpes FP. Aspectos determinantes do posicionamento corporal 
+no ciclismo: uma revisão sistemática. Rev Educ Fís. 2010;16(4):1013-23.
+2. Forte P, Marinho DA, Barbosa TM, Morouço P, Morais JE. Estimation of an elite road cyclist performance in different 
+positions based on numerical simulations and analytical procedures. Front Bioeng Biotechnol. 2020;8(1):538-46.
+3. Kotler DH, Babu AN, Robidoux G. Prevention, evaluation, and rehabilitation of cycling-related injury. Curr Sports 
+Med Rep. 2016;15(3):199-206.
+4. Richard NA, Koehle MS. Optimizing recovery to support multi-evening cycling competition performance. Eur J 
+Sport Sci. 2019;19(6):811-23.
+5. Lucía A, Hoyos J, Chicharro JL. Physiology of professional road cycling. Sports Med. 2001;31(5):325-37.
+6. Costa VP, Oliveira FR. Aspectos morfológicos e fisiológicas no ciclismo de estrada e mountain bike cross-country. 
+Rev Ed Física. 2009;78(145):11-20.
+7. Silberman MR. Bicycling injuries. Curr Sports Med Rep. 2013;12(5):337-45.
+8. De Bernardo N, Barrios C, Vera P, Laíz C, Hadala M. Incidence and risk for traumatic and overuse injuries in top-
+level road cyclists. J Sports Sci. 2012;30(10):1047-53.
+9. Barrios C, Bernardo ND, Vera P, Laíz C, Hadala M. Changes in sports injuries incidence over time in world-class 
+road cyclists. Int J Sports Med. 2015;36(03):241-8.
+10. Priego Quesada JI, Kerr ZY, Bertucci WM, Carpes FP. A retrospective international study on factors associated with 
+injury, discomfort and pain perception among cyclists. PloS One. 2019;14(1):e0211197.
+11. Ansari M, Nourian R, Khodaee M. Mountain biking injuries. Curr Sports Med Rep. 2017;16(6):404-12.
+12. So RC, Ng JKF, Ng GY. Muscle recruitment pattern in cycling: a review. Phys Ther Sport. 2005;6(2):89-96.
+13. Caselli MA, Rzonca EC, Rainieri JJ. Secrets to treating bicycling injuries. Clin Sports Med. 2005;18(8):108-12.
+14. Powers CM, Witvrouw E, Davis IS, Crossley KM. Evidence-based framework for a pathomechanical model of 
+patellofemoral pain: 2017 patellofemoral pain consensus statement from the 4th International Patellofemoral Pain 
+Research Retreat, Manchester, UK: part 3.Br J Sports Med. 2017;51(24):1713-23.
+15. De Bernardo N, Barrios C, Vera P, Laíz C, Hadala M. Incidence and risk for traumatic and overuse injuries in top-
+level road cyclists. J Sports Sci. 2012;30(10):1047-53.
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195169  •  7
+
+16. Decalzi JF, Narvy SJ, Vangsness Jr, CT. Overview of cycling injuries: results of a cycling club survey. Orthopedics. 
+2013;36(4):287-89.
+17. Silva JCL, Tarassova O, Ekblom MM, Andersson E, Rönquist G, Arndt A. Quadriceps and hamstring muscle 
+activity during cycling as measured with intramuscular electromyography. Eur J Appl Physiol. 2016;116(9):1807-17.
+18. Bruyère O, Beaudart C, Reginster JY, et al. Assessment of muscle mass, muscle strength and physical performance 
+in clinical practice: an international survey. Eur Geriatr Med. 2016;7(3):243-6.
+19. Zapparoli FY, Riberto M. Isokinetic evaluation of the hip flexor and extensor muscles: a systematic review. J Sport 
+Rehabil. 2017;26(6):556-66.
+20. Caruso JF, Brown LE, Tufano JJ. The reproducibility of isokinetic dynamometry data. Isokinet Exerc Sci. 
+2012;20(4):239-53.
+21. Paul DJ, Nassis GP. Testing strength and power in soccer players: the application of conventional and traditional 
+methods of assessment. J Strength Cond Res. 2015;29(6):1748-58.
+22. Evangelidis PE, Pain MTG, Folland J. Angle-specific hamstring-to-quadriceps ratio: a comparison of football 
+players and recreationally active males. J Sports Sci. 2015;33(3):309-19. 
+23. Islam MS, De A. Functional hamstring to quadriceps strength ratio (H:Q) and hamstrings injury of soccer players: 
+A qualitative analysis. Orthop Sports Med. 2018;2(2):126-32.
+24. Andrade MS, Junqueira MS, Barbosa De Lira CA, et al. Age-related differences in torque in angle-specific and peak 
+torque hamstring to quadriceps ratios in female soccer players from 11 to 18 years old: a cross-sectional study. 
+Res Sports Med. 2021;29(1):77-89.
+25. Rannama I, Bazanov B, Baskin K, Zilmer K, Roosalu M, Port K. Isokinetic muscle strength and short term cycling 
+power of road cyclists. J Hum Sport Exerc. 2013;2(8):19
+26. Thomas JR, Nelson JK, Silverman SJ. Métodos de pesquisa em atividade física. 6ª ed. Porto Alegre: Artmed; 2012. 
+27. Stedile AR, Pasqualotto LA, Tadiello GS, Finger ALT, De Marchi T, Bonetti LV. Isokinetic performance of knee 
+muscles in futsal athletes during pre-season and middle-season. Acta Fisiatrica. 2017;24:72-6. 
+28. Bonetti LV, Grisa NC, Demeda CS, Finger ALT, De Marchi T, Tadiello GS. Isokinetic performance of knee 
+extensor and flexor musculature in adolescent female handball players. Arch Med Deporte. 2018;35(3):157-61.
+29. Callegari-Jaques SM. Bioestatística: princípios e aplicações. Porto Alegre: Artmed. 2003.
+30. Organização Mundial de Saúde. Dicas em Saúde: Obesidade. 2009. Disponível em: https://bvsms.saude.gov.br/bvs/
+dicas/215_obesidade.html. 
+31. Coombs R, Garbutt G. Developments in the use of the hamstring/quadriceps ratio for the assessment of muscle 
+balance. J Sport Sci Med. 2002;1(3):56-62.
+32. Wright J, Ball N, Wood L. Fatigue, H/Q ratios and muscle coactivation in recreational football players. Isokinet 
+Exerc Sci. 2009;17(3):161-67.
+33. Carpes FP, Rossato M, Faria IE, Bolli MC. Bilateral pedaling asymmetry during 40-km cycling time-trial. J Sport 
+Med Phys Fitness. 2007;47(1):51-7.
+34. Bertucci WM, Arfaoui A, Polidori G. Analysis of the pedaling biomechanics of master’s cyclists: A preliminary 
+study. J Sci Cycl. 2012;1(2):42-6.
+35. Bini RR, Hume PA. Relationship between force asymmetry and performance in cycling time trial. J Sports Med 
+Phys Fitness. 2015;55(9):892-8.
+36. Bini RR, Jacques TC, Sperb CH, Lanferdini FJ, Vaz MA. Pedal force asymmetries and performance during a 20-km 
+cycling time trial. Kinesiology. 2016;48(2):193-9.
+37. Carpes FP, Diefenthaeler F, Bini RR, Stefanyshyn D, Faria IE, Mota CB. Does leg preference affect muscle 
+activation and efficiency? J Electromyogr Kinesiol 2010;20:1230-6.
+38. Carpes FP, Diefenthaeler F, Bini RR, Stefanyshyn DJ, Faria IE, Mota CB. Influence of leg preference on bilateral 
+muscle activation during cycling. J Sports Sci. 2011;29(2);151-9.
+39. Martins FSB, Soares, JMC. Estudo comparativo dos perfis antropométrico e fisiológico e avaliação isocinética da 
+força muscular nos membros inferiores em triatletas portugueses. Rev Bras Fisiol Exerc. 2013;12(2):75-82.
+40. Askling C, Karlsson J, Thorstensson A. Hamstring injury occurrence in elite soccer players after preseason strength 
+training with eccentric overload. Scand J Med Sci Sports. 2003;13(4):244-50.
+41. Liporaci RF, Saad M, Grossi DB, Riberto M. Clinical features and isokinetic parameters in assessing injury risk in 
+elite football players. Int J Sports Med. 2019;40(14):903-8.
+42. Rahnama N, Lees A, Bambaecichi E. A comparison of muscle strength and flexibility between the preferred and 
+
+8  •  Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195169
+
+non-preferred leg in English soccer players. Ergonomics. 2005;48(11-14):1568-75.
+43. Croisier JL, Ganteaume S, Binet J, Genty M, Ferret JM. Strength imbalances and prevention of hamstring injury in 
+professional soccer players: a prospective study. Am J Sports Med. 2008;36(8):1469-75.
+44. Blake OM, Champoux Y, Wakeling JM. Muscle coordination patterns for efficient cycling. Med Sci Sports Exerc. 
+2012;4(5):926-38.
+45. Kalata M, Maly T, Hank M, et al. Unilateral and bilateral strength asymmetry among young elite athletes of various 
+sports. Medicina. 2020;56(12):683-91.
+46. Blache Y, Monteil K. Contralateral strength imbalance between dominant and non-dominant lower limb in soccer 
+players. Sci Sports. 2012;27(3):e1-8.
+47. Fousekis K, Tsepis E, Vagenas G. Multivariate isokinetic strength asymmetries of the knee and ankle in professional 
+soccer players. J Sports Med Phys Fitness. 2010;50(4):465-74.
+48. Daneshjoo A, Rahnama N, Mokhtar AH, Yusof A. Bilateral and unilateral asymmetries of isokinetic strength and 
+flexibility in male young professional soccer players. J Hum Kinet. 2013;36:45-53.
+49. Kong PW, Burns SF. Bilateral difference in hamstrings to quadriceps ratio in healthy males and females. Phys Ther 
+Sport. 2010;11(1):12-7.
+50. Cheung RT, Smith AW, Wong DP. H:Q ratios and bilateral leg strength in college field and court sports players. J 
+Hum Kinet. 2012;33:63-71.
+51. Dauty M, Menu P, Fouasson-Chailloux A, Ferréol S, Dubois C. Prediction of hamstring injury in professional 
+soccer players by isokinetic measurements. Muscles Ligaments Tendons J. 2016;6(1):116-23.
+52. Rosene JM, Fogarty TD, Mahaffey BL. Isokinetic hamstrings: quadriceps ratios in intercollegiate athletes. J Athl 
+Train. 2001;36(4):378-83.
+53. Hewett TE, Myer GD, Zazulak BT. Hamstrings to quadriceps peak torque ratios diverge between sexes with 
+increasing isokinetic angular velocity. J Sci Med Sport. 2008; 11(5):452-9.
+54. Kim D, Hong J. Hamstring to quadriceps strength ratio and non-contact leg injuries: a prospective study during 
+one season. Isokinet Exerc Sci. 2011;19(1):1-6.
+55. Silva TS, Mesquita TS, Mendes LCV, Silva MS, Mota MR. Análise do nível de força dos músculos flexores e 
+extensores do joelho de praticantes de ciclismo indoor. Apunt Educ Fis Deportes Rev Digital. 2012;17(167).
+56. Yeung SS, Suen AM, Yeung EW. A prospective cohort study of hamstring injuries in competitive sprinters: 
+Preseason muscle imbalance as a possible risk factor. Br J Sports Med. 2009;43(8):589-94.
+57. Andrade MDS, De Lira CAB, Koffes FDC, Mascarin NC, Benedito-Silva AA, Da Silva AC. Isokinetic 
+hamstrings-to-quadriceps peak torque ratio: the influence of sport modality, gender, and angular velocity. J Sports Sci. 
+2012;30(6):547-53.
+58. Kabacinski J, Murawa M, Mackala K, Dworak LB. Knee strength ratios in competitive female athletes. PloS One. 
+2018;13(1):e0191077.
+59. Bini RR, Carpes FP, Diefenthaeler F. Influência da pedalada com os joelhos tangenciando o quadro da bicicleta 
+sobre a ativação dos músculos do membro inferior. Rev Bras Educ Fís Esporte. 2011;25(1):27-37.
+60. Ruiz F, de Oliveira PR. Ciclismo de velocidade: meios de treinamento de força. Conexões. 2008;6:22-34.
+
+Endereço
+Prof. Dr. Leandro Viçosa Bonetti
+Rua Francisco Getúlio Vargas, 1130 - Bloco 70
+95070-560 - Caxias do Sul - RS - Brasil 
+E-mail: leandrovbonetti@gmail.com
+lvbonetti@ucs.br
+
+Submetido: 21/02/2022
+Revisado: 08/06/2022
+Aceito: 19/08/2022
+
+ Rev Bras Educ Fís Esporte, (São Paulo) 2023;37:e37195169  •  9
+
+

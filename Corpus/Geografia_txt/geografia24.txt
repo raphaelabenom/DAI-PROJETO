@@ -1,0 +1,1695 @@
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023 
+ 
+https://doi.org/10.51359/2238-6211.2023.255033   
+ 
+
+ Licença  Creative  Commons  Atribuição  4.0 
+Internacional.  CC  BY -  permite  que  outros  distribuam, 
+remixem, adaptem e criem a partir do seu trabalho, mesmo 
+para  fins  comerciais,  desde  que  lhe  atribuam  o  devido 
+crédito pela criação original. 
+ 
+
+ 
+
+DOMÍNIO DAS CAATINGAS REPRESENTADO POR 
+
+PROFESSORES DO ENSINO FUNDAMENTAL 
+
+ 
+
+Telma Gomes Ribeiro Alves¹ - Orcid: http://orcid.org/0000-0002-6835-517X 
+
+Fredson Pereira da Silva² - Orcid: http://orcid.org/0000-0003-1363-948X 
+
+Diógenes Félix da Silva Costa 3 - Orcid: http://orcid.org/0000-0003-1363-948X 
+
+ 
+¹ Prefeitura Municipal de Catingueira e Patos, Paraíba, Brasil 
+² Universidade Estadual do Ceará, Fortaleza, Brasil** 
+3Universidade Federal do Rio Grande do Norte, Rio Grande do Norte, Brasil*** 
+
+Artigo recebido em 01/09/2022 e aceito em 21/04/2023 
+
+Publicado: Out/2023 
+
+RESUMO 
+A Caatinga é um domínio exclusivamente brasileiro pouco explorado nos livros didáticos de Geografia. 
+O objetivo desta pesquisa foi analisar as respostas dos professores do 7º ano do Ensino Fundamental 
+sobre o conteúdo domínio da Caatinga presente nos livros didáticos de Geografia. Para isso, foi aplicado 
+um questionário a 16 professores/as de Geografia que atuam na rede pública municipal de Patos-PB, 
+com vistas a apreender suas concepções acerca do assunto. O percurso metodológico deu-se inicialmente 
+com o levantamento bibliográfico sobre o ensino de Geografia e o domínio da Caatinga. Seguido da 
+análise  do  questionário  semiestruturado  aplicado.  Os  resultados  indicam  que  o  ensino  da  Caatinga  é 
+extremamente relevante, por se tratar de um domínio que faz parte do lugar de vivência do aluno deste 
+município e, também para os alunos de outros lugares. No entanto, para uma melhor compreensão do 
+tema é extremamente necessário o auxílio de recursos didáticos para além dos manuais. Isto porque as 
+abordagens presentes nos livros didáticos são superficiais, ou seja, não aprofunda o conteúdo, o que de 
+certo modo contribui para o pouco conhecimento que se tem desse domínio.  
+ 
+Palavras-chave: Ensino de Geografia; Recursos didáticos; Semiárido, Caatinga. 
+ 
+ 
+ 
+
+ 
+
+ Mestra em Geografia pelo Programa de Pós-Graduação em Geografia (GEOPROF). Centro de Ensino Superior 
+do  Seridó 
+(CERES)  pela  Universidade  Federal  do  Rio  Grande  do  Norte,  Brasil.  E-mail: 
+telmaevertonpb@gmail.com 
+**  Doutorando  em  Geografia.  Programa  de  Pós-graduação em  Geografia  (ProPGeo).  Universidade  Estadual  do 
+Ceará (UECE), Fortaleza, Brasil. E-mail:fredsonsilvap@gmail.com 
+*** Geógrafo e Doutor em Ecologia. Universidade Federal do Rio Grande do Norte. Departamento de Geografia, 
+Caicó, Rio Grande do Norte, Brasil. E-mail: diogenesgeo@gmail.com 
+
+Alves; Silva; Costa, 2023 
+
+ISSN 0104-5490 
+
+99 
+
+PKS 
+
+PUBLIC 
+KNOWLEDGE 
+PROJECT 
+
+https://periodicos.ufpe.br/revistas/revistageografia 
+
+ 
+
+OJS 
+
+OPEN  
+JOURNAL 
+SYSTEMS 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+THE CAATINGAS DOMAIN REPRESENTED BY PRIMARY SCHOOLS 
+
+TEACHERS 
+
+ABSTRACT 
+The Caatinga is an exclusively Brazilian domain little explored in Geography textbooks. The objective 
+of this research was to analyze the answers of 7th grade teachers about the Caatinga domain content 
+present in Geography textbooks. For that, a questionnaire was applied to 16 Geography teachers who 
+work in the public municipal network of Patos-PB, in order to apprehend their conceptions about the 
+subject. The methodological course was initially given with the bibliographical survey on the teaching 
+of Geography and the Caatinga domain. Followed by the analysis of the semi-structured questionnaire 
+applied.  The  results  indicate  that  the  teaching  of  the  Caatinga  is  extremely  relevant,  because  it  is  a 
+domain that is part of the place where the students of this municipality live and also for students from 
+other places. However, for a better understanding of the theme, the help of didactic resources beyond 
+the textbooks is extremely necessary. This is because the approaches present in textbooks are superficial, 
+i.e., do not deepen the content, which in a way contributes to the little knowledge that one has of this 
+domain.  
+ 
+Keywords: Geography Teaching; Didactic Resources; Semiarid; Caatinga. 
+
+DOMINIO CAATINGAS REPRESENTADO POR PROFESORES DE 
+
+EDUCACIÓN PRIMARIA 
+
+ 
+RESUMEN 
+La Caatinga es un dominio exclusivamente brasileño poco explorado en los libros de texto de Geografía. 
+El objetivo de esta investigación fue analizar las respuestas de los docentes del 7º año de la Educación 
+Primaria sobre el contenido del dominio Caatinga presente en los libros de texto de Geografía. Para ello, 
+se aplicó un cuestionario a 16 docentes de Geografía que laboran en la red pública municipal de Patos-
+PB,  con  miras  a  comprender  sus  concepciones  sobre  el  tema.  El  camino  metodológico  comenzó 
+inicialmente con un levantamiento bibliográfico sobre la enseñanza de la Geografía y el dominio de la 
+Caatinga. Seguido del análisis del cuestionario semiestructurado aplicado. Los resultados indican que la 
+enseñanza de la Caatinga es de suma relevancia, ya que  es un dominio que forma parte del lugar de 
+vivencia del estudiante de este municipio y también de estudiantes de otros lugares. Sin embargo, para 
+una mejor comprensión del tema, es sumamente necesaria la asistencia de recursos didácticos además 
+de manuales. Esto se debe a que los enfoques presentes en los libros de texto son superficiales, es decir, 
+no profundizan en el contenido, lo que de alguna manera contribuye al poco conocimiento que tenemos 
+en este campo. 
+ 
+Palabras clave: Enseñanza de la Geografía; Recursos didácticos; Semiárido, Caatinga. 
+
+INTRODUÇÃO 
+
+A Geografia como disciplina escolar tem buscado alternativas que corroboram com a 
+
+construção  do  pensamento  geográfico.  Segundo  Callai  (2010),  enquanto  matéria  de  ensino, 
+
+deve proporcionar condições para que o aluno se reconheça como sujeito participante do espaço 
+
+em que vive, de modo a compreender que os fenômenos que ali acontecem são resultados da 
+
+interação homem e natureza (SILVA; CAVALCANTI, 2016).  
+
+Conforme  a  Base  Nacional  Comum  Curricular  (BNCC),  para  que  a  “aprendizagem 
+
+seja  significativa  é  necessário  contextualizar  o  conteúdo  proposto  no  currículo  com  as 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+100 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+experiências e vivências do aluno” (BRASIL, 2018, p.16). Cavalcanti (2010, p. 6) destaca que 
+
+“o papel da Geografia escolar é realmente fazer com que o aluno entenda o mundo em que vive 
+
+na relação com seu local de vivência”. Para esta atividade, sabe-se que o livro didático é um 
+
+importante recurso no planejamento do trabalho docente.  
+
+Nesse contexto,  “o livro didático é a principal referência que o professor tem como 
+
+base para estruturar as aulas, isto é, o manual escolar pode exercer a função de um documento 
+
+prescrito” (GABRELON; SILVA, 2017, p. 131). No entanto, percebe-se que os capítulos que 
+
+abordam  os  conteúdos  do  Domínio  das  Caatingas  são  apresentados  de  forma  incipiente, 
+
+fragmentada e descontextualizada da realidade. Diante do exposto, a presente análise parte do 
+
+seguinte problema: Como o Domínio das Caatingas é abordado nas aulas de Geografia do 7º 
+
+ano?  
+
+Essa  pergunta  ou  esse  entendimento  foi  gerado  a  partir  do  fato  de  que  os  livros 
+
+didáticos disponibilizados pelo Programa Nacional do Livro Didático (PNLD) pouco abordam 
+
+as questões dos Domínios Morfoclimáticos do Brasil, fator que exige a busca de outras fontes 
+
+de  estudo  ou  recursos  didáticos.  Conforme  Costa  e  Ribeiro  (2019),  alguns  discentes  não 
+
+percebem no material didático produzido e utilizado a riqueza do Domínio das Caatingas. E, 
+
+quando encontra material didático, os conteúdos da Caatinga não retratam a realidade do seu 
+
+cotidiano de forma satisfatória (MORAIS, 2014; COSTA; RIBEIRO, 2019).  
+
+A designação “caatinga” é de origem Tupi-Guarani e significa “floresta branca”, aponta 
+
+bem o aspecto da vegetação no período da seca, quando as folhas desabam e exclusivamente os 
+
+troncos brancos e brilhosos das árvores e arbustos continuam na paisagem seca (PRADO 2003; 
+
+MAGALHÃES,  2012).  Já  nos  estudos  internacionais,  o  Domínio  das  Caatingas  é  abordada 
+
+como Floresta Tropical Sazonalmente Seca (SDTF) e heterogênea (SILVA et al., 2017). 
+
+Em  virtude  das  Caatingas  serem  o  único  domínio  exclusivamente  brasileiro,  está 
+
+presente  nos  estados  de  Pernambuco,  Ceará,  Paraíba,  Rio  Grande  do  Norte,  Paraíba,  Piauí, 
+
+Alagoas,  Sergipe,  Bahia  e  no  norte  de  Minas  Gerais  totalizando  uma  área  de  844.453  km², 
+
+correspondente a cerca de 11% do território nacional conforme Leal; Tabarelli; Silva (2008); 
+
+Giulietti  et  al.  (2010);  Freire  (2018).  As  Caatingas  está  entre  os  domínios  morfoclimáticos 
+
+brasileiros menos estudados, acredita-se na importância de refletir sobre a temática no ensino 
+
+de Geografia, bem como está temática é abordada pelos professores do ensino básico (SILVA; 
+
+SANTOS, 2018; BARRA et al., 2021). 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+101 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+O  Domínio  das  Caatingas  adapta  fisionomias  semelhantes  com  outros  domínios 
+
+localizados em outras regiões do mundo como na Colômbia e Venezuela. No entanto, é uma 
+
+formação  brasileira,  apresentando  uma  paisagem  com  vegetação  arbustiva,  ramificada  e 
+
+espinhosa, com muitas euforbiáceas, bromeliáceas e cactáceas (PRADO, 2003; WERNECK, 
+
+2011).  Oliveira  (2002)  indica  que  é  imprescindível  uma  contextualização  dos  conteúdos 
+
+geográficos para que acerte uma constituição própria de sua aprendizagem pelos discentes. É 
+
+formidável a opção adequada de alternativas de aprendizagem na construção do conhecimento 
+
+e fortalecimento dos saberes geográficos (SELBACH, 2010). 
+
+Tabarelli et al., (2018) asseguram que a Caatinga é composta hoje por 3.150 espécies 
+
+de  plantas  vasculares,  276  formigas,  386  peixes,  98  anfíbios,  191  répteis,  548  aves  e  183 
+
+mamíferos, o que  atribui à Caatinga o título  das florestas secas mais ricas do mundo. Como 
+
+também tem climas quentes e secos com duas estações bem distintas, a seca e a chuvosa. As 
+
+chuvas médias anuais variam entre 300-800 mm, com temperaturas médias do ar em torno de 
+
+28°C, havendo ainda solos da caatinga rasos e outras áreas mais arenosos, logo, boa parte das 
+
+espécies possui raízes não tão profundas (SILVA; SANTOS, 2018). Além disso, o Domínios 
+
+das Caatingas é considerada uma das regiões semiáridas mais populosa do mundo com cerca 
+
+de 28 milhões de habitantes (TABARELLI et al., 2018).  
+
+Desse modo, é importante que os docentes e as escolas disponham de recursos didáticos 
+
+com  conhecimento  atualizado  sobre  Domínio  das  Caatingas  que  revelem,  sobretudo,  a 
+
+população que reside na região, a riqueza e a diversidade de espécies, tanto da fauna quanto da 
+
+flora, além da necessidade de conservação dos seus recursos naturais (SILVA et al.,2018; SILVA, 
+
+2018;  SILVA;  CAVALCANTI,  2019;  SILVA  et  al.,  2020;  SILVA;  SANTOS;  2020;  SILVA; 
+
+SILVA, 2020). 
+
+A  partir  destes  pressupostos,  o  objetivo  desta  pesquisa  foi  analisar  às  respostas  dos 
+
+professores do 7º ano Ensino Fundamental sobre o conteúdo Domínio das Caatingas presente 
+
+nos livros didáticos de Geografia utilizados na rede pública municipal de Patos, Paraíba. 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+102 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+MATERIAL E MÉTODOS  
+
+CARACTERIZAÇÃO DA ÁREA DE ESTUDO 
+
+Esse estudo contempla o município de Patos, enquanto lugar da investigação empírica, 
+
+localizado na Região  Intermediária do próprio  nome (Patos), na porção  central  do estado da 
+
+Paraíba (Figura 1). Seu território compreende uma área de 472,892 km² entre as coordenadas 
+
+geográficas de 37º 30’ de Longitude Oeste e 7º 0’ de latitude Sul. Limita-se ao norte com São 
+
+José de Espinharas e São Mamede, ao sul com São José do Bonfim e Cacimba de Areia, a Leste 
+
+com Quixaba e Cacimba de Areia e a oeste com Santa Teresinha e Malta (IBGE, 2021). 
+
+Figura1- Município de Patos, Paraíba. 
+
+Fonte: Acervo dos autores, 2020. 
+
+Ainda  conforme  o  Instituto  Brasileiro  de  Geografia  e  Estatística  (IBGE,  2021),  a 
+
+população do município está estimada em 108.766 habitantes, classificando-a na quarta posição 
+
+entre os municípios mais populosos do estado da Paraíba. Segundo a classificação de Köppen, 
+
+o  município  está  inserido  numa  região  de  clima  tropical  semiárido  (Bsh),  marcado  por  uma 
+
+estação seca e outra chuvosa. 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+103 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+O  estudo  se  caracteriza  como  do  tipo  qualiquantitativo  por  utilizar  instrumentos 
+
+compostos para obtenção de dados (KNECHTEL, 2014). Inicialmente foi realizada uma revisão 
+
+de literatura, sobre o Ensino de Geografia e o Domínio das Caatingas, conforme Gil (2008) e 
+
+Bardin  (2016),  para  máximo  entendimento  das  contradições  e  a  maior  materialidade  da 
+
+realidade objetivada. 
+
+Na  sequência,  ocorreu  a  realização  do  trabalho  de  pesquisa  junto  aos  docentes.  Foi 
+
+aplicado um questionário a 16 professores/as que atuam na rede pública municipal da cidade de 
+
+Patos-PB, com o intuito de analisar como o conteúdo Domínios das Caatingas estão presentes 
+
+nos livros didáticos do 7° ano e de como este é abordado nas aulas de Geografia. 
+
+As  perguntas  contidas  no  questionário  versam  sobre  o  conteúdo  Domínio  das 
+
+Caatingas  no  ensino  de  Geografia,  destacando-se  o  entendimento  do  docente  em  relação  ao 
+
+conteúdo  presente  no  livro  didático  adotado  na  escola;  se  este  dispõe  de  outros  recursos 
+
+didáticos para desenvolver a temática em sala de aula; se o conteúdo é contextualizado com 
+
+outros  temas;  se  já  foi  realizado  algum  projeto  na  escola  com  o  tema  abordado;  qual  a 
+
+importância de ensinar esse conteúdo. 
+
+RESULTADOS E DISCUSSÕES 
+
+O questionário foi aplicado a 16 professores/as da rede pública municipal de Patos-
+
+PB, em relação ao gênero, 50% se declararam como do sexo feminino e 50% do sexo masculino. 
+
+Destes, observou-se que os professores com idade entre 40 e 49 anos e 50 e 59 anos possuem a 
+
+mesma porcentagem, ou seja, 31%, seguidos de 25% com idade entre 30 e 39 anos, 7% com 
+
+idade entre 25 e 29 anos e 6% com mais de 60 anos. 
+
+É importante declarar que, seguindo padrões éticos, foi garantido o anonimato de todos 
+
+os  participantes  da  pesquisa,  para  isso  foram  designados  códigos  para  cada  professor  que 
+
+respondeu ao questionário. A nomenclatura Professor, abreviado com a letra P e um número, 
+
+conforme o (Quadro 2). Também, é importante esclarecer que as respostas estão da forma como 
+
+foram escritas no questionário.  
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+104 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+CÓDIGO 
+
+LOCAL DE ATUAÇÃO 
+
+Quadro 2- Local de atuação dos professores e tempo de serviços. 
+
+TEMPO DE SERVIÇO 
++ 20 anos 
+
+Escola José Permínio Wanderley 
+
+Escola Dr. Dionísio da Costa 
+
+Escola Dr. Dionísio da Costa 
+
+Escola Aristides Hamad Timene 
+
+CIEP I – José Genuíno e Dr. Napoleão Nóbrega 
+
+Escola Aristides Hamad Timene 
+
+Escolas Anaíza Luis Calixto 
+
+CIEP I – José Genuíno e Dr. Napoleão Nóbrega 
+
+CIEP I – José Genuíno e Dr. Napoleão Nóbrega 
+
+CIEPIII – Firmino Ayres/ Otto de Sousa Quinho 
+
+CIEPIII – Firmino Ayres/ Otto de Sousa Quinho 
+
+CIEPIII – Firmino Ayres/ Otto de Sousa Quinho 
+
+CIEPIII – Firmino Ayres/ Otto de Sousa Quinho 
+
+Escola Professor Manoel de Sousa Oliveira 
+
+Escola Alírio Meira Wanderley 
+
+Escola Sady e Ágaba 
+
+Escola Monsenhor Manoel Vieira 
+
+Escola Monsenhor Manoel Vieira 
+
+Escola João Rodrigues de Amorim 
+
+6 a 9 anos 
+
+6 a 9 anos 
+
++ 20 anos 
+
++ 20 anos 
+
+ 
+
+10 a 15 anos 
+
+10 a 15 anos 
+
++ 20 anos 
+
+6 a 9 anos 
+
+1 a 2 anos 
+
++ 20 anos 
+
++ 20 anos 
+
+6 a 9 anos 
+
+1 a 2 anos 
+
++ 20 anos 
+
+6 a 9 anos 
+
+Fonte: Elaborado pelos autores, 2020. 
+
+Conforme  a  (Gráfico  1),  constata-se  a  faixas  de  anos  dedicados  à  docência  pelos  os 
+
+professores entrevistados. Assim, obtém-se o seguinte gráfico: 
+
+Gráfico 1: Tempo dedicado à docência. 
+
+Número de 
+professores
+
+13%
+
+1 a 2 anos
+
+6 a 9 anos
+
+10 a 15 anos
+
+20 anos
+
+Número de 
+professores
+
+47%
+
+Número de 
+professores
+
+27%
+
+Número de 
+professores
+
+13%
+
+ 
+
+ 
+
+Fonte: Acervo dos autores (2020). 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+105 
+
+P01 
+
+P02 
+
+P03 
+
+P04  
+
+P05 
+
+P06 
+
+P07 
+
+P08 
+
+P09 
+
+P10 
+
+P11 
+
+P12 
+
+P13 
+
+P14 
+
+P15 
+
+P16 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Quantos  aos  anos  dedicados  à  profissão,  o  gráfico  aponta  que  a  maior  parte  dos 
+
+professores de Geografia que atuam na rede pública municipal de Patos/PB possui mais de 20 
+
+anos de ensino, logo, acredita-se que possuem uma vasta experiência no processo de ensino e 
+
+aprendizagem. 
+
+Em  relação  à  formação  inicial  e  continuada  dos  professores,  19%  possuem  apenas  a 
+
+Graduação, 62% Graduação e Especialização (Latu Senso) e 19% possuem Mestrado (Stricto 
+
+Senso).  O  elevado  índice  de  professores  com  Especialização  se  deve  ao  fato  deste  nível  de 
+
+formação acadêmica ser mais acessível e existir na cidade de Patos-PB. 
+
+Sobre  as  demais  questões  norteadoras  da  pesquisa,  presente  no  questionário,  estão 
+
+organizadas em seis (6) figuras para facilitar a apreensão das respostas e o desenvolvimento das 
+
+análises. Primeira questão subjetiva é tratada no quadro 3. 
+
+Quadro 3- Sobre o conteúdo Domínio das Caatingas presente no livro didático. 
+
+Questão  norteadora:  O  conteúdo  Domínio  das  Caatingas  presente  no  livro  didático  adotado  pela  escola  é 
+suficiente ou se faz necessário o uso de outros recursos, tais como livros paradidáticos, audiovisuais, etc? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+P01 Se faz necessário o auxílio de outros recursos para o aperfeiçoamento do tema, 
+para uma melhor compreensão do estudo. 
+
+P02 Não é suficiente, sempre há necessidade de um complemento com outros 
+recursos. 
+
+P03 O livro didático aborda superficialmente todos os Biomas, é necessário a 
+pesquisa, desde: imagens da fauna e flora, características gerais da localização e 
+fitosinomia – para estudantes do Ensino Fundamental II. No Ensino Médio perce-
+be-se a falta de domínio sobre tal Bioma, como os demais. Já que muitos 
+professores não aborda o assunto como deveria, até mesmo pela falta de material. 
+
+P04 É necessário o uso de outros recursos, pois a abordagem do tema é 
+insatisfatória e superficial, para uma melhor compreensão é necessário expandir o 
+assunto com outros recursos. 
+
+P05 Precisamos de outras referências bibliográficas. 
+
+Respostas dos 
+
+professores 
+
+P06 É bastante resumido, se faz necessário buscar outras fontes, outros autores, 
+internet, para complementar o conteúdo trabalhado. 
+
+P07 Muito superficial. Se faz necessário a adoção de outros materiais.  
+
+P08 Os livros didáticos não se aprofundam nos conteúdo sobre a Caatinga, por isso 
+é importante recorrer a outros recursos didáticos. 
+
+P09 Não é suficiente, necessitando outros recursos. 
+
+P10 O conteúdo é insuficiente, uma vez que a Caatinga é caracterizada como um 
+ambiente seco, quente e com escassez de água permanente, não representando sua 
+beleza e complexidade. 
+
+P11 É insuficiente preciso buscar mais recursos como livros paradidáticos, visita a 
+lugares específicos para demonstrar em loco as características da Caatinga. 
+
+P12 Não. Se faz necessário o uso de outros recursos. 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+106 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+P13 O livro adotado pela escola, não oferece dados locais, para isto preciso 
+pesquisar na internet, em livros de autores locais e em matéria da televisão. 
+
+P14 Diante do nível intelectual e da quantidade de tempo disponível posso 
+considerar os conteúdos presentes como suficientes. 
+
+P15 Não é suficiente se faz necessário outros recursos como textos pesquisados na 
+internet. 
+
+P16 Trabalho com outros recursos, tais como mapas e recursos audiovisuais. 
+
+Fonte: Elaborado pelos autores, 2020. 
+
+ 
+
+Conforme  as  respostas  dos  professores,  para  uma  melhor  compreensão  do  tema,  é 
+
+extremamente necessário o auxílio de outros recursos didáticos (SILVA e SOUSA, 2022). Isto 
+
+porque as abordagens presentes nos livros didáticos são superficiais, ou seja, não aprofunda o 
+
+conteúdo, o que, de certo modo, contribui para o pouco conhecimento que se tem do domínio 
+
+das Caatingas.  
+
+O  Domínio  das  Caatingas  seja  o  único  exclusivamente  brasileiro,  ainda  é  pouco 
+
+explorado nos livros didáticos, fato observado nas abordagens do conteúdo que se encontra em 
+
+poucas páginas ou parágrafos descontextualizada da realidade do semiárido brasileiro. Estes se 
+
+mostraram carentes de informações e ilustrações que a descreva de forma fidedigna (SILVA; 
+
+MOURA; SANTOS, 2018; BARRA et al., 2021).  
+
+As Caatingas chamadas, internacionalmente de Floresta Tropicais Sazonalmente Secas 
+
+(SDTF),    são  compostas  hoje  por  3.150  espécies  de  plantas  vasculares,  276  formigas,  386 
+
+peixes, 98 anfíbios, 191 répteis, 548 aves e 183 mamíferos, o que confere à Caatinga o título 
+
+das florestas secas mais ricas do mundo (SILVA e SANTOS, 2018; BARRA et al., 2021). 
+
+A seguinte questão busca entender se o professor realiza um diagnóstico prévio sobre o 
+
+conhecimento dos discentes a respeito da temática discutida (Quadro 4). 
+
+Quadro 4- Diagnóstico prévio sobre o conhecimento dos discentes acerca do Domínio das Caatingas. 
+
+Questão norteadora: Você realiza um diagnóstico sobre o conhecimento prévio dos alunos acerca do 
+Domínio das Caatingas e trabalha o conteúdo com base nele? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+P01 Sim, até porque é importante considerar o contexto que o aluno vive, 
+despertando a beleza do nosso Bioma Caatinga. 
+
+P02 Sim, até porque o conhecimento prévio dos alunos é fundamental para dar 
+início ao assunto. 
+
+P03 Com certeza, todo ensinamento parte-se do conhecimento prévio do aluno, o 
+qual será transformado em conhecimento formal, a partir das discussões, em sala 
+de aula. A pergunta base: você conhece a vegetação do lugar que você reside? 
+Quais as fitofisionomias que observam? Normalmente, poucos alunos conhecem a 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+107 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+estrutura do Bioma Caatinga, pois contato com a zona rural e pelo alto índice de 
+desmatamento na construção das cidades. 
+
+P04 Sim. Partindo desse conhecimento, será desenvolvido o conteúdo e a 
+metodologia aplicada com a turma. 
+
+P05 Sim, a partir do levantamento e registro do que sabem, desenvolvo a análise 
+sobre o bioma. 
+
+Respostas dos 
+
+professores 
+
+P06 Proporciono informações interagindo com os mesmos sobre o bioma em seus 
+diversos aspectos. 
+
+P07 Não. Não realizo diagnóstico prévio.  
+
+P08 Sempre inicio por meio de avaliação diagnóstica, não só sobre a Caatinga, 
+mas os demais conteúdos também. 
+
+P09 Não exatamente, mas sempre fazemos essa anamnese naturalmente. 
+
+P10 Sim. Afinal iniciar a abordagem de um conteúdo identificando antes o que a 
+turma efetivamente conhece sobre o que será tratado faz com que esse conteúdo 
+ganhe significado e importância. 
+
+P11 Sim. Até porque nós fazemos parte desse bioma e a convivência é intrínseca. 
+
+P13 Sim, este conhecimento é bem restrito. 
+
+P14 Sim, o conhecimento prévio é o ponto de partida para abordagem no livro 
+didático. 
+
+P12 Não. 
+
+P15 Sim. 
+
+P16 Sim. 
+
+ 
+
+Fonte: Elaborado pelos autores, 2020. 
+
+Assim, 81% dos professores realizam um diagnóstico prévio sobre o conhecimento dos 
+
+alunos antes de abordar o conteúdo e trabalhar com base nele. É fundamental que o docente 
+
+inicie  a  abordagem  de  um  conteúdo  identificando  o  que  a  turma  conhece  sobre  o  que  será 
+
+tratado.  Conforme  o  P10,  essa  metodologia  faz  com  que  o  conteúdo  ganhe  significado  e 
+
+importância. 
+
+Acredita-se que esse diagnóstico contribui para uma aprendizagem significativa, o que 
+
+faz necessário o desenvolvimento de interações entre conhecimentos prévios e conhecimentos 
+
+novos,  pois  nesse  processo  os  novos  conhecimentos  adquirem  significados  para  o  sujeito 
+
+(MOREIRA, 2012; SILVA e SOUSA, 2017). 
+
+A  próxima  questão  versa  sobre  os  aspectos  do  Domínio  das  Caatingas  que  é 
+
+relacionado ao conteúdo em sala de aula (Quadro 5). 
+
+ 
+
+ 
+
+ 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+108 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+Quadro 5- Sobre os aspectos do Domínio das Caatingas ao conteúdo. 
+
+Questão  norteadora:  Qual(is)  aspecto(s)  do  Domínio  das  Caatingas  na  Região  Metropolitana  de  Patos 
+(RMP/PB) você relaciona ao trabalhar o conteúdo em sala de aula?  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+P01 Destaco os aspectos do clima, vegetação – flora e a fauna da região. 
+
+P02 As espécies presentes na Região Metropolitana de Patos. 
+
+P03 Trabalhar Bioma com os alunos da zona urbana, não é fácil, pois os mesmos 
+não têm contanto com o Bioma. Por não terem acesso à zona rural ou até por não 
+observar as pequenas manchas existentes na cidade. Devido, o crescimento urbano 
+o Bioma Caatinga está sendo desmatado constantemente (nas áreas periféricas da 
+cidade),  além  da  substituição  das  espécies  por  outras  exóticas.  Por  isso,  da 
+necessidade  de  imagens,  viagens  de  campo  para  que  os  discentes  conheçam  seu 
+maravilhoso e rico Bioma.  
+
+P04 A vegetação, o solo, o clima, relevo, hidrografia. 
+
+P05 Fauna, flora e suas potencialidades, além do clima, relevo, rochas e solo. 
+
+P06 Proporciono informações, imagens com os mesmos sobre o bioma em seus 
+diversos aspectos. 
+
+Respostas dos 
+
+professores 
+
+P07  Aponto  as  características  da  vegetação:  xerófila,  caducifólia,  pequeno  porte, 
+etc.  
+
+P08 Aspectos climáticos, topográficos e florístico, compreendendo o endemismo e 
+a riqueza não madeireira de nossas espécies. 
+
+P09 Fauna e flora em geral e a relação com o semiárido. 
+
+P10 A vegetação por vezes seca, com espinhos e pouquíssimas folhas e as rápidas 
+transformações com o surgimento das chuvas, o que faz ganhar aspecto 
+diferenciado, etc. 
+
+P11 Vegetação, hidrografia, enfim os aspectos físicos e a convivência com o 
+semiárido através de projetos implementados – através dos aspectos econômicos e 
+culturais. 
+
+P12 Nenhum 
+
+P13 O principal é no que trata do desmatamento para implementação de 
+loteamentos residenciais. 
+
+P14 Principalmente os fatores relacionados às formações vegetais. 
+
+P15 A classificação da caatinga como hiperxerofila, arbustiva- arbórea. 
+
+P16 Localização das diversidades de plantas e animais e principalmente a 
+adaptação devido a pouca disponibilidade de água. 
+
+Fonte: Elaborado pelos autores, 2020. 
+
+Quanto aos aspectos do Domínio das Caatingas que são relacionados ao conteúdo em 
+
+sala  de  aula,  94%  dos  professores  afirmaram  fazer  essa  relação  com  os  aspectos  físicos  da 
+
+Caatinga, destacando-se a vegetação. O Domínio das Caatingas harmoniza expressões idênticas 
+
+com distintos domínios situados em outras regiões do mundo como na Colômbia e Venezuela. 
+
+Logo, a formação brasileira, proporciona uma paisagem com vegetação arbustiva, ramificada e 
+
+espinhosa,  com  muitas  euforbiáceas,  bromeliáceas  e  cactáceas  (SILVA  e  SANTOS,  2018; 
+
+BARRA et al., 2021). 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+109 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+A  questão  seguinte  objetiva  apreender  se  o  livro  didático  utilizado  pelo  professor 
+
+contextualiza o conteúdo domínio das Caatingas com outros temas (Quadro 6). 
+
+Quadro 6- Sobre a contextualização do Domínio das Caatingas com outros temas. 
+
+Questão norteadora: Nos livros didáticos que você utiliza, o Domínio das Caatingas é contextualizado com 
+outros temas? (Por exemplo, clima, economia, etc). Se sim, explique. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Respostas dos 
+
+professores 
+
+P09  
+
+P01 Deixa a desejar a maioria dos livros didáticos, esquece de abordar a riqueza e 
+a valorização da resistência do Bioma Caatinga. 
+
+P02 Sim, principalmente da sua adaptação ao clima característico da região. 
+
+P03 Não é abordado essa escala de explicação quando estudamos da Região 
+Nordeste. Caso contrário, aborda-se um parágrafo e uma mini imagem sobre o 
+Bioma. 
+
+P04 Sim, os fatores físicos da região influência nos fatores sociais e econômicos. 
+
+P05 Sim, pois é importante estudar as características fitogeográficas e 
+relacionando aos elementos bióticos e abióticos do bioma. 
+
+P06 Formação vegetal típica do clima semiárido, economia, como a pecuária, a 
+prática da agricultura, o relevo, a hidrografia presentes nesse bioma. 
+
+P07  A  grande maioria  dos  livros  trata  o  bioma  Catinga  unicamente  como  pobre, 
+morto e que gera pobreza e repulsão populacional. 
+
+P08 Alguns livros didáticos fazem essa relação, abordando-o como Domínio 
+Morfoclimatico, a maioria trata a Caatinga apenas como vegetação. 
+
+P10 Não. Podemos perceber a carência de atualização e contextualização do 
+conteúdo, falta de questões que possa gerar debate, o desfavorece o ensino-
+aprendizagem.  
+
+P11 Em parte o conteúdo é abordado pelo livro didático e geralmente vem alguma 
+questão que aborda a realidade do aluno. 
+
+P12 Não. 
+
+P15 Não. 
+
+P13 Os mesmos são tratados em conteúdos separados, mas cabe ao professor fazer 
+a devida associação. 
+
+P14. Sim, contextualizo de uma forma geral com base no país. 
+
+P16 Sim, com relação ao clima posso citar a estiagem e altas temperaturas, na 
+economia com a extração de madeira e a monocultura de cana-de-açúcar. 
+
+Fonte: Elaborado pelos autores, 2020. 
+
+De acordo com as respostas apresentadas pela maioria dos professores, acredita-se que 
+
+os  mesmos  não  compreenderam  a  pergunta.  Conforme  a  BNCC  (2018),  contextualizar  os 
+
+conteúdos deve ser uma estratégia de ensino de modo a conectá-los e torná-los significativos, 
+
+com base na realidade do lugar e do tempo nos quais as aprendizagens estão situadas. A questão 
+
+a seguir versa sobre a realização de projetos (Quadro 7). 
+
+ 
+
+ 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+110 
+
+ 
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+Quadro 7- Sobre a realização de projetos na escola. 
+
+Questão norteadora: Você já realizou projetos ou atividades na escola com o tema Domínio das Caatingas? 
+Se sim, descreva resumidamente. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+P01 Sim. O projeto surgiu da necessidade de estudar esse bioma, que muitas vezes 
+não damos importância da riqueza natural que está ao nosso redor. Daí inicia um 
+novo olhar da valorização e preservação do Bioma Caatinga.  
+
+P02 Não. 
+
+P03  Sim.  Gosto  de  realizar  viagem  de  campo  (abordo  a  fitofisionomia  e  as 
+características  básicas  para  conhecer  o  Bioma)  aproveito  para  abordar  outros 
+assuntos (relevo, solo, agricultura, pecuária, orientação, etc.);  
+
+A construção de maquetes, de livros com histórias sobre o Bioma e os sertanejos, 
+além de desenhos livres (antes há a aula teórica, abordando o tema).  
+
+P04 Sim. Antes trabalhamos o tema como pesquisa, aula de vídeo usando filmes, 
+roda de conversa e por último aula de campo, mostrando a vegetação e o relevo da 
+nossa cidade. 
+
+P05 Sim. Várias vezes, estudo do meio ambiente da Caatinga na cidade de 
+Patos/PB e as potencialidades da Caatinga. 
+
+P06 Sim. Atividades sobre a biodiversidade com algumas espécies da fauna e da 
+flora, acesso a água, o uso novas técnicas agroecológicas, as questões ambientais e 
+sociais levando os alunos a contextualizar outras informações. 
+
+P08 Sim. Realizei em 2019 um projeto que foi apresentado no Conedu “Educação 
+Ambiental na escola: uma proposta interdisciplinar para o despertar da consciência 
+Ecológica”.  
+
+P09 Sim, com visitas guiadas em dois períodos distintos do ano (chuvoso e 
+estiagem). E fazendo um comparativo de imagens e aspectos da vegetação. 
+
+P11 Sim. Projeto meu lugar. Abordamos aulas explicativas, palestras com o 
+Propac, eles desenvolvem com as famílias o projeto convivência com o semiárido, 
+exposições de mudas e objetos que fazem parte. 
+
+Respostas dos 
+
+professores 
+
+P07 Sim. O tema era – A caatinga é rica – apontamos a grande biodiversidade da 
+fauna e flora. 
+
+P10 Não. 
+
+P12 Não. 
+
+P13 Não. 
+
+P14 Não. 
+
+P15 Não. 
+
+P16 Não. 
+
+Fonte: Elaborado pelos autores, 2020. 
+
+Assim,  56%  dos  docentes  realizam  projetos  sobre  o  tema.  Considera-se  um  avanço 
+
+quando se trata de um dos domínios menos estudados do Brasil (FREIRE, 2018). Os projetos 
+
+de ensino permitem aos alunos se sentirem protagonistas do processo de ensino e aprendizagem. 
+
+De acordo com a BNCC (2018), a aprendizagem baseada em projetos inspira os alunos a obter 
+
+um conhecimento mais profundo dos assuntos estudados. No entanto, nem todos os professores 
+
+estão dispostos a desenvolver essa metodologia, porque tal ação requer tempo para elaborar a 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+111 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+proposta e mais tempo ainda para pôr em prática. A próxima questão aborda a importância de 
+
+ensinar o tema Domínio das Caatingas (Quadro 8). 
+
+Quadro 8- Sobre a importância do tema estudado. 
+
+Questão norteadora: Qual a importância de ensinar esse conteúdo? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Respostas dos 
+
+professores 
+
+P01 É mergulhar diante da nossa realidade, repassando com muita 
+responsabilidade para nossos alunos que é preciso pensar global e agir local. 
+
+P02 É importante principalmente por ser o bioma presente na região onde o aluno 
+vive além de conhecer ele aprende a valorizar. 
+
+P03 Além da importância do Bioma para a sociedade, da obrigação de conservá-lo 
+para  que  não  acarrete  nenhum  desequilíbrio  ambiental,  e  assim,  soframos  as 
+consequências  (que  já  estamos  passando  por  isso).  E  por  ser  nosso  Bioma  é  de 
+grande importância conhecê-lo para que possamos cuidar e saber sua importância 
+para todos. O Nordeste único lugar que há esse Bioma, deveríamos buscar conservá-
+lo e conhecê-lo melhor.  
+
+P04 É de grande importância o aluno conhecer o bioma da sua região e ver a 
+grande biodiversidade existente como também preservar. 
+
+P05 Contextualizar os conteúdos com o bioma Caatinga é de suma importância ao 
+saber cotidiano para compreender e valorizar esse bioma. 
+
+P06 Primeiramente por se tratar de um domínio natural exclusivamente brasileiro, 
+suas características, fauna, flora, clima, à sua preservação e curiosidades. 
+
+P07 Seria extremamente relevante e de um valor pedagógico incalculável. 
+
+P08 No contexto local, valorização do bioma; conhecimento e preservação; 
+pertencimento. 
+
+P09 Para nossa região considero o bioma mais importante, pois estamos inseridos 
+nesse bioma. 
+
+P10 Com a abordagem desse conteúdo costuma ser diminuta e equivocada por 
+vezes, ensiná-lo seria um passo importante para que o aluno perceba a verdadeira 
+beleza do seu bioma e a importância de sua conservação. 
+
+P11 De mostrar ao aluno a valorização e o conhecimento desse conteúdo, já que a 
+maioria ou quase todos vivem nessa região. 
+
+P12 Mostrar a importância da preservação do mesmo. 
+
+P13 Principalmente para acabar com o preconceito de que vivemos numa região 
+de pouca diversidade de espécies e para o conhecimento do meio que vivemos. 
+
+P14. Assim como os demais, faz-se necessário para compreensão do espaço em 
+que estão inseridos. 
+
+P15 A sua biodiversidade, ou seja, a variação de animais e de plantas se 
+desenvolvendo em seu interior. 
+
+P16 Explicar para os alunos a importância desse bioma exclusivo no Brasil e sua 
+preservação. 
+
+Fonte: Elaborado pelos autores, 2020. 
+
+De  acordo  com  as  respostas  dos  professores,  o  ensino  da  Caatinga  é  extremamente 
+
+relevante, por se tratar do domínio que faz parte do lugar de vivência do aluno. Além de ser 
+
+único e exclusivo do Brasil, é um dos menos estudados e mais degradados. Conhecer, valorizar 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+112 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+e conservar são ideais de conservação ambiental que devem ser trabalhados nas escolas desde 
+
+os anos iniciais da educação básica: 
+
+Nesta perspectiva, o Domínio das Caatingas tem uma importância social extraordinária 
+
+para as populações que habitam nestas áreas e quando o discente percebe isso passar a discernir 
+
+com  outros  olhares  esse  domínio,  rescindindo  o  paradigma  de  que  a  Caatinga  é  um  sistema 
+
+ambiental pobre (SILVA e SANTOS, 2018). Desse modo, a aula de campo é uma metodologia 
+
+de ensino que permite ao discente e docente mergulhar em um processo de pesquisa, pois mais 
+
+importante  do  que  dar  conta  de  um  extenso  rol de  conteúdo  sem  relação  com  a  vivência  do 
+
+aluno,  é  saber  como  esses  conteúdos  são  produzidos  (PONTUSCHKA;  PAGANELLI; 
+
+CACETE, 2009).  
+
+Nesse contexto, compreende-se que a aula de campo consiste no contato direto com o 
+
+tema  estudado  fora  da  sala  de  aula,  ou  seja,  é  um  procedimento  de  ensino  que  possibilita 
+
+articular teoria e prática tornando a aula mais prazerosa. Segundo Morais e Paiva (2009), ainda 
+
+oferece  a  possiblidade  de  trabalhar  de  forma  interdisciplinar,  pois  dependendo  do  conteúdo 
+
+podem abordar vários temas (SILVA; COSTA; SILVA, 2022). 
+
+CONSIDERAÇÕES FINAIS 
+
+  Ao  analisar  as  respostas  dos  professores  sobre  o  conteúdo  Domínio  da  Caatinga 
+
+presente nos livros didáticos de Geografia do 7° ano, utilizados na rede pública municipal de 
+
+Patos, verificou-se que as abordagens são superficiais, ou seja, não aprofunda o conteúdo, o que 
+
+de certo modo contribui para o pouco conhecimento que se tem desse domínio.  
+
+  Conforme  os  docentes,  para  uma  melhor  compreensão  do  tema  é  extremamente 
+
+necessário o auxílio de outros recursos didáticos, de modo que sejam desenvolvidos nas aulas 
+
+os aspectos da fauna, da flora e de suas potencialidades, além do clima, relevo, rochas e solo. 
+
+Sempre  fazendo  uma  análise  previa  sobre  os  conhecimentos  dos  discentes.  Desse  modo,  o 
+
+conteúdo é abordado utilizando diferentes metodologias de ensino: textos retirados da internet, 
+
+roda de conversa, desenhos livres, aula de campo, projetos, documentários e filmes.  
+
+  Portanto, faz-se necessário a produção de material didático de apoio que venha auxiliar 
+
+o conteúdo existente no livro didático de modo a promover maior conhecimento e valorização 
+
+desse domínio unicamente brasileiro. 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+113 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+REFERÊNCIAS 
+
+BARDIN, L. Análise de conteúdo. São Paulo: Edições 70, 2016. 
+
+BARRA, O. A.  O. L.; SILVA, F.P.; SANTOS, D. V.; CAVALCANTE, A. A.; VASCONCELOS, 
+F. P. Paisagens naturais do nordeste brasileiro nos livros didáticos de Geografia. REVISTA DE 
+GEOGRAFIA  (RECIFE),  v.  38,  p.  515-534,  2021.  http://dx.doi.org/10.51359/2238-
+6211.2021.250993. 
+
+BRASIL, Base Nacional Comum Curricular (BNCC). Brasília: Ministério da Educação, 
+2018.  
+
+CALLAI. H. C. A Geografia ensinada: os desafios de uma educação geográfica. In: MORAIS, 
+E; MORAIS, L. (Orgs). Formação de professores: conteúdos e metodologias no ensino de 
+Geografia. Goiânia: NEPEG, 2010. 
+
+CAVALCANTI, L.  S. Geografia, Escola e Construção de Conhecimentos. 16. ed. 
+Campinas: Papirus, 2010. 
+
+COSTA, A.P.P. B.; RIBEIRO, A.M. V. B. Importância do Estudo da Caatinga nas Escolas 
+Públicas situadas em regiões de predomínio desse Domínio. Id on Line Revista 
+Multidiciplinar e de Psicologia. v. 13, n. 45, p. 1043-1058, 2019. Disponível em: 
+http://idonline.emnuvens.com.br/id/article/view/1791. Acesso em: 26 jul. 2019.  
+
+FREIRE, N. et al. Atlas das Caatingas: o único domínio exclusivamente brasileiro. Recife: 
+Massangana, 2018. 
+
+GABRELON, A.; SILVA, J.L. B. S. Livro Didático: suas funções e o ensino de Geografia. In: 
+TONINI, I. M. (Orgs). O Livro Didático de Geografia e os desafios da docência para 
+aprendizagem. Porto Alegre: Sulina, 2017. p.113-135. 
+
+GIL, A. C. Métodos e Técnicas de Pesquisa Social. 6. ed. São Paulo: Atlas, 2008. 
+
+GIULIETTI, A. et. al. Diagnóstico da vegetação nativa do bioma Caatinga. Brasília: 
+Ministério do Meio Ambiente, 2010. 
+
+LEAL, I.; TABARELLI, M; SILVA, J. M. C. Ecologia e Conservação da Caatinga. Recife: 
+Ed. Universitária da UFPE, 2008. 
+
+IBGE. Instituto Brasileiro de Geografia e Estatística. https://www.ibge.gov.br/cidades-e-
+estados/pb/patos.html. Acesso em: 07 jun. 2022. 
+
+KNECHTEL, M.R.Metodologia da pesquisa em educação: uma abordagem teórico 
+prática dialogada. Curitiba: Intersaberes, 193 p. 2014. 
+
+MORAIS, E. M. B. As Temáticas Físico-Naturais nos Livros Didáticos. Revista Brasileira de 
+Educação em Geografia. Campinas, v.4, n.8, p.175-194, jul./dez.2014. 
+
+MOREIRA, M. A. O que é afinal aprendizagem significativa? Revista Cultural Laguna. 
+Espanha, 2012. 
+
+OLIVEIRA, L. O ensino/aprendizagem de Geografia nos diferentes níveis de ensino. In: 
+PONTUSCHKA, N. N.; OLIVEIRA, A. U. (Orgs.). Geografia em perspectiva. Contexto, 
+383p., 2002. 
+
+PONTUSCHKA, N. N.; PAGANELLI, T. I.; CACETE, N. H. Para ensinar e aprender 
+Geografia. 3 ed. São Paulo: Cortez, 2009. 
+
+PRADO, D. E. As caatingas da América do Sul. In: LEAL, I. R.; TABARELLI, M.; SILVA, J. 
+M. C. Ecologia e conservação da caatinga. Recife: EUFPE, 2003. 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+114 
+
+ 
+
+ 
+
+Revista de Geografia (Recife) V. 40, No. 2, 2023  
+
+ 
+ 
+
+ 
+
+SELBACH. S. Geografia e didática. Petrópolis, RJ: Vozes, 2010. 
+
+SILVA, C. C. E.; SILVA, F. P. Uma abordagem sobre a importância da interdisciplinaridade no 
+ensino da Educação Ambiental na escola. Revista Brasileira de Meio Ambiente, v. 8, p. 57-
+67, 2020. 
+
+SILVA, F. P. Impactos socioambientais pela exploração do gnaisse: a despossessão das 
+comunidades ao entorno das empresas no semiárido brasileiro. Contribuciones a las ciencias 
+sociales, v. 6, p. 1-8, 2018. 
+
+SILVA, J. M. C.; BARBOSA, L. C. F.; LEAL, I. R.; TABARELLI. The Caatinga: 
+Understanding the Challenges. In: SILVA, J. M. C.; LEAL, I. R.; TABARELLI (Orgs.). 
+Caatinga The Largest Tropical Dry Forest Region in South America. Springer, p. 3-22, 
+2017. 
+
+SILVA, F. P.; CAVALCANTI, L. C. S. Avaliação comparativa de técnicas para o ensino de 
+geografia: uma abordagem a partir do conceito de ciclo hidrológico. InterSaberes Revista 
+Científica, v. 14, p. 627-644, 2019. 
+
+SILVA, F. P.; CAVALCANTI, L. C. S. Convivência com o semiárido: práticas 
+interdisciplinares com alunos de uma escola pública em Petrolina/PE. Revista Brasileira de 
+Educação em Geografia, v. 6, p. 405-412, 2016. 
+
+SILVA, F. P.; MOURA, G. J. B.; SANTOS, C. A. B. Representações dos moradores do 
+entorno das áreas de exploração sobre a importância e impactos da mineração. Geosul, 
+Florianópolis, v. 33, n. 66, p. 128-146, 2018. 
+
+SILVA, F. P.; RODRIGUES, M. S.; MOURA, G. J. B.; SANTOS, C. A. B. Produção do 
+espaço pela exploração do gnaisse na comunidade da vila renascer em Petrolina-PE. 
+Geoambiente on-line, p. 96-113, 2018. 
+
+SILVA, F. P.; SANTOS, A. M. O Domínio das Caatingas trabalhado nos livros didáticos de 
+geografia. Élisée - Revista de Geografia da UEG, v. 7, n. 02, p. 20-39, 31, 2018. 
+
+SILVA, F. P.; SANTOS, C.A. B. Impactos sobre a conservação de recursos naturais em áreas 
+de exploração mineral. Revista Brasileira de Gestão Ambiental e Sustentabilidade, v. 7, p. 
+1471-1482, 2020. 
+
+SILVA, F. P.; SOUSA, M. E. Educação ambiental e turismo educacional na região da chapada 
+diamantina - BA. Interespaço: revista de geografia e interdisciplinaridade, v. 3, p. 304-
+316, 2017. 
+
+SILVA, F. P.; SOUZA, D.D.; LOPES, R. J. C.; COSTA, H. N. Potencial turístico e pedagógico 
+das paisagens de Paulo Afonso, Bahia, nordeste do Brasil. Interespaço: revista de geografia 
+e interdisciplinaridade, v. 5, p. 12280, 2020. 
+
+SILVA, F.P.; SOUSA, R.A.D. Callai, helena copetti. A formação do profissional da geografia. 
+Ijuí, rs: editora unijuí, 1999. Revista Ensino de Geografia (Recife) V. 5, N. 2, p.226-233, 
+2022. 
+
+SILVA, I. C.; COSTA, H. N. C.; SILVA, F.P. Educação ambiental: um estudo sobre as práticas 
+metodológicas no ensino médio”, Revista Contribuciones a las Ciencias 
+Sociales,v.13,n.8,p.157-175,2022. https://doi.org/10.51896/CCS/JIPH7154. 
+
+WERNECK, F. P. The diversification of eastern South American open vegetation biomes: 
+Historical biogeography and perspectives. Quaternary Science Reviews, n. 30, p. 1630-
+1648, 2011. 
+
+Alves; Silva; Costa, 2023 
+
+ 
+
+ISSN 0104-5490 
+
+115 
+
+ 
+
+ 
+
+ 
+
+

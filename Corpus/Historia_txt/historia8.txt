@@ -1,0 +1,981 @@
+DOSSIÊ 
+
+CONFLITOS E LUTAS AUWĒ: A DEMARCAÇÃO DA TERRA INDÍGENA SÃO MARCOS 
+AUWĒ CONFLICTS AND STRUGGLES: THE DEMARCATION OF SÃO MARCOS INDIGENOUS LAND 
+
+Sílvia Clímaco Mattos∗ 
+silviaclimattos@yahoo.com.br 
+RESUMO: Nesse trabalho busco apresentar as lutas pela demarcação da Terra Indígena São Marcos, 
+Mato Grosso, a partir da perspectiva de narradores Xavante, entrevistados entre os anos de 2016 e 
+2018, e de documentos pesquisados no Núcleo de Documentação da Diretoria de Proteção Territorial 
+da  Funai  de  Brasília.  Partindo,  de  uma  reflexão  sobre  a  colonialidade  que  atinge  a  historiografia 
+produzida  sobre  povos  indígenas,  busco  contestar  o  apagamento  social  do  protagonismo  e  da 
+capacidade de ação indígenas, trazendo, como contraponto para essa invisibilidade, as estratégias 
+utilizadas pelos Xavante para conseguir a demarcação de suas terras, em especial, da Terra Indígena 
+São Marcos, durante a década de 1970. 
+PALAVRAS-CHAVE: Narradores, Xavante, Demarcações de terras. 
+ABSTRACT:  In  this  paper,  I  seek  to  present  the  struggles  for  the  demarcation  of  the  São  Marcos 
+Indigenous Land, Mato Grosso, from the perspective of Xavante narrators, interviewed between the 
+years 2016 and 2018, and documents researched in the Documentation Center of the Directorate of 
+Territorial Protection of Funai in Brasília. Starting from a reflection on the coloniality that affects the 
+historiography  produced  about  indigenous  peoples,  I  seek  to  contest  the  social  erasure  of  the 
+indigenous  protagonism  and  capacity  of  action,  bringing,  as  a  counterpoint  to  this  invisibility,  the 
+strategies used by the Xavante people to achieve the demarcation of their lands, especially the São 
+Marcos Indigenous Land, during the 1970s. 
+KEYWORDS: Narrators, Xavante, Land demarcations. 
+Introdução 
+
+Os  Xavante,  que  se  autodenominam  A’uwẽ,  são  atualmente  contabilizados  em 
+aproximadamente  19  mil  pessoas,  distribuídas  em  várias  aldeias,  situadas  em  nove  terras 
+indígenas, no leste de Mato Grosso (Censo IBGE, 2010). Essas terras são Sangradouro/Volta 
+Grande, São Marcos, Marechal Rondon, Areões, Pimentel Barbosa, Parabubure, Ubawawe, 
+Chão Preto e Marãiwatsédé. A língua Xavante pertence ao sub-grupo Jê Central, da família Jê, 
+tronco Macro-Jê. 
+
+Entre 2016 e 2019, para minha pesquisa de doutorado, na qual estudei as narrativas 
+de velhos Xavante sobre os primeiros contatos estabelecidos por este povo e a sociedade 
+nacional, entre as décadas de 1940 e 1950, e os processos de demarcação das terras Xavante 
+de São Marcos e Parabubure pelo Estado brasileiro, na década de 1970, pude entrevistar dez 
+narradores indígenas residentes nessas respectivas terras. 
+
+∗ Doutora em História pelo Programa de Pós-Graduação em História da Universidade de Brasília (UnB). Trabalha 
+no Centro Audiovisual de Goiânia, vinculado ao Museu do Índio, Rio de Janeiro, unidade da Funai. 
+
+ 
+
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio./ago. 2022 
+
+Recebido em 30 de outubro de 2022 
+
+Aprovado em 20 de maio de 2023 
+
+DOSSIÊ 
+
+6 
+
+Esses narradores foram então indicados pelas suas respectivas comunidades para a 
+participação  na  pesquisa  por  serem,  por  elas,  considerados  como  oradores  competentes, 
+aptos  a  responderem  aos  questionamentos  propostos,  em  razão  de  suas  experiências 
+relacionadas aos temas então pesquisados. 
+
+Em  conformidade  com  as  técnicas  da  história  oral,  que  envolvem  a  gravação  das 
+entrevistas realizadas, as narrativas obtidas durante as conversações estabelecidas com os 
+indígenas em suas respectivas aldeias foram registradas com a utilização de um aparelho de 
+gravação e filmagem, sendo ainda posteriormente transcritas e restituídas a cada um dos 
+narradores, que anuíram com a sua utilização pela pesquisadora. 
+
+Essas narrativas indígenas, permeadas por representações históricas forjadas pelos 
+Xavante  sobre  os  períodos  mencionados,  são  frequentemente  ignoradas  por  trabalhos 
+historiográficos cujo enfoque são as políticas de colonização governamental desenvolvidas no 
+Brasil, entre as décadas de 1940 e 1970, e formam o corpus oral utilizado na produção deste 
+artigo. 
+
+1.  Povos indígenas na historiografia 
+
+Almeida  (2020)  afirma  que  na  historiografia  brasileira  produzida  até  a  década  de 
+1980, as populações indígenas foram muitas vezes apresentadas como sujeitos inferiores e 
+incapazes  de  resistência  ao  colonialismo  e  à  dominação  europeia.  Esse  pensamento,  que 
+norteou a história oficial do Brasil, desde o século XIX, acabou por relegar os indígenas ao 
+passado mais mais primitivo, bárbaro e atrasado, que deveria ser esquecido para o bem do 
+“progresso” e da “civilização”. Como afirmou o historiador Varnhagen (1953, p. 31, tomo 1), 
+sócio-correspondente do Instituto Histórico e Geográfico Brasileiro (IHGB), no século XIX: “De 
+tais povos na infância não há história: há só etnografia”. 
+
+Pacheco de Oliveira (2016) ressalta que capacidade de ação indígena foi escamoteada 
+pela historiografia e pelos livros didáticos escolares, assim como a participação desses povos 
+no sistema colonial como força de trabalho produtiva, frequentemente explorada. Como bem 
+esclarece o autor, 
+
+Um  grande  bias  da  historiografia  brasileira  é  não  reconhecer  jamais  os 
+indígenas  como  trabalhadores  e  produtores  de  valores  e  riquezas, 
+raciocinando sempre como se eles estivessem à margem da economia. Dessa 
+forma,  a  construção  do  passado  incorpora  acriticamente  os  preconceitos 
+coloniais  e  os  pressupostos  contidos  nas  categorias  acionadas  pelos  que 
+
+Sílvia Clímaco Mattos. CONFLITOS E LUTAS INDÍGENAS 
+
+7 
+
+DOSSIÊ 
+ 
+
+controlavam  e  disputavam  a  força  de  trabalho  indígena,  fossem  estes 
+colonos ou missionários (PACHECO DE OLIVEIRA, 2016, p. 24-25). 
+
+Pacheco  de  Oliveira  (2016)  acrescenta  que  os  índios  desempenharam  uma 
+multiplicidade de formas de trabalho compulsório durante toda a colonização, beneficiando 
+desde  missões  religiosas  até  diretores  de  índios.  Diferentes  legislações  regulamentaram  o 
+trabalho indígena, assim como o funcionamento das relações de produção e dos mercados de 
+trabalho. Ainda assim, as contribuições indígenas, no aspecto laboral, foram tomadas como 
+periféricas  ou  desprestigiadas  em  sua  importância  econômica  e  repercussões  políticas  e 
+sociais. 
+
+Mesmo  quando  apresentadas  em  particularidades  que  fugiam  das  indicações 
+convencionais, que comumente enquadravam as populações indígenas na categoria genérica 
+de “índio”, elas vinham atreladas a categorias historicamente difundidas, tais como o lugar da 
+guerra na economia política de povos indígenas, ou o estranhamento mútuo verificado entre 
+europeus  e  índios  por  ocasião  do  “descobrimento”.  Ainda  assim,  a  capacidade  de  ação 
+indígena costumava ser minimizada e sua resistência à conquista era comumente apresentada 
+como  mera  reação  compulsória  à  ação  europeia,  sem  qualquer  relação  com  um  projeto 
+político, organizado, articulado e produzido pela vontade dessas populações (COELHO, 2007). 
+
+Essa compreensão do mundo que está ligada à historiografia moderna, chamada por 
+alguns autores de eurocêntrica, fundamenta-se em uma codificação que situa as diferenças 
+entre  colonizadores  e  colonizados  não  no  âmbito  da  cultura,  mas  na  biologia.  Os  nativos 
+americanos  estariam,  desse  modo,  em  uma  situação  de  inferioridade  em  relação  aos 
+europeus, o que justificava as relações de dominação que a sua conquista exigia. 
+
+Lander (2005) afirma que os processos de colonização não afetam apenas as relações 
+econômicas e de exploração, mas também os saberes, as linguagens e as memórias daquelas 
+populações  situadas  nas  áreas  colonizadas.  A  situação  decorre  de  um  padrão  de  poder 
+denominado colonialidade. Esta transforma aquele que é colonizado no “outro”, naquele que 
+se opõe a tudo aquilo que caracteriza a modernidade e a civilização, e cuja identidade negativa 
+estaria  irremediavelmente  marcada  pelos  atributos  da  irracionalidade,  da  barbárie  e  da 
+inconstância, o que justificaria o exercício do poder disciplinar por parte do colonizador e de 
+seus descendentes (CASTRO-GOMEZ, 2005). 
+
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio/ago. 2022 
+
+DOSSIÊ 
+
+8 
+
+Conforme  Quijano  (2014,  p.  291),  a  perspectiva  eurocêntrica  da  colonialidade 
+envolve o postulado de que as relações entre os elementos de um padrão histórico de poder 
+seriam de caráter “óntico, ahistórico ou transhistórico”, ou seja, seriam determinadas fora do 
+processo histórico. Nessa perspectiva, o mundo moderno é apresentado como aquele que 
+impeliu e que continua a impulsionar o processo de racionalização da sociedade e, por isso, 
+ele se permite desprezar, ou, no máximo, exercer uma curiosidade respeitosa, acerca dos 
+costumes,  das  invenções  e  das  representações  imaginárias  das  sociedades  nativas,  vistas 
+como estranhas, ou exóticas. 
+
+Essa compreensão de mundo também se fez sentir na historiografia, onde a presença 
+do índio foi, por muito tempo, interpretada a partir de suas interações com os colonizadores, 
+de sua utilidade para algumas atividades e inutilidade para outras. Eram aliados ou inimigos, 
+bons  ou  maus,  a  depender  das  interações  amistosas  ou  hostis  estabelecidas  com  os  não 
+indígenas.  Enquanto  resistiam  à  conquista  de  suas  terras,  eram  definidos  como  índios 
+guerreiros, tais como foram os Tamoio, os Goitacases e os Tupinambás. Uma vez submetidos, 
+deixavam  de  ser  índios  e  se  incorporavam,  como  escravos  ou  índios  livres  aculturados,  à 
+ordem colonial, na qual supostamente não haveria brecha para sua atuação (ALMEIDA, 2010). 
+
+Para  Almeida  (2010,  p.  14),  essas  ideias,  até  muito  recentemente,  embasavam  o 
+desaparecimento  dos  índios  em  diversas  regiões  do  Brasil,  já  nos  primeiros  séculos  da 
+colonização. Estudos recentes têm demonstrado que, do século XVI ao XIX, os índios inseridos 
+no  mundo  colonial,  em  diferentes  regiões  da  América  portuguesa,  continuavam  muito 
+presentes nos sertões, nas vilas, nas cidades e nas aldeias. Inúmeros documentos produzidos 
+pelos  mais  diversos  atores  sociais  evidenciam  essa  presença.  Contrastando  com  a  sua 
+presença, ao longo dos séculos, o desaparecimento das populações indígenas da historiografia 
+se deve, provavelmente, à ideia de que os índios integrados à ordem colonial iniciavam um 
+processo  de  aculturação,  ou  seja,  de  perda  de  sua  identidade  étnica,  de  incorporação 
+progressiva de novos padrões culturais até a sua assimilação definitiva pela população situada 
+em seu entorno. Acreditava-se, assim, que não restaria ao índio qualquer margem para uma 
+atuação autônoma, nenhuma possibilidade de resistência, a não ser a submissão passiva a um 
+processo de mudanças e assimilação inexoráveis (ALMEIDA, 2010). 
+
+De  acordo  com  Almeida  (2010),  desde  meados  do  século  XIX,  algumas  vozes  já 
+alertavam  para  a  importância  de  considerar  as  trajetórias históricas específicas  dos  povos 
+
+Sílvia Clímaco Mattos. CONFLITOS E LUTAS INDÍGENAS 
+
+9 
+
+DOSSIÊ 
+ 
+
+indígenas.  O  que  predominou  entre  os  antropólogos  voltados  para  o  estudo  dessas 
+sociedades,  contudo,  foi  a  concepção  de  que  os  processos  históricos,  responsáveis  pelas 
+mudanças vivenciadas pelos povos ameríndios, não eram importantes para o seu objeto de 
+estudo, por serem considerados como desencadeadores de perdas culturais que levariam à 
+extinção dos povos estudados (ALMEIDA, 2010). 
+
+Almeida (2010) assinala que esse tipo de compreensão acerca da realidade indígena 
+perduraria  até  as  últimas  décadas  do  século  XX  e  encontravam  respaldo  e  incentivo  nas 
+próprias políticas indigenistas que, desde as reformas pombalinas, de meados do século XVIII, 
+passando pelo Império e pela República, estiveram voltadas para a assimilação do índio. A 
+expectativa  de  seu  inevitável  desaparecimento,  mediante  extinção  ou  assimilação,  só  foi 
+efetivamente abandonada com a promulgação da Constituição de 1988, que afirmou o direito 
+dos indígenas à manutenção de suas diferenças, o que representou uma alteração significativa 
+na legislação brasileira. 
+
+Pela primeira vez, as sociedades indígenas foram reconhecidas como portadoras de 
+culturas que eram diferentes entre si e daquelas do Ocidente. Segundo o novo ordenamento 
+constitucional, as crenças e os costumes que motivam as ações dos membros dessas culturas 
+não  podem  ser  considerados  como  desprovidos  de  sentido  ou  estigmatizados  como 
+manifestações de atraso e, muito menos, discriminados ou perseguidos, dada a conotação de 
+infração  legal  que  tais  atos  adquiriram,  decorrentes  de  seu  enquadramento  como  abuso, 
+menosprezo e racismo (PACHECO DE OLIVEIRA, 2014). 
+
+Nos quadros jurídicos nacionais anteriores, nunca se cogitou a aceitação da diferença 
+cultural como um componente legítimo do ordenamento social e legal. A diferença cultural 
+era  tida  como  um  obstáculo  a  ser  removido  em  uma  sociedade  em  que  predominava  a 
+intolerância diante de outros modos de vida e na qual a religião cristã ditava as formas de 
+convivência e de organização da sociedade colonial e, posteriormente, imperial, influindo, 
+ainda, nos comportamentos sociais adotados durante quase todo o Brasil republicano. Apenas 
+como  fenômeno  passageiro,  a  diferença  poderia  ser,  portanto,  tolerada,  o  que  explica  os 
+esforços dispendidos nos processos voltados para a aculturação e a assimilação dos índios 
+(PACHECO DE OLIVEIRA, 2014). 
+
+Até que a assimilação do índio ocorresse, era necessário que essa convivência fosse 
+rigorosamente  regrada.  Enquanto  isso,  as  populações  indígenas  eram  tuteladas  por 
+
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio/ago. 2022 
+
+DOSSIÊ 
+
+10 
+
+representantes  do  poder  colonial  e,  posteriormente,  estatal,  encarregados  de  dirigi-las.  O 
+controle  sobre  as  crenças  e  os  costumes  nativos  e  a  mediação  permanente  nas  relações 
+estabelecidas entre as populações autóctones e os não indígenas foram, por isso, recorrentes 
+nos regimes tutelares impostos pelos três principais agentes responsáveis pela subjugação das 
+populações  nativas  do  Brasil  desde  os  tempos  coloniais,  quais  sejam:  os  missionários,  os 
+colonos e o Estado (PACHECO DE OLIVIERA, 2014). 
+
+2.  As lutas Xavante pela demarcação da Terra Indígena São Marcos 
+
+Ainda  que  as  criações  e  os  pensamentos  indígenas  possuam  uma  capacidade  de 
+projeção e de difusão distinta daquela produzida pelo pensamento ocidental, isso não significa 
+uma  ausência,  entre  as  sociedades  ameríndias,  de  formas  próprias  de  conhecimento,  de 
+memórias e de registros históricos. Assim como ocorre em nossa própria sociedade, há, nas 
+sociedades indígenas, o desejo de ver esses registros projetados no tempo, a fim de evitar o 
+seu  esquecimento  ou  o  silenciamento  diante  de  formas  culturais  hegemônicas  (AGUILAR, 
+2011). 
+
+Os narradores entrevistados nas Terras Indígenas São Marcos e Parabubure contam  
+como, nas décadas de 1950 e 1960, os Xavante da região atualmente demarcada como Terra 
+Indígena  Parabubure  enfrentaram  violências,  exílio,  doenças  e  decréscimo  populacional, 
+buscando proteção contra ataques de expedições punitivas, atendimento médico e acesso a 
+bens industrializados em postos do SPI e entre os padres salesianos que, desde o século XIX, 
+já  atuavam  como  missionários  entre  os  Bororo  nas  missões  de  Meruri  e  São  José  de 
+Sangradouro, no Mato Grosso.  
+
+Os  primeiros  indígenas  a  se  fixarem  em  São  Marcos  foram  os  Xavante  de  Couto 
+Magalhães e Culuene (Nõrõtsu’rã e Onhi’udu, respectivamente), que para lá foram levados 
+pelos missionários, em 1958, após estabelecerem os primeiros contatos com os padres da 
+missão salesiana de Meruri, para onde migraram de suas terras de origem. Segundo Garfield 
+(2011),  em  1969,  São  Marcos  era  habitado  por  798  indígenas,  que,  nessa  ocasião, 
+correspondiam a 37% da população Xavante. Em Sangradouro, nesse mesmo ano, viviam 367 
+indígenas, ou seja, 17% da população Xavante. De acordo com o autor, a soma das populações 
+
+Sílvia Clímaco Mattos. CONFLITOS E LUTAS INDÍGENAS 
+
+11 
+
+DOSSIÊ 
+ 
+
+de  ambas  as  reservas,1  vivendo  junto  nas  missões  salesianas,  era  mais  da  metade  da 
+população Xavante, então estimada em 2.160 índios, que se encontravam vivendo fora do seu 
+antigo território, nesse período. 
+
+Na segunda metade da década de 1960, os governos militares buscaram fomentar a 
+modernização agrícola e o povoamento das fronteiras a oeste do país, a fim de garantir a sua 
+integração e a segurança nacional. A criação de áreas reservadas aos índios era uma forma de 
+limitar  o  espaço  de  ocupação  das  comunidades  nativas,  concentrando-as  em  parcelas  de 
+terras  reduzidas,  de  modo  a  liberar  o  restante  à  colonização.  Dessa  forma,  os  governos 
+acreditavam proteger as reivindicações dos detentores de títulos, evitando conflitos entre eles 
+e as comunidades indígenas (GARFIELD, 2011). 
+
+Ao  criar  postos  indígenas  e  áreas  reservadas,  o  Estado,  representado  pelo  órgão 
+tutor, a Funai, excluía os indígenas, ao segregá-los em áreas restritas, ao mesmo tempo que 
+os  incluía  em  uma  rede  nacional de  vigilância  e  controle,  ligada  a  um  centro  de  poder.  A 
+questão não residia, portanto, no reconhecimento de um território próprio destinados aos 
+índios — em decorrência de sua identidade etnicamente distinta, ainda que em permanente 
+transformação,  especialmente  em  decorrência  das  situações  de  interação  com  uma 
+população nacional e com os poderes do Estado —, mas na sua inserção em um sistema de 
+controle  operado  em  escala  nacional,  sob  a  vigilância  de  um  corpo  de  especialistas 
+encarregados de cada uma dessas comunidades (SOUZA LIMA, 2012).  
+
+O adensamento gerado pela colonização no leste do Mato Grosso impactou a vida 
+dos Xavante, confinando-os em áreas cada vez menores, insuficientes para sua subsistência. 
+Ante tal situação, os indígenas dos postos e das missões passaram a engajar-se em lutas pela 
+recuperação de suas terras, notadamente a partir da década de 1970 — embora, em regiões 
+como  Couto  Magalhães  ou  Nõrõtsu’rã,  situada  em  terras  hoje  demarcadas  como  Terra 
+Indígena Parabubure, as reivindicações territoriais dos Xavante tenham começado cerca 10 
+anos antes, com os indígenas denunciando que suas terras tinham sido vendidas a particulares 
+pelo governo do estado de Mato Grosso (MENEZES, 1982). 
+
+ 
+
+1 De acordo com o art. 26 do Estatuto do Índio (Lei n.º 6.001/73), as áreas reservadas são aquelas estabelecidas 
+em qualquer parte do território nacional e destinadas à posse, à ocupação e ao usufruto exclusivo dos índios. No 
+referido Estatuto, áreas reservadas estão divididas em três modalidades: reserva indígena, parque indígena e 
+colônia agrícola. As áreas reservadas não são as de ocupação originária, ou aquelas definidas pela Constituição 
+federal de 1988 (art. 231) como terras tradicionalmente ocupadas. 
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio/ago. 2022 
+
+DOSSIÊ 
+
+12 
+
+De  acordo  com  Menezes  (1982,  p.  70),  “Os  atritos  entre  índios,  fazendeiro  e 
+moradores se intensificaram na medida em que eram dados os primeiros passos no sentido 
+de  legalizar  a  posse  indígena”.  Sedentarizados  em  postos  da  administração  oficial  e  nas 
+colônias missionárias, os Xavante frequentemente viam-se enredados nesses embates. Para 
+assegurar  as  terras  em  que  viviam  e  recuperar  partes  daquelas  que  tinham  perdido,  eles 
+passaram a organizar-se em torno de um movimento de reivindicação pelas demarcações de 
+terras (MENEZES, 1982). 
+
+Recusando  o  confinamento  em  pequenas  porções  de  terra,  os  Xavante  então 
+pressionavam  o  Estado  para  que  ampliasse  e  demarcasse  suas  terras.  Para  isso,  eles  não 
+apenas continuaram a usar de suas conhecidas táticas de enfrentamento, pautadas em uma 
+violência  simbólica  —  a  qual  se  traduziu  na  depredação  do  patrimônio  de  particulares 
+instalados  em  suas  terras  —,  como  também  passaram  a  apropriar-se  de  expedientes  que 
+caracterizavam o sistema político brasileiro, mas que eram estranhos à sua cultura. Ao se 
+utilizarem  das  brechas  legais  encontradas  nesse  sistema,  que  garantiam  aos  índios alguns 
+direitos,  e  ao  adotarem  novas  formas  de  comunicação  e  expressão  aprendidas  durante  o 
+período de convivência com os “brancos”, os Xavante buscavam manter o controle de suas 
+terras e garantir algum bem-estar socioeconômico para suas comunidades (GARFIELD, 2011). 
+
+Depois do contato interétnico, todas as comunidades indígenas perderam terras e 
+autonomia. Sob a tutela dos não índios, os Xavante foram submetidos a padrões disciplinares 
+que interferiam em suas antigas práticas socioculturais e que tinham por objetivo substituí-
+las  por  novas  práticas,  oriundas  de  uma  cultura  exógena  (GARFIELD,  2011).  O  contato 
+interétnico, ao longo das décadas de 1950 e 1960, não trouxe, contudo, apenas experiências 
+de  submissão  para  os  indígenas,  mas  também  de  interlocução  com  os  “brancos”,  o  que 
+contribuiu para fortalecer sua consciência política (GARFIELD, 2011). 
+
+O aprendizado da língua portuguesa e o contato com novas formas de representação 
+e mobilização política ajudaram os indígenas a adquerir outros dispositivos que também se 
+demonstraram  úteis  nas  lutas  pelo  controle  de  suas  terras.  Por  meio  de  uma  adaptação 
+seletiva,  eles  conseguiram  manter  suas  instituições  e  sua  estrutura  sociocerimonial,  ao 
+mesmo tempo em que recorriam às estratégias de luta aperfeiçoadas durante a convivência 
+com os “brancos”, visando assegurar seus direitos (GARFIELD, 2011). Garfield (2011, p. 245) 
+assinala: 
+
+Sílvia Clímaco Mattos. CONFLITOS E LUTAS INDÍGENAS 
+
+13 
+
+DOSSIÊ 
+ 
+
+Viajando para a capital do país pelas mesmas estradas construídas para a 
+apropriação de seu território, os líderes indígenas chegaram a confrontar os 
+representantes do governo. Em suma, com a mesma determinação, pompa 
+e  a  cobertura  dos  meios  de  comunicação,  os  Xavante  inverteram  a 
+peregrinação conduzida por Getúlio Vargas, que lançara sobre eles a atenção 
+nacional. Com destino a Brasília, o “verdadeiro senso de brasilidade” para os 
+Xavante estava na Marcha para o Leste. 
+
+Garfield (2011, p. 198) ressalta ainda que “Um componente-chave nessa estratégia 
+implicava  a  aplicação  de  práticas  ‘tradicionais’  a  serviço  da  mudança  sociocultural”.  Para 
+recuperar  suas  terras  e  sua  autonomia,  mantendo  o  acesso  aos  bens  industrializados,  os 
+Xavante também se apropriaram de uma nova identidade genérica, a de índios, adotando, 
+quando lhes convinha, comportamentos adaptados aos cenários interétnicos. Dessa forma, 
+eles  expandiram  seu  repertório  político,  “[...]  adaptando,  retrabalhando  ou  inventando 
+tradições culturais” (GARFIELD, 2011, p. 207). 
+
+Ao longo da história do Brasil, o termo “índio” foi, muitas vezes, utilizado de forma 
+negativa  para  definir  as  populações  nativas,  pensadas  não  apenas  como  diferentes  da 
+sociedade  nacional,  mas  também  como  inferiores  a  ela,  devido  ao  seu  estágio  de 
+desenvolvimento, considerado “primitivo”. A partir da década de 1970, com a consolidação 
+do movimento indígena, o termo “índio” passou a ser utilizado pelos próprios indígenas para 
+afirmar uma identidade de oposição aos “brancos”, para indicar sua condição de povos nativos 
+específicos, portadores de direitos (RAMOS, 1990). 
+
+Ramos (1990) pontua que diferentes povos indígenas, engajados na arena política, 
+lutavam  por  uma  causa  comum,  o  que  os  congregava  em  torno  de  um  sentimento  de 
+“indianidade”. Embora cientes de suas distinções étnicas, o movimento indígena promoveu a 
+criação de uma comunidade gerada a partir de reivindicações e vivências semelhantes, que 
+possibilitaram a construção de uma dupla identidade: a de índios, quando colocados diante 
+dos chamados “brancos”, e a de povos etnicamente diferenciados, portadores de tradições 
+específicas,  diferentes  das  de  outros  povos  indígenas.  Ao  referir-se  às  estratégias  de  luta 
+adotadas pelos Xavante, Garfield (2011, p. 208) explica: 
+
+A  educação  cívica  e  o  português,  material  fornecido  pelas  elites  para 
+cimentar o consenso, seriam transformados pelos líderes Xavante em uma 
+língua de protesto contra os abusos de poder do Estado. O povo Xavante, 
+que  havia  incorporado  a  figura  do  índio  “tradicional”,  emergiu  na  arena 
+política  brasileira  com  atos  de  mobilização  e  protesto.  Para  os  Xavante, 
+tornar-se brasileiro e tornar-se índio significou não só o banimento territorial 
+e a dominação sociocultural, mas também a abertura de um novo campo de 
+
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio/ago. 2022 
+
+DOSSIÊ 
+
+14 
+
+luta.  Como  “brasilíndios”,  os  Xavante  enfrentaram  um  clima  político 
+transformado pela ditadura militar e uma paisagem natural modificada pelos 
+investimentos corporativos, pela colonização e pela degradação ambiental. 
+Ao longo da década de 1970, os Xavante passaram a adotar atitudes cada vez mais 
+ousadas  para  recuperar  seus  antigos  territórios.  Para  ampliar  suas  terras  e  expulsar  os 
+ocupantes não indígenas, eles recorreram tanto às suas práticas tradicionais, caracterizadas 
+por  uma  belicosidade  performatizada  –  que  se  diferiam  das  táticas  utilizadas  por  outros 
+povos2 – quanto às formas de mobilização política recentemente aprendidas, que incluíam 
+protestos organizados e a formação de parceria com agentes externos, dispostos a apoiar as 
+demandas indígenas (GARFIELD, 2011). 
+
+Na rotina das lideranças Xavante, passou também a ser comum a participação em 
+reuniões com autoridades, em Brasília, as quais, durante esses encontros, eram pressionadas 
+a  atender  as  reivindicações  fundiárias  indígenas.  Essas  reuniões  eram,  muitas  vezes 
+divulgadas, pela imprensa, conforme é possível observar em matéria denominada “Conversa 
+com ministro acalma cacique Xavante”, publicada pelo jornal O Globo, em 12 de outubro de 
+1973, encontrada na folha 52 do Processo NI-MIA-BSB N.º 11.367, sob a guarda da Funai. A 
+matéria narra um encontro entre o então ministro do Interior, Costa Cavalcanti, e o cacique 
+Ahöpöwẽ, recebido no gabinete do ministro, em Brasília, para reivindicar a demarcação das 
+terras de São Marcos e a expulsão de posseiros que ali se encontravam. 
+
+Nesses  encontros,  vistos  pelos  Xavante  como  ocasiões  solenes,  as  lideranças 
+indígenas  costumavam  apresentar-se  paramentadas  com  suas  pinturas  e  seus  adereços 
+tradicionais. Adotando uma performatização bastante semelhante àquela utilizada em suas 
+reuniões nos conselhos de anciãos, os Xavante impressionavam seus interlocutores, o que se 
+revelou bastante eficaz no alcance de seus objetivos. 
+
+Tobias,  narrador  entrevistado  na  Terra  Indígena  São  Marcos,  que  chegou  a 
+confeccionar  adereços  utilizados  pelas  lideranças  que  se  reuniam  com  as  autoridades  em 
+Brasília para reivindicar a demarcação de São Marcos, conta: 
+
+ 
+
+2  A  encenação  de  uma  belicosidade  performatizada  que  marca  as  práticas  expressivas  tradicionais  Xavante, 
+descritas por Graham (1995) em seu livro Performing Dreams: Discourses of Immortality among the Xavante of 
+Central Brazil, difere-se, em grande medida, das formas de resistência adotadas por outros povos indígenas do 
+Brasil. Estas, nem sempre são caracterizadas por embates diretos com seus opositores, como é possível observar 
+entre dos Tentehar, que preferem adotar a sagacidade e a estratégia no jogo das relações interétnicas (ALMEIDA, 
+2019), ou, entre os Kaiowá, que se valem uma engenhosa articulação político-religiosa que une e mobiliza as 
+comunidades de diferentes tekoa em torno das lutas pela retomada de suas terras (BENITES, 2014). 
+
+Sílvia Clímaco Mattos. CONFLITOS E LUTAS INDÍGENAS 
+
+15 
+
+DOSSIÊ 
+ 
+
+[...] eu fiz para eles alguns cocares sob a iluminação do fogo e eles tinham 
+muitas penas, quando os Xavante ainda conseguiam matar as araras para 
+eles  levarem  os  cocares  de  pena  e  usarem  lá.  [...]isso  era  para  pedir  a 
+demarcação,  que  eles  foram  e  ficaram  ansiosos.  E  eles  voltaram  com  o 
+documento  e,  quando  voltaram  com  o  documento,  o  povo  ficou  muito 
+entusiasmado (Tobias Tserenhimi’rãmi Tsere’õmowi, julho de 2017). 
+
+O abate do gado, a invasão, o saque, o incêndio às fazendas e o bloqueio de estradas 
+também estiveram entre as táticas adotadas pelos Xavante para intimidar os “brancos” que 
+ocupavam suas terras originárias ou as reservas que, então, eram-lhes destinadas. Incrédulos 
+quanto  à  capacidade  de  organização  e  iniciativa  dos  indígenas,  fazendeiros  e  posseiros 
+atribuíam a revolta Xavante à influência exercida pela Funai e pelos missionários sobre eles, 
+exigindo providências do governo para contê-los (GARFIELD, 2011).  
+
+A  situação  de  tensão  entre  indígenas  e  não  indígenas,  decorrente  de  disputas 
+fundiárias, é também narrada em processos administrativos da Funai, pesquisados no Núcleo 
+de Documentação da Diretoria Territorial do órgão. No Processo NI-MIA-BSB N.º 11367, folha 
+48,  consta  uma  matéria,  publicada  em  1º  de  setembro  de  1973,  pelo  jornal  O  Globo, 
+denominada  “Xavantes  podem  criar  confederação  para  expulsar  invasores”.  Segundo  a 
+matéria, técnicos da Funai estariam preocupados com uma possível união entre os Xavante 
+de diferentes terras indígenas para expulsar os posseiros dessas terras, referindo-se a essa 
+articulação como sendo uma “confederação Xavante”. 
+
+Na folha 54 do mesmo processo, consta ainda uma matéria de 26 de outubro de 
+1973,  também  publicada  pelo  jornal  O  Globo,  denominada  “Estado  de  alerta  na  reserva 
+Xavante:  há  perigo  de  guerra”.  Nela,  somos  informados  sobre  as  tensões  e  os  conflitos 
+interétnicos  em  Sangradouro,  resultantes  dos  trabalhos  da  Funai  de  fixação  dos  marcos 
+demarcatórios dos limites das terras destinadas aos indígenas. De acordo ainda com a matéria, 
+trabalhadores  encarregados  da  demarcação  e  indígenas  estariam  sendo  ameaçados  por 
+posseiros e um conflito sangrento era iminente. 
+
+Os embates que marcaram a história das demarcações Xavante são constantemente 
+mencionados pelos narradores, como é o caso de Tobias, que descreve, da seguinte maneira, 
+um episódio ocorrido em São Marcos, nessa época. Segundo o narrador, 
+
+[...] a terra era cercada de fazendas, onde está hoje a comunidade de São 
+Marcos, e temos hoje aldeias nesse território. A terra tinha muitas vacas e o 
+
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio/ago. 2022 
+
+DOSSIÊ 
+
+16 
+
+grupo  Abare’u3  ajudou  nesse  trabalho  de  transição.  Um  gaúcho,  mesmo 
+muito  bravo,  eles  tomaram  um  revólver  dele,  onde  está  hoje  a  aldeia 
+Guadalupe, quase estrangularam o pescoço dele com o cinto longo que ele 
+usava. Ele, por medo, gritava. Foi assim que aconteceu, e por causa disso saiu 
+a demarcação (Tobias Tserenhimi’rãmi Tsere’õmowi, julho de 2017). 
+
+As estratégias desenvolvidas pelos Xavante durante as lutas pela demarcação de suas 
+terras  incluíram  episódios  de  confronto,  utilizados  politicamente  pelos  indígenas  para 
+endossar  suas  reivindicações.  Esses  episódios  contrastam  com  a  passividade  atribuída  aos 
+povos indígenas na historiografia, inclusive por autores consagrados, como Gilberto Freyre, 
+Sérgio Buarque de Holanda e Caio Prado Júnior, que, em suas obras, destacaram a apatia e a 
+incapacidade dos indígenas, especialmente para os trabalhos agrícolas (COELHO, 2007). 
+
+Os  relatos  de  narradores  indígenas,  entrevistados  entre  2016  e  2018,  na  Terra 
+Indígena São Marcos e Parabubure monstram como, estrategicamente, os Xavante criaram 
+um clima de medo entre os colonos, para pressionar pela demarcação das terras por eles 
+reivindicadas, o que denota uma grande capacidade de ação que diverge da imagem de povos 
+pacíficos, dóceis e assujeitados, comumente difundida sobre os indígenas. 
+
+Em 1972, foram oficialmente criadas as Reservas Xavante de Sangradouro e de São 
+Marcos.  Nessa  mesma  data,  foram  tomadas  as  providências  para  demarcar  as  terras  de 
+Pimentel Barbosa e Batovi. As áreas reservadas o foram, contudo, apenas no papel, já que 
+ainda  restava  fixar  os  marcos  físicos  em  seus  limites  e  remover  os  ocupantes  “brancos” 
+instalados nessas terras (GARFIELD, 2011). 
+
+Os  primeiros  atos  administrativos  demarcatórios  foram  recebidos  com  grande 
+insatisfação por fazendeiros e empresários da região, especialmente por aqueles cujas terras 
+estavam  inseridas  no  perímetro  das  reservas  indígenas,  motivando  atitudes  de  represália 
+contra  os  Xavante  e  seus  apoiadores  (MENEZES,  1982).  Sobre  esse  período  da  história 
+Xavante, Sílvio, narrador entrevistado na Terra Indígena São Marcos, conta: “E os brancos 
+desciam  no  avião,  ali  onde  ainda  está  o  curral,  ali  os  brancos  chegavam  de  avião.  Eles 
+chegavam com armas de fogo para defender a terra” (Sílvio Tsipe ’Rãirãté, julho de 2017). 
+
+Segundo Menezes (1982), as estratégias adotadas por esses atores não indígenas, 
+para impedir as demarcações das terras Xavante, envolveram denúncias falaciosas em meios 
+de comunicação e veículos de imprensa, a cooptação de lideranças indígenas, o fomento de 
+
+3Os Abare’u são um dos grupos etários entre os sete que formam as classes de idade xavante 
+
+ 
+
+Sílvia Clímaco Mattos. CONFLITOS E LUTAS INDÍGENAS 
+
+17 
+
+DOSSIÊ 
+ 
+
+conflitos e divisões entre as comunidades Xavante e o uso da influência pessoal para coagir 
+órgãos  governamentais  e  aparelhos  de  repressão  a  trabalharem  contra  os  interesses  dos 
+índios.  Nas  palavras  da  autora,  “Participaram  da  campanha  vários  políticos  envolvidos  na 
+questão, na qualidade de proprietários e por interesses eleitorais e econômicos” (MENEZES, 
+1982, p. 71). 
+
+Ainda sobre os embates entre indígenas e fazendeiros, decorrentes da disputa pela 
+terra, na região de São Marcos, consta, nas folhas 247 e 248 do Processo FUNAI/BSB N.º 1137-
+82, um relatório de viagem de agentes da Polícia Federal à Reserva São Marcos, de 29 de 
+outubro de 1973. Nele, os policiais descrevem uma visita realizada à fazenda do Sr. Otacílio, 
+relatando que, durante a visita, foram informados sobre uma invasão à casa do fazendeiro por 
+um  grupo  de  140  índios,  que  queriam  expulsá-lo  daquelas  terras,  causando-lhe  grande 
+prejuízo material em decorrência da destruição de objetos e instalações da fazenda. 
+
+Os conflitos que se sucederam, após a fixação dos Xavante em São Marcos, advindos 
+de  disputas  fundiárias,  são  também  mencionados  pelos  narradores  entrevistados,  como 
+Raimundo.  No  relato  a  seguir,  Raimundo  conta  sobre  um  episódio  envolvendo  um  dos 
+primeiros padres a estabelecer-se na Missão de São Marcos, que, em virtude de seu apoio às 
+reivindicações territoriais indígenas, foi atacado e espancado por um fazendeiro da região. De 
+acordo com Raimundo, narrador entrevistado na Terra Indígena São Marcos: 
+
+As coisas não se tornaram fáceis com fundação dessa nova aldeia, desse novo 
+lugar.  O  fazendeiro  Alepão  era  muito  duro,  bateu  no  nosso  padre,  quase 
+matou o padre Pedro, chicoteou o padre até ele sangrar, rachou a cabeça 
+dele. Mesmo ele sofrendo esse ataque, ele se levantou e conseguiu subir no 
+cavalo, andando naquela direção onde hoje estão as aldeias Nova Esperança, 
+Fátima  e  Cristo  Rei.  Os  velhos  ficaram  esperando  ele  voltar,  contando  o 
+tempo para o retorno dele. Ele chegou já quase escurecendo. Foi assim a 
+história dos anciãos para nós. Os guerreiros Xavante ficaram furiosos e foram 
+até a fazenda dele com os padres, mataram e assaram as vacas e tomaram a 
+roça dele. E as vacas dele que entravam nas roças, eles flecharam. Nisso, o 
+fazendeiro foi embora (Raimundo Urébété Ai’réro, janeiro de 2017). 
+
+Para  resolver  os  conflitos  envolvendo  as  terras  Xavante,  foi  criada,  em  1973,  por 
+ordem  ministerial,  uma  comissão  de  estudos  encarregada  de  realizar  uma  avaliação  da 
+situação de cada região (MENEZES, 1982). No caso das reservas de Sangradouro e de São 
+Marcos, os estudos realizados indicaram que a posse Xavante, nessas áreas, era posterior à 
+dos  não  indígenas,  visto  que  os  Xavante  se  instalaram  nessas  terras  apenas  em  1958.  No 
+parecer da comissão, a demarcação das duas terras estava condicionada à desapropriação dos 
+
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio/ago. 2022 
+
+DOSSIÊ 
+
+18 
+
+imóveis atingidos pela criação das reservas indígenas. Mediante pagamento de indenização, 
+os antigos proprietários deveriam transferir o domínio dos seus títulos à União (MENEZES, 
+1982). 
+
+Em  1975,  os  limites  definitivos  de  São  Marcos  foram  estabelecidos  pelo  Decreto 
+Presidencial n.º 76.2015, que declarava áreas de domínio particular como de utilidade pública, 
+destinadas ao usufruto exclusivo do povo Xavante.  
+
+Os  indígenas  participaram  ativamente  da  fixação  dos  marcos  demarcatórios  nos 
+limites da Reserva São Marcos, junto dos empregados da empresa contratada pela Funai para 
+a  execução  dos  serviços.  Sílvio,  narrador  entrevistado  na  Terra  Indígena  São  Marcos,  que 
+trabalhou colocando os marcos delimitadores que separavam a terra indígena das fazendas 
+situadas em seu entorno, conta, com orgulho, sobre o compromisso de seu grupo Ẽtẽpa4 com 
+os  referidos  trabalhos.  Conforme  o  narrador:  “Os  Ẽtẽpa  eram  trabalhadores,  guerreiros, 
+corajosos.  Passamos  aqui,  perto  dessa  minha  aldeia,  perto  da  beira  do  rio”  (Sílvio 
+Tsipe ’Rãirãté, julho de 2017).  
+
+Nas memórias do narrador, são exaltados o protagonismo político e a coragem dos 
+Ẽtẽpa  na  luta  pela  demarcação  de  São  Marcos,  o  que  nos  remete  à  construção  de  outra 
+história, na qual a participação indígena ganha centralidade e importância no processo de 
+demarcação.  Dessa  forma,  torna-se  possível  engendrar  novos  modos  de  subjetivação  na 
+historiografia, mais favoráveis ao reconhecimento e ao fortalecimento dos indígenas como 
+sujeitos históricos e políticos na luta por seus direitos, no tempo presente. 
+
+No decorrer dos trabalhos de fixação dos marcos, os Xavante foram, muitas vezes, 
+ameaçados  por  fazendeiros  e  posseiros  atingidos  pela  demarcação  da  terra  indígena.  Ao 
+recordar-se desse período de sua história como um momento de perigo, quando tiveram que 
+realizar um grande sacrifício pessoal e coletivo para que os trabalhos demarcatórios fossem 
+concluídos, Sílvio conta: 
+
+[...]  eu  fui  deixado  para  trás  e  sozinho  eu  colocava  os  marcos,  era  muito 
+perigoso. Fui atrás no caminho até o rio Pindaíba e não tinha ninguém para 
+me encorajar. Eles [os Ẽtẽpa] foram fazendo o trabalho de volta, atrás de 
+mim, abrindo outro caminho. Era um clima muito calmo e dava muito medo. 
+Se fosse você, você viraria criança, porque tinha aviões com brancos que 
+desciam para impedir o nosso trabalho de demarcação das terras. No final 
+
+4 Os Ẽtẽpa são um dos grupos etários entre os sete que formam as classes de idade xavante. 
+ 
+
+ 
+
+Sílvia Clímaco Mattos. CONFLITOS E LUTAS INDÍGENAS 
+
+19 
+
+DOSSIÊ 
+ 
+
+do rio Pindaíba, voltamos, dava pena ver o caminho aberto pelos Xavante. 
+(Sílvio Tsipe ’Rãirãté, julho de 2017). 
+
+Nessa narrativa, Sílvio constrói-se como sujeito do processo de demarcação de São 
+Marcos, reafirmando sua coragem diante do clima de medo e ameaça. É nesse sentido que as 
+narrativas indígenas podem romper com uma perspectiva histórica hegemônica, que tende a 
+subjetivar os povos indígenas como sujeitos resignados, infantilizados e ingênuos. 
+
+Além  de  ressaltarem  o  empenho  dos  Xavante  nos  trabalhos  demarcatórios,  os 
+narradores assinalam as difíceis condições em que os trabalhos ocorreram. Tobias, narrador 
+que, assim como Sílvio, participou da fixação dos marcos físicos nos limites da Terra Indígena 
+São Marcos, conta: 
+
+Quando saiu a demarcação, como saiu? A divisa era até Ẽtẽtsib’ri, no nosso 
+idioma,  e  na  língua  do  homem  branco  é  Morro  da  Providência,  onde 
+demarcamos  junto  com  o  padre  Pedro.  Durante  esse  trabalho  sentimos 
+fome, junto com o meu consogro, não tínhamos nada, não tínhamos farinha, 
+nem arroz, nem arma de fogo, tínhamos só uma pequena faca, por isso os 
+tatus  escapavam  de  nós  e  entravam  nos  buracos  e  nós  pegávamos  só  os 
+pequenos  tatus,  e  nisso  a  gente  se  alimentou  (Tobias  Tserenhimi’rãmi 
+Tsere’õmowi, julho de 2017). 
+
+Os sacrifícios realizados pelos Xavante para a obtenção do reconhecimento oficial do 
+Estado de parte de suas terras revelam como a pauta da demarcação, estranha às formas 
+nativas  de  apropriação  territorial  e  próprias  de  uma  organização  fundiária  estatal,  foram 
+incorporadas pelos indígenas. O período de convivência forçada com os não índios trouxe, aos 
+Xavante, um aprendizado sobre o funcionamento da máquina administrativa do Estado, da 
+qual passaram a depender, até mesmo pela sua condição legal de tutelados. A percepção de 
+que seus direitos territoriais só seriam garantidos se eles se submetessem a um novo tipo de 
+territorialização fez com que os Xavante aderissem à proposta de demarcação de suas terras, 
+passando a adotá-la como uma de suas reivindicações prioritárias. 
+
+Com a edição do Decreto Presidencial n.º 76.2015, de 1975, ficou estabelecida uma 
+extensão de 188.478,26 ha (cento e oitenta e oito mil, quatrocentos e setenta e oito hectares 
+e vinte e seis ares) para a Reserva São Marcos. Para alguns narradores, contudo, a demarcação 
+da área não foi adequadamente realizada, visto que regiões consideradas importantes para 
+os indígenas não foram incluídas nos limites da reserva.  
+
+A situação das terras de São Marcos e de Sangradouro era peculiar, em relação às 
+outras áreas Xavante, já que elas não eram originalmente indígenas. Parte das glebas de São 
+
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio/ago. 2022 
+
+DOSSIÊ 
+
+20 
+
+Marcos e Sangradouro tinham sido compradas pela congregação salesiana ou recebidas pelos 
+padres, em doação, enquanto outros tantos hectares foram posteriormente a elas anexados 
+para  o  usufruto  Xavante,  mediante  um  processo  de  desapropriação  para  fins  de  utilidade 
+pública (MENEZES, 1982). 
+
+Em São Marcos, mesmo depois de homologados os limites da terra indígena, muitos 
+ocupantes recusaram-se a deixar as terras desapropriadas, envolvendo-se em confrontos com 
+os Xavante, os missionários e a Funai. Conforme Raimundo: 
+
+Agora, em 1973, 1974, a demarcação já estava quase finalizada, mas só saiu 
+em 1975 a demarcação. Em 1976, foi homologada a demarcação da terra. 
+Mas os nossos inimigos brancos não saíram todos. E quem eram eles? Eram 
+todos  irmãos:  Alepão,  Otacílio,  o  filho  dele,  Zeca,  e  um  fazendeiro  muito 
+bravo daquele morro. E os Xavante foram juntos com o padre Mário Panziera 
+atrás  desse  fazendeiro,  os  padres  usavam  arma  de  fogo,  e  os  Xavante  já 
+usavam também (Raimundo Urébété Ai’réro, janeiro de 2017). 
+
+Nos relatos dos narradores sobre os processos de demarcação, os fazendeiros são 
+construídos como “inimigos brancos”. Na ótica dos Xavante, eles foram seus principais rivais, 
+nas disputas por terras, na região. Nessas disputas, a atuação de alguns padres, aliados dos 
+indígenas, é lembrada, já que eles chegaram a pegar em armas e a participar de confrontos e 
+negociações com os fazendeiros. 
+
+A  memória da  trajetória  aguerrida dos  Xavante,  em  sua  recusa a  submeter-se  ao 
+domínio dos não indígenas, no período do pré-contato, associada ao aprendizado adquirido 
+sobre  a  sociedade  envolvente  nas  décadas  de  1950  e  1960,  forneceu,  aos  indígenas,  o 
+instrumental necessário para que eles pudessem organizar-se para exigir a demarcação de 
+suas terras. A mobilização dos Xavante, em São Marcos, em torno da demarcação da terra 
+indígena, também teve um impacto significativo nas lutas de outros povos, que se inspiraram 
+nas conquistas Xavante para encampar suas próprias reivindicações.  
+
+Menezes (1982) observa que as lutas travadas pelos Xavante para a ampliação, ou a 
+retomada, de suas terras estão entre os exemplos de sucesso alcançado pelos povos indígenas 
+em seus pleitos fundiários. Nem mesmo os Bororo, seus vizinhos, foram tão bem-sucedidos. 
+Embora as terras de Meruri tenham sido demarcadas, as terras Bororo de Tereza Cristina não 
+o foram em sua totalidade e atualmente encontram-se em processo de revisão de limites. Em 
+Jarudore,  os  Bororo  usufruem  de  uma  parte  ínfima  da  terra  indígena  que,  embora 
+
+Sílvia Clímaco Mattos. CONFLITOS E LUTAS INDÍGENAS 
+
+21 
+
+DOSSIÊ 
+ 
+
+homologada,  há  décadas,  encontra-se  quase  que  inteiramente  invadida  por  posseiros  e 
+fazendeiros. 
+
+As  terras  Xavante,  apesar  de  demarcadas  e  de  serem  bem  maiores  que  aquelas 
+destinadas a muitos povos indígenas, no presente, possuem uma extensão inferior às terras 
+por  eles  ocupadas  no  período  do  pré-contato.  A  percepção  de  que  a  população  Xavante 
+cresceu e que as terras demarcadas já não são suficientes pode ser observada na fala de quase 
+todos  os  narradores.  Embora  eles  valorizem  as  conquistas  resultantes  das  demarcações, 
+também se encontraram cientes de que grandes extensões de terras foram perdidas e que, 
+provavelmente, jamais poderão ser recuperadas, conforme é possível observar na seguinte 
+fala de Agnelo, narrador entrevistado na Terra Indígena São Marcos: 
+
+Para nós hoje essa terra é muito pequena. A aldeia São Marcos tem uma 
+população  muito  grande  e  já  não  dá  para  viver.  Por  isso,  criamos  outras 
+aldeias, mas já não tem mais espaço para caçar. Antes a caça era muita, hoje 
+não tem mais como, e não temos mais caça, porque antes a terra era vista 
+como grande e, depois que aumentamos, a terra ficou pequena. Tem nossos 
+vizinhos fazendeiros que desmatam e os bichos entram em nossa terra, mas 
+como  somos  caçadores,  acabamos  também  com  esses  bichos.  Antes  os 
+velhos viviam bem porque não faltava nada e hoje eu e os jovens nessa terra 
+não estamos felizes, porque a terra é muito menor e continuamos crescendo. 
+A  terra  é  boa,  e  se  pensarmos,  hoje  seria  bom  tentarmos  pressionar  o 
+governo,  se  o  governo  se  colocasse  ao  nosso  favor  para  ampliarmos  um 
+pouco a nossa terra. Mas será que hoje seria fácil? Hoje seria muito difícil 
+(Agnelo Temrité Wadzatse, janeiro de 2017). 
+
+A  percepção  de  que  a  terra  é  hoje  pequena  para  as  necessidades  da  população 
+Xavante, que se encontra em crescimento, causa apreensão e tristeza entre os narradores, 
+que temem uma situação de confinamento territorial semelhante à vivenciada por muitos 
+povos indígenas no Brasil. Apesar de acreditarem que a ampliação das terras poderia reverter 
+ou,  pelo  menos,  minimizar  esse  quadro,  eles  também  sabem  que  a  luta  por  novas 
+demarcações encontra, atualmente, grandes obstáculos e uma oposição talvez ainda mais 
+acirrada do que aquela verificada no passado. 
+
+A mera existência de povos indígenas com direito a manterem culturas diferenciadas 
+e de terem terras demarcadas costuma ser vista como um entrave ao desenvolvimento local 
+pelas  populações  rurais  e  dos  municípios  situados  no  entorno  das  terras  indígenas.  Por 
+resistirem e permanecerem em suas terras, mantendo seu modo de vida, os indígenas são 
+frequentemente  representados  por  estereótipos  racistas,  que  os  definem  como 
+“preguiçosos”, “ladrões” e “traiçoeiros”. Essa visão, marcadamente colonialista, é orientada 
+
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio/ago. 2022 
+
+DOSSIÊ 
+
+22 
+
+por interesses econômicos que se beneficiam da propagação de estereótipos que conferem 
+aos povos indígenas uma subjetivação negativa e desigual. 
+
+Os  narradores  mostram-se  conscientes  dos  preconceitos  difundidos  contra  os 
+Xavante,  entre  uma  população  local  ideologicamente  cooptada  por  grupos  econômicos 
+interessados  em  apossarem-se  das  terras  indígenas  e  de  seus  recursos  naturais.  Em  seus 
+relatos, eles eventualmente chegam a, até mesmo, responder a eles, conforme é possível 
+observar na seguinte fala de Daniel, narrador entrevistado na Terra Indígena São Marcos: 
+“Vocês [os “brancos”] não trabalham com a mão, usam máquinas, mas falam mal de nós e nos 
+chamam de preguiçosos. Vocês trabalham usando trator e nós com a mão” (Daniel Tsi’õmõwẽ 
+Wari, janeiro de 2017). 
+
+Daniel ainda denuncia a situação daqueles que vivem nas pequenas aldeias, situadas 
+nas proximidades da divisa da Terra Indígena São Marcos. Acusadas de não se restringirem 
+aos limites da terra indígena, as comunidades dessas aldeias são frequentemente abordadas 
+por particulares que, por cooptação ou ameaças, tentam fazer com que elas recuem para o 
+interior da terra indígena. Dessa forma, as glebas situadas próximas às fazendas são liberadas, 
+passando ilegalmente à posse de particulares, o que reduz, pouco a pouco, a extensão da terra 
+indígena. 
+
+Daniel, ao dirigir-se àqueles que querem se apossar das terras de São Marcos e que 
+
+insistem em disputar com as aldeias pequenas as áreas situadas nos seus limites, exorta: 
+
+Vocês,  fazendeiros  que  têm  muitas  vacas,  não  perturbem  as  aldeias  que 
+estão na divisa, elas estão dentro da área demarcada, a divisa começa no rio 
+do Armando e passa pela estrada perto de onde está a minha prima da aldeia 
+São  Lucas,  subindo  o  morro  que  é  o  final.  A  minha  prima  está  na  área 
+demarcada.  Quem são essas pessoas que pensam  que essa área é delas? 
+Ninguém  sabe  como  foi  a  demarcação  e  delimitação  da  terra,  estou  aqui 
+contando o que sei da história da terra. Vocês estão na nossa área, vocês são 
+ladrões, como os seus ancestrais (Daniel Tsi’õmõwẽ Wari, janeiro de 2017). 
+Os narradores, estimulados pelas entrevistas, estão sempre refletindo, em suas falas, 
+sobre  as  conquistas  e  as  perdas  históricas  do  povo  Xavante.  Para  eles,  as  demarcações, 
+embora muito importantes, foram insuficientes, por não terem previsto o crescimento da 
+população indígena. Justificando que, no momento em que elas ocorreram, os Xavante não 
+compreendiam plenamente o funcionamento da sociedade dos “brancos”, narradores, como 
+Daniel, aconselham os jovens indígenas a assumirem as lutas pela terra no presente, em vez 
+
+Sílvia Clímaco Mattos. CONFLITOS E LUTAS INDÍGENAS 
+
+23 
+
+DOSSIÊ 
+ 
+
+de criticarem seus antepassados por não terem feito o suficiente e por não terem sido capazes 
+de antever o futuro. Conforme Daniel, 
+
+[...] não sabíamos o que pensar, achávamos que não eram importantes os 
+marcos  delimitadores,  mas  já  estava  sendo  demarcada  por  eles  [pelos 
+“brancos”]. Como ninguém sabia sobre a vida do homem branco, hoje somos 
+criticados pelos jovens, que nos chamam de burros, mas é a vida. Como não 
+sabíamos sobre a vida deles, hoje os que são jovens deveriam pensar nos 
+seus  ancestrais,  e  lutar  pela  ampliação  da  terra,  mas  não,  ninguém  é 
+inteligente o suficiente (Daniel Tsi’õmõwẽ Wari, janeiro de 2017). 
+
+Ao exortar os jovens a assumirem as lutas pela terra, Daniel demonstra acreditar que 
+os Xavante, no presente, deveriam estar mais preparados que os seus antepassados para os 
+embates com os não indígenas. Isso porque, após um longo período de convivência com os 
+“brancos”,  em  que  os  Xavante  adquiriram  conhecimento  sobre  os  seus  hábitos  e 
+comportamentos,  assim  como  o  domínio  da  língua  portuguesa,  do  código  escrito  e  dos 
+mecanismos de funcionamento de sua sociedade, os indígenas já não mais seriam facilmente 
+enganados,  como  foram,  muitas  vezes,  no  passado.  Apesar  disso,  Daniel  não  se  mostra 
+totalmente  confiante  na  capacidade  e  na  iniciativa  dos  jovens.  No  seu  entender,  o  longo 
+período de convivência dos Xavante com os não indígenas que, a princípio, poderia ser uma 
+vantagem, acabou por minar o senso de obstinação que caracterizava os Xavante no passado, 
+tornando-os, na perspectiva de Daniel, menos aguerridos e corajosos para enfrentarem os 
+conflitos que acompanham as reivindicações indígenas pela terra. 
+
+Considerações finais 
+
+Embora as lutas pela terra e as várias formas de resistências indígenas tenham sido 
+frequentemente  escamoteadas  pela  memória  e  pela  historiografia  nacional  —  que 
+privilegiaram, até recentemente, as narrativas de não índios situados em espaços de poder — 
+para  os  indígenas,  as  “verdadeiras  histórias”  são  aquelas  contadas  no  interior  das 
+comunidades, que apontam para a sua capacidade de superação e de controle sobre o seu 
+próprio destino.  
+
+Nesse sentido, as narrativas Xavante – além de contribuírem para para sensibilizar 
+sobre as injustiças que se perpetuam no presente contra os povos indígenas e, possivelmente, 
+estimularem  o  combate  às  violações  que,  contra  eles,  são  cotidianamente  perpetradas  –  
+apontam para a grande capacidade de mobilização e engajamento destes povos em suas lutas 
+por direitos, tais como o direito a terra  
+
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio/ago. 2022 
+
+DOSSIÊ 
+
+24 
+
+As  resistência  e  estratégias  de  defesa  de  seus  modos  de  vida,  as  denúncias  de 
+violência e as demonstrações de protagonismo político trazidos pelos velhos narradores, em 
+seus relatos, não apenas surgem, portanto, como exemplo e incentivo para as novas gerações 
+indígenas em suas lutas atuais por direitos, mas também permitem  que novas representações 
+sobre  esses  povos  sejam  trazidas  para  o  campo  historiográfico,  ainda  marcado  pela 
+colonialidade. 
+
+FONTES 
+DOCUMENTOS ORAIS: ENTREVISTAS 
+Daniel Tsi’õmõwẽ Wari, janeiro de 2017. 
+
+Raimundo Urébeté Ai’réro, janeiro de 2017. 
+
+Sílvio Tsipe ’Rãirãté, julho de 2017. 
+
+Tobias Tserenhimi’ rãmi Tsere’õmowi, julho de 2017. 
+
+Agnelo Temrité Wadzatse, janeiro de 2017. 
+
+DOCUMENTOS ESCRITOS 
+Processo NI-MIA-BSB N.º 11367. 
+
+Processo FUNAI/BSB N.º 1137-82. 
+
+REFERÊNCIAS BIBLIOGRÁFICAS 
+ALEMEIDA, Emerson Rubens Mesquita. A política vai a festa. Sagacidade e estratégia tentehar nas 
+relações interétnicas. 2019. Tese (Doutorado em Antropologia) – Departamento de Antropologia do 
+Instituto de Ciências Sociais, Universidade de Brasília, Brasília, 2019. 
+
+ALMEIDA, Maria Regina Celestino de. Os índios na história do Brasil. Rio de Janeiro: FGV, 2010. 
+
+Tonico Benites. Recuperação  dos  territórios  tradicionais  guarani-kaiowá.  Crónica  das  táticas  e 
+estratégias.  Journal de la Société des américanistes, v. 100-2, p. 220-240. 2014. 
+
+CASTRO-GÓMEZ, Santiago. Ciências sociais, violência epistêmica e o problema da invenção do outro. 
+In: LANDER, Edgardo (Org). A colonialidade do saber: eurocentrismo e ciências sociais. Perspectivas 
+latino-americanas. Buenos Aires, 2005, p. 80-87. 
+
+COELHO,  Mauro  Cezar.  As  populações  indígenas  no  livro  didático,  ou  a  construção  de  um  agente 
+histórico ausente. In: 30a Reunião da ANPED, GT 13 – Educação Fundamental. Caxambu, v. 1. p. 174-
+174. 2007. Disponível em: http://30reuniao.anped.org.br/trabalhos/GT13-3000--Int.pdf. Acesso em: 
+15 de fev. 2017. 
+
+GARFIELD, Seth. A luta indígena no coração do Brasil. Política indigenista. A marcha para o oeste e os 
+índios Xavante (1937-1988). São Paulo: Editora Unesp, 2011. 
+
+Sílvia Clímaco Mattos. CONFLITOS E LUTAS INDÍGENAS 
+
+GRAHAM,  Laura  R.  Performance  Dinamics  and  Social  Dimensions  in  Xavante  Narrative.  Austin: 
+University of Texas, 1983. 
+
+IBGE.  Censo  Demográfico  de  2010.  Características  gerais  dos  indígenas.  Resultados  do  universo. 
+1-245. 
+Resultados 
+p. 
+https://biblioteca.ibge.gov.br/visualizacao/periodicos/95/cd_2010_indigenas_universo.pdf 
+Acesso 
+em: 20 out. 2017. 
+
+Universo. 
+
+Janeiro: 
+
+2012. 
+
+IBGE, 
+
+Rio 
+
+do 
+
+de 
+
+LANDER, Edgardo. Ciências sociais, saberes coloniais e eurocêntricos. In: LANDER, Edgardo (Org). A 
+colonialidade do saber: eurocentrismo e ciências sociais. Perspectivas latino-americanas. Buenos Aires,  
+2005, p. 8-23. 
+
+MENEZES,  Cláudia.  Os  Xavante  e  o  movimento  de  fronteira  no  leste  mato-grossense.  Revista  de 
+Antropologia do Departamento de Antropologia da Faculdade de Filosofia, Letras e Ciências Humanas da 
+USP, São Paulo, v. 25, p. 63-87. 1982. 
+
+MENESES, Maria Paula. Epistemologias do Sul. Revista Crítica de Ciências Sociais [on-line], [s. l.], n. 80, 
+p. 5-10, mar. 2008. 
+
+MONTEIRO,  John  M.  Tapuias  e  historiadores.  2001.  Tese  (apresentada  para  o  concurso  de  livre 
+docência)  –  Departamento  de  Antropologia,  área  de  Etnologia,  subárea  História  Indígena  e  do 
+Indigenismo, Universidade de Campinas, Campinas, 2001. 
+
+PACHECO DE OLIVEIRA, João. O nascimento do Brasil e outros ensaios: “pacificação”, regime tutelar e 
+formação de alteridades. Rio de Janeiro: Contra Capa, 2016.  
+
+PACHECO DE OLIVEIRA, João. Sem a tutela, uma nova moldura de nação. In: Souza Lima, Antônio Carlos 
+de (org.). Tutela. Tradições de Estado e gestão no Brasil. Rio de Janeiro: E-papers, 2014. p. 89-111. 
+
+QUIJANO,  Aníbal.  Cuestiones  e  Horizontes:  de 
+colonialidad/descolonialidad del poder. Buenos Aires: CLACSO, 2014. 
+
+la  dependencia  histórico-estructural  a 
+
+la 
+
+RAMOS, Alcida Rita. Vozes indígenas: o contato vivido e contado. Anuário Antropológico/87, Brasília: 
+Editora da UnB/Tempo Brasileiro, p. 117-143, 1990. 
+
+DOSSIÊ 
+ 
+
+ 
+ 
+
+25 
+
+ 
+
+Hist. R., Goiânia, v. 27, n. 2, p. 5–25, maio/ago. 2022 
+
+

@@ -1,0 +1,1343 @@
+A proxêmica linguístico-discursiva 
+contextualmente indexicalizada: vestígios de 
+(as)simetria na interação professora e aluno1 
+
+Contextually indexicalized linguistic-discursive 
+proxemics: traces of (as)symmetry in teacher and 
+student interaction
+
+Proxémica lingüístico-discursiva indexicalizada 
+contextualmente: huellas de (as)simetría en la 
+interacción entre profesora y alumno
+
+Rodrigo Albuquerque
+Universidade de Brasília, Brasília, Distrito Federal, Brasil
+E-mail: rodrigo.albuquerque.unb@gmail.com
+
+Resumo: É na interface entre a Sociolinguística Interacional e a 
+Pragmática, situadas em uma abordagem sociocognitiva, que al-
+mejo investigar como uma professora brasileira e um estudante 
+estrangeiro,  ambos/as  atores/atrizes  sociais  do  curso  de  Enge-
+nharia de uma instituição pública de ensino superior, avaliam os 
+próprios usos linguístico-discursivos que, por meio de mecanis-
+mos proxêmicos, estabelecem relações mais/menos simétricas. 
+Adotando uma perspectiva (micro)etnográfica, analiso cinco ex-
+certos  interacionais  resultantes  das  entrevistas  semiestrutura-
+das feitas com o aluno e com a professora. Em síntese, constato 
+que  o  uso  da  primeira  pessoa,  como  estratégia  de  redução  da 
+distância interlocutiva, é percebida como favorável à relação de 
+ensino e de aprendizagem.
+Palavras-chave: proxêmica linguístico-discursiva; indexicalidade; 
+ensino; (as)simetria interacional.
+
+1 Este artigo é decorrente do estágio pós-doutoral que realizei na Universidade Federal de Goiás (UFG), sob a supervisão 
+da professora Joana Plaza Pinto, a quem agradeço imensamente pelas contribuições, tanto em minha formação acadêmica 
+quanto nesta produção.
+
+Abstract: It is at the interface between Interactional Sociolinguistics 
+and Pragmatics, situated in a sociocognitive approach, that I aim 
+to investigate as a Brazilian teacher and a foreign student, both 
+social actors/actresses of the Engineering course of a public 
+institution of higher education, evaluate their own uses linguistic-
+discursive that establish more/less symmetrical relationships, 
+through proxemic mechanisms. Adopting a (micro)ethnographic 
+perspective, I analyze five interactional excerpts resulting from 
+semi-structured interviews with the student and the teacher. In 
+summary, I find that the use of the first person, as a strategy to 
+reduce the interlocutive distance, is perceived as favorable to the 
+teaching and learning relationship. 
+Keywords:  linguistic-discursive  proxemics;  indexicality;  teaching; 
+interactional (a)symmetry.
+
+Resumen: Es en la interfaz entre la Sociolingüística Interaccional y 
+la Pragmática, situada en un enfoque sociocognitivo, que pretendo 
+investigar como una profesora brasileña y un estudiante extranjero, 
+ambos  actores/actrices  sociales  del  curso  de  Ingeniería  de  una 
+institución pública de educación superior, evaluar sus propios usos 
+lingüístico-discursivos que, a través de mecanismos proxémicos, 
+establecen  relaciones  más/menos  simétricas.  Adoptando  una 
+perspectiva (micro)etnográfica, analizo cinco extractos interactivos 
+resultantes de entrevistas semiestructuradas con el estudiante y el 
+profesor. En resumen, encuentro que el uso de la primera persona, 
+como estrategia para reducir la distancia interlocutiva, se percibe 
+como favorable a la relación de enseñanza y aprendizaje. 
+Palavras  clave:  proxémica  lingüístico-discursiva;  indexicalidad; 
+enseñanza; (a)simetría interaccional.
+
+Submetido em: 12 de outubro de 2022
+Aceito em: 08 de maio de 2023
+Publicado em: 12 de julho de 2023
+
+Considerações iniciais
+
+Não há nenhum ineditismo em consideramos a sociedade di-
+versa e as interações complexas. Somos, paradoxalmente, sujeitos 
+individuais  e  coletivos  que,  por  meio  da  linguagem, negociamos 
+sentidos com os nossos pares. Há alguns anos, denunciou-se que 
+a íntima relação entre fala e condutas sociais havia sido uma situa-
+ção negligenciada (GOFFMAN, 1964) e descortinou-se que a fala, 
+para além do verbal/vocal, performa (AUSTIN, 1975). A ressonân-
+cia dessa concepção de linguagem nos instiga a perspectivar que 
+os/as interagentes, ao coconstruírem sentidos, são estratégicos/
+as, sócio/interculturais e ideológicos/as.
+
+Logo, mobilizamos estratégias, calcadas em nossas inscrições 
+ideológicas,  com  vistas  a  alcançar  nossas  metas  interacionais, 
+considerando não só as demandas socioculturais lato sensu, mas 
+principalmente,  em  alusão  a  Vertovec  (2006),  as  idiossincrasias 
+dos  sujeitos  na  superdiversidade,  que  consiste  na  existência  de 
+várias comunidades em dada comunidade (a diversidade na diver-
+sidade), no que tange à composição, às trajetórias, às interações 
+e às necessidades dos/as atores/atrizes sociais. Sob esse prisma, 
+a relação língua(gem) e sociedade é, ao mesmo tempo, complexa, 
+por  propiciar  o  uso  de  recursos  linguístico-discursivos  diversos, 
+inscritos em contextos diversos que integram uma densa rede se-
+miótica; e imprevisível, por ser a interação um território que não 
+garante uma construção única de sentidos, mas oferece (im)possi-
+bilidades e (des)alinhamentos.
+
+Em consonância com tais atributos, minha inscrição epistêmi-
+ca é resultante da interface entre a Sociolinguística Interacional e 
+a Pragmática, situadas em uma abordagem sociocognitiva. Logo, 
+assumo que a interação é dialeticamente moldada por processos 
+interiores  (biológicos/cognitivos)  e  exteriores  (sociais/interacio-
+nais), haja vista ser “nas interações (as ações sociocognitivas) que 
+emergem as significações” (MORATO, 2007, p. 339). Além da dialé-
+tica  interioridade-exterioridade,  as  enunciações  de  tais  sujeitos, 
+ideologicamente  orientados,  são,  tanto  na  produção  quanto  na 
+
+interpretação, permeadas por recursos linguístico-discursivos, os 
+quais sinalizam os efeitos de sentido (provavelmente) pretendidos 
+por seus/suas interlocutores/as.
+
+Ao enunciarmos, estamos, portanto, articulando mecanismos 
+de ordem interacional, pragmática e sociocognitiva, haja vista que 
+o ato de enunciar, em nossa concepção, veicula sentidos estrategi-
+camente negociados por meio de pistas contextualizadoras; lança 
+mão de recursos linguístico-discursivos na promoção de indexicali-
+dade; e porta a orientação ideológica dos sujeitos inscritos na con-
+versa. A convergência entre tais mecanismos se dá em decorrência 
+do caráter indexical da linguagem, que transcende uma referência 
+denotativa pura e se instancia, majoritariamente, de modo mais 
+implícito nas interações, o que traz certa instabilidade na negocia-
+ção de sentidos dos/as interagentes e na veiculação da orientação 
+ideológica. Logo, assumimos que “operar analiticamente com base 
+na indexicalização dos significados é realçar a natureza friccional 
+entre os signos e os significados indexados, ou seja, é recusar a 
+separação tradicional entre aspectos micro e macro do discurso” 
+(MOITA LOPES, 2020, p. 16).
+
+A sintonia entre a Sociolinguística Interacional e a Pragmática, 
+ancoradas em uma abordagem sociocognitiva, focaliza, primeira-
+mente, a língua(gem) em uso (inegavelmente funcional, sem, no 
+entanto, negar a constituição formal) e o caráter cultural, móvel 
+e negociador da constituição dos sentidos. Pressupomos que “as 
+pessoas não apenas falam, ou referem-se ao mundo ‘lá fora’ – fora 
+da  linguagem  –  elas  também  pressupõem  (ou  refletem)  e  criam 
+(ou modelam) uma boa parte da realidade social pela própria ativi-
+dade de usar a linguagem” (SILVERSTEIN, 1979, p. 194). 
+
+Almejo investigar como uma professora brasileira e um estu-
+dante estrangeiro, ambos/as atores/atrizes sociais do curso de En-
+genharia de uma instituição pública de ensino superior, avaliam 
+os  próprios  usos  linguístico-discursivos  que,  por  meio  de  meca-
+nismos proxêmicos, estabelecem relações mais/menos simétricas. 
+Para alcançar esse objetivo, tratarei, no âmbito teórico, da noção 
+de contexto, das pistas contextualizadoras, das metapragmáticas 
+
+e das ideologias linguísticas, como ações de linguagem indexicais; 
+bem como da proxêmica linguístico-discursiva, conceito oriundo 
+das noções de proxêmica e de proxêmica verbal. Por fim, explicita-
+rei, no âmbito metodológico, as ações e as pressuposições relati-
+vas à experiência de pesquisa; e, no âmbito analítico, a análise de 
+cinco excertos interacionais.
+
+A  indexicalidade  contextualmente  construída  em 
+instâncias sociointeracionais
+
+Nesta  seção,  discutirei  brevemente  a  noção  de  contexto 
+adotada  neste  artigo,  com  a  finalidade  de,  na  sequência,  tratar 
+da  indexicalidade  contextualmente  construída  em  instâncias  so-
+ciointeracionais. Para tanto, abordarei, no primeiro bloco, quatro 
+perspectivas  conceituais  convergentes:  (i)  a  configuração  figu-
+ra-fundo,  sob  a  vertente  da  antropologia  linguística  (GOODWIN; 
+DURANTI, 1997); (ii) as dimensões emergência e incorporação, sob 
+as  óticas  sociointeracional  e  sociocognitiva  (HANKS,  2008);  (iii)  o 
+caráter estratégico e subjetivo, na concepção sociocognitiva (VAN 
+DIJK, 2012); e (iv) a desvinculação de formulações a priori (catego-
+rizações fixas), propostas, de algum modo, pela análise crítica de 
+discurso e pela análise da conversação (BLOMMAERT, 2008). 
+
+Van Dijk (2012, p. 19) chama a atenção para o uso deliberado 
+do termo contexto, quando almejamos utilizar um termo mais for-
+mal, em vez de conceitos correlatos (tais como situação, circuns-
+tância, entorno), a fim de indicarmos algum fenômeno que dese-
+jamos estudar com relação a seu ambiente. Segundo Rajagopalan 
+(2010, p. 41), a tradição de concebermos a linguagem de dentro 
+para fora tem trazido desdobramentos epistêmicos no tratamento 
+dado ao contexto, ao examinarmos os enunciados isoladamente 
+como simples sequências ordenadas de palavras ou de frases, co-
+laborando para que o conceito se tornasse tão atraente e tão fu-
+gaz. De algum modo, a semente para o desconforto quanto a uma 
+noção de contexto vinculada à materialidade textual e ao cotexto 
+já era lançada nas primeiras contribuições sobre o assunto.
+
+Em 1923, Malinowski observou que qualquer descrição linguís-
+tica precisava considerar duas dimensões: o contexto de situação 
+(a situação em que o texto era enunciado) e o contexto de cultura 
+(o complexo histórico-cultural integrante da vida dos sujeitos e de 
+suas práticas em comunidade), dado que descrever apenas o que 
+ocorria nas interações (contexto de situação) não era, igualmen-
+te,  suficiente  para  expressar  o  contato  interacional  (HALLIDAY; 
+HASAN, 1985). Em nossa leitura, Hymes (1972) propõe que o con-
+texto abarque componentes situacionais (situação), enunciativos 
+(finalidades, ajustes discursivos e instrumentos) e (inter)subjetivos 
+(participantes, ações, normas interacionais e gêneros discursivos). 
+Esse breve percurso histórico influenciou, de algum modo, as qua-
+tro perspectivas conceituais que, na sequência, apresento.
+
+Sob  a  vertente  antropológica,  Goodwin  e  Duranti  (1997)  ca-
+tegorizam  o  contexto  em  quatro  dimensões:  cenário  (referência 
+contextual  dêitica  ao  framework  social  e  espacial  em  que  os  en-
+contros se situam); comportamento ambiental (modo como os/as 
+participantes enquadram e organizam as falas); língua(gem) como 
+contexto (relação dialética: linguagem invoca contexto e fornece 
+contexto  para  outras  falas);  e  contexto  extrassituacional  (ativa-
+ção de conhecimento de mundo na troca conversacional). Hanks 
+(2008), por sua vez, concebe que a noção de contexto perpassa as 
+dimensões da emergência e da incorporação. A primeira, atinen-
+te à atividade mediada verbalmente, reúne situação momentânea 
+(encontro  dos/as  participantes);  cenários  relevantes  (ações,  ex-
+pectativas e compreensão mútua); e campo semiótico, simbólico 
+e demonstrativo (modelo de contexto semiótico na enunciação). A 
+segunda, vinculada ao enquadramento do discurso, divide-se em 
+campo social (posições, tomadas de posição e envolvimento dos/
+as  agentes);  e  processos  contextualizadores  (intencionalidade  e 
+sobredeterminação: configurações e ações contextuais mais pro-
+váveis e mais previsíveis).
+
+Sob a vertente sociocognitiva, Van Dijk (2012) oferece à noção 
+de contexto um caráter, a um só tempo, social e biológico, ao con-
+siderar que umas das propriedades dessa noção seja a constru-
+ção de modelos mentais únicos, pessoais e subjetivos, mas com 
+
+restrições objetivas. Ou seja, os sujeitos realizam a interpretação 
+das propriedades relevantes da situação. Assumo que se alinham 
+ao construto: o comportamento dos sujeitos capaz de enquadrar 
+suas falas, o conhecimento de mundo dos sujeitos, a leitura (sub-
+jetiva) realizada no ajuste entre o evento focal (figura) e o contexto 
+(fundo) (GOODWIN; DURANTI, 1997), e a ativação de informações 
+contextuais emergentes da interação (emergência) diante da (im)
+previsibilidade contextual propiciada pelos enquadramentos reali-
+zados (incorporação) (HANKS, 2008).
+
+Blommaert  (2008)  aventa,  por  fim,  duas  concepções  críticas 
+em relação ao tratamento que a análise crítica do discurso e a aná-
+lise da conversação têm dado ao termo. A primeira área equipara 
+o contexto a um pano de fundo sempre voltado para as relações 
+de poder e de desigualdade, enquadra o discurso em seleções par-
+ticulares de contexto e realiza formulações a priori sobre relações 
+de poder como perspectivas sobre o discurso (BLOMMAERT, 2008). 
+A segunda área insiste na replicação analítica do dito e do feito pe-
+los/as participantes, no foco nas ações regulares dos/as interagen-
+tes, na isomorfia entre ‘texto e contexto original’ e ‘texto e contexto 
+analítico’ (denegando, para tanto, o enquadre metapragmático), e 
+na escolha de instâncias singulares da fala desencaixadas das fun-
+ções e dos papéis sociais dos/as interagentes (BLOMMAERT, 2008). 
+Dado o caráter indexical que rege o funcionamento da lingua-
+gem, concebo, neste segundo bloco, que enunciamos e interpre-
+tamos pistas contextualizadoras (GUMPERZ, 1982, 2001), as quais 
+são negociadas no curso da interação – enunciadas e processadas 
+pelos/as atores/atrizes sociais – e fazem emergir metapragmáticas 
+(DIAS, 2019; GONZALEZ; MOITA LOPES, 2018; PINTO, 2018, 2019; 
+POVINELLI, 2006; SIGNORINI, 2008; SILVA; ALENCAR, 2013; SILVA, 
+2019;  SILVERSTEIN,  1979,  1993),  construídas  a  partir  de  ideolo-
+gias  linguísticas  em  que  se  inscrevem  tais  atores/atrizes  sociais 
+(BLOMMAERT, 2005, 2014). A partilha de sentidos não ocorre só 
+pelo  desvelamento  de  pistas  contextualizadoras,  mas,  em  espe-
+cial, pela negociação de sentidos instanciados em esferas linguís-
+tico-discursivas e político-ideológicas, fazendo emergir metaprag-
+máticas (SIGNORINI, 2008). 
+
+As pistas contextualizadoras, como o próprio termo denota, 
+se associam ao contexto em que a interação ocorre. São sinais 
+(não)linguísticos  que  constroem  um  terreno  contextual  capaz 
+de propiciar uma interpretação situada e afetar a compreensão 
+da  enunciação  (GUMPERZ,  2001).  Acredito  que  tanto  as  pistas 
+constroem o contexto (GUMPERZ, 2001) quanto este é (re)dimen-
+sionado por aquelas. Portanto, os/as interagentes, frente a um 
+sistema multinivelar de sentidos, sinalizam e interpretam sinais 
+(não)linguísticos por meio das pistas contextualizadoras enuncia-
+das pelo/a locutor/a e das inferências conversacionais realizadas 
+pelo/a interlocutor/a (GUMPERZ, 1982), o que envolve “uma com-
+plexa série ou cadeia de julgamentos que focalizam tanto o con-
+teúdo quanto as avaliações relacionais” (GUMPERZ, 1982, p. 207). 
+A indexicalidade dessas pistas emerge das experiências intersub-
+jetivas; e os sujeitos inscritos, por sua vez, são estratégicos, (in-
+ter)acionais e discursivos.
+
+Ao conceber que as estruturas de língua(gem) são permeadas 
+por  ideologias  linguísticas,  Silverstein  (1979,  p.  206)  assume  que 
+“qualquer configuração linguística é potencialmente indexical”. Mo-
+tivado em focalizar aspectos funcionais, imaginamos que Silverstein 
+(1979) almejasse minimizar a soberania da forma em processos de 
+indexicalidade, presentes, por exemplo, em tradicionais categorias 
+linguísticas dêiticas (eu, tu, agora, aqui, hoje, ontem), focalizando (i) 
+na capacidade do sujeito nativo de usar a linguagem estrategica-
+mente, em conformidade com as avaliações sociais (logo, ideoló-
+gicas) que seus/suas interagentes possam fazer; e (ii) nas formas 
+particulares empregadas em certos contextos de uso, como índices 
+linguístico-discursivos (SILVERSTEIN, 1979). Mesmo sendo prévias à 
+enunciação em si, as ideologias linguísticas afetam e são afetadas 
+(pel)as interações, e, como destaca Blommaert (2014), acionam su-
+jeitos que desempenham significados por meio da língua. 
+
+A  indexicalidade  que  perpassa  as  ideologias  linguísticas  se 
+constrói por meio dos “significados indexicais (ideológicos) social 
+e culturalmente compartilhados enquanto falamos, e esses indica-
+dores fazem com que os outros percebam nossa conversa como 
+
+séria,  arrogante,  engraçada  ou  responsável”  (BLOMMAERT,  2014, 
+p.  70,  grifo  nosso). Em  sintonia  com  esse pensamento, conjuga-
+mos as dimensões referencial e não referencial (FABRÍCIO, 2016; 
+SILVERSTEIN, 1976) nas interações. A partir da primeira, trazemos 
+sinais que caracterizam os eventos de fala, como na escolha de 
+pronomes (SILVERSTEIN, 1976); ao passo que, a partir da segun-
+da, estabelecemos os parâmetros da interação, como nas formas 
+de deferência (SILVERSTEIN, 1976), bem como indicamos expecta-
+tivas,  ritualizações  socioculturais  e  posições  dos/as  interagentes 
+(FABRÍCIO, 2016). Em suma, a primeira marca a referência; e a se-
+gunda enquadra o entendimento (FABRÍCIO, 2016).
+
+Nesse sentido, as interações articulam  estrutura, significado 
+e sentido – ou seja, camadas estruturais, metassemânticas e me-
+tapragmáticas. Ao nos inscrevermos em dada interação, os pos-
+tos e os pressupostos assumem, segundo Silverstein (1993), tanto 
+função  metassemântica  (acionamento  de  estruturas  linguísticas 
+em  nível  mais  denotativo)  quanto  função  metapragmática  (des-
+velamento de semioses pragmáticas implícitas). A indexicalidade, 
+no  âmbito  das  metapragmáticas,  conjuga  domínios  pragmáticos 
+(instanciados no pressuposto, na implicitude) e metapragmáticos 
+(orientados  ideologicamente)  (SILVERSTEIN,  2003),  com  a  ressal-
+va de que “o discurso metapragmático inclui todas as referências 
+implícitas e explícitas a tais codificações, usos e contextos de uso 
+(in)apropriados” (POVINELLI, 2006, p. 194). Em analogia a Blikstein 
+(1985), as metapragmáticas, de caráter avaliativo, acionam os nos-
+sos óculos sociais para a construção de sentidos, considerando-
+-se que a indexicalidade que emerge de tais metapragmáticas seja 
+moldada por “processos socioculturais de natureza linguístico-dis-
+cursiva e político-ideológica” (SIGNORINI, 2008, p. 118).
+
+Em síntese, as metapragmáticas são racionalizações sobre a 
+linguagem que, a partir de um conjunto de recursos semióticos, 
+orientam a nossa interpretação, permitem referenciar e predicar a 
+própria linguagem, e, em especial, transformam categorias linguís-
+ticas na tentativa de controlar a interpretação de dada fala (PINTO, 
+2018, 2019). Assumimos, igualmente, que as metapragmáticas in-
+
+dexicalizam o modo (i) como nos colocamos no mundo como su-
+jeitos sociais (GONZALEZ; MOITA LOPES, 2018); (ii) como os signos 
+representam esse estar-no-mundo (SILVA; ALENCAR, 2013); e (iii) 
+como organizamos nossas ações e entendemos as ações dos/as 
+outros/as (SILVA, 2019). Assim, friso que o conceito de metaprag-
+máticas nos possibilita compreender que dado “texto nunca está 
+acabado,  mas  sempre  sendo  refeito,  reescrito,  reinterpretado  e 
+transformado durante processo interacional” (DIAS, 2019, p. 184).
+Tenho  consciência  de  que,  com  essa  seção  teórica,  eu  não 
+conseguiria (nem ousaria) tratar de toda a produção teórica que 
+envolve a indexicalidade (em especial, tratar das metapragmáticas 
+construídas a partir das pessoas do discurso, as quais integrarão 
+a análise). Todavia, um trabalho que merece destaque, na conver-
+gência conceitual que aqui proponho, é o de Ostermann (2003). Ao 
+analisar a alternância de pronomes na marcação de relações de po-
+der que sinalizam maior/menor grau de solidariedade, Ostermann 
+(2003) constata que as interações ocorridas na Delegacia de Defesa 
+da Mulher eram caracterizadas por estratégias de distanciamento; 
+por alto grau de controle da parte dos/as policiais; por avaliações 
+constantes quanto às decisões e ao comportamento da vítima; e 
+por alinhamento do tipo institucional com o uso de forma de trata-
+mento mais distante (a senhora). Nesse ambiente, destaca a autora 
+(OSTERMANN, 2003), as vítimas não tinham contato com interlo-
+cutores/as solidários/as, recebendo, por vezes, respostas distantes, 
+autoritárias e desumanas. No Centro de Intervenção na Violência, 
+Ostermann (2003) destaca que as profissionais reduziam a distân-
+cia e a ameaça à face das vítimas, criando um clima mais intimista, 
+de modo que o sistema pronominal servisse para que as agentes 
+se (re)alinhassem com a vítima, demonstrando sensibilidade e, em 
+especial, deixando de avaliar o comportamento dessas pessoas. A 
+autora (OSTERMANN, 2003, p. 374) frisa que “a alternância de pro-
+nomes pode ser usada como qualquer outra pista de contextuali-
+zação para manipular diferentes aspectos da interação”.
+
+Ratifico que uma noção menos material e mais (inter)subjetiva 
+de contexto – em que consideramos, em especial, o contexto de 
+cultura, os componentes enunciativos e (inter)subjetivos, a relação 
+
+dialética com a língua(gem), os fatores extrasituacionais, a díade 
+emergência (dimensão social da língua em uso efetivo) e incorpo-
+ração (dimensão cognitiva da experiência na linguagem), os mode-
+los mentais únicos, pessoais e subjetivos, e a análise de dados em-
+píricos contextualmente situados (transcendendo as formulações 
+apriorísticas) – é altamente congruente com o caráter (inter)subje-
+tivo/fluido que rege o desvelamento de pistas contextualizadoras 
+e faz emergir metapragmáticas associadas às ideologias linguísti-
+cas dos/as interagentes (como no gerenciamento das pessoas do 
+discurso). Pensar em indexicalidade contextualmente construída 
+em instâncias sociointeracionais significa, portanto, desconstruir 
+formulações a priori e focalizar o caráter estratégico/negociativo 
+da construção de sentidos ideologicamente orientados.
+
+As distâncias interlocutivas: do (não)verbal 
+ao linguístico-discursivo
+
+A  proxêmica  linguístico-discursiva  (ALBUQUERQUE;  MUNIZ, 
+2022) – fruto de uma proposta de integração conceitual entre a 
+proxêmica (HALL, 1963, 1965; HALL et al., 1968) e a proxêmica ver-
+bal (CARREIRA, 1997, 2015) – é o conceito que aqui vou articular 
+com as potenciais (as)simetrias presentes nas interações inscritas 
+no contexto de ensino. Para tanto, trarei uma síntese dos concei-
+tos que nutriram esse construto, para que, de alguma forma, eu 
+possa  projetá-los  a  esse  contexto,  considerando,  em  especial,  o 
+modo como se inter-relacionam poder, identidades, indexicalida-
+de e negociação de distâncias interlocutivas.
+
+Ao cunhar o termo proxêmica, Hall (1963) se referiu à percep-
+ção e à organização espacial dos seres humanos na relação com 
+seus pares, em analogia à territorialidade animal, estabelecida a 
+partir de fatores sensoriais e de hierarquizações (HALL et al., 1968). 
+Nesse sentido, proxêmica relaciona-se “[a]o significado social do 
+espaço” (RECTOR; TRINTA, 1986, p. 60), congregando mecanismos 
+de invasão e de defesa (KNAPP, 1972). Regulações relativas a mar-
+cações  posturais,  orientação  espacial,  manifestações  cinésicas, 
+
+contato físico, direcionamento de olhar, sensação térmica, percep-
+ção olfativa e volume de voz (HALL, 1963) “dão tom à comunicação, 
+acentuam-na e, às vezes, substituem o mundo falado, de forma 
+que o fluxo e a mudança de distância entre as pessoas à medida 
+que elas interagem [sejam] parte integrante do processo de comu-
+nicação” (HALL, 1965, p. 160).
+
+O conceito de proxêmica verbal, proposto por Carreira (1997), 
+nasce da transposição metafórica de relações espaciais (proxêmi-
+ca) para domínios não espaciais (proxêmica verbal), com o estabe-
+lecimento de distâncias no âmbito social, emocional, cognitivo e, 
+evidentemente, verbal, cujo foco se volta para as relações interlo-
+cutivas. Segundo a autora (CARREIRA, 1997), o espaço interlocutivo 
+é resultante da clássica noção proxêmica, da adaptação ao mode-
+lo trimorfo de Pottier (aproximação, contato e afastamento dos/
+as interagentes no plano verbal – usos linguístico-discursivos que 
+regulam as distâncias) e de três variáveis que explorarei a seguir. 
+A primeira variável abarca os eixos horizontal e vertical (KER-
+BRAT-ORECCHIONI, 1992). O eixo horizontal diz respeito ao esta-
+belecimento de interações simétricas, sendo a distância e a proxi-
+midade dos/as interagentes negociadas a partir do desejo destes/
+as em manter uma relação mais familiar ou mais distante; ao pas-
+so que o eixo vertical se estabelece pelas configurações proxêmi-
+cas  decorrentes  dos  planos  hierárquicos  dos/as  interlocutores/
+as, conferindo maior/menor (as)simetria às interações (CARREIRA, 
+1997). A segunda variável relaciona-se com a projeção dos sujei-
+tos na interação, envolvendo elocução (relação consigo próprio/a), 
+alocução (relação com o/a interagente) e delocução (relação com 
+terceiros/as).  Tais  atos  se  referem,  respectivamente,  aos  pontos 
+de vista sobre o mundo, à relação de influência e ao apagamento 
+do ponto de vista (CHARAUDEAU, 2008). 
+
+Essas duas variáveis se relacionam com uma terceira – a po-
+lidez linguística (BROWN; LEVINSON, 1987) –, que contempla três 
+componentes sociológicos: distância social, poder relativo e grau de 
+imposição  cultural  (BROWN;  LEVINSON,  1987).  Respectivamente, 
+tais componentes se regulam pelo desejo de proximidade/distan-
+
+ciamento  em  relação  ao/à  outro/a,  pelas  relações  de  poder  (as)
+simétricas estabelecidas pelos/as interagentes e pelas convenções 
+socioculturais em jogo, o que acarreta a construção de interações 
+mais/menos (as)simétricas. Essa variável se vale do debate atinen-
+te à face, que, segundo Goffman (1967), consiste na imagem social 
+reivindicada na interação pelos/as atores/atrizes sociais. Inspira-
+dos/as nessa noção, Brown e Levinson (1987) situam necessidades 
+interacionais relativas à valorização da face positiva (por meio de 
+superestratégias de polidez positiva) e à preservação da face nega-
+tiva (por meio de superestratégias de polidez negativa). 
+
+Transcendendo o domínio semântico-pragmático inerente ao 
+construto da proxêmica verbal (CARREIRA, 1997), Albuquerque e 
+Muniz (2022, p. 8591) propõem o conceito de proxêmica linguís-
+tico-discursiva, definindo-a como “mecanismo que regula as dis-
+tâncias estabelecidas/construídas pelos/as interagentes tanto nas 
+dimensões  materiais  (cotexto)  quanto  nas  dimensões  subjetivas 
+(contexto),  o  que  engloba,  por  conseguinte,  instâncias  verbais  e 
+não  verbais”.  As  avaliações  dos/as  interagentes  quanto  a  proxi-
+midade/distanciamento  superam  avaliações  objetivas  e  estereo-
+tipadas, bem como formulações apriorísticas, que concebam que 
+a formalidade se estabelece em interações com maior distancia-
+mento proxêmico. Nesse cenário de sociedade superdiversa e in-
+dexicalmente  referenciada,  cabe  avaliarmos  que  essa  regulação 
+proxêmica  é  gerenciada  de  modo  fluido,  subjetivo,  móvel,  com-
+plexo e imprevisível, fortalecendo, ainda mais, a necessidade de 
+analisarmos as interações com base na emergência de pistas con-
+textualizadoras e de metapragmáticas.
+
+Se compreendermos, a priori, que a relação entre professor/a 
+e estudantes será marcada, exclusivamente, por assimetria inte-
+racional, com o uso de estratégias linguístico-discursivas que de-
+marquem distanciamento, estaríamos diante de uma incoerência 
+epistêmica, o que tornaria dispensável qualquer investigação em 
+cenário similar. Em segundo lugar, trataríamos professor/a como 
+sujeito uno (com uma identidade apenas) e como a representação 
+de uma categoria homogeneizada (como se professores/as univer-
+sitários/as e professores/as da educação básica, por exemplo, uti-
+
+lizassem as mesmas estratégias e estivessem inscritos/as em um 
+mesmo contexto). Um (talvez) último aspecto se relacionaria com 
+uma visão dicotômica das estratégias de aproximação e de distan-
+ciamento,  decorrente  de  uma  insensibilidade  para  um  contínuo 
+que, na enunciação, ganha um estatuto de maior/menor tendên-
+cia à aproximação e ao distanciamento. 
+
+Destaco, por fim, que as negociações no campo da proxêmi-
+ca linguístico-discursiva parecem caminhar para uma análise con-
+textualmente  situada,  congruente  com  uma  avaliação  subjetiva 
+(com restrições objetivas). Tal avaliação, oriunda de processos de 
+incorporação e de emergência, constrói sentidos por meio de pis-
+tas contextualizadoras enunciadas e regimenta metapragmáticas 
+aproximadoras/distanciadoras, as quais podem marcar afiliação, 
+violência,  (im)polidez,  censura,  acolhimento  etc.  Assim,  concebo 
+ser  na  interação  em  curso  –  e  não  nas  categorizações  estabele-
+cidas a priori – que os sentidos se coconstroem, considerando as 
+ideologias linguísticas dos sujeitos, as atividades inferenciais e as 
+negociações intersubjetivas no estabelecimento de interlocuções 
+mais/menos (as)simétricas.
+
+Contexto de pesquisa e inscrição epistêmica
+
+Nossa  pesquisa  afilia-se,  epistemicamente,  a  um  paradig-
+ma  qualitativo  (MASON,  2002;  MOHAJAN,  2018;  STAKE,  2011)  e 
+(micro)etnográfico (ANGROSINO, 2009; GARCEZ; BULLA; LODER, 
+2014;  GREEN;  BLOOME,  1998;).  Aqui,  tratarei  dos  pressupostos 
+epistêmicos que conduziram o nosso estudo metodologicamen-
+te, para, em seguida, apresentar as nossas ações de pesquisa: as 
+entrevistas  semiestruturadas  com  a  professora  colaboradora  e 
+com o estudante colaborador (cuja primeira língua é o espanhol) 
+para visionarmos conjuntamente as ações linguageiras presentes 
+em aulas ministradas ao curso de engenharia em uma instituição 
+de ensino superior pública. 
+
+Ao me inscrever em uma episteme qualitativa, almejo focalizar 
+o significado subjetivo construído pelos/as atores/atrizes sociais, 
+em busca, especialmente, das percepções singulares de tais sen-
+
+tidos (STAKE, 2011), as quais se desvelam em um contexto situa-
+do histórica e sócio/interculturalmente. Assumo, assim, interesse 
+pelos princípios que caracterizam esse paradigma: interpretativo, 
+experiencial,  situacional,  personalístico,  triangulado2,  estratégico 
+(STAKE, 2011), exploratório, fluido, flexível, orientado pelos dados 
+e sensível ao contexto (MASON, 2002). Em síntese, um paradigma 
+qualitativo “é uma forma de ação social que enfatiza o modo como 
+as pessoas interpretam e dão sentido às suas experiências para 
+entender a realidade social dos sujeitos” (MOHAJAN, 2018, p. 2). 
+
+Valho-me  de  uma  perspectiva  etnográfica,  dado  que,  entre 
+fazer  etnografia,  adotar  uma  perspectiva  etnográfica  e  usar  fer-
+ramentas etnográficas (GREEN; BLOOME, 1998), adotei uma incur-
+são intermediária, devido ao escasso tempo de contato com os/
+as colaboradores/as, justificada pela intensa agenda de compro-
+missos de todos/as. Uma perspectiva etnográfica, por si só, nos 
+permite desnudar “os significados que os atores sociais atribuem 
+às suas funções” (ANGROSINO, 2009, p. 20). Uma orientação mi-
+croetnográfica, por sua vez, busca “descrever como a fala-em-in-
+teração  [...]  é  organizada  social  e  culturalmente  em  cenários  in-
+teracionais particulares (como as salas de aula)” (GARCEZ; BULLA; 
+LODER, 2014, p. 261-262). 
+
+Há, neste estudo, três sujeitos de pesquisa: o aluno (A), a pro-
+fessora (P) e o entrevistador (E). O aluno e a professora foram en-
+trevistados/as por mim e, à ocasião, visionaram algumas cenas vi-
+venciadas em sala de aula. Ele, 23 anos, paraguaio, já morava no 
+Brasil desde 2015. Fez contato com muitos/as brasileiros/as (entre 
+os quais destacou a namorada, os/as colegas universitários/as e 
+os/as colegas de um esporte que pratica), o que, provavelmente, 
+justificaria sua facilidade para interagir em língua portuguesa, na 
+medida  em  que  compreendia e  produzia  textos  muito  bem,  de-
+monstrando conhecimento pragmático da língua. Ela, professora 
+substituta na instituição de ensino superior em que gerei os da-
+dos, tem formação acadêmica em Engenharia Ambiental e Sanitá-
+ria. Sua primeira experiência de ensino em nível superior foi com a 
+turma em que realizei a pesquisa.
+
+2 Neste estudo, proponho as triangulações teórica (Sociolinguística Interacional e Pragmática), metodológica (entrevistas se-
+miestruturadas e visionamento) e analítica (olhar do pesquisador e dos/as colaboradores/as).
+
+Como meu interesse consistia em avaliar as percepções pro-
+xêmicas de estudantes não brasileiros/as no contexto de ensino, 
+consultei, em um primeiro momento, o interesse do aluno em par-
+ticipar da pesquisa. Pedi a ele que sugerisse o nome de um/a pro-
+fessor/a que provavelmente abriria espaço para o estudo. A partir 
+dos aceites e das assinaturas de termos previstos pelo Comitê de 
+Ética e Pesquisa, planejei o registro de quatro aulas e a realização 
+de uma entrevista com cada participante, a fim de visionarmos con-
+juntamente as principais ações que envolviam a temática sob estu-
+do. Optei por registrar apenas em áudio as aulas, que ocorriam às 
+terças e às sextas-feiras no período matutino, haja vista o interesse 
+em usos instanciados no plano verbal e, mais ainda, no conforto de 
+todos/as na aula (a câmera poderia gerar inibição maior do que o 
+gravador). O visionamento foi realizado após as quatro aulas, em 
+que buscamos discutir os sentidos decorrentes dos usos de lingua-
+gem  na  promoção  de  maior  distanciamento/aproximação  e,  por 
+conseguinte, de maior/menor assimetria interacional.
+
+Selecionamos cinco excertos interacionais que representavam 
+os depoimentos do aluno e da professora relativos à regulação in-
+tersubjetiva na interação em sala de aula, socializados na entrevis-
+ta sociolinguística conduzida por mim. Tais excertos são sucedidos 
+da triangulação analítica, em que explicito o debate empreendido 
+por nós no momento do visionamento e a análise resultante des-
+se debate. Friso, ainda, que a representatividade, em alinhamento 
+com o quadro teórico-metodológico adotado, se dá pela densida-
+de analítica decorrente da triangulação de perspectivas subjetiva-
+das, e não pela frequência das ações linguageiras sob estudo, de 
+modo que a análise se instancie em dados (subjetivos) co(n)tex-
+tualmente situados. 
+
+Relativamente às entrevistas, encontrei-me, em momentos dis-
+tintos, com o aluno e com a professora, e esclareci que objetivava 
+conversarmos sobre as percepções quanto a algumas situações ob-
+
+A proxêmica linguístico-discursiva nas (as)simetrias 
+intersubjetivas
+
+servadas por mim nas aulas de engenharia. Para este trabalho, sele-
+cionei o tópico mais discutido nas entrevistas, que foi o uso da pessoa 
+do discurso em sala de aula. O Excerto 1 ilustra a primeira conversa 
+que tive com o aluno, conforme constatamos na sequência.
+
+Excerto 1
+
+Fonte: Elaborado pelo autor.
+
+No Excerto 1, eu trouxe, entre as linhas 1 e 3, a questão per-
+cebida em sala de aula quanto ao uso frequente da primeira pes-
+soa; e o aluno confirmou, à linha 4, que teve a mesma percepção. 
+Ao indagar se esse uso era frequente nas outras aulas (linhas 5 e 
+6), o aluno me informou que não era (linha 7). Questionei se era 
+mais comum o uso de terceira pessoa (linha 8), e ele confirmou 
+a minha suspeita. Ele esclareceu que os/as professores/as focali-
+zavam mais as ações, ao afirmar que eles já iam direto (linha 9); e 
+não costumavam se projetar discursivamente nas explicações, ao 
+não usarem, por exemplo, podemos observar (linha 10). Naquele 
+momento, percebi que o aluno tinha compreendido bem o ques-
+tionamento que fiz, pelo exemplo dado, e sinalizei concordância, à 
+linha 11. Ao final do excerto, ele reforçou que os/as professores/as 
+eram mais diretivos/as e mantinham o foco no assunto. 
+
+Avaliamos,  àquele  momento,  que  os  contextos  convocados 
+na interação eram, de fato, móveis. Como os modelos mentais da 
+professora e do estudante eram únicos, pessoais e subjetivos, dis-
+cutimos de que modo as percepções relativas ao uso da pessoa do 
+discurso poderiam se particularizar. Para a professora, o uso pode-
+ria se associar ao estabelecimento de proximidade e de solidarie-
+dade, o que, por esse motivo, se associaria à redução da distância 
+interlocutiva e à promoção de maior alinhamento intersubjetivo. 
+No  entanto,  a  leitura  do  estudante  era  igualmente  válida,  dado 
+que ir diretamente ao ponto não trazia impacto para a territoriali-
+dade dele. O estudante me revelou que avaliava positivamente a 
+assimetria entre professor/a e aluno/a, visto que aqueles/as que 
+se distanciavam mais eram, em sua visão, mais competentes pro-
+fissionalmente. Na sequência, pedi a ele que refletisse se esse uso 
+era (des)favorável para a aprendizagem. 
+
+Excerto 2
+
+e como é que você avalia esse uso dela (.) ele-ele (...) se 
+diferencia dos demais? é melhor ou pior? é (.) como é que seria?
+
+assim (.) eu não:: não consigo ainda fazer uma análise assim 
+do certo ou errado do tipo de utilização mas é:: (.) tendo em 
+vista  o  aprendizado  em  sala  de  aula  (.)  eu  acredito  que/bom 
+sinceramente eu não tive uma percepção boa(.) não consegui pegar 
+de imediato o que ela passou no quadro
+
+E
+
+A
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+Fonte: Elaborado pelo autor.
+
+No Excerto 2, o aluno explicitou que não conseguia fazer uma 
+análise, provavelmente por imaginar que eu gostaria de que ele 
+se  posicionasse  de  modo  mais  científico,  articulando  teorias  lin-
+guísticas que talvez explicassem o uso da professora. Todavia, eu 
+intencionava que ele verbalizasse a própria percepção. Na sequên-
+cia, entre as linhas 4 e 8, o aluno salientou que o uso da primei-
+ra pessoa talvez pudesse contribuir negativamente para a apren-
+
+dizagem,  embora  ele  já  tivesse,  em  outro  momento,  elogiado  o 
+desempenho verbal da professora (por ter uma linguagem mais 
+próxima à dele). Inicialmente, acreditei que a percepção dele era a 
+de que a dimensão referencial (uso da primeira pessoa) impactaria 
+na dimensão não referencial (aprendizagem) – ou seja, a ação de 
+referenciar (usar a primeira pessoa) poderia predicar, na própria 
+linguagem, distanciamento quanto ao conteúdo aprendido, talvez 
+por dar maior relevo à pessoa do discurso e menor relevo ao con-
+teúdo propriamente dito.
+
+Todavia, notei, na própria interlocução com o estudante, que 
+as  ressalvas  talvez  não  estivessem  relacionadas  ao  uso  da  pri-
+meira pessoa, mas à abordagem didática da docente. Cabe frisar, 
+aqui, o desalinhamento entre a professora e o aluno, na medida 
+em que aquela tentava romper o enquadre institucional formal, 
+ao utilizar termos que, de algum modo, a aproximassem dos/as 
+estudantes e favorecessem a aprendizagem; e este avaliava a re-
+dução da distância interlocutiva como recurso que não colaborava 
+com a aprendizagem. Mais adiante, na entrevista, o aluno refletiu 
+que conseguia aprender mais lendo os livros do que acessando os 
+registros que fazia no caderno durante a aula, visto o insucesso 
+nas primeiras avaliações (estudando pelo caderno) e o sucesso na 
+última (estudando pelo livro). Emerge, aqui, um elemento essen-
+cial para a análise: o uso da pessoa de discurso e a abordagem 
+didática eram – até então – avaliados negativamente devido ao in-
+sucesso do discente nas duas primeiras avaliações. 
+
+Apesar de ter associado linguagem distante a competência pro-
+fissional, o aluno revelou que, de modo geral, a linguagem poderia 
+afastar. Em sua concepção, professores/as que eram mais tradicio-
+nais e adotavam uma dinâmica de aula muito expositiva poderiam 
+gerar  mais  dificuldade  para  a  compreensão  dos  conteúdos.  Ele 
+salientou que valorizava professores/as que tanto adotavam uma 
+linguagem que saía dos livros, pois os livros tinham uma linguagem 
+muito dura, quanto conseguiam fazer uma mediação entre o con-
+teúdo dos livros e a realidade dos/as alunos/as (uma adaptação 
+didática). Sendo assim, concluo que o uso da pessoa do discurso, 
+
+que reduz a distância interlocutiva por trazer uma linguagem mais 
+próxima, não era a responsável pela dificuldade inicial do aluno, 
+mas a abordagem pedagógica da professora, como veremos a se-
+guir. Ao encontro dessa constatação, explicito uma situação narra-
+da pelo aluno, conforme ilustra o Excerto 3.
+
+Excerto 3
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+A
+
+A
+
+A
+
+aí eu fiz uma prova substitutiva (.) e tinha um assunto da prova 
+substitutiva que eu não dominei (...)
+
+A
+E  [[uhum
+
+nem no começo da aula nem quando eu fui pro livro (.) nessa 
+hora a professora na hora de pegar minha prova a gente fez uma 
+conversa e ela me explicou (.) assim passo a passo eu e ela só 
+(.) aí eu entendi a matéria (...)
+
+E  [[aí você entendeu
+
+quando a gente conversou aí ela me deu uns exemplos, me mostrou 
+o caderno dela eu não conseguia o que tava escrito no caderno 
+dela (.) que era praticamente o que estava escrito no meu (..) 
+mas eu não consegui ter essa assimilação aí ela explicando no 
+passo a passo e eu consegui entender (.)
+
+E e você atribuiu aqui essa melhora no desempenho?
+
+acho  que  foi  esse  atendimento  individual  (.)  no  caso  (.)  a 
+professora me ensinando ali (.) né?
+
+Fonte: Elaborado pelo autor.
+
+No Excerto 3, o aluno narrou um episódio relacionado à rea-
+lização  de  uma  prova  substitutiva,  em  que  teve  dúvida  quanto 
+a um tópico específico do conteúdo. Ao receber a avaliação, ele 
+aproveitou a oportunidade para conversar sobre a dúvida com a 
+professora. Naquele momento, ele destacou que a docente expli-
+cou detalhadamente o que deveria ter sido feito na questão, mos-
+trando exemplos registrados no caderno dela. Somente a partir 
+desse contato é que o aluno avaliou ter assimilado esse conteú-
+do. Ao questioná-lo sobre os fatores que estariam associados a 
+
+esse entendimento, ele revelou ter sido o atendimento individual 
+(linhas  15  e  16).  Logo,  essa  redução  da  distância  interlocutiva, 
+ao  transcender  a  dimensão  referencial  propriamente  dita  (uso 
+da primeira pessoa do discurso), ocorreu em uma dimensão não 
+referencial, dado que colaboraram com a aprendizagem as ritua-
+lizações socioculturais relativas a esse tipo de atendimento – que 
+incluem, além do repertório verbal de proximidade, o feedback 
+individual, com explicações baseadas nas dificuldades concretas 
+do aluno; e a motivação para perguntar, visto que ele poderia se 
+sentir  mais  à  vontade,  longe  da  avaliação  dos/as  colegas,  para 
+discutir suas dúvidas. Percebi, portanto, que a abordagem didáti-
+ca – da aula coletiva ao atendimento individual – trazia impactos 
+ao processo de aprendizagem.
+
+Era  notório  o  excelente  desempenho  do  aluno  em  outras 
+práticas sociais, dado que, em conversas informais que tivemos, 
+ele interagia em português com desenvoltura, captando nuances 
+pragmáticas e produzindo enunciados compatíveis com as situa-
+ções interlocutivas. Apesar dessa constatação, avalio que o con-
+texto acadêmico evocaria construções de sentidos com base em 
+definições,  muitas  vezes,  abstratas,  de  modo  que  enunciações 
+contextualmente situadas no gênero Aula de Engenharia, cujo en-
+quadre perspectivaria, a priori, interações assimétricas, poderiam 
+aumentar a distância interlocutiva. Ao contrário dessa formulação 
+apriorística, o território estabelecido entre a professora e os/as es-
+tudantes era tendencialmente simétrico, almejando, segundo ela, 
+favorecer a aprendizagem. 
+
+Por assumirmos que contexto abarca uma experiência inter-
+subjetiva, julgamos que este contexto, sob a ótica do aprendiz, en-
+quadrava o uso da primeira pessoa, nos dois primeiros excertos, 
+como  recurso  que  interferiria  negativamente  na  aprendizagem, 
+rompendo  com  formulações  a  priori  que  poderiam  concebê-lo 
+como  inclusivo/afiliador.  No  entanto,  o  aluno  trouxe,  tanto  em 
+conversas informais quanto no terceiro excerto, pistas contextua-
+lizadoras que indexicalizavam, em um sistema multinivelar (verbal 
+e não verbal), uma avaliação social positiva, a qual fazia emergir 
+
+metapragmáticas  favoráveis  à  experiência  intercultural  vivida  (o 
+ensino  e  a  aprendizagem).  Acredito  que,  a  partir  da  calibragem 
+das distâncias coconstruídas – tanto no co(n)texto quanto nas ins-
+tâncias  (não)verbais –,  professora e  aluno  oportunizavam  o  mú-
+tuo entendimento, minimizando a assimetria interacional poten-
+cialmente prevista em contextos pedagógicos. Assim, o contexto 
+(pedagógico) ao qual o aluno e a professora se inscreviam era de 
+acolhimento e de empatia. 
+
+Na sequência, trarei as percepções da professora quanto ao 
+uso da primeira pessoa do discurso nas aulas. No Excerto 4, regis-
+trado nos primeiros minutos da entrevista, a professora revelou 
+que sua experiência no magistério era bastante recente, visto que, 
+além das turmas de graduação que, à ocasião, conduzia, realizou 
+estágio  de  docência  no  mestrado.  Nessa  conversa,  a  professora 
+abordou indiretamente a questão da pessoa do discurso, ao tratar 
+de sua relação com os/as alunos/as. No Excerto 5, conversamos 
+mais diretamente sobre o uso da primeira pessoa do discurso.
+
+Excerto 4
+
+nossa (.) mas parece que você tem maior experiência assim (.) 
+pelo-pelo desenvolvimento da sua aula (.) eu-eu achava que você 
+tinha mais tempo de
+
+ [[não:: é bem recente-assim (.) eu tento me colocar no lugar 
+do aluno porque eu já fui (.) a questão de passar a forma que 
+elas possam entender melhor (.) né? o simplificar um pouco não 
+complicar tanto (..) eu acho que é um dos objetivos para ver 
+se tem maior atenção dos alunos e ver se eles se saem melhor 
+nas notas né (.) porque a minha disciplina é muito pesada e tem 
+muita questão de reprovação
+
+Fonte: Elaborado pelo autor.
+
+No Excerto 4, mostrei ter ficado impressionado com a informa-
+ção de que aquela era uma das primeiras experiências da profes-
+sora no magistério. Entre as linhas 1 e 3, eu revelei que achava que 
+
+E
+
+P
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ela tinha mais experiência, pelo modo como conduzia a aula. Na 
+sequência, a professora adentrou em questões metodológicas de 
+sua aula, manifestando empatia pelos/as estudantes – por já ter 
+estado naquele lugar – e interesse em oferecer explicações mais 
+acessíveis, a fim de minimizar desempenhos insatisfatórios. Com 
+esse depoimento, já tínhamos pistas de que, com o intuito de ser 
+mais acessível, ela buscava utilizar recursos linguístico-discursivos 
+menos formais, os quais poderiam ajudar na redução da distância 
+interlocutiva e, por conseguinte, na otimização da aprendizagem. 
+Essa tomada de decisão envolvia não só o referenciar (dimensão 
+referencial), ao usar recursos linguístico-discursivos que indexica-
+lizassem maior proximidade; mas também o predicar (dimensão 
+não referencial), ao se projetar no mundo como um sujeito social 
+que, com inegável empatia, se preocupava com a aprendizagem e, 
+por esse motivo, adotava uma postura mais horizontal. 
+
+Após esse momento, confessei à professora que a sala de aula 
+dela rompeu com minhas expectativas, que se baseava no senso 
+comum, de que haveria um público predominantemente mascu-
+lino (e havia muitas alunas) e de que a aula seria mais expositiva. 
+Quanto  à  segunda  impressão,  complementei  que  achava  a  aula 
+dela bastante dialógica, já que a docente mantinha, a todo o mo-
+mento, contato visual, e perguntava, em várias ocasiões, se os/as 
+alunos/as estavam acompanhando o raciocínio relativo às situa-
+ções-problema propostas. A professora sempre os/as incentivava, 
+usando marcadores conversacionais que instigassem a participa-
+ção, como né?, tudo certo?, até aqui tudo bem?, vamos lá?, permea-
+dos de pausas para que os/as discentes pudessem se manifestar. 
+Ao dialogarmos um pouco sobre o uso de tais marcadores, procu-
+rei valorizar essa prática pedagógica, que, em minha visão, favo-
+recia territórios mais simétricos de interação, na medida em que 
+buscavam um alinhamento não só semântico (a compreensão em 
+si), mas também pragmático (a enunciação de pista contextualiza-
+dora que incentivava a formulação de perguntas e a socialização 
+de conhecimentos). No  excerto seguinte,  propus que discutísse-
+mos diretamente a questão da pessoa do discurso.
+
+Excerto 5
+
+((exibe-se uma cena em que a professora usa a primeira pessoa 
+do discurso)) eu percebi a questão do uso da primeira pessoa do 
+plural que é muito comum na sua fala (.) é::: um uso constante 
+da primeira pessoa do plural (..) você percebe que utiliza muito 
+o podemos (.) o vamos?
+
+essa linguagem faz parte do meu estilo (.) porque: eu venho do 
+interior  e  ainda  não  perdi  um  pouco-até  uma  coisa  de  que  eu 
+tenho que melhorar uma linguagem mais formal mais padrão (..) 
+mas no dia a dia até mesmo com os alunos (.) é uma linguagem bem 
+mais informal (.) é algo de mim mesmo
+
+E mas você vê isso dentro da academia como algo negativo?
+
+não (.) assim (.) em relação ao aluno (.) não (.) né? a conversa 
+a explicação em si (.) vejo que isso aproxima mais do aluno (..) 
+mas quando é uma apresentação mais formal uma palestra (.) eu 
+tenho que ficar me policiando me vigiando pra não falar tantas 
+expressões como eu falo em sala de aula (..) em sala de aula eu 
+fico mais livre (.) tento falar mais solto dessa forma
+
+E
+
+P
+
+P
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+Fonte: Elaborado pelo autor.
+
+No Excerto 5, mostrei um momento da aula, entre vários, em 
+que a professora utilizou a primeira pessoa do discurso e relatei 
+a minha percepção constante desse uso. Entre as linhas 6 e 10, a 
+professora explicou que a utilização da primeira pessoa fazia parte 
+do estilo dela, mas comentou que tal uso era decorrente de sua 
+origem e que tentava melhorar sua linguagem. Naquele momento, 
+inferi que, devido à minha identidade (professor de Língua Portu-
+guesa), ela poderia ter pensado que eu havia avaliado negativa-
+mente o seu desempenho linguístico em sala de aula, mesmo eu 
+tendo comentado, no início da entrevista, que o meu intuito era 
+tratar das percepções da docente quanto aos recursos linguístico-
+-discursivos empregados, sem que houvesse juízo de valor do tipo 
+certo/errado ou adequado/inadequado. Discutimos, então, como o 
+
+ambiente acadêmico propiciava constantemente esse juízo de va-
+lor  e  verticalizava  as  interações  dos/as  atores/atrizes  sociais,  de 
+modo  que  a  presença  de  pesquisadores/as  em  sala,  sobretudo 
+linguistas, poderia instaurar um clima de policiamento linguístico; 
+assim como a condução pedagógica por professores/as que rei-
+teravam uma postura distanciadora poderia promover desalinha-
+mento interlocutivo e impactar negativamente na aprendizagem. 
+Após essa reflexão, perguntei, à linha 11, se ela considerava o uso 
+de linguagem informal inadequado no âmbito acadêmico.
+
+Entre as linhas 12 e 18, a professora ponderou que a linguagem 
+informal em sala de aula, com alunos/as de graduação, era impor-
+tante para afiliar/aproximar, mas que, em outros contextos acadê-
+micos – situações de maior formalidade –, ela sentia a necessidade 
+de se monitorar. Ao ter usado policiando e vigiando, ela ratificava me-
+tapragmáticas decorrentes de regulamentações institucionalizadas 
+socialmente quanto ao uso da língua(gem), que consiste em adotar, 
+em absoluto, a norma-padrão para qualquer contexto enunciativo, 
+em razão da força que essa norma exerce nas nossas interações, 
+classificando, por vezes, os/as usuários/as da língua como incompe-
+tentes na própria língua. Conversamos a respeito dessa dicotomia 
+comumente alimentada por tais regulamentações (formal versus in-
+formal),  que  fortalece  a  construção  de  contextos  que  fazem  com 
+que emerjam discursos relacionados à incompetência e fazem com 
+que os/as usuários/as incorporem o hábito de avaliar negativamen-
+te o repertório sociolinguístico dos/as outros/as, como é o caso do 
+uso da primeira pessoa em situações formais. Nesse sentido, frisei 
+que a primeira pessoa do discurso não se associava à fragilidade ar-
+gumentativa, tampouco a um repertório exclusivo de discursos in-
+formais, mas integrava contextos de formalidade, visto ser comum 
+fazermos referência às nossas experiências e às nossas percepções, 
+mesmo que estejamos tratando de conceitos. Ressaltei, ainda, que 
+o pensamento de que não podemos ter vez e voz na ciência é muito 
+sedimentado por paradigmas quantitativos de pesquisa, que asso-
+cia ciência a impessoalidade.
+
+Chegamos à conclusão, em nossa conversa, que o caráter teó-
+rico-prático  da  disciplina  ministrada  pela  docente  era  completa-
+mente compatível com essa alternância de pessoas do discurso, na 
+
+medida em que a primeira pessoa evoca uma redução do espaço 
+interlocutivo para marcar a experiência pessoal, a agência do su-
+jeito na resolução das situações-problema propostas na disciplina 
+e a simetria interacional; ao passo que a terceira pessoa, ao evo-
+car um aumento do espaço interlocutivo, acompanha definições 
+conceituais do campo da Matemática e da Física que justificam as 
+interpretações dadas às situações-problemas e os caminhos esco-
+lhidos nas soluções das situações propostas, bem como reiteram a 
+assimetria interacional. Paralelamente, avaliamos ser salutar essa 
+alternância interlocutiva (entre a primeira e terceira pessoa), a fim 
+de suavizar a carga que disciplinas com esse perfil costumam ter, 
+colaborando com maior adesão, com menor evasão e com melhor 
+desempenho pedagógico. A partir dessa reflexão, rompemos com 
+formulações apriorísticas potencialmente estabelecidas no âmbito 
+acadêmico quanto às regulações proxêmicas, cujos recursos (di-
+mensão referencial) devem construir sentidos mais alinhados às 
+demandas sociointeracionais e, em particular, à relação de ensino 
+e de aprendizagem (dimensão não referencial).
+
+Ainda afiliado a uma noção de contexto (inter)subjetiva, que faz 
+emergir, na experiência interlocutiva, enquadres específicos, cons-
+tato que a professora trouxe, em sua fala, pistas contextualizado-
+ras que sinalizavam, no quarto excerto, o desejo de ser empática e 
+a preocupação com a aprendizagem; e, no quinto excerto, o receio 
+de  a  sua  linguagem  ser  adequada  apenas  aos  contextos  de  sala 
+de aula, em que aproximaria o/a estudante e, assim, favoreceria à 
+aprendizagem. A partir dos óculos sociais da professora, percebo 
+que se colocar no lugar do/a aluno/a, simplificar (os conceitos, as 
+teorias) e ajustar a linguagem são práticas pedagógicas necessárias 
+para a atuação profissional. A professora faz emergir, portanto, me-
+tapragmáticas de empatia, de afiliação e de solidariedade, as quais 
+regimentam uma interação pautada na redução da assimetria inte-
+racional que, por vezes, está presente nas aulas de graduação. 
+
+Considerações finais
+
+A  interação  em  sala  de  aula  demanda  (re)pensarmos  como 
+a diversidade na diversidade opera nas práticas interacionais, na 
+
+constituição dos sujeitos, nos usos linguístico-discursivos e, por-
+tanto, nas necessidades (interacionais) de sujeitos igualmente su-
+perdiversos.  Tal  discussão  colabora  para  pensarmos,  assim,  em 
+uma sociedade menos estereotipada e mais móvel no que tange 
+aos usos linguístico-discursivos, uma vez que a superdiversidade 
+rompe com a ideia da existência de uma prática sociocultural úni-
+ca. Nesse sentido, consideramos salutar destacar que o gerencia-
+mento de estratégias linguístico-discursivas que promovem maior 
+ou menor distanciamento/proximidade entre os/as atores/atrizes 
+sociais permeia demandas idiossincráticas, desconstruindo, dessa 
+forma, a ideia de formulações a priori do tipo médicos/as e professo-
+res/as mantêm distanciamento (não)linguístico de seus/suas interlocu-
+tores/as (pacientes e estudantes). No universo médico e pedagógico, 
+em seguimento à nossa exemplificação, há práticas socioculturais 
+em  negociação  que  permitem  aproximações  interacionais,  mes-
+mo que não se preveja, de modo estereotipado e apriorístico, uma 
+descrição aproximativa nos dois cenários por nós ilustrados.
+
+A noção de contexto que defendo contempla uma descrição 
+situacional das interações em conjunto com o complexo histórico-
+-cultural da comunidade, englobando, igualmente, os componen-
+tes enunciativos e intersubjetivos; a natureza objetiva e subjetiva 
+da composição do contexto; e a relação entre evento focal (figura/
+emergência) e contexto (fundo/incorporação). Essa composição 
+colabora para uma concepção de proxêmica linguístico-discursi-
+va ancorada (i) na mobilidade que rege tanto as interações (na-
+tureza subjetiva do construto) quanto as práticas socioculturais 
+de uma sociedade superdiversa (complexo histórico-cultural); (ii) 
+na imprevisibilidade da construção de sentidos inerente às rela-
+ções intersubjetivas (condições enunciativas frente a demandas 
+interacionais); e (iii) na emergência de determinados usos linguís-
+tico-discursivos de aproximação ou distanciamento interacional 
+frente a avaliações contextuais, que ocorrem em decorrência das 
+vivências  socioculturais  e  da  consequente  incorporação  de  tais 
+vivências a uma cognição social.
+
+Tais  ações  linguístico-discursivas,  que  promovem  distancia-
+mento  ou  aproximação  interacional,  são  coconstruídas  pelos/as 
+interagentes, que necessitam, para tanto, de realizar inferências 
+conversacionais, dado que boa parte das enunciações se instancia 
+de modo implícito, tanto no que diz respeito à sinalização de pis-
+tas contextuais quanto no que tange à negociação de metaprag-
+máticas. Inegavelmente, no debate concernente à construção de 
+sentidos, não levamos em consideração exclusivamente o mútuo 
+entendimento, mas a influência recíproca que os/as interagentes, 
+orientados/as  ideologicamente,  geram  entre  si.  Na  enunciação, 
+geramos e interpretamos pistas contextuais, veiculamos orienta-
+ções ideológicas por meio de metapragmáticas e, antes de tudo 
+isso, promovemos indexicalidade.
+
+Em retomada aos cinco excertos, acredito que, mesmo com 
+certa dissintonia inicial quanto às percepções das pessoas do dis-
+curso, as interações revelaram que a redução do espaço interlo-
+cutivo – co(n)textualmente situado e estabelecido por dimensões 
+(não)verbais – é favorável ao ensino e à aprendizagem, regimen-
+tando metapragmáticas de acolhimento linguístico-discursivo seja 
+na compreensão de conteúdos, seja na alternância estilística (do 
+formal ao informal), seja na abordagem didática (da aula coletiva 
+ao atendimento individual).
+
+Instanciado  entre  dois  domínios  teóricos  (Sociolinguística 
+Interacional  e  Pragmática),  este  artigo  reuniu  um  debate  que 
+propôs uma integração conceitual (sociedade superdiversa, con-
+texto, indexicalidade, pistas contextuais e estratégias metaprag-
+máticas) aplicada às demandas proxêmicas emergentes das inte-
+rações. Por fim, friso – do debate empreendido – a importância 
+de evitarmos categorizações apriorísticas, em qualquer cenário 
+de pesquisa, o que significa não proceder com o estabelecimento 
+a priori dos funcionamentos proxêmicos, mas priorizar investiga-
+ções com a máxima isenção analítica prévia para percebermos, 
+empiricamente, como os usos de aproximação e distanciamento, 
+de fato, são gerenciados.
+
+Referências
+
+ALBUQUERQUE, Rodrigo; MUNIZ, Aline. Proxêmica linguístico-
+discursiva: um mecanismo de modalização intersubjetiva. Fórum 
+Linguístico, Florianópolis, v. 19, n. 4, p. 8586-8603, 2022. Disponível em: 
+https://periodicos.ufsc.br/index.php/forum/article/view/81072. Acesso 
+em: 14 maio 2023. 
+
+ANGROSINO, Michael. Etnografia e Observação Participante. Porto 
+Alegre: Artmed, 2009.
+
+AUSTIN, John Langshaw. How to do things with words. Oxford, England: 
+Oxford University Press, 1975.
+
+BLIKSTEIN, Isidoro. Kaspar Hauser ou a fabricação da realidade. São 
+Paulo: Cultrix, 1985.
+
+BLOMMAERT, Jan. Contexto é/como crítica. In: SIGNORINI, Inês (org.). 
+Situar a lingua[gem]. São Paulo: Parábola, 2008. p. 91-115.
+
+BLOMMAERT, Jan. Discourse: a critical introduction. Cambridge, England: 
+Cambridge University Press, 2005.
+
+BLOMMAERT, Jan. Ideologias linguísticas e poder. In: SILVA, Daniel 
+Nascimento; FERREIRA, Dina M. M.; ALENCAR, Claudiana N. (org.). Nova 
+pragmática: modos de fazer. São Paulo: Cortez, 2014. p. 67-77.
+
+BROWN, Penelope; LEVINSON, Stephen. Politeness: some universals in 
+language usage. Cambridge, England: Cambridge University Press, 1987.
+
+CARREIRA, Maria Helena. Modalisation linguistique en situation 
+d’interlocution: proxémique verbale et modalités en portugais. Louvain: 
+Peters, 1997. 
+
+CARREIRA, Maria Helena. Um modele semantique pour l’etude de 
+la proxemique verbale dans le cadre de la semiotique des cultures. 
+Acta semiótica et linguística, Paris, France, v. 20, n. 1, p. 1-8, 2015. 
+Disponível em: http://periodicos.ufpb.br/index.php/actas/article/
+view/27615/14843. Acesso em: 20 maio 2023.
+
+CHARAUDEAU, Patrick. Linguagem e discurso: modos de organização. 
+Tradução de Angela M. S. Corrêa. São Paulo: Contexto, 2008.
+
+DIAS, Ana Luiza Kruger. A metapragmática como conceito útil à análise 
+linguística. Caletroscópio, Ouro Preto, v. 7, n. 2, p. 171-185, 2019. 
+Disponível em: https://periodicos.ufop.br/caletroscopio/index. Acesso 
+em: 14 maio 2023.
+
+FABRÍCIO, Branca Falabella. Mobility and discourse circulation in the 
+contemporary world: the turn of the referential screw. Revista da 
+Anpoll, Florianópolis, n. 40, p. 129-140, 2016. Disponível em: https://
+revistadaanpoll.emnuvens.com.br/revista/article/view/1022/857. 
+Acesso: 14 maio 2023.
+
+GARCEZ, Pedro de Moraes; BULLA, Gabriela da Silva; LODER, Letícia 
+Ludwig. Práticas de pesquisa microetnográfica: geração, segmentação 
+e transcrição de dados audiovisuais como procedimentos analíticos 
+plenos. DELTA, [s. l.], v. 30, n. 2, p. 257-288, 2014.
+
+GOFFMAN, Erving. Interaction Ritual: essays on face-to-face behavior. 
+[London, England]: Penguin University Books, 1967.
+
+GOFFMAN, Erving. The Neglected Situation. American Anthropologist, [s. l.], 
+v. 66, n. 6, p. 133-136, 1964. pt. 2. Disponível em: https://www.jstor.org/
+stable/i227427. Acesso: 15 maio 2023.
+
+GONZALEZ, Clarissa; MOITA LOPES, Luiz Paulo. Reflexividade 
+metapragmática sobre o cinema de Almodóvar numa interação online: 
+indexicalidade, escalas e entextualização. Trabalhos em Linguística 
+Aplicada, Campinas, São Paulo, v. 57, n. 2, p. 1102-1136, 2018. 
+Disponível em: http://periodicos.sbu.unicamp.br/ojs/index.php/tla/
+article/view/8651046. Acesso: 20 maio 2023.
+
+GOODWIN, Charles; DURANTI, Alessandro. Rethinking context: an 
+introduction. In: GOODWIN, Charles; DURANTI, Alessandro (ed.). 
+Rethinking context: language as an interactive phenomenon. Cambridge, 
+England: Cambridge University Press, 1997. p. 1-42.
+
+GREEN, Judith; BLOOME, David. Ethnography and ethnographers of and 
+in education: a situated perspective. In: FLOOD, James; HEATH, Shirley 
+Brice; LAPP, Diane (ed.). Handbook for literacy educators: research in the 
+community and visual arts. New York: Macmillan, 1998. p. 181-202.
+
+GUMPERZ, John J. Discourse strategies. Cambridge, England: Cambridge 
+University Press, 1982.
+
+GUMPERZ, John J. Interactional Sociolinguistics: A Personal Perspective. 
+In: SCHIFFRIN, Deborah; TANNEN, Deborah; HAMILTON, Heidi E. (ed.). 
+The Handbook of Discourse Analysis. Malden: Blackwell, 2001. p. 215-228.
+
+HALL, Edward T. A System for the Notation of Proxemic Behavior. 
+American Anthropologist, [s. l.], v. 65, n. 5, p. 1003-1026, 1963.
+
+HALL, Edward T. The Silent Language. New York: A Premier Book, 1965.
+
+HALL, Edward T. et al. Proxemics [and Comments and Replies]. Chicago 
+Journals, [s. l.], v. 9, n. 2-3, p. 83-108, 1968.
+
+HALLIDAY, Michael; HASAN, Ruqaiya. Language, context, and text: 
+aspects of language in a social-semiotic perspective. Oxford, England: 
+Oxford University Press, 1985.
+
+HANKS, William F. O que é contexto. In: BENTES, Anna Christina; 
+REZENDE, Renato C.; MACHADO, Marco Antônio R. (org.). Língua como 
+prática social: das relações entre língua, cultura e sociedade a partir de 
+Bourdieu e Bakhtin. São Paulo: Cortez, 2008. p. 169-203.
+
+HYMES, Dell. Models of the interaction of language and social life. In: 
+GUMPERZ, John J.; HYMES, Dell. (ed.). Directions in Sociolinguistics: the 
+ethnography of communication. New York: Reinhart and Winston, 1972. 
+p. 35-72. Disponível em: http://www.jstor.org/stable/2740724. Acesso 
+em: 20 maio 2023. 
+
+KERBRAT-ORECCHIONI, Catherine. Les interactions verbales. Tome 2. 
+Paris, France: Armand Colin, 1992.
+
+KNAPP, Mark L. Nonverbal Communication in Human Interaction. New 
+York: Holt, Rinehart and Winston, 1972.
+
+MASON, Jeniffer. Qualitative Researching. 2 ed. London, England: SAGE, 2002.
+
+MOHAJAN, Haradhan. Qualitative Research Methodology in Social 
+Sciences and Related Subjects. Journal of Economic Development, 
+Environment and People, Chittagong, v. 7, n. 1, p. 23-48, 2018.
+
+MOITA LOPES, Luiz Paulo. Desejo na biopolítica do agora: 
+performatividades escalares em um aplicativo de encontros 
+homoafetivos. DELTA, [s. l.] v. 36, n. 3, p. 1-37, 2020. Disponível em: 
+http://revistas.pucsp.br/index.php/delta/article/view/52717/34642. 
+Acesso em: 20 maio 2023. 
+
+MORATO, Edwiges Maria. O interacionismo no campo linguístico. In: 
+MUSSALIM, Fernanda; BENTES, Anna Christina (org.). Introdução à 
+linguística: fundamentos epistemológicos. 3. ed. São Paulo: Cortez, 
+2007. p. 311-351.
+
+OSTERMANN, Ana Cristina. Localizing power and solidarity: Pronoun 
+alternation at an all-female police station and a feminist crisis 
+intervention center in Brazil. Language in Society, [s. l.], v. 32, n. 3, 
+p. 351-381, 2003. Disponível em: http://www.cambridge.org/core/
+journals/language-in-society/article/abs/localizing-power-and-solidarity-
+pronoun-alternation-at-an-allfemale-police-station-and-a-feminist-crisis-
+intervention-center-in-brazil/35E12CE484EF7D0A854705199B093454. 
+Acesso em: 20 maio 2023. 
+
+PINTO, Joana Plaza. Corpo como contexto-de-ocorrência de 
+metapragmáticas sobre o português em socializações de estudantes 
+migrantes para o Brasil. Linguagem em (Dis)curso, Tubarão, v. 18, n. 3, 
+p. 751-768, 2018.
+
+PINTO, Joana Plaza. É só mimimi? Disputas metapragmáticas em espaços 
+públicos online. Interdisciplinar, São Cristóvão, v. 31, n. 1, p. 221-236, 
+2019. Disponível em: http://seer.ufs.br/index.php/interdisciplinar/article/
+view/11847. Acesso em: 20 maio 2023.
+
+POVINELLI, Elizabeth. Intimate Grammars: anthropological and 
+psychoanalytic accounts of language, gender, and desire. In: 
+JOURDAN, Christine; TUITE, Kevin (org.). Language, culture, and society: 
+key topics in linguistic anthropology. Cambridge, England: Cambridge 
+University Press, 2006. p. 190-206.
+
+RAJAGOPALAN, Kanavillil. Aspectos sociais da pragmática. In: 
+RAJAGOPALAN, Kanavillil. Nova pragmática: fases e feições de um fazer. 
+São Paulo: Parábola, 2010. p. 31-44.
+
+RECTOR, Mônica; TRINTA, Aluizio R. Comunicação não-verbal: a 
+gestualidade brasileira. 2. ed. Petrópolis: Vozes, 1986.
+
+SIGNORINI, Inês. Metapragmáticas da língua em uso: unidades e níveis 
+de análise. In: SIGNORINI, Inês. (org.). Situar a lingua[gem]. São Paulo: 
+Parábola, 2008. p. 117-147.
+
+SILVA, Daniel Nascimento; ALENCAR, Claudiana Nogueira. A propósito da 
+violência na linguagem. Cadernos de Estudos Linguísticos, Campinas, SP, v. 
+55, n. 2, p. 129-146, 2013. Disponível em: http://periodicos.sbu.unicamp.
+br/ojs/index.php/cel/article/view/8637294. Acesso em: 20 maio 2023.
+
+SILVA, Daniel Nascimento. Uma perspectiva pragmática para o estudo 
+dos letramentos em periferias brasileiras. Revista da Anpoll, Florianópolis, 
+v. 1, n. 49, p. 26-38, 2019. Disponível em: http://revistadaanpoll.
+emnuvens.com.br/revista/article/view/1300. Acesso em: 20 maio 2023.
+
+SILVERSTEIN, Michael. Indexical order and the dialectics of 
+sociolinguistic life. Language & Communication, Portsmouth, United 
+Kingdom, v. 23, n. 3-4, p. 193-229, 2003.
+
+SILVERSTEIN, Michael. Language Structure and Linguistic Ideology. 
+In: CLYNE, Paul R; HANKS, William F.; HOFBAUER, Carol L. (org.). The 
+Elements: a parasession on linguistic units and levels. Chicago: Chicago 
+Linguistic Society, 1979. p. 193-247.
+
+SILVERSTEIN, Michael. Shifters, Linguistic Categories, and Cultural 
+Description. In: BASSO, Keith H.; SELBY, Henry A. (ed.). Meaning in 
+Anthropology. Albuquerque: University of New Mexico Press, 1976. p. 11-55.
+
+SILVERSTEIN, Michael. Metapragmatic discourse and metapragmatic 
+function. In: LUCY, John Arthur (org.). Reflexive language. Reported 
+Speech and Metapragmatics. New York: Cambridge University Press, 
+1993. p. 33-57.
+
+STAKE, Robert E. Pesquisa Qualitativa: estudando como as coisas 
+funcionam. Porto Alegre: Penso, 2011.
+
+VAN DIJK, Teun Adrianus. Discurso e contexto: Uma abordagem 
+sociocognitiva. Tradução de Rodolfo Ilari. São Paulo: Contexto, 2012.
+
+VERTOVEC, Steven. Super-diversity and its implications. Ethnic and 
+Racial Studies, [s. l.], v. 29, n. 6, p. 1024-1054, 2006. Disponível em: 
+http://www.tandfonline.com/doi/abs/10.1080/01419870701599465. 
+Acesso em: 20 maio 2023.
+
+

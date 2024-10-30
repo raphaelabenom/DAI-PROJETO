@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/51994b9f5aaa49fbaae702a165fef125/artifacts
+deleted_time: 1730137561286
+end_time: 1730136558434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51994b9f5aaa49fbaae702a165fef125
+run_name: dashing-midge-453
+run_uuid: 51994b9f5aaa49fbaae702a165fef125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730136545775
+status: 3
+tags: []
+user_id: rapha
