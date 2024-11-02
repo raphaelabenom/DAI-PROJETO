@@ -15,6 +15,14 @@ Corpus/
 mlruns/
 requirements.txt
 
+# Métricas de avaliação do sistema
+
+Em sistemas de Recuperação da Informação (RI), precisão e revocação são métricas fundamentais para avaliar a eficácia do sistema:
+
+Precisão: mede a proporção de documentos recuperados que são relevantes. É calculada dividindo o número de documentos relevantes recuperados pelo número total de documentos recuperados. Alta precisão indica que o sistema retorna resultados majoritariamente relevantes para a consulta do usuário.
+
+Revocação: mede a proporção de documentos relevantes que foram efetivamente recuperados. É calculada dividindo o número de documentos relevantes recuperados pelo número total de documentos relevantes existentes no sistema. Alta revocação indica que o sistema consegue encontrar a maioria dos documentos relevantes disponíveis.
+
 ## ré-requisitos
 Python 3.8+
 pip (gerenciador de pacotes do Python)
