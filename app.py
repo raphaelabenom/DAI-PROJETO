@@ -39,25 +39,23 @@ def carregar_arquivos(diretorio: str) -> list:
 
     return arquivos_conteudo
 
-def tokenizador(texto: str) -> list:
-
-    tokens = word_tokenize(texto)
-
-    stop_words = set(stopwords.words('portuguese'))
-    tokens = [token for token in tokens if token not in stop_words]
-    tokens = [unidecode(token) for token in tokens]
-    tokens = [token for token in tokens if not token.isdigit()]
-    tokens = [token for token in tokens if token.isalpha()]
-
-
-    return tokens
-
 # def tokenizador(texto: str) -> list:
+
 #     tokens = word_tokenize(texto)
 #     stop_words = set(stopwords.words('portuguese'))
-#     lemmatizer = WordNetLemmatizer()
-#     tokens = [lemmatizer.lemmatize(token) for token in tokens if token not in stop_words and token.isalpha()]
+#     tokens = [token for token in tokens if token not in stop_words]
+#     tokens = [unidecode(token) for token in tokens]
+#     tokens = [token for token in tokens if not token.isdigit()]
+#     tokens = [token for token in tokens if token.isalpha()]
+    
 #     return tokens
+
+def tokenizador(texto: str) -> list:
+    tokens = word_tokenize(texto)
+    stop_words = set(stopwords.words('portuguese'))
+    lemmatizer = WordNetLemmatizer()
+    tokens = [lemmatizer.lemmatize(token) for token in tokens if token not in stop_words and token.isalpha()]
+    return tokens
 
 def processar_arquivos(diretorio: str) -> list:
     textos = carregar_arquivos(diretorio)
@@ -76,7 +74,7 @@ def calcular_similaridade_consulta(consulta: str, corpora: dict) -> dict:
 
     for categoria, textos in corpora.items():
 
-        vectorizer = TfidfVectorizer(ngram_range=(1,2), min_df=5, use_idf=True)
+        vectorizer = TfidfVectorizer(ngram_range=(1, 2), min_df=2, use_idf=True, norm='l2')
         # Configuração dos parâmetros do vectorizer
         # ngram_range=(1, 2),
         # max_df=0.95,
@@ -130,8 +128,8 @@ with mlflow.start_run():
 
     for categoria, documentos in resultados.items():
         print(f"\nDocumentos mais relevantes para {categoria}:")
-        for idx, similaridade in documentos[:3]: 
-            print(f"Documento {idx + 1} - Similaridade: {similaridade:.4f}")
+        for doc_idx, similaridade in documentos[:3]: 
+            print(f"Documento {doc_idx} - Similaridade: {similaridade:.4f}")
 
     print("\n")
     print("Média dos resultados")

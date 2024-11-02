@@ -6,9 +6,11 @@ import os
 import glob
 import string
 import mlflow
+import streamlit as st
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 from string import punctuation
 from nltk.tokenize import word_tokenize
@@ -19,6 +21,7 @@ from tqdm import tqdm
 
 # nltk.download('stopwords')
 # nltk.download('punkt_tab')
+# nltk.download('wordnet')
 
 def carregar_arquivos(diretorio: str) -> list:
     arquivos_conteudo = []
@@ -43,48 +46,25 @@ def tokenizador(texto: str) -> list:
 
     stop_words = set(stopwords.words('portuguese'))
     tokens = [token for token in tokens if token not in stop_words]
-    tokens = [token for token in tokens if token not in punctuation]
+    tokens = [unidecode(token) for token in tokens]
     tokens = [token for token in tokens if not token.isdigit()]
     tokens = [token for token in tokens if token.isalpha()]
-    tokens = [unidecode(token) for token in tokens]
+
 
     return tokens
 
-def processar_arquivos(diretorio: str) -> list:
+# def tokenizador(texto: str) -> list:
+#     tokens = word_tokenize(texto)
+#     stop_words = set(stopwords.words('portuguese'))
+#     lemmatizer = WordNetLemmatizer()
+#     tokens = [lemmatizer.lemmatize(token) for token in tokens if token not in stop_words and token.isalpha()]
+#     return tokens
 
+def processar_arquivos(diretorio: str) -> list:
     textos = carregar_arquivos(diretorio)
     lista_de_tokens = [tokenizador(conteudo) for conteudo in textos]
-
     return lista_de_tokens
 
-# def exportar_tfidf_para_csv(tfidf_data: dict, output_dir: str):
-
-#     os.makedirs(output_dir, exist_ok=True)
-    
-#     for categoria, dataframes in tfidf_data.items():
-#         for idx, df in enumerate(dataframes):
-#             filename = f"{categoria}_documento_{idx + 1}.csv"
-#             filepath = os.path.join(output_dir, filename)
-#             df.to_csv(filepath, index=False, encoding='utf-8')
-#             print(f"Exportado: {filepath}")
-
-# def calcular_e_organizar_tfidf(lista_de_tokens: list) -> list:
-
-#     textos = [' '.join(tokens) for tokens in lista_de_tokens]
-    
-#     vectorizer = TfidfVectorizer()
-#     tfidf_matrix = vectorizer.fit_transform(textos)
-    
-#     termos = vectorizer.get_feature_names_out()
-    
-#     dataframes = []
-#     for doc_idx, doc in enumerate(tfidf_matrix):
-#         doc_array = doc.toarray().flatten()
-#         df = pd.DataFrame({'Termo': termos, 'Peso': doc_array})
-#         df_sorted = df[df['Peso'] > 0].sort_values(by='Peso', ascending=False)
-#         dataframes.append(df_sorted)
-    
-#     return dataframes
 
 def calcular_similaridade_consulta(consulta: str, corpora: dict) -> dict:
     # Tokeniza a consulta
@@ -94,9 +74,15 @@ def calcular_similaridade_consulta(consulta: str, corpora: dict) -> dict:
     
     similaridades = {}
     resultados = {}
-    
+
     for categoria, textos in corpora.items():
-        vectorizer = TfidfVectorizer(ngram_range=(1, 2), use_idf=True)
+
+        vectorizer = TfidfVectorizer(ngram_range=(1,2), min_df=5, use_idf=True)
+        # Configuração dos parâmetros do vectorizer
+        # ngram_range=(1, 2),
+        # max_df=0.95,
+        # use_idf=True
+
         vectorizer.fit([' '.join(tokens) for tokens in textos])
         
         tfidf_corpus = vectorizer.transform([' '.join(tokens) for tokens in textos])
@@ -122,29 +108,12 @@ dados_Geografia_txt = processar_arquivos(caminho_Geografia_txt)
 dados_Historia_txt = processar_arquivos(caminho_Historia_txt)
 dados_Linguistica_txt = processar_arquivos(caminho_Linguistica_txt)
 
-tfidf_data = {
-    "EdFisica": calcular_e_organizar_tfidf(dados_EdFisica_txt),
-    "Geografia": calcular_e_organizar_tfidf(dados_Geografia_txt),
-    "Historia": calcular_e_organizar_tfidf(dados_Historia_txt),
-    "Linguistica": calcular_e_organizar_tfidf(dados_Linguistica_txt)
-}
-
 corpora = {
     "EdFisica": dados_EdFisica_txt,
-    "Geografia": dados_Geografia_txt,
+    "Geografia": dados_Geografia_txt,   
     "Historia": dados_Historia_txt,
     "Linguistica": dados_Linguistica_txt
 }
-
-# for categoria, dataframes in tfidf_data.items():
-#     print(f"\nCategoria: {categoria}")
-#     for idx, df in enumerate(dataframes):
-#         print(f"Documento {idx + 1}:\n", df.head())
-
-# Exportar os resultados para CSV
-# output_directory = "./tfidf_exports"
-# exportar_tfidf_para_csv(tfidf_data, output_directory)
-
 
 # Inicia um experimento MLflow
 mlflow.set_experiment("retrieval-dev")
@@ -154,31 +123,36 @@ mlflow.autolog()
 
 with mlflow.start_run():
 
-    consulta = input("Digite sua consulta: ")
+    st.write("\n")
+    st.title("Consulta de Similaridade")
+    
+    consulta = st.text_input("Digite sua consulta:")
+    
+    # consulta = input("Digite sua consulta: ")
 
     similaridades, resultados = calcular_similaridade_consulta(consulta, corpora)
 
     for categoria, documentos in resultados.items():
-        print(f"\nDocumentos mais relevantes para {categoria}:")
-        for idx, similaridade in documentos[:3]: 
-            print(f"Documento {idx + 1} - Similaridade: {similaridade:.4f}")
+        st.write(f"\nDocumentos mais relevantes para {categoria}:")
+        for doc_idx, similaridade in documentos[:3]: 
+            st.write(f"Documento {doc_idx} - Similaridade: {similaridade:.4f}")
 
-    print("\n")
-    print("Média dos resultados")
-    print("\n")
+    st.write("\n")
+    st.write("Média dos resultados")
+    st.write("\n")
 
     for categoria, similaridade in similaridades.items():
-        print(f"Similaridade média com {categoria}: {similaridade:.4f}")
+        st.write(f"Similaridade média com {categoria}: {similaridade:.4f}")
 
     # Loga as similaridades médias como métricas
     for categoria, similaridade in similaridades.items():
         mlflow.log_metric(f"similaridade_{categoria}", similaridade)
 
-    print("\n")
+    st.write("\n")
 
     categoria_mais_similar = max(similaridades, key=similaridades.get)
-    print(f"A consulta é mais similar ao corpus: {categoria_mais_similar}")
+    st.write(f"A consulta é mais similar ao corpus: {categoria_mais_similar}")
 
-    print("\n")
+    st.write("\n")
 
 mlflow.end_run()
